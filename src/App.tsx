@@ -1,7 +1,10 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import data from './data/cleaned/2019.json';
+import dataJS from './data/cleaned/s2019.json';
+import { JurisdictionData } from './types';
+
+const data: JurisdictionData[] = dataJS
 
 const App: React.FC = () => {
   return (

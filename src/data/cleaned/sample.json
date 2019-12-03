@@ -1,0 +1,61 @@
+[
+  {
+    "State": "AR",
+    "County": "Benton",
+    "Jurisdiction": "Lowell",
+    "Updated": 1176699600000,
+    "SingleFamily": {
+      "Total": 754,
+      "Sewer": 250,
+      "Fire": 504
+    },
+    "MultiFamily": {
+      "Total": 415,
+      "Sewer": 42,
+      "Fire": 373
+    },
+    "Retail": {
+      "Total": 504,
+      "Sewer": 49,
+      "Fire": 455
+    },
+    "Office": {
+      "Total": 698,
+      "Sewer": 49,
+      "Fire": 649
+    },
+    "Industrial": {
+      "Total": 469,
+      "Sewer": 49,
+      "Fire": 420
+    }
+  },
+  {
+    "State": "AR",
+    "County": "Faulkner",
+    "Jurisdiction": "Conway",
+    "Updated": 1176267600000,
+    "SingleFamily": {
+      "Total": 1698,
+      "Roads": 1039,
+      "Parks": 659
+    },
+    "MultiFamily": {
+      "Total": 1218,
+      "Roads": 771,
+      "Parks": 447
+    },
+    "Retail": {
+      "Total": 1915,
+      "Roads": 1915
+    },
+    "Office": {
+      "Total": 1280,
+      "Roads": 1280
+    },
+    "Industrial": {
+      "Total": 808,
+      "Roads": 808
+    }
+  }
+]

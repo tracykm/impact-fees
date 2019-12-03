@@ -1,67 +1,105 @@
-function parseNum(obj, key) {
-    if(!obj[key]) {
-        return obj[key] = undefined
+function parseNum (obj, key) {
+  if (!obj[key]) {
+    return delete obj[key];
+  }
+  if (typeof obj[key] === 'string') {
+    if (obj[key].toLowerCase () === 'n/a') {
+      return delete obj[key];
     }
-    if (typeof obj[key] === 'string') {
-        if(obj[key].toLowerCase() === 'n/a') {
-            return obj[key] = undefined
-        }
-        var newNum = Number(obj[key].replace('$', '').replace(',', ''))
-        if (newNum !== newNum) {
-            console.error('Trouble parsing', obj)
-        } else {
-            obj[key] = newNum
-        }
+    var newNum = Number (obj[key].replace ('$', '').replace (',', ''));
+    if (newNum !== newNum) {
+      // create a new field to store this extra non-numeric info
+      obj[`${key}Notes`] = obj[key];
+      return delete obj[key];
+    } else {
+      obj[key] = newNum;
     }
+  }
 }
 
-function parseDate(obj, key) {
-    if(!obj[key]) {
-        return obj[key] = undefined
+function parseDate (obj, key) {
+  if (!obj[key]) {
+    return delete obj[key];
+  }
+  if (typeof obj[key] === 'string') {
+    if (obj[key].toLowerCase () === 'n/a') {
+      return delete obj[key];
     }
-    if (typeof obj[key] === 'string') {
-        if(obj[key].toLowerCase() === 'n/a') {
-            return obj[key] = undefined
-        }
-        var newDate = Number(new Date(obj[key]))
-        if (newDate !== newDate) {
-            console.error('Trouble parsing', obj)
-        } else {
-            obj[key] = newDate
-        }
+    var newDate = Number (new Date (obj[key]));
+    if (newDate !== newDate) {
+      // create a new field to store this extra non-date info
+      obj[`${key}Notes`] = obj[key];
+      return delete obj[key];
+    } else {
+      obj[key] = newDate;
     }
+  }
 }
-function cleanData(data) {
-    data.map(d => {
-        parseNum(d, 'Total')
-        parseNum(d, 'NonUtil')
-        parseNum(d, 'Roads')
-        parseNum(d, 'Water')
-        parseNum(d, 'Sewer')
-        parseNum(d, 'Drain')
-        parseNum(d, 'Parks')
-        parseNum(d, 'Library')
-        parseNum(d, 'Fire')
-        parseNum(d, 'Police')
-        parseNum(d, 'GenGov')
-        parseNum(d, 'Schools')
-        parseNum(d, 'Other')
-        parseDate(d, 'Updated')
-        if(d[""] === "") {
-            d[""] = undefined
+
+function cleanData (data, year) {
+  return data
+    .map (d => {
+      const newObj = {
+        State: d.State,
+        County: d.County,
+        Jurisdiction: d.Jurisdiction,
+        Updated: d.Updated,
+      };
+      parseDate (newObj, 'Updated');
+      let catts = [
+        'SingleFamily',
+        'MultiFamily',
+        'Retail',
+        'Office',
+        'Industrial',
+      ]
+      if(year === 's2019') {
+          catts = ['SingleFamily']
+      }
+      catts.forEach ((cat, i) => {
+        let suffix = `__${i}`;
+        if (i === 0) {
+          suffix = '';
         }
-        if(d.State === "") {
-            d.State = undefined
-        }
-        if(d.County === "") {
-            d.County = undefined
-        }
-        if(d.Jurisdiction === "") {
-            d.Jurisdiction = undefined
-        }
-        return d
+        newObj[cat] = {
+          Total: d[`Total${suffix}`],
+          NonUtil: d[`NonUtil${suffix}`] ||  d[`Non-Util${suffix}`],
+          Roads: d[`Roads${suffix}`],
+          Water: d[`Water${suffix}`],
+          Sewer: d[`Sewer${suffix}`],
+          Drain: d[`Drain${suffix}`],
+          Parks: d[`Parks${suffix}`],
+          Library: d[`Library${suffix}`],
+          Fire: d[`Fire${suffix}`],
+          Police: d[`Police${suffix}`],
+          GenGov: d[`GenGov${suffix}`],
+          Schools: d[`Schools${suffix}`],
+          Other: d[`Other${suffix}`],
+        };
+        const columns = [
+          'Total',
+          'NonUtil',
+          'Roads',
+          'Water',
+          'Sewer',
+          'Drain',
+          'Parks',
+          'Library',
+          'Fire',
+          'Police',
+          'GenGov',
+          'Schools',
+          'Other',
+        ];
+        columns.forEach (keyName => {
+          parseNum (newObj[cat], keyName);
+        });
+      });
+      return newObj;
     })
-    return data
+    .filter (d => {
+      return Object.values (d).length !== 0;
+    });
 }
 
 exports.cleanData = cleanData;
