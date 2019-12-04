@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 //@ts-ignore
 import { useTable, useSortBy } from 'react-table'
-import dataJS from '../data/cleaned/s2007.json';
+import dataJS from '../data/cleaned/s2015.json';
 // const data: JurisdictionData[] = dataJS
 
 const Styles = styled.div`
@@ -11,6 +11,14 @@ const Styles = styled.div`
   table {
     border-spacing: 0;
     border: 1px solid black;
+    margin-top: 5rem;
+
+
+    thead {
+      position: fixed !important;
+      top: 0;
+      background-color: #282c34;
+    }
 
     tr {
       :last-child {
@@ -105,7 +113,6 @@ const DollarCell = ({ cell }) => {
 }
 
 const DateCell = ({ cell }) => {
-  debugger
   if(cell.value) {
     return formatDate(new Date(cell.value))
   } 
@@ -131,17 +138,20 @@ const DetailColumns = (name) => [
   {
     Header: 'Total',
     accessor: `${name}.Total`,
-    Cell: DollarCell
+    Cell: DollarCell,
+    maxWidth: 50,
   },
   {
     Header: 'Sewer',
     accessor: `${name}.Sewer`,
-    Cell: DollarCell
+    Cell: DollarCell,
+    maxWidth: 50,
   },
   {
     Header: 'Fire',
     accessor: `${name}.Fire`,
-    Cell: DollarCell
+    Cell: DollarCell,
+    maxWidth: 50,
   },
 ]
 
@@ -154,6 +164,7 @@ export function BasicTable() {
           {
             Header: 'State',
             accessor: 'State',
+            width: 500,
           },
           {
             Header: 'County',
@@ -177,6 +188,18 @@ export function BasicTable() {
       {
         Header: 'Multi Family',
         columns: DetailColumns('MultiFamily'),
+      },
+      {
+        Header: 'Retail',
+        columns: DetailColumns('Retail'),
+      },
+      {
+        Header: 'Office',
+        columns: DetailColumns('Office'),
+      },
+      {
+        Header: 'Industrial',
+        columns: DetailColumns('Industrial'),
       },
     ],
     []
