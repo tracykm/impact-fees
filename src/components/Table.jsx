@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 //@ts-ignore
 import { useTable, useSortBy } from 'react-table'
-import dataJS from '../data/cleaned/s2019.json';
+import dataJS from '../data/cleaned/s2007.json';
 // const data: JurisdictionData[] = dataJS
 
 const Styles = styled.div`
@@ -51,7 +51,7 @@ function Table({ columns, data }) {
 
   // We don't want to render all 2000 rows for this example, so cap
   // it at 20 for this use case
-  const firstPageRows = rows
+  const firstPageRows = rows.splice(20)
 
   return (
     <>
@@ -97,6 +97,54 @@ function Table({ columns, data }) {
   )
 }
 
+const DollarCell = ({ cell }) => {
+  if(cell.value) {
+    return '$' + (cell.value).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,').slice(0, -3);
+  } 
+  return null
+}
+
+const DateCell = ({ cell }) => {
+  debugger
+  if(cell.value) {
+    return formatDate(new Date(cell.value))
+  } 
+  return null
+}
+
+function formatDate(date) {
+  var monthNames = [
+    "Jan", "Feb", "Mar",
+    "Apr", "May", "Jun", "Jul",
+    "Aug", "Sep", "Oct",
+    "Novr", "Dec"
+  ];
+
+  var day = date.getDate();
+  var monthIndex = date.getMonth();
+  var year = date.getFullYear();
+
+  return `${ monthNames[monthIndex]} ${day} ${year}`
+}
+
+const DetailColumns = (name) => [
+  {
+    Header: 'Total',
+    accessor: `${name}.Total`,
+    Cell: DollarCell
+  },
+  {
+    Header: 'Sewer',
+    accessor: `${name}.Sewer`,
+    Cell: DollarCell
+  },
+  {
+    Header: 'Fire',
+    accessor: `${name}.Fire`,
+    Cell: DollarCell
+  },
+]
+
 export function BasicTable() {
   const columns = React.useMemo(
     () => [
@@ -118,8 +166,17 @@ export function BasicTable() {
           {
             Header: 'Updated',
             accessor: 'Updated',
+            Cell: DateCell
           },
         ],
+      },
+      {
+        Header: 'Single Family',
+        columns: DetailColumns('SingleFamily'),
+      },
+      {
+        Header: 'Multi Family',
+        columns: DetailColumns('MultiFamily'),
       },
     ],
     []
