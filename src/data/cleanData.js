@@ -36,7 +36,7 @@ function parseDate (obj, key) {
   }
 }
 
-function cleanData (data, year) {
+function cleanData (data) {
   return data
     .map (d => {
       const newObj = {
@@ -53,9 +53,6 @@ function cleanData (data, year) {
         'Office',
         'Industrial',
       ]
-      if(year === 's2019') {
-          catts = ['SingleFamily']
-      }
       catts.forEach ((cat, i) => {
         let suffix = `__${i}`;
         if (i === 0) {
