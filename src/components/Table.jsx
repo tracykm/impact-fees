@@ -1,9 +1,9 @@
-import React from 'react'
-import styled from 'styled-components'
+import React from 'react';
+import styled from 'styled-components';
 //@ts-ignore
-import { useTable, useSortBy } from 'react-table'
-import dataJS from '../data/cleaned/s2015.json';
-// const data: JurisdictionData[] = dataJS
+import {useTable, useSortBy} from 'react-table';
+import data from '../data/cleaned/nestedData.json';
+const dataJS = Object.values(data);
 
 const Styles = styled.div`
   padding: 1rem;
@@ -13,9 +13,8 @@ const Styles = styled.div`
     border: 1px solid black;
     margin-top: 5rem;
 
-
     thead {
-      position: fixed !important;
+      /* position: fixed !important; */
       top: 0;
       background-color: #282c34;
     }
@@ -40,9 +39,9 @@ const Styles = styled.div`
       }
     }
   }
-`
+`;
 
-function Table({ columns, data }) {
+function Table({columns, data}) {
   const {
     getTableProps,
     getTableBodyProps,
@@ -55,11 +54,11 @@ function Table({ columns, data }) {
       data,
     },
     useSortBy
-  )
+  );
 
   // We don't want to render all 2000 rows for this example, so cap
   // it at 20 for this use case
-  const firstPageRows = rows.splice(20)
+  const firstPageRows = rows.splice(20);
 
   return (
     <>
@@ -86,74 +85,87 @@ function Table({ columns, data }) {
           ))}
         </thead>
         <tbody {...getTableBodyProps()}>
-          {firstPageRows.map(
-            (row, i) => {
-              prepareRow(row);
-              return (
-                <tr {...row.getRowProps()}>
-                  {row.cells.map(cell => {
-                    return (
-                      <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
-                    )
-                  })}
-                </tr>
-              )}
-          )}
+          {firstPageRows.map((row, i) => {
+            prepareRow(row);
+            return (
+              <tr {...row.getRowProps()}>
+                {row.cells.map(cell => {
+                  return (
+                    <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
+                  );
+                })}
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </>
-  )
+  );
 }
 
-const DollarCell = ({ cell }) => {
-  if(cell.value) {
-    return '$' + (cell.value).toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,').slice(0, -3);
-  } 
-  return null
-}
+const DollarCell = ({cell}) => {
+  if (cell.value) {
+    return (
+      '$' +
+      cell.value
+        .toFixed(2)
+        .replace(/\d(?=(\d{3})+\.)/g, '$&,')
+        .slice(0, -3)
+    );
+  }
+  return null;
+};
 
-const DateCell = ({ cell }) => {
-  if(cell.value) {
-    return formatDate(new Date(cell.value))
-  } 
-  return null
-}
+const DateCell = ({cell}) => {
+  if (cell.value) {
+    return formatDate(new Date(cell.value));
+  }
+  return null;
+};
 
 function formatDate(date) {
   var monthNames = [
-    "Jan", "Feb", "Mar",
-    "Apr", "May", "Jun", "Jul",
-    "Aug", "Sep", "Oct",
-    "Novr", "Dec"
+    'Jan',
+    'Feb',
+    'Mar',
+    'Apr',
+    'May',
+    'Jun',
+    'Jul',
+    'Aug',
+    'Sep',
+    'Oct',
+    'Novr',
+    'Dec',
   ];
 
   var day = date.getDate();
   var monthIndex = date.getMonth();
   var year = date.getFullYear();
 
-  return `${ monthNames[monthIndex]} ${day} ${year}`
+  return `${monthNames[monthIndex]} ${day} ${year}`;
 }
 
-const DetailColumns = (name) => [
+const DetailColumns = name => [
   {
     Header: 'Total',
-    accessor: `${name}.Total`,
+    accessor: `DataEntries[1].${name}.Total`,
     Cell: DollarCell,
     maxWidth: 50,
   },
   {
     Header: 'Sewer',
-    accessor: `${name}.Sewer`,
+    accessor: `DataEntries[1].${name}.Sewer`,
     Cell: DollarCell,
     maxWidth: 50,
   },
   {
     Header: 'Fire',
-    accessor: `${name}.Fire`,
+    accessor: `DataEntries[1].${name}.Fire`,
     Cell: DollarCell,
     maxWidth: 50,
   },
-]
+];
 
 export function BasicTable() {
   const columns = React.useMemo(
@@ -176,8 +188,8 @@ export function BasicTable() {
           },
           {
             Header: 'Updated',
-            accessor: 'Updated',
-            Cell: DateCell
+            accessor: 'DataEntries[1].Updated',
+            Cell: DateCell,
           },
         ],
       },
@@ -203,13 +215,13 @@ export function BasicTable() {
       },
     ],
     []
-  )
+  );
 
-  const data = React.useMemo(() => dataJS, [])
+  const data = React.useMemo(() => dataJS, []);
 
   return (
     <Styles>
       <Table columns={columns} data={data} />
     </Styles>
-  )
+  );
 }
