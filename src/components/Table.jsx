@@ -177,14 +177,19 @@ export function BasicTable() {
             Header: 'State',
             accessor: 'State',
             width: 500,
+            sortType: (a, b) => {
+              return a.values.State > b.values.State;
+            },
           },
           {
             Header: 'County',
             accessor: 'County',
+            sortType: 'basic',
           },
           {
             Header: 'Jurisdiction',
             accessor: 'Jurisdiction',
+            sortType: 'basic',
           },
           {
             Header: 'Updated',
