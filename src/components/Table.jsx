@@ -1,45 +1,10 @@
 import React from 'react';
-import styled from 'styled-components';
 //@ts-ignore
 import {useTable, useSortBy} from 'react-table';
 import data from '../data/cleaned/nestedData.json';
+import {DollarCell, DateCell} from './Cell';
+import TableStyles from './TableStyles';
 const dataJS = Object.values(data);
-
-const Styles = styled.div`
-  padding: 1rem;
-
-  table {
-    border-spacing: 0;
-    border: 1px solid black;
-    margin-top: 5rem;
-
-    thead {
-      /* position: fixed !important; */
-      top: 0;
-      background-color: #282c34;
-    }
-
-    tr {
-      :last-child {
-        td {
-          border-bottom: 0;
-        }
-      }
-    }
-
-    th,
-    td {
-      margin: 0;
-      padding: 0.5rem;
-      border-bottom: 1px solid black;
-      border-right: 1px solid black;
-
-      :last-child {
-        border-right: 0;
-      }
-    }
-  }
-`;
 
 function Table({columns, data}) {
   const {
@@ -58,7 +23,7 @@ function Table({columns, data}) {
 
   // We don't want to render all 2000 rows for this example, so cap
   // it at 20 for this use case
-  const firstPageRows = rows.splice(20);
+  const firstPageRows = rows;
 
   return (
     <>
@@ -103,49 +68,6 @@ function Table({columns, data}) {
   );
 }
 
-const DollarCell = ({cell}) => {
-  if (cell.value) {
-    return (
-      '$' +
-      cell.value
-        .toFixed(2)
-        .replace(/\d(?=(\d{3})+\.)/g, '$&,')
-        .slice(0, -3)
-    );
-  }
-  return null;
-};
-
-const DateCell = ({cell}) => {
-  if (cell.value) {
-    return formatDate(new Date(cell.value));
-  }
-  return null;
-};
-
-function formatDate(date) {
-  var monthNames = [
-    'Jan',
-    'Feb',
-    'Mar',
-    'Apr',
-    'May',
-    'Jun',
-    'Jul',
-    'Aug',
-    'Sep',
-    'Oct',
-    'Novr',
-    'Dec',
-  ];
-
-  var day = date.getDate();
-  var monthIndex = date.getMonth();
-  var year = date.getFullYear();
-
-  return `${monthNames[monthIndex]} ${day} ${year}`;
-}
-
 const DetailColumns = name => [
   {
     Header: 'Total',
@@ -177,19 +99,14 @@ export function BasicTable() {
             Header: 'State',
             accessor: 'State',
             width: 500,
-            sortType: (a, b) => {
-              return a.values.State > b.values.State;
-            },
           },
           {
             Header: 'County',
             accessor: 'County',
-            sortType: 'basic',
           },
           {
             Header: 'Jurisdiction',
             accessor: 'Jurisdiction',
-            sortType: 'basic',
           },
           {
             Header: 'Updated',
@@ -225,8 +142,8 @@ export function BasicTable() {
   const data = React.useMemo(() => dataJS, []);
 
   return (
-    <Styles>
+    <TableStyles>
       <Table columns={columns} data={data} />
-    </Styles>
+    </TableStyles>
   );
 }
