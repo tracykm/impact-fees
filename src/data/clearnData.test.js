@@ -1,6 +1,6 @@
 import {cleanData} from './cleanData';
 
-it ('cleans data', () => {
+it('cleans data', () => {
   const data = [
     {
       State: 'AR',
@@ -17,7 +17,7 @@ it ('cleans data', () => {
       Library__1: '',
     },
   ];
-  expect (cleanData (data)).toEqual ([
+  expect(cleanData(data)).toEqual([
     {
       State: 'AR',
       County: 'Benton',
