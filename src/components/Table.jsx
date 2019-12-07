@@ -1,12 +1,37 @@
 import React from 'react';
 //@ts-ignore
-import {useTable, useSortBy, usePagination} from 'react-table';
+import {useTable, useSortBy, usePagination, useFilters} from 'react-table';
 import data from '../data/cleaned/nestedData.json';
 import {DollarCell, DateCell} from './Cell';
 import TableStyles from './TableStyles';
 const dataJS = Object.values(data);
 
+// Define a default UI for filtering
+function DefaultColumnFilter({
+  column: {filterValue, preFilteredRows, setFilter},
+}) {
+  const count = preFilteredRows.length;
+
+  return (
+    <input
+      value={filterValue || ''}
+      onChange={e => {
+        setFilter(e.target.value || undefined); // Set undefined to remove the filter entirely
+      }}
+      placeholder={`Search ${count} records...`}
+    />
+  );
+}
+
 function Table({columns, data}) {
+  const defaultColumn = React.useMemo(
+    () => ({
+      // Let's set up our default Filter UI
+      Filter: DefaultColumnFilter,
+    }),
+    []
+  );
+
   const {
     getTableProps,
     getTableBodyProps,
@@ -29,14 +54,12 @@ function Table({columns, data}) {
       columns,
       data,
       initialState: {pageSize: 20},
+      defaultColumn,
     },
+    useFilters,
     useSortBy,
     usePagination
   );
-
-  // We don't want to render all 2000 rows for this example, so cap
-  // it at 20 for this use case
-  const firstPageRows = rows;
 
   return (
     <>
@@ -56,6 +79,10 @@ function Table({columns, data}) {
                         ? ' 🔽'
                         : ' 🔼'
                       : ''}
+
+                    <div>
+                      {column.canFilter ? column.render('Filter') : null}
+                    </div>
                   </span>
                 </th>
               ))}
@@ -130,11 +157,47 @@ function Table({columns, data}) {
   );
 }
 
+// This is a custom filter UI that uses a
+// slider to set the filter value between a column's
+// min and max values
+function SliderColumnFilter({
+  column: {filterValue, setFilter, preFilteredRows, id},
+}) {
+  // Calculate the min and max
+  // using the preFilteredRows
+
+  const [min, max] = React.useMemo(() => {
+    let min = preFilteredRows.length ? preFilteredRows[0].values[id] : 0;
+    let max = preFilteredRows.length ? preFilteredRows[0].values[id] : 0;
+    preFilteredRows.forEach(row => {
+      min = Math.min(row.values[id], min);
+      max = Math.max(row.values[id], max);
+    });
+    return [min, max];
+  }, [id, preFilteredRows]);
+
+  return (
+    <>
+      <input
+        type="range"
+        min={min}
+        max={max}
+        value={filterValue || min}
+        onChange={e => {
+          setFilter(parseInt(e.target.value, 10));
+        }}
+      />
+      <button onClick={() => setFilter(undefined)}>Off</button>
+    </>
+  );
+}
+
 const DetailColumns = name => [
   {
     Header: 'Total',
     accessor: `DataEntries[1].${name}.Total`,
     Cell: DollarCell,
+    Filter: SliderColumnFilter,
   },
   {
     Header: 'NonUtil',
