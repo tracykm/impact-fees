@@ -2,6 +2,10 @@ import styled from 'styled-components';
 
 const TableStyles = styled.div`
   padding: 1rem;
+  .pagination {
+    padding: 0.5rem;
+    font-size: 16px;
+  }
 
   table {
     border-spacing: 0;
@@ -12,6 +16,10 @@ const TableStyles = styled.div`
       /* position: fixed !important; */
       top: 0;
       background-color: #282c34;
+    }
+    tbody {
+      font-family: monospace;
+      text-align: right;
     }
 
     tr {

@@ -1,6 +1,6 @@
 import React from 'react';
 //@ts-ignore
-import {useTable, useSortBy} from 'react-table';
+import {useTable, useSortBy, usePagination} from 'react-table';
 import data from '../data/cleaned/nestedData.json';
 import {DollarCell, DateCell} from './Cell';
 import TableStyles from './TableStyles';
@@ -13,12 +13,25 @@ function Table({columns, data}) {
     headerGroups,
     rows,
     prepareRow,
+    page, // Instead of using 'rows', we'll use page,
+    // which has only the rows for the active page
+    canPreviousPage,
+    canNextPage,
+    pageOptions,
+    pageCount,
+    gotoPage,
+    nextPage,
+    previousPage,
+    setPageSize,
+    state: {pageIndex, pageSize},
   } = useTable(
     {
       columns,
       data,
+      initialState: {pageSize: 20},
     },
-    useSortBy
+    useSortBy,
+    usePagination
   );
 
   // We don't want to render all 2000 rows for this example, so cap
@@ -50,7 +63,7 @@ function Table({columns, data}) {
           ))}
         </thead>
         <tbody {...getTableBodyProps()}>
-          {firstPageRows.map((row, i) => {
+          {page.map((row, i) => {
             prepareRow(row);
             return (
               <tr {...row.getRowProps()}>
@@ -64,6 +77,55 @@ function Table({columns, data}) {
           })}
         </tbody>
       </table>
+
+      {/* 
+        Pagination can be built however you'd like. 
+        This is just a very basic UI implementation:
+      */}
+      <div className="pagination">
+        <button onClick={() => gotoPage(0)} disabled={!canPreviousPage}>
+          {'<<'}
+        </button>{' '}
+        <button onClick={() => previousPage()} disabled={!canPreviousPage}>
+          {'<'}
+        </button>{' '}
+        <button onClick={() => nextPage()} disabled={!canNextPage}>
+          {'>'}
+        </button>{' '}
+        <button onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>
+          {'>>'}
+        </button>{' '}
+        <span>
+          Page{' '}
+          <strong>
+            {pageIndex + 1} of {pageOptions.length}
+          </strong>{' '}
+        </span>
+        <span>
+          | Go to page:{' '}
+          <input
+            type="number"
+            defaultValue={pageIndex + 1}
+            onChange={e => {
+              const page = e.target.value ? Number(e.target.value) - 1 : 0;
+              gotoPage(page);
+            }}
+            style={{width: '100px'}}
+          />
+        </span>{' '}
+        <select
+          value={pageSize}
+          onChange={e => {
+            setPageSize(Number(e.target.value));
+          }}
+        >
+          {[10, 20, 30, 40, 50].map(pageSize => (
+            <option key={pageSize} value={pageSize}>
+              Show {pageSize}
+            </option>
+          ))}
+        </select>
+      </div>
     </>
   );
 }
@@ -73,19 +135,41 @@ const DetailColumns = name => [
     Header: 'Total',
     accessor: `DataEntries[1].${name}.Total`,
     Cell: DollarCell,
-    maxWidth: 50,
+  },
+  {
+    Header: 'NonUtil',
+    accessor: `DataEntries[1].${name}.NonUtil`,
+    Cell: DollarCell,
   },
   {
     Header: 'Sewer',
     accessor: `DataEntries[1].${name}.Sewer`,
     Cell: DollarCell,
-    maxWidth: 50,
   },
   {
     Header: 'Fire',
     accessor: `DataEntries[1].${name}.Fire`,
     Cell: DollarCell,
-    maxWidth: 50,
+  },
+  {
+    Header: 'Parks',
+    accessor: `DataEntries[1].${name}.Parks`,
+    Cell: DollarCell,
+  },
+  {
+    Header: 'Fire',
+    accessor: `DataEntries[1].${name}.Fire`,
+    Cell: DollarCell,
+  },
+  {
+    Header: 'Library',
+    accessor: `DataEntries[1].${name}.Library`,
+    Cell: DollarCell,
+  },
+  {
+    Header: 'Police',
+    accessor: `DataEntries[1].${name}.Police`,
+    Cell: DollarCell,
   },
 ];
 
