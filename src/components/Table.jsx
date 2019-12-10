@@ -1,11 +1,4 @@
 import React, { useState } from "react";
-import {
-  FaFireAlt,
-  FaTree,
-  FaWater,
-  FaBook,
-  FaShieldAlt
-} from "react-icons/fa";
 //@ts-ignore
 import {
   useTable,
@@ -14,11 +7,7 @@ import {
   useFilters,
   useBlockLayout
 } from "react-table";
-import { Link } from "react-router-dom";
-import data from "../data/cleaned/nestedData.json";
-import { DollarCell, DateCell } from "./Cell";
 import TableStyles from "./TableStyles";
-const dataJS = Object.values(data);
 
 const SearchBar = ({ columns }) => {
   const [columnFilter, setColumnFilter] = useState(2);
@@ -48,7 +37,7 @@ const SearchBar = ({ columns }) => {
   );
 };
 
-function Table({ columns, data }) {
+export function Table({ columns, data, hasPagination }) {
   const {
     getTableProps,
     getTableBodyProps,
@@ -79,8 +68,8 @@ function Table({ columns, data }) {
   );
 
   return (
-    <>
-      <SearchBar {...{ columns: args.columns }} />
+    <TableStyles>
+      {hasPagination ? <SearchBar {...{ columns: args.columns }} /> : ""}
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map(headerGroup => (
@@ -123,180 +112,57 @@ function Table({ columns, data }) {
         Pagination can be built however you'd like. 
         This is just a very basic UI implementation:
       */}
-      <div className="pagination">
-        <button onClick={() => gotoPage(0)} disabled={!canPreviousPage}>
-          {"<<"}
-        </button>{" "}
-        <button onClick={() => previousPage()} disabled={!canPreviousPage}>
-          {"<"}
-        </button>{" "}
-        <button onClick={() => nextPage()} disabled={!canNextPage}>
-          {">"}
-        </button>{" "}
-        <button onClick={() => gotoPage(pageCount - 1)} disabled={!canNextPage}>
-          {">>"}
-        </button>{" "}
-        <span>
-          Page{" "}
-          <strong>
-            {pageIndex + 1} of {pageOptions.length}
-          </strong>{" "}
-        </span>
-        <span>
-          | Go to page:{" "}
-          <input
-            type="number"
-            defaultValue={pageIndex + 1}
+      {hasPagination ? (
+        <div className="pagination">
+          <button onClick={() => gotoPage(0)} disabled={!canPreviousPage}>
+            {"<<"}
+          </button>{" "}
+          <button onClick={() => previousPage()} disabled={!canPreviousPage}>
+            {"<"}
+          </button>{" "}
+          <button onClick={() => nextPage()} disabled={!canNextPage}>
+            {">"}
+          </button>{" "}
+          <button
+            onClick={() => gotoPage(pageCount - 1)}
+            disabled={!canNextPage}
+          >
+            {">>"}
+          </button>{" "}
+          <span>
+            Page{" "}
+            <strong>
+              {pageIndex + 1} of {pageOptions.length}
+            </strong>{" "}
+          </span>
+          <span>
+            | Go to page:{" "}
+            <input
+              type="number"
+              defaultValue={pageIndex + 1}
+              onChange={e => {
+                const page = e.target.value ? Number(e.target.value) - 1 : 0;
+                gotoPage(page);
+              }}
+              style={{ width: "100px" }}
+            />
+          </span>{" "}
+          <select
+            value={pageSize}
             onChange={e => {
-              const page = e.target.value ? Number(e.target.value) - 1 : 0;
-              gotoPage(page);
+              setPageSize(Number(e.target.value));
             }}
-            style={{ width: "100px" }}
-          />
-        </span>{" "}
-        <select
-          value={pageSize}
-          onChange={e => {
-            setPageSize(Number(e.target.value));
-          }}
-        >
-          {[10, 20, 30, 40, 50].map(pageSize => (
-            <option key={pageSize} value={pageSize}>
-              Show {pageSize}
-            </option>
-          ))}
-        </select>
-      </div>
-    </>
-  );
-}
-
-const DetailColumns = name => [
-  {
-    Header: "Total",
-    accessor: `DataEntries[1].${name}.Total`,
-    Cell: DollarCell
-  },
-  {
-    Header: "NonUtil",
-    accessor: `DataEntries[1].${name}.NonUtil`,
-    Cell: DollarCell
-  },
-  {
-    Header: () => (
-      <>
-        <FaWater /> Sewer
-      </>
-    ),
-    accessor: `DataEntries[1].${name}.Sewer`,
-    Cell: DollarCell
-  },
-  {
-    Header: () => (
-      <>
-        <FaFireAlt /> Fire
-      </>
-    ),
-    accessor: `DataEntries[1].${name}.Fire`,
-    Cell: DollarCell
-  },
-  {
-    Header: () => (
-      <div>
-        <FaTree /> Parks
-      </div>
-    ),
-    accessor: `DataEntries[1].${name}.Parks`,
-    Cell: DollarCell
-  },
-  {
-    Header: () => (
-      <div>
-        <FaBook /> Library
-      </div>
-    ),
-    accessor: `DataEntries[1].${name}.Library`,
-    Cell: DollarCell
-  },
-  {
-    Header: () => (
-      <div>
-        <FaShieldAlt /> Police
-      </div>
-    ),
-    accessor: `DataEntries[1].${name}.Police`,
-    Cell: DollarCell
-  }
-];
-
-export function BasicTable() {
-  const columns = React.useMemo(
-    () => [
-      {
-        Header: "Basic Info",
-        columns: [
-          {
-            Header: "State",
-            accessor: "State",
-            width: 80
-          },
-          {
-            Header: "County",
-            accessor: "County",
-            width: 200
-          },
-          {
-            Header: "Jurisdiction",
-            accessor: "Jurisdiction",
-            className: "Jurisdiction",
-            Cell: ({ cell }) => {
-              return (
-                <Link to={`Jurisdiction/${cell.value}`}>
-                  {cell.value}
-                  <div className="light-text">
-                    {cell.row.original.County}, {cell.row.original.State}
-                  </div>
-                </Link>
-              );
-            },
-            width: 200
-          },
-          {
-            Header: "Updated",
-            accessor: "DataEntries[1].Updated",
-            Cell: DateCell
-          }
-        ]
-      },
-      {
-        Header: "Single Family",
-        columns: DetailColumns("SingleFamily")
-      },
-      {
-        Header: "Multi Family",
-        columns: DetailColumns("MultiFamily")
-      },
-      {
-        Header: "Retail",
-        columns: DetailColumns("Retail")
-      },
-      {
-        Header: "Office",
-        columns: DetailColumns("Office")
-      },
-      {
-        Header: "Industrial",
-        columns: DetailColumns("Industrial")
-      }
-    ],
-    []
-  );
-
-  const data = React.useMemo(() => dataJS, []);
-
-  return (
-    <TableStyles>
-      <Table columns={columns} data={data} />
+          >
+            {[10, 20, 30, 40, 50].map(pageSize => (
+              <option key={pageSize} value={pageSize}>
+                Show {pageSize}
+              </option>
+            ))}
+          </select>
+        </div>
+      ) : (
+        ""
+      )}
     </TableStyles>
   );
 }

@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { BasicTable } from "./components/Table";
+import { OverallTable } from "./components/OverallTable";
 import { Jurisdiction } from "./components/Jurisdiction";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
@@ -12,7 +12,7 @@ const App: React.FC = () => {
           <Jurisdiction />
         </Route>
         <Route path="">
-          <BasicTable />
+          <OverallTable />
         </Route>
       </Switch>
     </Router>
