@@ -70,7 +70,7 @@ export const DetailColumns = ({
           <FaShieldAlt /> Police
         </div>
       ),
-      accessor: `DataEntries[1].${name}.Police`,
+      accessor: `${path}${name}.Police`,
       Cell: DollarCell
     }
   ];
