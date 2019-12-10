@@ -7,6 +7,7 @@ import {
   useFilters,
   useBlockLayout
 } from "react-table";
+import { Link } from "react-router-dom";
 import data from "../data/cleaned/nestedData.json";
 import { DollarCell, DateCell } from "./Cell";
 import TableStyles from "./TableStyles";
@@ -220,6 +221,19 @@ export function BasicTable() {
           {
             Header: "Jurisdiction",
             accessor: "Jurisdiction",
+            Cell: ({ cell }) => {
+              return (
+                <Link
+                  className="Jurisdiction"
+                  to={`Jurisdiction/${cell.value}`}
+                >
+                  {cell.value}
+                  <div className="light-text">
+                    {cell.row.original.County}, {cell.row.original.State}
+                  </div>
+                </Link>
+              );
+            },
             width: 200
           },
           {

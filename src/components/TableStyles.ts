@@ -11,6 +11,13 @@ const TableStyles = styled.div`
   }
 
   table {
+    a {
+      color: inherit;
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
     border-spacing: 0;
     border: 1px solid black;
     margin-bottom: 2rem;
