@@ -1,10 +1,44 @@
 import React, { useState } from "react";
 //@ts-ignore
-import { useTable, useSortBy, usePagination, useFilters } from "react-table";
+import {
+  useTable,
+  useSortBy,
+  usePagination,
+  useFilters,
+  useBlockLayout
+} from "react-table";
 import data from "../data/cleaned/nestedData.json";
 import { DollarCell, DateCell } from "./Cell";
 import TableStyles from "./TableStyles";
 const dataJS = Object.values(data);
+
+const SearchBar = ({ columns }) => {
+  const [columnFilter, setColumnFilter] = useState(2);
+  const currentCol = columns[0].columns[columnFilter];
+  return (
+    <div>
+      <select
+        onChange={e => {
+          columns[0].columns[Number(e.target.value)].setFilter(
+            currentCol.filterValue
+          );
+          currentCol.setFilter(undefined);
+          setColumnFilter(Number(e.target.value));
+        }}
+      >
+        <option value="2">Jurisdiction</option>
+        <option value="1">County</option>
+        <option value="0">State</option>
+      </select>
+      <input
+        onChange={e => {
+          currentCol.setFilter(e.target.value);
+        }}
+        placeholder="search..."
+      />
+    </div>
+  );
+};
 
 function Table({ columns, data }) {
   const {
@@ -30,35 +64,15 @@ function Table({ columns, data }) {
       data,
       initialState: { pageSize: 20 }
     },
+    useBlockLayout,
     useFilters,
     useSortBy,
     usePagination
   );
 
-  const [columnFilter, setColumnFilter] = useState(2);
-  const currentCol = args.columns[0].columns[columnFilter];
-  debugger;
   return (
     <>
-      <select
-        onChange={e => {
-          args.columns[0].columns[Number(e.target.value)].setFilter(
-            currentCol.filterValue
-          );
-          currentCol.setFilter(undefined);
-          setColumnFilter(Number(e.target.value));
-        }}
-      >
-        <option value="2">Jurisdiction</option>
-        <option value="1">County</option>
-        <option value="0">State</option>
-      </select>
-      <input
-        onChange={e => {
-          currentCol.setFilter(e.target.value);
-        }}
-        placeholder="search..."
-      />
+      <SearchBar {...{ columns: args.columns }} />
       <table {...getTableProps()}>
         <thead>
           {headerGroups.map(headerGroup => (
@@ -196,15 +210,17 @@ export function BasicTable() {
           {
             Header: "State",
             accessor: "State",
-            width: 500
+            width: 80
           },
           {
             Header: "County",
-            accessor: "County"
+            accessor: "County",
+            width: 200
           },
           {
             Header: "Jurisdiction",
-            accessor: "Jurisdiction"
+            accessor: "Jurisdiction",
+            width: 200
           },
           {
             Header: "Updated",

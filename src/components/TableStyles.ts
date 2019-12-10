@@ -1,25 +1,36 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const TableStyles = styled.div`
-  padding: 1rem;
   .pagination {
     padding: 0.5rem;
     font-size: 16px;
+    position: fixed;
+    bottom: 0;
+    background: #1b1d20;
+    width: 100%;
   }
 
   table {
     border-spacing: 0;
     border: 1px solid black;
-    margin-top: 5rem;
+    margin-bottom: 2rem;
 
     thead {
-      /* position: fixed !important; */
+      background-color: #1b1d20;
+      position: sticky;
       top: 0;
-      background-color: #282c34;
+      display: block;
+      z-index: 5;
     }
     tbody {
       font-family: monospace;
       text-align: right;
+    }
+
+    td:nth-child(3) {
+      position: sticky;
+      left: 0;
+      background-color: #25282e;
     }
 
     tr {
