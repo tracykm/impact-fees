@@ -1,12 +1,21 @@
-import React from 'react';
-import './App.css';
-import {BasicTable} from './components/Table';
+import React from "react";
+import "./App.css";
+import { BasicTable } from "./components/Table";
+import { Jurisdiction } from "./components/Jurisdiction";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 const App: React.FC = () => {
   return (
-    <div className="App">
-      <BasicTable />
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/jurisdiction/:name">
+          <Jurisdiction />
+        </Route>
+        <Route path="">
+          <BasicTable />
+        </Route>
+      </Switch>
+    </Router>
   );
 };
 
