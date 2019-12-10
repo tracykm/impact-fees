@@ -1,19 +1,22 @@
 function nestData(listOfYears) {
   const newObj = {};
-  listOfYears.forEach(yearData => {
+  Object.keys(listOfYears).forEach(yearName => {
+    const yearData = listOfYears[yearName];
     yearData.forEach(dataPoint => {
-      const {Jurisdiction, County, State, ...otherDataPoint} = dataPoint;
+      const { Jurisdiction, County, State, ...otherDataPoint } = dataPoint;
       newObj[dataPoint.Jurisdiction] = newObj[dataPoint.Jurisdiction] || {
         Jurisdiction,
         County,
         State,
-        DataEntries: [],
+        DataEntries: []
       };
+      otherDataPoint.RecordedAt = yearName;
       newObj[dataPoint.Jurisdiction].DataEntries.push(otherDataPoint);
     });
   });
 
-  listOfYears.forEach(yearData => {
+  Object.keys(listOfYears).forEach(yearName => {
+    const yearData = listOfYears[yearName];
     yearData.forEach(dataPoint => {
       newObj[dataPoint.Jurisdiction].DataEntries = newObj[
         dataPoint.Jurisdiction

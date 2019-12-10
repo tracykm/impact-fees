@@ -4,6 +4,7 @@ export interface JurisdictionData {
   Jurisdiction: string;
   DataEntries: Array<{
     Updated?: number;
+    RecordedAt?: number;
     SingleFamily: Details;
     MultiFamily?: Details;
     Retail?: Details;

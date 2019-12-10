@@ -36,7 +36,7 @@ export function OverallTable() {
                 </Link>
               );
             },
-            width: 200
+            width: 300
           },
           {
             Header: "Updated",

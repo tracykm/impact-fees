@@ -14,6 +14,10 @@ export const JurisdictionTable = ({ data }: { data: JurisdictionData }) => {
       Cell: DateCell
     },
     {
+      Header: "Recorded At",
+      accessor: "RecordedAt"
+    },
+    {
       Header: "Single Family",
       columns: DetailColumns({
         name: "SingleFamily",
