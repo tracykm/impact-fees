@@ -1,4 +1,11 @@
 import React, { useState } from "react";
+import {
+  FaFireAlt,
+  FaTree,
+  FaWater,
+  FaBook,
+  FaShieldAlt
+} from "react-icons/fa";
 //@ts-ignore
 import {
   useTable,
@@ -176,27 +183,47 @@ const DetailColumns = name => [
     Cell: DollarCell
   },
   {
-    Header: "Sewer",
+    Header: () => (
+      <>
+        <FaWater /> Sewer
+      </>
+    ),
     accessor: `DataEntries[1].${name}.Sewer`,
     Cell: DollarCell
   },
   {
-    Header: "Fire",
+    Header: () => (
+      <>
+        <FaFireAlt /> Fire
+      </>
+    ),
     accessor: `DataEntries[1].${name}.Fire`,
     Cell: DollarCell
   },
   {
-    Header: "Parks",
+    Header: () => (
+      <div>
+        <FaTree /> Parks
+      </div>
+    ),
     accessor: `DataEntries[1].${name}.Parks`,
     Cell: DollarCell
   },
   {
-    Header: "Library",
+    Header: () => (
+      <div>
+        <FaBook /> Library
+      </div>
+    ),
     accessor: `DataEntries[1].${name}.Library`,
     Cell: DollarCell
   },
   {
-    Header: "Police",
+    Header: () => (
+      <div>
+        <FaShieldAlt /> Police
+      </div>
+    ),
     accessor: `DataEntries[1].${name}.Police`,
     Cell: DollarCell
   }
@@ -221,12 +248,10 @@ export function BasicTable() {
           {
             Header: "Jurisdiction",
             accessor: "Jurisdiction",
+            className: "Jurisdiction",
             Cell: ({ cell }) => {
               return (
-                <Link
-                  className="Jurisdiction"
-                  to={`Jurisdiction/${cell.value}`}
-                >
+                <Link to={`Jurisdiction/${cell.value}`}>
                   {cell.value}
                   <div className="light-text">
                     {cell.row.original.County}, {cell.row.original.State}

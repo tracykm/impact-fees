@@ -10,6 +10,11 @@ const TableStyles = styled.div`
     width: 100%;
   }
 
+  svg {
+    opacity: 0.5;
+    font-size: 0.7em;
+  }
+
   table {
     a {
       color: inherit;
