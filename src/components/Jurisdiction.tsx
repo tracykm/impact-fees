@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { useParams } from "react-router-dom";
 import data from "../data/cleaned/nestedData.json";
-import { JurisdictionTable } from "./JurisdictionTable.jsx";
+import { JurisdictionTable } from "./JurisdictionTable";
 
 const Wrapper = styled.div`
   margin: 1rem;

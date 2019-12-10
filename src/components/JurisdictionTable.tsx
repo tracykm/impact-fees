@@ -2,8 +2,13 @@ import React from "react";
 import { DetailColumns } from "./columns";
 import { Table } from "./Table";
 import { DollarCell, DateCell } from "./Cell";
+import { JurisdictionData } from "../types";
 
-export const JurisdictionTable = ({ data }) => {
+export const JurisdictionTable = ({ data }: { data: JurisdictionData }) => {
+  const usedKeys = {
+    SingleFamily: ["Total", "Library"],
+    MultiFamily: ["Police"]
+  };
   const columns = [
     {
       Header: "Updated",
@@ -12,11 +17,17 @@ export const JurisdictionTable = ({ data }) => {
     },
     {
       Header: "Single Family",
-      columns: DetailColumns({ name: "SingleFamily" })
+      columns: DetailColumns({
+        name: "SingleFamily",
+        usedKeys: usedKeys.SingleFamily
+      })
     },
     {
       Header: "Multi Family",
-      columns: DetailColumns({ name: "MultiFamily" })
+      columns: DetailColumns({
+        name: "MultiFamily",
+        usedKeys: usedKeys.MultiFamily
+      })
     },
     {
       Header: "Retail",
@@ -31,6 +42,6 @@ export const JurisdictionTable = ({ data }) => {
       columns: DetailColumns({ name: "Industrial" })
     }
   ];
-
+  //@ts-ignore
   return <Table columns={columns} data={data.DataEntries} />;
 };
