@@ -6,12 +6,14 @@ export interface JurisdictionData {
     Updated?: number;
     RecordedAt?: number;
     SingleFamily: Details;
-    MultiFamily?: Details;
-    Retail?: Details;
-    Office?: Details;
-    Industrial?: Details;
+    MultiFamily: Details;
+    Retail: Details;
+    Office: Details;
+    Industrial: Details;
   }>;
 }
+
+export type Utility = keyof Details;
 
 export interface Details {
   Total?: number;
