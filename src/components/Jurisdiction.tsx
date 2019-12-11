@@ -1,33 +1,37 @@
 import React from "react";
 import styled from "styled-components";
 import { useParams } from "react-router-dom";
-import data from "../data/cleaned/nestedData.json";
+import nestedData from "../data/cleaned/nestedData.json";
 import { JurisdictionTable } from "./JurisdictionTable";
 import { HistoryLineChart } from "./HistoryLineChart";
-
+import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
+import { JurisdictionData } from "../types";
 const Wrapper = styled.div`
   margin: 1rem;
 `;
 
 export const Jurisdiction = () => {
   const { name } = useParams();
-  const utility = "Total";
-
+  // @ts-ignore
+  const data: JurisdictionData = nestedData[name as keyof typeof nestedData];
+  const usedKeys = getUsedKeys(data.DataEntries);
   return (
     <Wrapper>
       <h1>{name}</h1>
 
       <JurisdictionTable
         //@ts-ignore
-        data={data[name as keyof typeof data]}
+        usedKeys={usedKeys}
+        //@ts-ignore
+        data={data}
       />
 
       <HistoryLineChart
-        utility={utility}
         // @ts-ignore
-        DataEntries={data[name as keyof typeof data].DataEntries}
+        DataEntries={data.DataEntries}
+        usedKeys={usedKeys}
       />
-      <pre>{JSON.stringify(data[name as keyof typeof data], null, 2)}</pre>
+      <pre>{JSON.stringify(data, null, 2)}</pre>
     </Wrapper>
   );
 };

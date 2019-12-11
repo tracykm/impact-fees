@@ -2,20 +2,21 @@ export interface JurisdictionData {
   State: string;
   County: string;
   Jurisdiction: string;
-  DataEntries: Array<{
-    Updated?: number;
-    RecordedAt?: number;
-    SingleFamily: Details;
-    MultiFamily: Details;
-    Retail: Details;
-    Office: Details;
-    Industrial: Details;
-  }>;
+  DataEntries: DataEntry[];
 }
+export type DataEntry = {
+  Updated?: number;
+  RecordedAt?: string;
+  SingleFamily: UtilityBreakDown;
+  MultiFamily: UtilityBreakDown;
+  Retail: UtilityBreakDown;
+  Office: UtilityBreakDown;
+  Industrial: UtilityBreakDown;
+};
+export type PropertyType = keyof DataEntry;
+export type UtilityType = keyof UtilityBreakDown;
 
-export type Utility = keyof Details;
-
-export interface Details {
+export interface UtilityBreakDown {
   Total?: number;
   NonUtil?: number;
   Roads?: number;

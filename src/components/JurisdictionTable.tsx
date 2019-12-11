@@ -1,12 +1,17 @@
 import React from "react";
 import { DetailColumns } from "./columns";
 import { Table } from "./Table";
-import { DollarCell, DateCell } from "./Cell";
+import { DateCell } from "./Cell";
 import { JurisdictionData } from "../types";
-import { getUsedKeys } from "../utils/getUsedKeys";
+import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
 
-export const JurisdictionTable = ({ data }: { data: JurisdictionData }) => {
-  const usedKeys = getUsedKeys([data.DataEntries[1]]);
+export const JurisdictionTable = ({
+  data,
+  usedKeys
+}: {
+  data: JurisdictionData;
+  usedKeys: UsedKeys;
+}) => {
   const columns = [
     {
       Header: "Updated",

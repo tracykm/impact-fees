@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {
   LineChart,
   Tooltip,
@@ -8,7 +8,8 @@ import {
   CartesianGrid
 } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
-import { JurisdictionData, Utility } from "../types";
+import { JurisdictionData, UtilityType } from "../types";
+import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
 
 const TypesOfPlaces = [
   "SingleFamily",
@@ -20,11 +21,16 @@ const TypesOfPlaces = [
 
 export const HistoryLineChart = ({
   DataEntries,
-  utility
+  usedKeys
 }: {
   DataEntries: JurisdictionData["DataEntries"];
-  utility: Utility;
+  usedKeys: UsedKeys;
 }) => {
+  const [utility, setUtility] = useState("Total" as UtilityType);
+  const opts = Object.values(usedKeys)
+    .flat()
+    .slice(0, 10);
+
   const data = DataEntries.map(d => ({
     SingleFamily: d.SingleFamily[utility],
     MultiFamily: d.MultiFamily[utility],
@@ -34,29 +40,40 @@ export const HistoryLineChart = ({
     Updated: d.Updated
   }));
   return (
-    <LineChart
-      width={900}
-      height={400}
-      data={data}
-      margin={{
-        top: 5,
-        left: 100,
-        bottom: 5
-      }}
-    >
-      <XAxis
-        tickFormatter={val => {
-          return formatDate(new Date(val));
+    <>
+      <select
+        onChange={({ target }) => {
+          setUtility(target.value as UtilityType);
         }}
-        dataKey="Updated"
-        type="number"
-        domain={["auto", "auto"]}
-      />
-      <YAxis />
-      <Tooltip formatter={formatMoney} />
-      {TypesOfPlaces.map(utilityName => (
-        <Line type="monotone" dataKey={utilityName} stroke="#8884d8" />
-      ))}
-    </LineChart>
+      >
+        {opts.map(d => (
+          <option value={d}>{d}</option>
+        ))}
+      </select>
+      <LineChart
+        width={900}
+        height={400}
+        data={data}
+        margin={{
+          top: 5,
+          left: 100,
+          bottom: 5
+        }}
+      >
+        <XAxis
+          tickFormatter={val => {
+            return formatDate(new Date(val));
+          }}
+          dataKey="Updated"
+          type="number"
+          domain={["auto", "auto"]}
+        />
+        <YAxis />
+        <Tooltip formatter={formatMoney} />
+        {TypesOfPlaces.map(utilityName => (
+          <Line type="monotone" dataKey={utilityName} stroke="#8884d8" />
+        ))}
+      </LineChart>
+    </>
   );
 };
