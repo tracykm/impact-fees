@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import nestedData from "../data/cleaned/nestedData.json";
 import { JurisdictionTable } from "./JurisdictionTable";
 import { HistoryLineChart } from "./HistoryLineChart";
+import { UtilPieChart } from "./UtilPieChart";
 import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
 import { JurisdictionData } from "../types";
 const Wrapper = styled.div`
@@ -31,6 +32,8 @@ export const Jurisdiction = () => {
         DataEntries={data.DataEntries}
         usedKeys={usedKeys}
       />
+
+      <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
       <pre>{JSON.stringify(data, null, 2)}</pre>
     </Wrapper>
   );
