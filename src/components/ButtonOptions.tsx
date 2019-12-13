@@ -15,6 +15,7 @@ export const ButtonOptions = ({
     <ButtonGroup>
       {options.map(d => (
         <Button
+          key={d.value}
           onClick={() => onChange(d.value)}
           className={
             value === d.value ? "btn-outline-primary" : "btn-outline-secondary"

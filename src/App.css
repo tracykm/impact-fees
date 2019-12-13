@@ -10,11 +10,15 @@ body {
 }
 
 .btn-outline-primary {
-  color: #fa9a6e;
-  border-color: #fa9a6e;
+  color: #ccc;
+  border-color: #ccc;
 }
 
 .btn-outline-primary:hover {
-  background: #fa9a6e;
-  border-color: #fa9a6e;
+  background: #ccc;
+  border-color: #ccc;
+}
+
+.piechart tspan {
+  font-size: 12px;
 }
