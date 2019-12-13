@@ -18,10 +18,13 @@ const ChartsWrapper = styled.div`
   margin: auto;
 `;
 
-export const JurisdictionPage = () => {
+export const JurisdictionPage = ({ myData }: { myData?: JurisdictionData }) => {
   const { name } = useParams();
   // @ts-ignore
-  const data: JurisdictionData = nestedData[name as keyof typeof nestedData];
+  const data: JurisdictionData = myData
+    ? myData
+    : nestedData[name as keyof typeof nestedData];
+
   const usedKeys = getUsedKeys(data.DataEntries);
   return (
     <>

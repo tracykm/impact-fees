@@ -3,7 +3,7 @@ import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
 import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
-import { ButtonOptions } from "./ButtonOptions";
+import { Dropdown } from "./Dropdown";
 
 export const HistoryLineChart = ({
   DataEntries,
@@ -63,7 +63,7 @@ export const HistoryLineChart = ({
         ))}
       </LineChart>
       <div className="text-center">
-        <ButtonOptions
+        <Dropdown
           //@ts-ignore
           onChange={setUtility}
           value={utility as string}

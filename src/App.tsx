@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./components/About";
+import { NationalAveragesPage } from "./components/NationalAveragesPage";
 import { OverallTable } from "./components/OverallTable";
 import { JurisdictionPage } from "./components/JurisdictionPage";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
@@ -13,6 +14,9 @@ const App: React.FC = () => {
       <Link className="p-2" to="/">
         Home
       </Link>
+      <Link className="p-2" to="/national-averages">
+        National Averages
+      </Link>
       <Link className="p-2" to="/about">
         About
       </Link>
@@ -22,6 +26,9 @@ const App: React.FC = () => {
         </Route>
         <Route path="/about">
           <About />
+        </Route>
+        <Route path="/national-averages">
+          <NationalAveragesPage />
         </Route>
         <Route path="">
           <OverallTable />

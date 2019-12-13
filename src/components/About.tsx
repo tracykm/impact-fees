@@ -1,5 +1,4 @@
 import React from "react";
-// import { ButtonGroup, Button } from "reactstrap";
 
 export const About = () => (
   <div>
