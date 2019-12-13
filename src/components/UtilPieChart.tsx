@@ -16,9 +16,14 @@ export const UtilPieChart = ({
   usedKeys: UsedKeys;
   DataEntries: JurisdictionData["DataEntries"];
 }) => {
+  const yearsUsed = DataEntries.map((d, i) => ({
+    name: String(new Date(d.Updated).getFullYear()),
+    value: i
+  }));
   const [propertyType, setPropertyType] = useState(
     "SingleFamily" as PropertyType
   );
+  const [yearIdx, setYear] = useState(0);
   const data: {
     name: string;
     value: number;
@@ -29,13 +34,15 @@ export const UtilPieChart = ({
     name => ({
       name,
       // @ts-ignore
-      value: DataEntries[0][propertyType][name],
+      value: DataEntries[yearIdx][propertyType][name],
       color: UtilityDict[name].color
     })
   );
   return (
-    <div className="d-inline-block mr-5">
+    <div className="d-inline-block mr-5 text-center">
       <DonutChart data={data} />
+      <ButtonOptions onChange={setYear} value={yearIdx} options={yearsUsed} />
+      <br />
       <ButtonOptions
         onChange={setPropertyType}
         value={propertyType}

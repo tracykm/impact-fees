@@ -18,8 +18,8 @@ export interface JurisdictionData {
   DataEntries: DataEntry[];
 }
 export type DataEntry = {
-  Updated?: number;
-  RecordedAt?: string;
+  Updated: number;
+  RecordedAt: string;
   SingleFamily: UtilityBreakDown;
   MultiFamily: UtilityBreakDown;
   Retail: UtilityBreakDown;

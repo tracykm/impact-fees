@@ -6,9 +6,9 @@ export const ButtonOptions = ({
   onChange,
   value
 }: {
-  options: Array<{ name: string; value: string }>;
+  options: Array<{ name: string; value: string | number }>;
   onChange: (val: any) => void;
-  value: string;
+  value: string | number;
 }) => {
   return (
     <ButtonGroup>
