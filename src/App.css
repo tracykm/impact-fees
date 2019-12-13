@@ -8,3 +8,13 @@ body {
   opacity: 0.3;
   font-size: 0.5em;
 }
+
+.btn-outline-primary {
+  color: #fa9a6e;
+  border-color: #fa9a6e;
+}
+
+.btn-outline-primary:hover {
+  background: #fa9a6e;
+  border-color: #fa9a6e;
+}

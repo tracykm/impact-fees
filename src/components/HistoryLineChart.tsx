@@ -63,7 +63,7 @@ export const HistoryLineChart = ({
         <YAxis />
         <Tooltip formatter={formatMoney} />
         {TypesOfPlaces.map(propertyType => (
-          <Line type="monotone" dataKey={propertyType} stroke="#8884d8" />
+          <Line type="monotone" dataKey={propertyType} stroke="#3e745c" />
         ))}
       </LineChart>
       <div className="text-center">
