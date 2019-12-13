@@ -34,7 +34,6 @@ export const Jurisdiction = () => {
       />
 
       <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
-      <pre>{JSON.stringify(data, null, 2)}</pre>
     </Wrapper>
   );
 };

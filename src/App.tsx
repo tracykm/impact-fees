@@ -1,15 +1,28 @@
 import React from "react";
 import "./App.css";
+import { About } from "./components/About";
 import { OverallTable } from "./components/OverallTable";
 import { Jurisdiction } from "./components/Jurisdiction";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import { Button } from "reactstrap";
+import ScrollToTop from "./components/ScrollToTop";
 
 const App: React.FC = () => {
   return (
     <Router>
+      <ScrollToTop />
+      <Link className="p-2" to="/">
+        Home
+      </Link>
+      <Link className="p-2" to="/about">
+        About
+      </Link>
       <Switch>
         <Route path="/jurisdiction/:name">
           <Jurisdiction />
+        </Route>
+        <Route path="/about">
+          <About />
         </Route>
         <Route path="">
           <OverallTable />

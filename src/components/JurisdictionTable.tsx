@@ -19,10 +19,6 @@ export const JurisdictionTable = ({
       Cell: DateCell
     },
     {
-      Header: "Recorded At",
-      accessor: "RecordedAt"
-    },
-    {
       Header: "Single Family",
       columns: DetailColumns({
         name: "SingleFamily",
