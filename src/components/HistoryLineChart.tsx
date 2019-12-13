@@ -20,9 +20,17 @@ export const HistoryLineChart = ({
   usedKeys: UsedKeys;
 }) => {
   const [utility, setUtility] = useState("Total" as UtilityType);
-  const opts = Object.values(usedKeys)
-    .flat()
-    .slice(0, 10);
+  const opts: string[] = Object.keys(
+    Object.values(usedKeys)
+      .flat()
+      // @ts-ignore
+      .reduce((acc, k) => {
+        // @ts-ignore
+        acc[k] = k; // remove duplicates
+        return acc;
+      }, {})
+  );
+  // debugger;
 
   const data = DataEntries.map(d => ({
     SingleFamily: d.SingleFamily[utility],
@@ -33,17 +41,7 @@ export const HistoryLineChart = ({
     Updated: d.Updated
   }));
   return (
-    <>
-      <ButtonOptions options={opts.map(d => ({ name: d, value: d }))} />
-      <select
-        onChange={({ target }) => {
-          setUtility(target.value as UtilityType);
-        }}
-      >
-        {opts.map(d => (
-          <option value={d}>{d}</option>
-        ))}
-      </select>
+    <div style={{ width: "900px" }}>
       <LineChart
         width={900}
         height={400}
@@ -68,6 +66,14 @@ export const HistoryLineChart = ({
           <Line type="monotone" dataKey={propertyType} stroke="#8884d8" />
         ))}
       </LineChart>
-    </>
+      <div className="text-center">
+        <ButtonOptions
+          //@ts-ignore
+          onChange={setUtility}
+          value={utility as string}
+          options={opts.map(d => ({ name: d, value: d }))}
+        />
+      </div>
+    </div>
   );
 };

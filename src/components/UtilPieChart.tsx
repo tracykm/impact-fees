@@ -7,6 +7,7 @@ import {
   TypesOfPlaces,
   UtilityDict
 } from "../types";
+import { ButtonOptions } from "./ButtonOptions";
 
 export const UtilPieChart = ({
   usedKeys,
@@ -35,15 +36,11 @@ export const UtilPieChart = ({
   return (
     <div>
       <DonutChart data={data} />
-      <select
-        onChange={({ target }) => {
-          setPropertyType(target.value as PropertyType);
-        }}
-      >
-        {TypesOfPlaces.map(d => (
-          <option value={d}>{d}</option>
-        ))}
-      </select>
+      <ButtonOptions
+        onChange={setPropertyType}
+        value={propertyType}
+        options={TypesOfPlaces.map(d => ({ name: d, value: d }))}
+      />
     </div>
   );
 };
