@@ -54,52 +54,52 @@ export const UtilityDict = {
     Icon: null
   },
   NonUtil: {
-    color: "fcbfae",
-    Icon: null
-  },
-  Roads: {
-    color: "#565154",
-    Icon: null
-  },
-  Water: {
-    color: "#268191",
-    Icon: null
-  },
-  Drain: {
-    color: "#c1f7dc",
-    Icon: null
-  },
-  GenGov: {
-    color: "#af5c63",
-    Icon: null
-  },
-  Schools: {
-    color: "#f2535b",
-    Icon: null
-  },
-  Other: {
-    color: "#eeebd3",
+    color: "#ccc",
     Icon: null
   },
   Fire: {
-    color: "#b32c33",
+    color: "#fa9a6e",
     Icon: FaFireAlt
   },
+  Roads: {
+    color: "#dc995b",
+    Icon: null
+  },
+  GenGov: {
+    color: "#bd9750",
+    Icon: null
+  },
+  Schools: {
+    color: "#9f934c",
+    Icon: null
+  },
+  Other: {
+    color: "#828e4e",
+    Icon: null
+  },
   Sewer: {
-    color: "#c1f7dc",
+    color: "#688652",
     Icon: FaWater
   },
   Library: {
-    color: "#565154",
+    color: "#517e58",
     Icon: FaBook
   },
-  Police: {
-    color: "#012f40",
-    Icon: FaShieldAlt
-  },
   Parks: {
-    color: "#012f40",
+    color: "#3e745c",
     Icon: FaTree
+  },
+  Drain: {
+    color: "#31695e",
+    Icon: null
+  },
+  Water: {
+    color: "#2a5e5d",
+    Icon: null
+  },
+  Police: {
+    color: "#2a5358",
+    Icon: FaShieldAlt
   }
 };
 

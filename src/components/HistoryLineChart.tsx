@@ -10,6 +10,7 @@ import {
 import { formatDate, formatMoney } from "./Cell";
 import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
+import { ButtonOptions } from "./ButtonOptions";
 
 export const HistoryLineChart = ({
   DataEntries,
@@ -33,6 +34,7 @@ export const HistoryLineChart = ({
   }));
   return (
     <>
+      <ButtonOptions options={opts.map(d => ({ name: d, value: d }))} />
       <select
         onChange={({ target }) => {
           setUtility(target.value as UtilityType);
