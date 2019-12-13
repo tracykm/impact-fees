@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom";
 import nestedData from "../data/cleaned/nestedData.json";
 import { JurisdictionTable } from "./JurisdictionTable";
 import { HistoryLineChart } from "./HistoryLineChart";
+import { DetailPage } from "./DetailPage";
 import { UtilPieChart } from "./UtilPieChart";
 import { getUsedKeys } from "../utils/getUsedKeys";
 import { JurisdictionData } from "../types";
@@ -25,28 +26,5 @@ export const JurisdictionPage = ({ myData }: { myData?: JurisdictionData }) => {
     ? myData
     : nestedData[name as keyof typeof nestedData];
 
-  const usedKeys = getUsedKeys(data.DataEntries);
-  return (
-    <>
-      <ChartsWrapper>
-        <h1>{name}</h1>
-        <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
-        <HistoryLineChart
-          // @ts-ignore
-          DataEntries={data.DataEntries}
-          usedKeys={usedKeys}
-        />
-      </ChartsWrapper>
-      <div className="m-4" />
-
-      <Wrapper>
-        <JurisdictionTable
-          //@ts-ignore
-          usedKeys={usedKeys}
-          //@ts-ignore
-          data={data}
-        />
-      </Wrapper>
-    </>
-  );
+  return <DetailPage data={data} headerText={name} />;
 };

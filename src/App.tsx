@@ -4,6 +4,7 @@ import { About } from "./components/About";
 import { NationalAveragesPage } from "./components/NationalAveragesPage";
 import { OverallTable } from "./components/OverallTable";
 import { JurisdictionPage } from "./components/JurisdictionPage";
+import { StateAveragesPage } from "./components/StateAveragesPage";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 
@@ -23,6 +24,9 @@ const App: React.FC = () => {
       <Switch>
         <Route path="/jurisdiction/:name">
           <JurisdictionPage />
+        </Route>
+        <Route path="/state/:state">
+          <StateAveragesPage />
         </Route>
         <Route path="/about">
           <About />
