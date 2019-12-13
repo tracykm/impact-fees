@@ -50,55 +50,55 @@ export const TypesOfPlaces: PropertyType[] = [
 
 export const UtilityDict = {
   Total: {
-    color: "black",
+    color: "#565154",
     Icon: null
   },
   NonUtil: {
-    color: "black",
+    color: "fcbfae",
     Icon: null
   },
   Roads: {
-    color: "black",
+    color: "#565154",
     Icon: null
   },
   Water: {
-    color: "black",
+    color: "#268191",
     Icon: null
   },
   Drain: {
-    color: "black",
+    color: "#c1f7dc",
     Icon: null
   },
   GenGov: {
-    color: "black",
+    color: "#af5c63",
     Icon: null
   },
   Schools: {
-    color: "black",
+    color: "#f2535b",
     Icon: null
   },
   Other: {
-    color: "black",
+    color: "#eeebd3",
     Icon: null
   },
   Fire: {
-    color: "red",
+    color: "#b32c33",
     Icon: FaFireAlt
   },
   Sewer: {
-    color: "blue",
+    color: "#c1f7dc",
     Icon: FaWater
   },
   Library: {
-    color: "blue",
+    color: "#565154",
     Icon: FaBook
   },
   Police: {
-    color: "blue",
+    color: "#012f40",
     Icon: FaShieldAlt
   },
   Parks: {
-    color: "green",
+    color: "#012f40",
     Icon: FaTree
   }
 };

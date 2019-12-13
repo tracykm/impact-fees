@@ -1,5 +1,5 @@
 import React, { PureComponent } from "react";
-import { PieChart, Pie, Sector } from "recharts";
+import { PieChart, Pie, Sector, Cell } from "recharts";
 
 // @ts-ignore
 const renderActiveShape = props => {
@@ -39,7 +39,7 @@ const renderActiveShape = props => {
         outerRadius={outerRadius}
         startAngle={startAngle}
         endAngle={endAngle}
-        fill={fill}
+        fill={"red"}
       />
       <Sector
         cx={cx}
@@ -74,9 +74,16 @@ const renderActiveShape = props => {
     </g>
   );
 };
+const RADIAN = Math.PI / 180;
+const renderCustomizedLabel = ({
+  // @ts-ignore
+  tooltipPayload
+}) => {
+  return tooltipPayload[0].name;
+};
 
 export class DonutChart extends PureComponent<{
-  data: Array<{ name: string; value: number }>;
+  data: Array<{ name: string; value: number; color: string }>;
 }> {
   state = {
     activeIndex: 0
@@ -89,21 +96,29 @@ export class DonutChart extends PureComponent<{
   };
 
   render() {
+    const { data } = this.props;
     return (
-      <PieChart width={400} height={400}>
+      <PieChart width={800} height={400} onMouseEnter={this.onPieEnter}>
         <Pie
-          activeIndex={this.state.activeIndex}
-          activeShape={renderActiveShape}
-          data={this.props.data}
-          cx={300}
-          cy={300}
+          data={data}
+          cx={120}
+          cy={200}
           innerRadius={60}
           outerRadius={80}
           fill="#8884d8"
+          paddingAngle={5}
           dataKey="value"
-          onMouseEnter={this.onPieEnter}
-        />
+          stroke={0}
+          // @ts-ignore
+          label={renderCustomizedLabel}
+        >
+          {// @ts-ignore
+          data.map((entry, index) => (
+            <Cell key={`cell-${index}`} fill={entry.color} />
+          ))}
+        </Pie>
       </PieChart>
     );
   }
 }
+// data.map((entry, index) => <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />)

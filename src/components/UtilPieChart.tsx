@@ -1,7 +1,12 @@
 import React, { useState } from "react";
 import { DonutChart } from "./DonutChart";
 import { UsedKeys } from "../utils/getUsedKeys";
-import { JurisdictionData, PropertyType, TypesOfPlaces } from "../types";
+import {
+  JurisdictionData,
+  PropertyType,
+  TypesOfPlaces,
+  UtilityDict
+} from "../types";
 
 export const UtilPieChart = ({
   usedKeys,
@@ -13,19 +18,23 @@ export const UtilPieChart = ({
   const [propertyType, setPropertyType] = useState(
     "SingleFamily" as PropertyType
   );
-  // @ts-ignore
-  const data: { name: string; value: number }[] = usedKeys.SingleFamily.filter(
-    d => d !== "Total"
-  ).map(
+  const data: {
+    name: string;
+    value: number;
+    color: string;
+    // @ts-ignore
+  }[] = usedKeys.SingleFamily.filter(d => d !== "Total").map(
     // @ts-ignore
     name => ({
       name,
       // @ts-ignore
-      value: DataEntries[0][propertyType][name]
+      value: DataEntries[0][propertyType][name],
+      color: UtilityDict[name].color
     })
   );
   return (
     <div>
+      <DonutChart data={data} />
       <select
         onChange={({ target }) => {
           setPropertyType(target.value as PropertyType);
@@ -35,7 +44,6 @@ export const UtilPieChart = ({
           <option value={d}>{d}</option>
         ))}
       </select>
-      <DonutChart data={data} />
     </div>
   );
 };
