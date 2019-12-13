@@ -8,16 +8,8 @@ import {
   CartesianGrid
 } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
-import { JurisdictionData, UtilityType } from "../types";
-import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
-
-const TypesOfPlaces = [
-  "SingleFamily",
-  "MultiFamily",
-  "Retail",
-  "Office",
-  "Industrial"
-];
+import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
+import { UsedKeys } from "../utils/getUsedKeys";
 
 export const HistoryLineChart = ({
   DataEntries,
@@ -70,8 +62,8 @@ export const HistoryLineChart = ({
         />
         <YAxis />
         <Tooltip formatter={formatMoney} />
-        {TypesOfPlaces.map(utilityName => (
-          <Line type="monotone" dataKey={utilityName} stroke="#8884d8" />
+        {TypesOfPlaces.map(propertyType => (
+          <Line type="monotone" dataKey={propertyType} stroke="#8884d8" />
         ))}
       </LineChart>
     </>

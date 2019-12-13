@@ -1,3 +1,11 @@
+import {
+  FaFireAlt,
+  FaTree,
+  FaWater,
+  FaBook,
+  FaShieldAlt
+} from "react-icons/fa";
+
 export interface JurisdictionData {
   State: string;
   County: string;
@@ -31,3 +39,69 @@ export interface UtilityBreakDown {
   Schools?: number;
   Other?: number;
 }
+
+export const TypesOfPlaces: PropertyType[] = [
+  "SingleFamily",
+  "MultiFamily",
+  "Retail",
+  "Office",
+  "Industrial"
+];
+
+export const UtilityDict = {
+  Total: {
+    color: "black",
+    Icon: null
+  },
+  NonUtil: {
+    color: "black",
+    Icon: null
+  },
+  Roads: {
+    color: "black",
+    Icon: null
+  },
+  Water: {
+    color: "black",
+    Icon: null
+  },
+  Drain: {
+    color: "black",
+    Icon: null
+  },
+  GenGov: {
+    color: "black",
+    Icon: null
+  },
+  Schools: {
+    color: "black",
+    Icon: null
+  },
+  Other: {
+    color: "black",
+    Icon: null
+  },
+  Fire: {
+    color: "red",
+    Icon: FaFireAlt
+  },
+  Sewer: {
+    color: "blue",
+    Icon: FaWater
+  },
+  Library: {
+    color: "blue",
+    Icon: FaBook
+  },
+  Police: {
+    color: "blue",
+    Icon: FaShieldAlt
+  },
+  Parks: {
+    color: "green",
+    Icon: FaTree
+  }
+};
+
+// @ts-ignore
+export const TypesOfUtilities: UtilityType[] = Object.keys(UtilityDict);
