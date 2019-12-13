@@ -41,15 +41,13 @@ export const HistoryLineChart = ({
     Updated: d.Updated
   }));
   return (
-    <div style={{ width: "900px" }}>
+    <div className="d-inline-block">
       <LineChart
-        width={900}
+        width={600}
         height={400}
         data={data}
         margin={{
-          top: 5,
-          left: 100,
-          bottom: 5
+          bottom: 10
         }}
       >
         <XAxis
@@ -60,7 +58,7 @@ export const HistoryLineChart = ({
           type="number"
           domain={["auto", "auto"]}
         />
-        <YAxis />
+        <YAxis tickFormatter={formatMoney} />
         <Tooltip formatter={formatMoney} />
         {TypesOfPlaces.map(propertyType => (
           <Line

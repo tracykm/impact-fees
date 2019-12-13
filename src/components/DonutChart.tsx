@@ -23,19 +23,21 @@ export class DonutChart extends PureComponent<{
 
   render() {
     const { data } = this.props;
+    const width = 400;
+    const height = 400;
     return (
       <PieChart
         className="piechart"
-        width={800}
-        height={400}
+        width={width}
+        height={height}
         onMouseEnter={this.onPieEnter}
       >
         <Pie
           data={data}
-          cx={120}
-          cy={200}
-          innerRadius={60}
-          outerRadius={80}
+          cx={width / 2}
+          cy={height / 2}
+          innerRadius={120}
+          outerRadius={140}
           fill="#8884d8"
           paddingAngle={5}
           dataKey="value"

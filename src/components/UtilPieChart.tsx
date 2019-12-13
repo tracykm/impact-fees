@@ -34,7 +34,7 @@ export const UtilPieChart = ({
     })
   );
   return (
-    <div>
+    <div className="d-inline-block mr-5">
       <DonutChart data={data} />
       <ButtonOptions
         onChange={setPropertyType}

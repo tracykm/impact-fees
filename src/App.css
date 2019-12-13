@@ -19,6 +19,8 @@ body {
   border-color: #ccc;
 }
 
-.piechart tspan {
-  font-size: 12px;
+.piechart tspan,
+.xAxis,
+.yAxis {
+  font-size: 14px;
 }

@@ -11,7 +11,7 @@ const Wrapper = styled.div`
   margin: 1rem;
 `;
 
-export const Jurisdiction = () => {
+export const JurisdictionPage = () => {
   const { name } = useParams();
   // @ts-ignore
   const data: JurisdictionData = nestedData[name as keyof typeof nestedData];
@@ -19,6 +19,13 @@ export const Jurisdiction = () => {
   return (
     <Wrapper>
       <h1>{name}</h1>
+      <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
+      <HistoryLineChart
+        // @ts-ignore
+        DataEntries={data.DataEntries}
+        usedKeys={usedKeys}
+      />
+      <div className="m-4" />
 
       <JurisdictionTable
         //@ts-ignore
@@ -26,14 +33,6 @@ export const Jurisdiction = () => {
         //@ts-ignore
         data={data}
       />
-
-      <HistoryLineChart
-        // @ts-ignore
-        DataEntries={data.DataEntries}
-        usedKeys={usedKeys}
-      />
-
-      <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
     </Wrapper>
   );
 };
