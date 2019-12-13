@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { ButtonGroup, Button } from "reactstrap";
 
 export const ButtonOptions = ({
@@ -10,7 +10,6 @@ export const ButtonOptions = ({
   onChange: (val: any) => void;
   value: string;
 }) => {
-  const [selected, setSelected] = useState("");
   return (
     <ButtonGroup>
       {options.map(d => (

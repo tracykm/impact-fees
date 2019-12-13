@@ -1,7 +1,7 @@
 import React from "react";
 import { Table } from "./Table";
 import { DetailColumns } from "./columns";
-import { DollarCell, DateCell } from "./Cell";
+import { DateCell } from "./Cell";
 import { Link } from "react-router-dom";
 import data from "../data/cleaned/nestedData.json";
 const dataJS = Object.values(data);

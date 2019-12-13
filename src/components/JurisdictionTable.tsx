@@ -3,7 +3,7 @@ import { DetailColumns } from "./columns";
 import { Table } from "./Table";
 import { DateCell } from "./Cell";
 import { JurisdictionData } from "../types";
-import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
+import { UsedKeys } from "../utils/getUsedKeys";
 
 export const JurisdictionTable = ({
   data,

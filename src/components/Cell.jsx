@@ -38,9 +38,9 @@ export function formatDate(date) {
     "Dec"
   ];
 
-  var day = date.getDate();
+  // var day = date.getDate();
+  // var year = String(date.getFullYear()).slice(2);
   var monthIndex = date.getMonth();
-  var year = String(date.getFullYear()).slice(2);
 
   return `${monthNames[monthIndex]} ${date.getFullYear()}`;
 }

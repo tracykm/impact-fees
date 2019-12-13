@@ -5,7 +5,7 @@ import nestedData from "../data/cleaned/nestedData.json";
 import { JurisdictionTable } from "./JurisdictionTable";
 import { HistoryLineChart } from "./HistoryLineChart";
 import { UtilPieChart } from "./UtilPieChart";
-import { getUsedKeys, UsedKeys } from "../utils/getUsedKeys";
+import { getUsedKeys } from "../utils/getUsedKeys";
 import { JurisdictionData } from "../types";
 const Wrapper = styled.div`
   margin: 1rem;

@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  FaFireAlt,
-  FaTree,
-  FaWater,
-  FaBook,
-  FaShieldAlt
-} from "react-icons/fa";
-import { DollarCell, DateCell } from "./Cell";
+import { DollarCell } from "./Cell";
 import { UtilityDict } from "../types";
 
 const ColHeader = ({ name }: { name: string }) => {

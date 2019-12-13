@@ -1,12 +1,5 @@
 import React, { useState } from "react";
-import {
-  LineChart,
-  Tooltip,
-  Line,
-  XAxis,
-  YAxis,
-  CartesianGrid
-} from "recharts";
+import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
 import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
