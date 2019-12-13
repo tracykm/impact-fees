@@ -31,12 +31,11 @@ export function OverallTable() {
           {
             Header: "State",
             accessor: "State",
-            width: 80
+            width: 50
           },
           {
             Header: "County",
-            accessor: "County",
-            width: 200
+            accessor: "County"
           },
           {
             Header: "Jurisdiction",
@@ -51,8 +50,7 @@ export function OverallTable() {
                   </div>
                 </Link>
               );
-            },
-            width: 300
+            }
           },
           {
             Header: "Updated",

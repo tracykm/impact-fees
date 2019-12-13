@@ -3,7 +3,12 @@ import {
   FaTree,
   FaWater,
   FaBook,
-  FaShieldAlt
+  FaShieldAlt,
+  FaRoad,
+  FaBuilding,
+  FaSchool,
+  FaWaveSquare,
+  FaShower
 } from "react-icons/fa";
 
 export interface JurisdictionData {
@@ -63,23 +68,19 @@ export const UtilityDict = {
   },
   Roads: {
     color: "#cdf377",
-    Icon: null
+    Icon: FaRoad
   },
   GenGov: {
     color: "#a3ea83",
-    Icon: null
+    Icon: FaBuilding
   },
   Schools: {
     color: "#7cde91",
-    Icon: null
-  },
-  Other: {
-    color: "#56d19d",
-    Icon: null
+    Icon: FaSchool
   },
   Sewer: {
     color: "#31c3a6",
-    Icon: FaWater
+    Icon: FaWaveSquare
   },
   Library: {
     color: "#09b4ac",
@@ -91,15 +92,19 @@ export const UtilityDict = {
   },
   Drain: {
     color: "#2094a7",
-    Icon: null
+    Icon: FaShower
   },
   Water: {
     color: "#36849d",
-    Icon: null
+    Icon: FaWater
   },
   Police: {
     color: "#44748e",
     Icon: FaShieldAlt
+  },
+  Other: {
+    color: "#56d19d",
+    Icon: null
   }
 };
 

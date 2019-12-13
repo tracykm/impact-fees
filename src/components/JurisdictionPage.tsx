@@ -9,6 +9,13 @@ import { getUsedKeys } from "../utils/getUsedKeys";
 import { JurisdictionData } from "../types";
 const Wrapper = styled.div`
   margin: 1rem;
+  width: 100%;
+  overflow-x: auto;
+`;
+
+const ChartsWrapper = styled.div`
+  width: 1250px;
+  margin: auto;
 `;
 
 export const JurisdictionPage = () => {
@@ -17,22 +24,26 @@ export const JurisdictionPage = () => {
   const data: JurisdictionData = nestedData[name as keyof typeof nestedData];
   const usedKeys = getUsedKeys(data.DataEntries);
   return (
-    <Wrapper>
-      <h1>{name}</h1>
-      <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
-      <HistoryLineChart
-        // @ts-ignore
-        DataEntries={data.DataEntries}
-        usedKeys={usedKeys}
-      />
+    <>
+      <ChartsWrapper>
+        <h1>{name}</h1>
+        <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
+        <HistoryLineChart
+          // @ts-ignore
+          DataEntries={data.DataEntries}
+          usedKeys={usedKeys}
+        />
+      </ChartsWrapper>
       <div className="m-4" />
 
-      <JurisdictionTable
-        //@ts-ignore
-        usedKeys={usedKeys}
-        //@ts-ignore
-        data={data}
-      />
-    </Wrapper>
+      <Wrapper>
+        <JurisdictionTable
+          //@ts-ignore
+          usedKeys={usedKeys}
+          //@ts-ignore
+          data={data}
+        />
+      </Wrapper>
+    </>
   );
 };

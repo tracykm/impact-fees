@@ -4,7 +4,7 @@ import styled from "styled-components";
 const TableStyles = styled.div`
   .pagination {
     padding: 0.5rem;
-    font-size: 16px;
+    font-size: 14px;
     position: fixed;
     bottom: 0;
     background: #1b1d20;
@@ -41,6 +41,7 @@ const TableStyles = styled.div`
       top: 0;
       display: block;
       z-index: 5;
+      text-align: center;
     }
     tbody {
       font-family: monospace;
