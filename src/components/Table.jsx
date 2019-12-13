@@ -13,8 +13,9 @@ const SearchBar = ({ columns }) => {
   const [columnFilter, setColumnFilter] = useState(2);
   const currentCol = columns[0].columns[columnFilter];
   return (
-    <div>
+    <div className="input-group" style={{ width: "300px" }}>
       <select
+        className="custom-select"
         onChange={e => {
           columns[0].columns[Number(e.target.value)].setFilter(
             currentCol.filterValue
@@ -28,6 +29,7 @@ const SearchBar = ({ columns }) => {
         <option value="0">State</option>
       </select>
       <input
+        className="input-group-append form-control"
         onChange={e => {
           currentCol.setFilter(e.target.value);
         }}
@@ -114,30 +116,46 @@ export function Table({ columns, data, hasPagination }) {
       */}
       {hasPagination ? (
         <div className="pagination">
-          <button onClick={() => gotoPage(0)} disabled={!canPreviousPage}>
-            {"<<"}
-          </button>{" "}
-          <button onClick={() => previousPage()} disabled={!canPreviousPage}>
-            {"<"}
-          </button>{" "}
-          <button onClick={() => nextPage()} disabled={!canNextPage}>
-            {">"}
-          </button>{" "}
-          <button
-            onClick={() => gotoPage(pageCount - 1)}
-            disabled={!canNextPage}
-          >
-            {">>"}
-          </button>{" "}
-          <span>
+          <div className="btn-group">
+            <button
+              className="btn btn-outline-secondary"
+              onClick={() => gotoPage(0)}
+              disabled={!canPreviousPage}
+            >
+              {"<<"}
+            </button>{" "}
+            <button
+              className="btn btn-outline-secondary"
+              onClick={() => previousPage()}
+              disabled={!canPreviousPage}
+            >
+              {"<"}
+            </button>{" "}
+            <button
+              className="btn btn-outline-secondary"
+              onClick={() => nextPage()}
+              disabled={!canNextPage}
+            >
+              {">"}
+            </button>{" "}
+            <button
+              className="btn btn-outline-secondary"
+              onClick={() => gotoPage(pageCount - 1)}
+              disabled={!canNextPage}
+            >
+              {">>"}
+            </button>{" "}
+          </div>
+          <span className="px-2">
             Page{" "}
             <strong>
               {pageIndex + 1} of {pageOptions.length}
             </strong>{" "}
           </span>
-          <span>
-            | Go to page:{" "}
+          <span className="px-2">| Go to page: </span>
+          <span className="px-2">
             <input
+              className="form-control"
               type="number"
               defaultValue={pageIndex + 1}
               onChange={e => {
@@ -148,6 +166,7 @@ export function Table({ columns, data, hasPagination }) {
             />
           </span>{" "}
           <select
+            className="selectpicker"
             value={pageSize}
             onChange={e => {
               setPageSize(Number(e.target.value));

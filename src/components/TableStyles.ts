@@ -1,5 +1,6 @@
 import styled from "styled-components";
 
+// can't figure out how to get a class on the base "tr" or "td" to target properly
 const TableStyles = styled.div`
   .pagination {
     padding: 0.5rem;
@@ -8,6 +9,13 @@ const TableStyles = styled.div`
     bottom: 0;
     background: #1b1d20;
     width: 100%;
+    z-index: 2;
+
+    .btn-group,
+    .selectpicker,
+    .form-control {
+      height: 2em;
+    }
   }
 
   svg {
@@ -37,12 +45,6 @@ const TableStyles = styled.div`
     tbody {
       font-family: monospace;
       text-align: right;
-    }
-
-    td:nth-child(3) {
-      position: sticky;
-      left: 0;
-      background-color: #25282e;
     }
 
     tr {

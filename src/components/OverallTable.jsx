@@ -4,6 +4,22 @@ import { DetailColumns } from "./columns";
 import { DateCell } from "./Cell";
 import { Link } from "react-router-dom";
 import data from "../data/cleaned/nestedData.json";
+import styled from "styled-components";
+
+// to make Jurisdiction sticky but not detail 3rd row
+const Wrapper = styled.div`
+  td:nth-child(3),
+  tr:nth-child(2) th:nth-child(3) {
+    position: sticky;
+    left: 0;
+    background-color: #25282e;
+    z-index: 1;
+  }
+  tr:nth-child(2) th:nth-child(3) {
+    background-color: #1b1d20;
+  }
+`;
+
 const dataJS = Object.values(data);
 const path = "DataEntries[1].";
 export function OverallTable() {
@@ -71,5 +87,9 @@ export function OverallTable() {
 
   const data = React.useMemo(() => dataJS, []);
 
-  return <Table columns={columns} data={data} hasPagination />;
+  return (
+    <Wrapper>
+      <Table columns={columns} data={data} hasPagination />
+    </Wrapper>
+  );
 }
