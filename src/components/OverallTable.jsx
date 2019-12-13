@@ -31,7 +31,10 @@ export function OverallTable() {
           {
             Header: "State",
             accessor: "State",
-            width: 50
+            width: 50,
+            Cell: ({ cell }) => {
+              return <Link to={`state/${cell.value}`}>{cell.value}</Link>;
+            }
           },
           {
             Header: "County",
@@ -43,7 +46,7 @@ export function OverallTable() {
             className: "jurisdiction",
             Cell: ({ cell }) => {
               return (
-                <Link to={`Jurisdiction/${cell.value}`}>
+                <Link to={`jurisdiction/${cell.value}`}>
                   {cell.value}
                   <div className="light-text">
                     {cell.row.original.County}, {cell.row.original.State}
