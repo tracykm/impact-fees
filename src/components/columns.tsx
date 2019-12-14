@@ -3,7 +3,6 @@ import { DollarCell } from "./Cell";
 import { UtilityDict } from "../types";
 
 const ColHeader = ({ name }: { name: string }) => {
-  // @ts-ignore
   const Icon = UtilityDict[name].Icon;
   if (!Icon) return <div>{name}</div>;
   return (

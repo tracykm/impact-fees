@@ -24,7 +24,6 @@ export const UtilPieChart = ({
     "SingleFamily" as PropertyType
   );
   const [yearIdx, setYear] = useState(0);
-  // @ts-ignore
   const data: {
     name: string;
     value: number;
@@ -32,15 +31,11 @@ export const UtilPieChart = ({
     // @ts-ignore
   }[] = usedKeys.SingleFamily.filter(
     d => d !== "Total" && !!UtilityDict[d] // filter out things like TotalNotes
-  ).map(
-    // @ts-ignore
-    name => ({
-      name,
-      // @ts-ignore
-      value: DataEntries[yearIdx][propertyType][name],
-      color: UtilityDict[name].color
-    })
-  );
+  ).map(name => ({
+    name,
+    value: DataEntries[yearIdx][propertyType][name],
+    color: UtilityDict[name].color
+  }));
   return (
     <div className="d-inline-block mr-5 text-center">
       <DonutChart data={data} />

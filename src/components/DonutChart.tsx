@@ -1,10 +1,7 @@
 import React, { PureComponent } from "react";
 import { PieChart, Pie, Cell } from "recharts";
 
-const renderCustomizedLabel = ({
-  // @ts-ignore
-  tooltipPayload
-}) => {
+const renderCustomizedLabel = ({ tooltipPayload }) => {
   return tooltipPayload[0].name;
 };
 
@@ -14,7 +11,6 @@ export class DonutChart extends PureComponent<{
   state = {
     activeIndex: 0
   };
-  // @ts-ignore
   onPieEnter = (data, index) => {
     this.setState({
       activeIndex: index

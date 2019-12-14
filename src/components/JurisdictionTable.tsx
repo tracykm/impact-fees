@@ -64,6 +64,7 @@ export const JurisdictionTable = ({
     }
   ];
 
-  //@ts-ignore
-  return <Table columns={columns} data={data.DataEntries} />;
+  return (
+    <Table columns={columns} data={data.DataEntries} hasPagination={false} />
+  );
 };

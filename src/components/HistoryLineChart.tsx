@@ -21,9 +21,7 @@ export const HistoryLineChart = ({
   const opts: string[] = Object.keys(
     Object.values(usedKeys)
       .flat()
-      // @ts-ignore
       .reduce((acc, k) => {
-        // @ts-ignore
         acc[k] = k; // remove duplicates
         return acc;
       }, {})
@@ -68,7 +66,6 @@ export const HistoryLineChart = ({
       </LineChart>
       <div className="text-center">
         <ButtonsOrDropdown
-          //@ts-ignore
           onChange={setUtility}
           value={utility as string}
           options={opts.map(d => ({ name: d, value: d }))}
