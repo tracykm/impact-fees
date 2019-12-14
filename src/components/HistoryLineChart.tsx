@@ -3,7 +3,7 @@ import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
 import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
-import { Dropdown } from "./Dropdown";
+import { ButtonsOrDropdown } from "./ButtonsOrDropdown";
 
 export const HistoryLineChart = ({
   DataEntries,
@@ -23,7 +23,6 @@ export const HistoryLineChart = ({
         return acc;
       }, {})
   );
-  // debugger;
 
   const data = DataEntries.map(d => ({
     SingleFamily: d.SingleFamily[utility],
@@ -63,7 +62,7 @@ export const HistoryLineChart = ({
         ))}
       </LineChart>
       <div className="text-center">
-        <Dropdown
+        <ButtonsOrDropdown
           //@ts-ignore
           onChange={setUtility}
           value={utility as string}

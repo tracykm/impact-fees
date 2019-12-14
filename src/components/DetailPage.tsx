@@ -12,7 +12,7 @@ const Wrapper = styled.div`
 `;
 
 const ChartsWrapper = styled.div`
-  width: 1250px;
+  width: 1100px;
   margin: auto;
 `;
 
@@ -23,7 +23,6 @@ export const DetailPage = ({
   data: JurisdictionData;
   headerText?: string;
 }) => {
-  debugger;
   const usedKeys = getUsedKeys(data.DataEntries);
   return (
     <>

@@ -14,17 +14,18 @@ export function getAverages(filterFunc) {
       TypesOfPlaces.forEach(property => {
         acc[year][property] = acc[year][property] || {};
         TypesOfUtilities.forEach(utilityName => {
-          // debugger;
           acc[year][property][utilityName] = acc[year][property][
             utilityName
           ] || {
             total: 0,
-            num: 0
+            num: 0,
+            jurisdictions: []
           };
           if (entry[property][utilityName]) {
             acc[year][property][utilityName].total +=
               entry[property][utilityName];
             acc[year][property][utilityName].num += 1;
+            acc[year][property][utilityName].jurisdictions.push(d.Jurisdiction);
           }
         });
       });
@@ -33,11 +34,21 @@ export function getAverages(filterFunc) {
   }, {});
 
   const DataEntries = [];
+  const sampleSize = [];
 
   Object.keys(averagesForUtils).map(year => {
     if (averagesForUtils[year].SingleFamily.Total.num < 5) {
       return;
     }
+    const sampleSizeForYear = {};
+    TypesOfUtilities.forEach(util => {
+      sampleSizeForYear[util] = {
+        year,
+        num: averagesForUtils[year].SingleFamily[util].num,
+        jurisdictions: averagesForUtils[year].SingleFamily[util].jurisdictions
+      };
+    });
+    sampleSize.push(sampleSizeForYear);
     DataEntries.push({
       Updated: Number(new Date(`June ${year}`)),
       SingleFamily: objectMap(
@@ -56,5 +67,5 @@ export function getAverages(filterFunc) {
       )
     });
   });
-  return DataEntries;
+  return { DataEntries, sampleSize };
 }

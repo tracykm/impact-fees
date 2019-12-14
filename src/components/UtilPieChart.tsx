@@ -7,7 +7,7 @@ import {
   TypesOfPlaces,
   UtilityDict
 } from "../types";
-import { ButtonOptions } from "./ButtonOptions";
+import { ButtonsOrDropdown } from "./ButtonsOrDropdown";
 
 export const UtilPieChart = ({
   usedKeys,
@@ -29,7 +29,9 @@ export const UtilPieChart = ({
     value: number;
     color: string;
     // @ts-ignore
-  }[] = usedKeys.SingleFamily.filter(d => d !== "Total").map(
+  }[] = usedKeys.SingleFamily.filter(
+    d => d !== "Total" && !!UtilityDict[d] // filter out things like TotalNotes
+  ).map(
     // @ts-ignore
     name => ({
       name,
@@ -41,9 +43,13 @@ export const UtilPieChart = ({
   return (
     <div className="d-inline-block mr-5 text-center">
       <DonutChart data={data} />
-      <ButtonOptions onChange={setYear} value={yearIdx} options={yearsUsed} />
+      <ButtonsOrDropdown
+        onChange={setYear}
+        value={yearIdx}
+        options={yearsUsed}
+      />
       <br />
-      <ButtonOptions
+      <ButtonsOrDropdown
         onChange={setPropertyType}
         value={propertyType}
         options={TypesOfPlaces.map(d => ({ name: d, value: d }))}

@@ -11,6 +11,7 @@ export const Dropdown = ({
 }) => {
   return (
     <select
+      style={{ width: "initial" }}
       className="custom-select"
       value={value}
       onChange={e => {

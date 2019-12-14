@@ -1,11 +1,15 @@
 export const DollarCell = ({ cell }) => {
-  if (cell.value) {
-    return formatMoney(cell.value);
-  }
-  return null;
+  // if(cell.row.original.)
+  const id = cell.column.id.split(".");
+  const notes =
+    (cell.row.original[id[0]] && cell.row.original[id[0]][id[1] + "Notes"]) ||
+    "";
+
+  return `${formatMoney(cell.value)} ${notes}`;
 };
 
 export function formatMoney(value) {
+  if (value === undefined) return "";
   return (
     "$" +
     value

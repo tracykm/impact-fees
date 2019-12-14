@@ -46,7 +46,9 @@ export function OverallTable() {
             className: "jurisdiction",
             Cell: ({ cell }) => {
               return (
-                <Link to={`jurisdiction/${cell.value}`}>
+                <Link
+                  to={`/state/${cell.row.original.State}/jurisdiction/${cell.value}`}
+                >
                   {cell.value}
                   <div className="light-text">
                     {cell.row.original.County}, {cell.row.original.State}
