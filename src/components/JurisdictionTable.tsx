@@ -18,6 +18,15 @@ export const JurisdictionTable = ({
       accessor: "Updated",
       Cell: DateCell
     },
+    ...(data.DataEntries[0].SampleSize
+      ? [
+          {
+            Header: "Sample Size",
+            accessor: "SampleSize",
+            width: 70
+          }
+        ]
+      : []),
     {
       Header: "Single Family",
       columns: DetailColumns({

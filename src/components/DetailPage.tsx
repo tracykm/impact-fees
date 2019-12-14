@@ -21,13 +21,13 @@ export const DetailPage = ({
   headerText
 }: {
   data: JurisdictionData;
-  headerText?: string;
+  headerText?: string | JSX.Element;
 }) => {
   const usedKeys = getUsedKeys(data.DataEntries);
   return (
     <>
       <ChartsWrapper>
-        <h1>{headerText}</h1>
+        {headerText}
         <UtilPieChart DataEntries={data.DataEntries} usedKeys={usedKeys} />
         <HistoryLineChart
           // @ts-ignore

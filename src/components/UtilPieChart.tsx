@@ -24,6 +24,7 @@ export const UtilPieChart = ({
     "SingleFamily" as PropertyType
   );
   const [yearIdx, setYear] = useState(0);
+  // @ts-ignore
   const data: {
     name: string;
     value: number;

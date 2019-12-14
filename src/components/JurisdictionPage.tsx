@@ -11,5 +11,17 @@ export const JurisdictionPage = ({ myData }: { myData?: JurisdictionData }) => {
     ? myData
     : nestedData[name as keyof typeof nestedData];
 
-  return <DetailPage data={data} headerText={name} />;
+  return (
+    <DetailPage
+      data={data}
+      headerText={
+        <div>
+          <h1>{name}</h1>
+          <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
+            {data.County}, {data.State}
+          </div>
+        </div>
+      }
+    />
+  );
 };

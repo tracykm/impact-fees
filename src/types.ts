@@ -19,6 +19,7 @@ export interface JurisdictionData {
 }
 export type DataEntry = {
   Updated: number;
+  SampleSize?: number;
   RecordedAt: string;
   SingleFamily: UtilityBreakDown;
   MultiFamily: UtilityBreakDown;
@@ -26,7 +27,12 @@ export type DataEntry = {
   Office: UtilityBreakDown;
   Industrial: UtilityBreakDown;
 };
-export type PropertyType = keyof DataEntry;
+export type PropertyType =
+  | "SingleFamily"
+  | "MultiFamily"
+  | "Retail"
+  | "Office"
+  | "Industrial";
 export type UtilityType = keyof UtilityBreakDown;
 
 export interface UtilityBreakDown {
@@ -45,13 +51,25 @@ export interface UtilityBreakDown {
   Other?: number;
 }
 
-export const TypesOfPlaces: PropertyType[] = [
-  "SingleFamily",
-  "MultiFamily",
-  "Retail",
-  "Office",
-  "Industrial"
-];
+export const PropertyDict: { [k in PropertyType]: { color: string } } = {
+  SingleFamily: {
+    color: "#a3ea83"
+  },
+  MultiFamily: {
+    color: "#31c3a6"
+  },
+  Retail: {
+    color: "#01a4ac"
+  },
+  Office: {
+    color: "#36849d"
+  },
+  Industrial: {
+    color: "#56d19d"
+  }
+};
+// @ts-ignore
+export const TypesOfPlaces: PropertyType[] = Object.keys(PropertyDict);
 
 export const UtilityDict = {
   Total: {

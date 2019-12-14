@@ -1,7 +1,12 @@
 import React, { useState } from "react";
 import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
 import { formatDate, formatMoney } from "./Cell";
-import { JurisdictionData, UtilityType, TypesOfPlaces } from "../types";
+import {
+  JurisdictionData,
+  UtilityType,
+  TypesOfPlaces,
+  PropertyDict
+} from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
 import { ButtonsOrDropdown } from "./ButtonsOrDropdown";
 
@@ -57,7 +62,7 @@ export const HistoryLineChart = ({
             type="monotone"
             key={propertyType}
             dataKey={propertyType}
-            stroke="#3e745c"
+            stroke={PropertyDict[propertyType].color || ""}
           />
         ))}
       </LineChart>

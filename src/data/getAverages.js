@@ -8,7 +8,7 @@ export function getAverages(filterFunc) {
   const averagesForUtils = Object.values(data).reduce((acc, d) => {
     if (!filterFunc(d)) return acc;
     d.DataEntries.forEach(entry => {
-      if (!entry.Updated) return;
+      //   if (!entry.Updated) return;
       const year = String(new Date(entry.Updated).getFullYear());
       acc[year] = acc[year] || {};
       TypesOfPlaces.forEach(property => {
@@ -51,6 +51,7 @@ export function getAverages(filterFunc) {
     sampleSize.push(sampleSizeForYear);
     DataEntries.push({
       Updated: Number(new Date(`June ${year}`)),
+      SampleSize: averagesForUtils[year].SingleFamily.Total.num,
       SingleFamily: objectMap(
         averagesForUtils[year].SingleFamily,
         d => d.total / d.num
@@ -67,5 +68,8 @@ export function getAverages(filterFunc) {
       )
     });
   });
-  return { DataEntries, sampleSize };
+  return {
+    DataEntries: DataEntries.sort((d1, d2) => d2.Updated - d1.Updated),
+    sampleSize
+  };
 }

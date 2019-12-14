@@ -6,7 +6,8 @@ body {
 
 .light-text {
   opacity: 0.3;
-  font-size: 0.5em;
+  font-size: 0.7em;
+  font-weight: 900;
 }
 
 .btn-outline-primary {
@@ -17,6 +18,10 @@ body {
 .btn-outline-primary:hover {
   background: #ccc;
   border-color: #ccc;
+}
+
+a {
+  color: #56d19d;
 }
 
 .piechart tspan,

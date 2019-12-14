@@ -7,6 +7,7 @@ export const StateAveragesPage = () => {
   const { state } = useParams();
 
   const { DataEntries, sampleSize } = getAverages(d => d.State === state);
+  debugger;
 
   if (!sampleSize[0] || !sampleSize[0].Total.num)
     return (
@@ -29,7 +30,7 @@ export const StateAveragesPage = () => {
         headerText={
           <>
             <h1>{state}</h1>
-            <div style={{ fontSize: ".5em", opacity: 0.5, marginTop: "-.5em" }}>
+            <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
               Sample size: {sampleSize[0].Total.num}
             </div>
           </>
