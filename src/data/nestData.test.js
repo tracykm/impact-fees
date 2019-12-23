@@ -59,7 +59,7 @@ it("nestData", () => {
     }
   ];
   expect(nestData({ s2011, s2012 })).toEqual({
-    Lowell: {
+    ARLowell: {
       State: "AR",
       County: "Benton",
       Jurisdiction: "Lowell",

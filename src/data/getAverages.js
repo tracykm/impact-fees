@@ -47,7 +47,7 @@ function getAverages(filterFunc, data) {
   const sampleSize = [];
 
   Object.keys(averagesForUtils).map(year => {
-    if (averagesForUtils[year].SingleFamily.Total.num < 5) {
+    if (averagesForUtils[year].SingleFamily.Total.num < 0) {
       return;
     }
     const sampleSizeForYear = {};

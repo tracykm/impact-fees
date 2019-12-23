@@ -5,11 +5,11 @@ import { DetailPage } from "./DetailPage";
 import { JurisdictionData } from "../types";
 
 export const JurisdictionPage = ({ myData }: { myData?: JurisdictionData }) => {
-  const { name } = useParams();
+  const { name, state } = useParams();
   // @ts-ignore
   const data: JurisdictionData = myData
     ? myData
-    : nestedData[name as keyof typeof nestedData];
+    : nestedData[(state + name) as keyof typeof nestedData];
 
   return (
     <DetailPage

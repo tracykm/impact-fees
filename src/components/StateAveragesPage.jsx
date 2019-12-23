@@ -23,6 +23,19 @@ export const StateAveragesPage = () => {
     );
   const myData = { DataEntries, Jurisdiction: "Averages" };
 
+  const sampleSizes = DataEntries.map(s => s.SampleSize);
+  const min = Math.min(...sampleSizes);
+  const max = Math.max(...sampleSizes);
+
+  const jurisdictions = Object.keys(
+    DataEntries.reduce((acc, d) => {
+      d.SampleJurisdictions.forEach(j => {
+        acc[j] = true;
+      });
+      return acc;
+    }, {})
+  );
+
   return (
     <>
       <DetailPage
@@ -31,13 +44,13 @@ export const StateAveragesPage = () => {
           <>
             <h1>{STATES.find(s => s.short_name === state).name}</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
-              Sample size: {DataEntries[0].SampleSize}
+              Sample size: {min === max ? min : `${min}-${max}`}
             </div>
           </>
         }
       />
-      Jurisdictions:
-      {DataEntries[0].SampleJurisdictions.sort().map(j => (
+      {jurisdictions.length} Jurisdictions:
+      {jurisdictions.sort().map(j => (
         <Link className="p-2" to={`/state/${state}/jurisdiction/${j}`}>
           {j}{" "}
         </Link>

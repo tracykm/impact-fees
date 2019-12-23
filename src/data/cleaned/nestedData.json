@@ -1,5 +1,5 @@
 {
-  "Bentonville": {
+  "ARBentonville": {
     "Jurisdiction": "Bentonville",
     "County": "Benton",
     "State": "AR",
@@ -209,7 +209,7 @@
       }
     ]
   },
-  "Lowell": {
+  "ARLowell": {
     "Jurisdiction": "Lowell",
     "County": "Benton",
     "State": "AR",
@@ -386,7 +386,7 @@
       }
     ]
   },
-  "Conway": {
+  "ARConway": {
     "Jurisdiction": "Conway",
     "County": "Faulkner",
     "State": "AR",
@@ -548,7 +548,7 @@
       }
     ]
   },
-  "Fayetteville": {
+  "ARFayetteville": {
     "Jurisdiction": "Fayetteville",
     "County": "Washington",
     "State": "AR",
@@ -779,1258 +779,9 @@
     "Jurisdiction": "",
     "County": "",
     "State": "",
-    "DataEntries": [
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
-        "SingleFamily": {},
-        "MultiFamily": {},
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      }
-    ]
+    "DataEntries": []
   },
-  "Sierra Vista": {
+  "AZSierra Vista": {
     "Jurisdiction": "Sierra Vista",
     "County": "Cochise",
     "State": "AZ",
@@ -2252,175 +1003,11 @@
       }
     ]
   },
-  "Payson": {
+  "AZPayson": {
     "Jurisdiction": "Payson",
     "County": "Gila",
     "State": "AZ",
     "DataEntries": [
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 7415,
-          "NonUtil": 3205,
-          "Water": 1620,
-          "Sewer": 2590,
-          "Parks": 2800,
-          "Police": 405
-        },
-        "MultiFamily": {
-          "Total": 2798,
-          "NonUtil": 2405,
-          "Water": 151,
-          "Sewer": 242,
-          "Parks": 2000,
-          "Police": 405
-        },
-        "Retail": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Office": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Industrial": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 7415,
-          "NonUtil": 3205,
-          "Water": 1620,
-          "Sewer": 2590,
-          "Parks": 2800,
-          "Police": 405
-        },
-        "MultiFamily": {
-          "Total": 2798,
-          "NonUtil": 2405,
-          "Water": 151,
-          "Sewer": 242,
-          "Parks": 2000,
-          "Police": 405
-        },
-        "Retail": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Office": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Industrial": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1321596000000,
-        "SingleFamily": {
-          "Total": 7415,
-          "NonUtil": 3205,
-          "Water": 1620,
-          "Sewer": 2590,
-          "Parks": 2800,
-          "Police": 405
-        },
-        "MultiFamily": {
-          "Total": 2798,
-          "NonUtil": 2405,
-          "Water": 151,
-          "Sewer": 242,
-          "Parks": 2000,
-          "Police": 405
-        },
-        "Retail": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Office": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Industrial": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "RecordedAt": "s2011"
-      },
-      {
-        "Updated": 1288587600000,
-        "SingleFamily": {
-          "Total": 7415,
-          "NonUtil": 3205,
-          "Water": 1620,
-          "Sewer": 2590,
-          "Parks": 2800,
-          "Police": 405
-        },
-        "MultiFamily": {
-          "Total": 2798,
-          "NonUtil": 2405,
-          "Water": 151,
-          "Sewer": 242,
-          "Parks": 2000,
-          "Police": 405
-        },
-        "Retail": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Office": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "Industrial": {
-          "Total": 604,
-          "NonUtil": 225,
-          "Water": 146,
-          "Sewer": 233,
-          "Fire": 225
-        },
-        "RecordedAt": "s2010"
-      },
       {
         "Updated": 1176699600000,
         "SingleFamily": {
@@ -2454,7 +1041,7 @@
       }
     ]
   },
-  "Sedona": {
+  "AZSedona": {
     "Jurisdiction": "Sedona",
     "County": "Gila",
     "State": "AZ",
@@ -2692,7 +1279,7 @@
       }
     ]
   },
-  "Avondale": {
+  "AZAvondale": {
     "Jurisdiction": "Avondale",
     "County": "Maricopa",
     "State": "AZ",
@@ -2993,7 +1580,7 @@
       }
     ]
   },
-  "Buckeye": {
+  "AZBuckeye": {
     "Jurisdiction": "Buckeye",
     "County": "Maricopa",
     "State": "AZ",
@@ -3280,7 +1867,7 @@
       }
     ]
   },
-  "Chandler": {
+  "AZChandler": {
     "Jurisdiction": "Chandler",
     "County": "Maricopa",
     "State": "AZ",
@@ -3576,7 +2163,7 @@
       }
     ]
   },
-  "Fountain Hills": {
+  "AZFountain Hills": {
     "Jurisdiction": "Fountain Hills",
     "County": "Maricopa",
     "State": "AZ",
@@ -3818,7 +2405,7 @@
       }
     ]
   },
-  "Gilbert": {
+  "AZGilbert": {
     "Jurisdiction": "Gilbert",
     "County": "Maricopa",
     "State": "AZ",
@@ -4105,7 +2692,7 @@
       }
     ]
   },
-  "Glendale": {
+  "AZGlendale": {
     "Jurisdiction": "Glendale",
     "County": "Maricopa",
     "State": "AZ",
@@ -4407,7 +2994,7 @@
       }
     ]
   },
-  "Goodyear": {
+  "AZGoodyear": {
     "Jurisdiction": "Goodyear",
     "County": "Maricopa",
     "State": "AZ",
@@ -4709,7 +3296,7 @@
       }
     ]
   },
-  "Mesa": {
+  "AZMesa": {
     "Jurisdiction": "Mesa",
     "County": "Maricopa",
     "State": "AZ",
@@ -5004,7 +3591,7 @@
       }
     ]
   },
-  "Peoria": {
+  "AZPeoria": {
     "Jurisdiction": "Peoria",
     "County": "Maricopa",
     "State": "AZ",
@@ -5297,7 +3884,7 @@
       }
     ]
   },
-  "Phoenix": {
+  "AZPhoenix": {
     "Jurisdiction": "Phoenix",
     "County": "Maricopa",
     "State": "AZ",
@@ -5597,7 +4184,7 @@
       }
     ]
   },
-  "Scottsdale": {
+  "AZScottsdale": {
     "Jurisdiction": "Scottsdale",
     "County": "Maricopa",
     "State": "AZ",
@@ -5780,7 +4367,7 @@
       }
     ]
   },
-  "Surprise": {
+  "AZSurprise": {
     "Jurisdiction": "Surprise",
     "County": "Maricopa",
     "State": "AZ",
@@ -6097,7 +4684,7 @@
       }
     ]
   },
-  "Tempe": {
+  "AZTempe": {
     "Jurisdiction": "Tempe",
     "County": "Maricopa",
     "State": "AZ",
@@ -6249,7 +4836,7 @@
       }
     ]
   },
-  "Bullhead City": {
+  "AZBullhead City": {
     "Jurisdiction": "Bullhead City",
     "County": "Mojave",
     "State": "AZ",
@@ -6376,7 +4963,7 @@
       }
     ]
   },
-  "Show Low": {
+  "AZShow Low": {
     "Jurisdiction": "Show Low",
     "County": "Navajo",
     "State": "AZ",
@@ -6564,7 +5151,7 @@
       }
     ]
   },
-  "Pima County": {
+  "AZPima County": {
     "Jurisdiction": "Pima County",
     "County": "Pima",
     "State": "AZ",
@@ -6737,7 +5324,7 @@
       }
     ]
   },
-  "Marana": {
+  "AZMarana": {
     "Jurisdiction": "Marana",
     "County": "Pima",
     "State": "AZ",
@@ -6904,7 +5491,7 @@
       }
     ]
   },
-  "Oro Valley": {
+  "AZOro Valley": {
     "Jurisdiction": "Oro Valley",
     "County": "Pima",
     "State": "AZ",
@@ -7117,7 +5704,7 @@
       }
     ]
   },
-  "Tucson": {
+  "AZTucson": {
     "Jurisdiction": "Tucson",
     "County": "Pima",
     "State": "AZ",
@@ -7374,7 +5961,7 @@
       }
     ]
   },
-  "Apache Junction": {
+  "AZApache Junction": {
     "Jurisdiction": "Apache Junction",
     "County": "Pinal",
     "State": "AZ",
@@ -7606,7 +6193,7 @@
       }
     ]
   },
-  "Casa Grande": {
+  "AZCasa Grande": {
     "Jurisdiction": "Casa Grande",
     "County": "Pinal",
     "State": "AZ",
@@ -7874,7 +6461,7 @@
       }
     ]
   },
-  "Eloy": {
+  "AZEloy": {
     "Jurisdiction": "Eloy",
     "County": "Pinal",
     "State": "AZ",
@@ -8121,7 +6708,7 @@
       }
     ]
   },
-  "Florence": {
+  "AZFlorence": {
     "Jurisdiction": "Florence",
     "County": "Pinal",
     "State": "AZ",
@@ -8434,7 +7021,7 @@
       }
     ]
   },
-  "Queen Creek": {
+  "AZQueen Creek": {
     "Jurisdiction": "Queen Creek",
     "County": "Pinal",
     "State": "AZ",
@@ -8706,7 +7293,7 @@
       }
     ]
   },
-  "Yavapai County": {
+  "AZYavapai County": {
     "Jurisdiction": "Yavapai County",
     "County": "Yavapai",
     "State": "AZ",
@@ -8798,7 +7385,7 @@
       }
     ]
   },
-  "Chino Valley": {
+  "AZChino Valley": {
     "Jurisdiction": "Chino Valley",
     "County": "Yavapai",
     "State": "AZ",
@@ -9057,7 +7644,7 @@
       }
     ]
   },
-  "Prescott": {
+  "AZPrescott": {
     "Jurisdiction": "Prescott",
     "County": "Yavapai",
     "State": "AZ",
@@ -9297,7 +7884,7 @@
       }
     ]
   },
-  "Yuma": {
+  "AZYuma": {
     "Jurisdiction": "Yuma",
     "County": "Yuma",
     "State": "AZ",
@@ -9569,46 +8156,12 @@
       }
     ]
   },
-  "Fremont": {
+  "CAFremont": {
     "Jurisdiction": "Fremont",
     "County": "Alameda",
     "State": "CA",
     "DataEntries": [
       {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 3761,
-          "NonUtil": 3761,
-          "Schools": 3761
-        },
-        "MultiFamily": {
-          "Total": 2438,
-          "NonUtil": 2438,
-          "Schools": 2438
-        },
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 3761,
-          "NonUtil": 3761,
-          "Schools": 3761
-        },
-        "MultiFamily": {
-          "Total": 2438,
-          "NonUtil": 2438,
-          "Schools": 2438
-        },
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2015"
-      },
-      {
         "Updated": 1343538000000,
         "SingleFamily": {
           "Total": 77194,
@@ -9693,23 +8246,6 @@
           "GenGov": 739
         },
         "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1321164000000,
-        "SingleFamily": {
-          "Total": 3761,
-          "NonUtil": 3761,
-          "Schools": 3761
-        },
-        "MultiFamily": {
-          "Total": 2438,
-          "NonUtil": 2438,
-          "Schools": 2438
-        },
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2011"
       },
       {
         "Updated": 1315717200000,
@@ -9755,23 +8291,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1288242000000,
-        "SingleFamily": {
-          "Total": 3761,
-          "NonUtil": 3761,
-          "Schools": 3761
-        },
-        "MultiFamily": {
-          "Total": 2438,
-          "NonUtil": 2438,
-          "Schools": 2438
-        },
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2010"
-      },
-      {
         "Updated": 1286859600000,
         "SingleFamily": {
           "Total": 62108,
@@ -9813,23 +8332,6 @@
           "GenGov": 739
         },
         "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1183093200000,
-        "SingleFamily": {
-          "Total": 3761,
-          "NonUtil": 3761,
-          "Schools": 3761
-        },
-        "MultiFamily": {
-          "Total": 2438,
-          "NonUtil": 2438,
-          "Schools": 2438
-        },
-        "Retail": {},
-        "Office": {},
-        "Industrial": {},
-        "RecordedAt": "s2007"
       },
       {
         "Updated": 1177304400000,
@@ -9874,7 +8376,7 @@
       }
     ]
   },
-  "Hayward": {
+  "CAHayward": {
     "Jurisdiction": "Hayward",
     "County": "Alameda",
     "State": "CA",
@@ -10119,7 +8621,7 @@
       }
     ]
   },
-  "Livermore": {
+  "CALivermore": {
     "Jurisdiction": "Livermore",
     "County": "Alameda",
     "State": "CA",
@@ -10427,7 +8929,7 @@
       }
     ]
   },
-  "San Leandro": {
+  "CASan Leandro": {
     "Jurisdiction": "San Leandro",
     "County": "Alameda",
     "State": "CA",
@@ -10664,7 +9166,7 @@
       }
     ]
   },
-  "Orinda": {
+  "CAOrinda": {
     "Jurisdiction": "Orinda",
     "County": "Contra Costa",
     "State": "CA",
@@ -10851,7 +9353,7 @@
       }
     ]
   },
-  "El Dorado Co": {
+  "CAEl Dorado Co": {
     "Jurisdiction": "El Dorado Co",
     "County": "El Dorado",
     "State": "CA",
@@ -11049,7 +9551,7 @@
       }
     ]
   },
-  "Clovis": {
+  "CAClovis": {
     "Jurisdiction": "Clovis",
     "County": "Fresno",
     "State": "CA",
@@ -11343,7 +9845,7 @@
       }
     ]
   },
-  "Bakersfield": {
+  "CABakersfield": {
     "Jurisdiction": "Bakersfield",
     "County": "Kern",
     "State": "CA",
@@ -11580,7 +10082,7 @@
       }
     ]
   },
-  "Lancaster": {
+  "CALancaster": {
     "Jurisdiction": "Lancaster",
     "County": "Los Angeles",
     "State": "CA",
@@ -11835,7 +10337,7 @@
       }
     ]
   },
-  "Long Beach": {
+  "CALong Beach": {
     "Jurisdiction": "Long Beach",
     "County": "Los Angeles",
     "State": "CA",
@@ -12067,7 +10569,7 @@
       }
     ]
   },
-  "Salinas": {
+  "CASalinas": {
     "Jurisdiction": "Salinas",
     "County": "Monterey",
     "State": "CA",
@@ -12294,7 +10796,7 @@
       }
     ]
   },
-  "St. Helena": {
+  "CASt. Helena": {
     "Jurisdiction": "St. Helena",
     "County": "Napa",
     "State": "CA",
@@ -12611,7 +11113,7 @@
       }
     ]
   },
-  "Brea": {
+  "CABrea": {
     "Jurisdiction": "Brea",
     "County": "Orange",
     "State": "CA",
@@ -12838,7 +11340,7 @@
       }
     ]
   },
-  "Rocklin": {
+  "CARocklin": {
     "Jurisdiction": "Rocklin",
     "County": "Placer",
     "State": "CA",
@@ -13055,7 +11557,7 @@
       }
     ]
   },
-  "Citrus Heights": {
+  "CACitrus Heights": {
     "Jurisdiction": "Citrus Heights",
     "County": "Sacramento",
     "State": "CA",
@@ -13304,7 +11806,7 @@
       }
     ]
   },
-  "Elk Grove": {
+  "CAElk Grove": {
     "Jurisdiction": "Elk Grove",
     "County": "Sacramento",
     "State": "CA",
@@ -13651,7 +12153,7 @@
       }
     ]
   },
-  "Sacramento": {
+  "CASacramento": {
     "Jurisdiction": "Sacramento",
     "County": "Sacramento",
     "State": "CA",
@@ -13943,7 +12445,7 @@
       }
     ]
   },
-  "Highland": {
+  "CAHighland": {
     "Jurisdiction": "Highland",
     "County": "San Bernardino",
     "State": "CA",
@@ -14215,7 +12717,7 @@
       }
     ]
   },
-  "Redlands": {
+  "CARedlands": {
     "Jurisdiction": "Redlands",
     "County": "San Bernardino",
     "State": "CA",
@@ -14500,7 +13002,7 @@
       }
     ]
   },
-  "Rialto": {
+  "CARialto": {
     "Jurisdiction": "Rialto",
     "County": "San Bernardino",
     "State": "CA",
@@ -14837,7 +13339,7 @@
       }
     ]
   },
-  "Carlsbad": {
+  "CACarlsbad": {
     "Jurisdiction": "Carlsbad",
     "County": "San Diego",
     "State": "CA",
@@ -15124,7 +13626,7 @@
       }
     ]
   },
-  "Escondido": {
+  "CAEscondido": {
     "Jurisdiction": "Escondido",
     "County": "San Diego",
     "State": "CA",
@@ -15407,7 +13909,7 @@
       }
     ]
   },
-  "San Diego": {
+  "CASan Diego": {
     "Jurisdiction": "San Diego",
     "County": "San Diego",
     "State": "CA",
@@ -15646,7 +14148,7 @@
       }
     ]
   },
-  "Lodi": {
+  "CALodi": {
     "Jurisdiction": "Lodi",
     "County": "San Joaquin",
     "State": "CA",
@@ -15973,7 +14475,7 @@
       }
     ]
   },
-  "Ripon": {
+  "CARipon": {
     "Jurisdiction": "Ripon",
     "County": "San Joaquin",
     "State": "CA",
@@ -16360,7 +14862,7 @@
       }
     ]
   },
-  "Paso Robles": {
+  "CAPaso Robles": {
     "Jurisdiction": "Paso Robles",
     "County": "San Luis Obispo",
     "State": "CA",
@@ -16683,7 +15185,7 @@
       }
     ]
   },
-  "San Luis Obispo": {
+  "CASan Luis Obispo": {
     "Jurisdiction": "San Luis Obispo",
     "County": "San Luis Obispo",
     "State": "CA",
@@ -16906,7 +15408,7 @@
       }
     ]
   },
-  "Carpinteria": {
+  "CACarpinteria": {
     "Jurisdiction": "Carpinteria",
     "County": "Santa Barbara",
     "State": "CA",
@@ -17186,7 +15688,7 @@
       }
     ]
   },
-  "Santa Maria": {
+  "CASanta Maria": {
     "Jurisdiction": "Santa Maria",
     "County": "Santa Barbara",
     "State": "CA",
@@ -17513,7 +16015,7 @@
       }
     ]
   },
-  "Gilroy": {
+  "CAGilroy": {
     "Jurisdiction": "Gilroy",
     "County": "Santa Clara",
     "State": "CA",
@@ -17765,7 +16267,7 @@
       }
     ]
   },
-  "Palo Alto": {
+  "CAPalo Alto": {
     "Jurisdiction": "Palo Alto",
     "County": "Santa Clara",
     "State": "CA",
@@ -18010,7 +16512,7 @@
       }
     ]
   },
-  "Santa Cruz Co": {
+  "CASanta Cruz Co": {
     "Jurisdiction": "Santa Cruz Co",
     "County": "Santa Cruz",
     "State": "CA",
@@ -18197,7 +16699,7 @@
       }
     ]
   },
-  "Scotts Valley": {
+  "CAScotts Valley": {
     "Jurisdiction": "Scotts Valley",
     "County": "Santa Cruz",
     "State": "CA",
@@ -18469,7 +16971,7 @@
       }
     ]
   },
-  "Redding": {
+  "CARedding": {
     "Jurisdiction": "Redding",
     "County": "Shasta",
     "State": "CA",
@@ -18731,7 +17233,7 @@
       }
     ]
   },
-  "Vacaville": {
+  "CAVacaville": {
     "Jurisdiction": "Vacaville",
     "County": "Solano",
     "State": "CA",
@@ -19093,57 +17595,11 @@
       }
     ]
   },
-  "Windsor": {
+  "CAWindsor": {
     "Jurisdiction": "Windsor",
     "County": "Sonoma",
     "State": "CA",
     "DataEntries": [
-      {
-        "Updated": 1404536400000,
-        "SingleFamily": {
-          "Total": 18768,
-          "NonUtil": 8343,
-          "Roads": 2115,
-          "Water": 6725,
-          "Sewer": 3700,
-          "Drain": 735,
-          "Parks": 5493
-        },
-        "MultiFamily": {
-          "Total": 9162,
-          "NonUtil": 7443,
-          "Roads": 1483,
-          "Water": 1234,
-          "Sewer": 485,
-          "Drain": 467,
-          "Parks": 5493
-        },
-        "Retail": {
-          "Total": 6085,
-          "NonUtil": 4640,
-          "Roads": 3476,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 1164
-        },
-        "Office": {
-          "Total": 4983,
-          "NonUtil": 3538,
-          "Roads": 2840,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 698
-        },
-        "Industrial": {
-          "Total": 4224,
-          "NonUtil": 2779,
-          "Roads": 1799,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 980
-        },
-        "RecordedAt": "s2015"
-      },
       {
         "Updated": 1343538000000,
         "SingleFamily": {
@@ -19192,52 +17648,6 @@
           "Sewer": 2277,
           "Drain": 2453,
           "GenGov": 645
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1343538000000,
-        "SingleFamily": {
-          "Total": 18302,
-          "NonUtil": 7877,
-          "Roads": 2115,
-          "Water": 6725,
-          "Sewer": 3700,
-          "Drain": 735,
-          "Parks": 5027
-        },
-        "MultiFamily": {
-          "Total": 8696,
-          "NonUtil": 6977,
-          "Roads": 1483,
-          "Water": 1234,
-          "Sewer": 485,
-          "Drain": 467,
-          "Parks": 5027
-        },
-        "Retail": {
-          "Total": 6085,
-          "NonUtil": 4640,
-          "Roads": 3476,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 1164
-        },
-        "Office": {
-          "Total": 4983,
-          "NonUtil": 3538,
-          "Roads": 2840,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 698
-        },
-        "Industrial": {
-          "Total": 4224,
-          "NonUtil": 2779,
-          "Roads": 1799,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 980
         },
         "RecordedAt": "s2012"
       },
@@ -19344,52 +17754,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1297058400000,
-        "SingleFamily": {
-          "Total": 18302,
-          "NonUtil": 7877,
-          "Roads": 2115,
-          "Water": 6725,
-          "Sewer": 3700,
-          "Drain": 735,
-          "Parks": 5027
-        },
-        "MultiFamily": {
-          "Total": 8696,
-          "NonUtil": 6977,
-          "Roads": 1483,
-          "Water": 1234,
-          "Sewer": 485,
-          "Drain": 467,
-          "Parks": 5027
-        },
-        "Retail": {
-          "Total": 6085,
-          "NonUtil": 4640,
-          "Roads": 3476,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 1164
-        },
-        "Office": {
-          "Total": 4983,
-          "NonUtil": 3538,
-          "Roads": 2840,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 698
-        },
-        "Industrial": {
-          "Total": 4224,
-          "NonUtil": 2779,
-          "Roads": 1799,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 980
-        },
-        "RecordedAt": "s2011"
-      },
-      {
         "Updated": 1287464400000,
         "SingleFamily": {
           "Total": 41223,
@@ -19439,98 +17803,6 @@
           "GenGov": 621
         },
         "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1287464400000,
-        "SingleFamily": {
-          "Total": 18348,
-          "NonUtil": 7923,
-          "Roads": 2210,
-          "Water": 6725,
-          "Sewer": 3700,
-          "Drain": 735,
-          "Parks": 4978
-        },
-        "MultiFamily": {
-          "Total": 8714,
-          "NonUtil": 6995,
-          "Roads": 1550,
-          "Water": 1234,
-          "Sewer": 485,
-          "Drain": 467,
-          "Parks": 4978
-        },
-        "Retail": {
-          "Total": 6241,
-          "NonUtil": 4796,
-          "Roads": 3632,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 1164
-        },
-        "Office": {
-          "Total": 5111,
-          "NonUtil": 3666,
-          "Roads": 2968,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 698
-        },
-        "Industrial": {
-          "Total": 4305,
-          "NonUtil": 2860,
-          "Roads": 1880,
-          "Water": 932,
-          "Sewer": 513,
-          "Drain": 980
-        },
-        "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1184216400000,
-        "SingleFamily": {
-          "Total": 17519,
-          "NonUtil": 7419,
-          "Roads": 1993,
-          "Water": 6600,
-          "Sewer": 3500,
-          "Drain": 735,
-          "Parks": 4691
-        },
-        "MultiFamily": {
-          "Total": 8009,
-          "NonUtil": 6339,
-          "Roads": 1381,
-          "Water": 1211,
-          "Sewer": 459,
-          "Drain": 267,
-          "Parks": 4691
-        },
-        "Retail": {
-          "Total": 8629,
-          "NonUtil": 7229,
-          "Roads": 6065,
-          "Water": 915,
-          "Sewer": 485,
-          "Drain": 1164
-        },
-        "Office": {
-          "Total": 4607,
-          "NonUtil": 3207,
-          "Roads": 2509,
-          "Water": 915,
-          "Sewer": 485,
-          "Drain": 698
-        },
-        "Industrial": {
-          "Total": 4012,
-          "NonUtil": 2612,
-          "Roads": 1448,
-          "Water": 915,
-          "Sewer": 485,
-          "Drain": 1164
-        },
-        "RecordedAt": "s2007"
       },
       {
         "Updated": 1184043600000,
@@ -19585,7 +17857,7 @@
       }
     ]
   },
-  "Santa Paula": {
+  "CASanta Paula": {
     "Jurisdiction": "Santa Paula",
     "County": "Ventura",
     "State": "CA",
@@ -19660,7 +17932,7 @@
       }
     ]
   },
-  "Davis": {
+  "CADavis": {
     "Jurisdiction": "Davis",
     "County": "Yolo",
     "State": "CA",
@@ -19947,7 +18219,7 @@
       }
     ]
   },
-  "Adams Co": {
+  "COAdams Co": {
     "Jurisdiction": "Adams Co",
     "County": "Adams",
     "State": "CO",
@@ -20099,7 +18371,7 @@
       }
     ]
   },
-  "Commerce City": {
+  "COCommerce City": {
     "Jurisdiction": "Commerce City",
     "County": "Adams",
     "State": "CO",
@@ -20304,7 +18576,7 @@
       }
     ]
   },
-  "Boulder": {
+  "COBoulder": {
     "Jurisdiction": "Boulder",
     "County": "Boulder",
     "State": "CO",
@@ -20659,7 +18931,7 @@
       }
     ]
   },
-  "Eagle Co": {
+  "COEagle Co": {
     "Jurisdiction": "Eagle Co",
     "County": "Eagle",
     "State": "CO",
@@ -20838,7 +19110,7 @@
       }
     ]
   },
-  "Basalt": {
+  "COBasalt": {
     "Jurisdiction": "Basalt",
     "County": "Eagle",
     "State": "CO",
@@ -21041,7 +19313,7 @@
       }
     ]
   },
-  "Colorado Springs": {
+  "COColorado Springs": {
     "Jurisdiction": "Colorado Springs",
     "County": "El Paso",
     "State": "CO",
@@ -21263,7 +19535,7 @@
       }
     ]
   },
-  "Canon City": {
+  "COCanon City": {
     "Jurisdiction": "Canon City",
     "County": "Fremont",
     "State": "CO",
@@ -21415,88 +19687,12 @@
       }
     ]
   },
-  "Jefferson Co": {
+  "COJefferson Co": {
     "Jurisdiction": "Jefferson Co",
     "County": "Jefferson",
     "State": "CO",
     "DataEntries": [
       {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 13070,
-          "NonUtil": 13070,
-          "Parks": 752,
-          "Fire": 698,
-          "Police": 262,
-          "Schools": 11358
-        },
-        "MultiFamily": {
-          "Total": 7594,
-          "NonUtil": 7594,
-          "Parks": 566,
-          "Fire": 525,
-          "Police": 197,
-          "Schools": 6306
-        },
-        "Retail": {
-          "Total": 1740,
-          "NonUtil": 1740,
-          "Fire": 1653,
-          "Police": 87
-        },
-        "Office": {
-          "Total": 577,
-          "NonUtil": 577,
-          "Fire": 548,
-          "Police": 29
-        },
-        "Industrial": {
-          "Total": 356,
-          "NonUtil": 356,
-          "Fire": 338,
-          "Police": 18
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 13070,
-          "NonUtil": 13070,
-          "Parks": 752,
-          "Fire": 698,
-          "Police": 262,
-          "Schools": 11358
-        },
-        "MultiFamily": {
-          "Total": 7594,
-          "NonUtil": 7594,
-          "Parks": 566,
-          "Fire": 525,
-          "Police": 197,
-          "Schools": 6306
-        },
-        "Retail": {
-          "Total": 1740,
-          "NonUtil": 1740,
-          "Fire": 1653,
-          "Police": 87
-        },
-        "Office": {
-          "Total": 577,
-          "NonUtil": 577,
-          "Fire": 548,
-          "Police": 29
-        },
-        "Industrial": {
-          "Total": 356,
-          "NonUtil": 356,
-          "Fire": 338,
-          "Police": 18
-        },
-        "RecordedAt": "s2015"
-      },
-      {
         "Updated": 1343538000000,
         "SingleFamily": {
           "Total": 3276,
@@ -21553,44 +19749,6 @@
           "Roads": 2060
         },
         "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1321596000000,
-        "SingleFamily": {
-          "Total": 13070,
-          "NonUtil": 13070,
-          "Parks": 752,
-          "Fire": 698,
-          "Police": 262,
-          "Schools": 11358
-        },
-        "MultiFamily": {
-          "Total": 7594,
-          "NonUtil": 7594,
-          "Parks": 566,
-          "Fire": 525,
-          "Police": 197,
-          "Schools": 6306
-        },
-        "Retail": {
-          "Total": 1740,
-          "NonUtil": 1740,
-          "Fire": 1653,
-          "Police": 87
-        },
-        "Office": {
-          "Total": 577,
-          "NonUtil": 577,
-          "Fire": 548,
-          "Police": 29
-        },
-        "Industrial": {
-          "Total": 356,
-          "NonUtil": 356,
-          "Fire": 338,
-          "Police": 18
-        },
-        "RecordedAt": "s2011"
       },
       {
         "Updated": 1320555600000,
@@ -21622,44 +19780,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1288587600000,
-        "SingleFamily": {
-          "Total": 13070,
-          "NonUtil": 13070,
-          "Parks": 752,
-          "Fire": 698,
-          "Police": 262,
-          "Schools": 11358
-        },
-        "MultiFamily": {
-          "Total": 7594,
-          "NonUtil": 7594,
-          "Parks": 566,
-          "Fire": 525,
-          "Police": 197,
-          "Schools": 6306
-        },
-        "Retail": {
-          "Total": 1740,
-          "NonUtil": 1740,
-          "Fire": 1653,
-          "Police": 87
-        },
-        "Office": {
-          "Total": 577,
-          "NonUtil": 577,
-          "Fire": 548,
-          "Police": 29
-        },
-        "Industrial": {
-          "Total": 356,
-          "NonUtil": 356,
-          "Fire": 338,
-          "Police": 18
-        },
-        "RecordedAt": "s2010"
-      },
-      {
         "Updated": 1287464400000,
         "SingleFamily": {
           "Total": 3276,
@@ -21687,44 +19807,6 @@
           "Roads": 2060
         },
         "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1185253200000,
-        "SingleFamily": {
-          "Total": 12144,
-          "NonUtil": 12144,
-          "Parks": 751,
-          "Fire": 603,
-          "Police": 135,
-          "Schools": 10655
-        },
-        "MultiFamily": {
-          "Total": 7047,
-          "NonUtil": 7047,
-          "Parks": 565,
-          "Fire": 454,
-          "Police": 112,
-          "Schools": 5916
-        },
-        "Retail": {
-          "Total": 1844,
-          "NonUtil": 1844,
-          "Fire": 1650,
-          "Police": 194
-        },
-        "Office": {
-          "Total": 624,
-          "NonUtil": 624,
-          "Fire": 559,
-          "Police": 65
-        },
-        "Industrial": {
-          "Total": 327,
-          "NonUtil": 327,
-          "Fire": 293,
-          "Police": 34
-        },
-        "RecordedAt": "s2007"
       },
       {
         "Updated": 1177477200000,
@@ -21757,7 +19839,7 @@
       }
     ]
   },
-  "Durango": {
+  "CODurango": {
     "Jurisdiction": "Durango",
     "County": "La Plata",
     "State": "CO",
@@ -21979,7 +20061,7 @@
       }
     ]
   },
-  "Larimer Co": {
+  "COLarimer Co": {
     "Jurisdiction": "Larimer Co",
     "County": "Larimer",
     "State": "CO",
@@ -22147,7 +20229,7 @@
       }
     ]
   },
-  "Loveland": {
+  "COLoveland": {
     "Jurisdiction": "Loveland",
     "County": "Larimer",
     "State": "CO",
@@ -22467,7 +20549,7 @@
       }
     ]
   },
-  "Ft. Collins": {
+  "COFt. Collins": {
     "Jurisdiction": "Ft. Collins",
     "County": "Larimer",
     "State": "CO",
@@ -22801,7 +20883,7 @@
       }
     ]
   },
-  "Mesa Co": {
+  "COMesa Co": {
     "Jurisdiction": "Mesa Co",
     "County": "Mesa",
     "State": "CO",
@@ -22973,7 +21055,7 @@
       }
     ]
   },
-  "Pitkin Co": {
+  "COPitkin Co": {
     "Jurisdiction": "Pitkin Co",
     "County": "Pitkin",
     "State": "CO",
@@ -23183,7 +21265,7 @@
       }
     ]
   },
-  "Weld Co": {
+  "COWeld Co": {
     "Jurisdiction": "Weld Co",
     "County": "Weld",
     "State": "CO",
@@ -23385,7 +21467,244 @@
       }
     ]
   },
-  "Greeley": {
+  "COWindsor": {
+    "Jurisdiction": "Windsor",
+    "County": "Weld",
+    "State": "CO",
+    "DataEntries": [
+      {
+        "Updated": 1404536400000,
+        "SingleFamily": {
+          "Total": 18768,
+          "NonUtil": 8343,
+          "Roads": 2115,
+          "Water": 6725,
+          "Sewer": 3700,
+          "Drain": 735,
+          "Parks": 5493
+        },
+        "MultiFamily": {
+          "Total": 9162,
+          "NonUtil": 7443,
+          "Roads": 1483,
+          "Water": 1234,
+          "Sewer": 485,
+          "Drain": 467,
+          "Parks": 5493
+        },
+        "Retail": {
+          "Total": 6085,
+          "NonUtil": 4640,
+          "Roads": 3476,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 1164
+        },
+        "Office": {
+          "Total": 4983,
+          "NonUtil": 3538,
+          "Roads": 2840,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 698
+        },
+        "Industrial": {
+          "Total": 4224,
+          "NonUtil": 2779,
+          "Roads": 1799,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 980
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1343538000000,
+        "SingleFamily": {
+          "Total": 18302,
+          "NonUtil": 7877,
+          "Roads": 2115,
+          "Water": 6725,
+          "Sewer": 3700,
+          "Drain": 735,
+          "Parks": 5027
+        },
+        "MultiFamily": {
+          "Total": 8696,
+          "NonUtil": 6977,
+          "Roads": 1483,
+          "Water": 1234,
+          "Sewer": 485,
+          "Drain": 467,
+          "Parks": 5027
+        },
+        "Retail": {
+          "Total": 6085,
+          "NonUtil": 4640,
+          "Roads": 3476,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 1164
+        },
+        "Office": {
+          "Total": 4983,
+          "NonUtil": 3538,
+          "Roads": 2840,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 698
+        },
+        "Industrial": {
+          "Total": 4224,
+          "NonUtil": 2779,
+          "Roads": 1799,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 980
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1297058400000,
+        "SingleFamily": {
+          "Total": 18302,
+          "NonUtil": 7877,
+          "Roads": 2115,
+          "Water": 6725,
+          "Sewer": 3700,
+          "Drain": 735,
+          "Parks": 5027
+        },
+        "MultiFamily": {
+          "Total": 8696,
+          "NonUtil": 6977,
+          "Roads": 1483,
+          "Water": 1234,
+          "Sewer": 485,
+          "Drain": 467,
+          "Parks": 5027
+        },
+        "Retail": {
+          "Total": 6085,
+          "NonUtil": 4640,
+          "Roads": 3476,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 1164
+        },
+        "Office": {
+          "Total": 4983,
+          "NonUtil": 3538,
+          "Roads": 2840,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 698
+        },
+        "Industrial": {
+          "Total": 4224,
+          "NonUtil": 2779,
+          "Roads": 1799,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 980
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1287464400000,
+        "SingleFamily": {
+          "Total": 18348,
+          "NonUtil": 7923,
+          "Roads": 2210,
+          "Water": 6725,
+          "Sewer": 3700,
+          "Drain": 735,
+          "Parks": 4978
+        },
+        "MultiFamily": {
+          "Total": 8714,
+          "NonUtil": 6995,
+          "Roads": 1550,
+          "Water": 1234,
+          "Sewer": 485,
+          "Drain": 467,
+          "Parks": 4978
+        },
+        "Retail": {
+          "Total": 6241,
+          "NonUtil": 4796,
+          "Roads": 3632,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 1164
+        },
+        "Office": {
+          "Total": 5111,
+          "NonUtil": 3666,
+          "Roads": 2968,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 698
+        },
+        "Industrial": {
+          "Total": 4305,
+          "NonUtil": 2860,
+          "Roads": 1880,
+          "Water": 932,
+          "Sewer": 513,
+          "Drain": 980
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1184216400000,
+        "SingleFamily": {
+          "Total": 17519,
+          "NonUtil": 7419,
+          "Roads": 1993,
+          "Water": 6600,
+          "Sewer": 3500,
+          "Drain": 735,
+          "Parks": 4691
+        },
+        "MultiFamily": {
+          "Total": 8009,
+          "NonUtil": 6339,
+          "Roads": 1381,
+          "Water": 1211,
+          "Sewer": 459,
+          "Drain": 267,
+          "Parks": 4691
+        },
+        "Retail": {
+          "Total": 8629,
+          "NonUtil": 7229,
+          "Roads": 6065,
+          "Water": 915,
+          "Sewer": 485,
+          "Drain": 1164
+        },
+        "Office": {
+          "Total": 4607,
+          "NonUtil": 3207,
+          "Roads": 2509,
+          "Water": 915,
+          "Sewer": 485,
+          "Drain": 698
+        },
+        "Industrial": {
+          "Total": 4012,
+          "NonUtil": 2612,
+          "Roads": 1448,
+          "Water": 915,
+          "Sewer": 485,
+          "Drain": 1164
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "COGreeley": {
     "Jurisdiction": "Greeley",
     "County": "Weld",
     "State": "CO",
@@ -23632,7 +21951,7 @@
       }
     ]
   },
-  "New Castle Co": {
+  "DENew Castle Co": {
     "Jurisdiction": "New Castle Co",
     "County": "New Castle",
     "State": "DE",
@@ -23879,7 +22198,7 @@
       }
     ]
   },
-  "Alachua Co": {
+  "FLAlachua Co": {
     "Jurisdiction": "Alachua Co",
     "County": "Alachua",
     "State": "FL",
@@ -24068,7 +22387,7 @@
       }
     ]
   },
-  "Brevard Co": {
+  "FLBrevard Co": {
     "Jurisdiction": "Brevard Co",
     "County": "Brevard",
     "State": "FL",
@@ -24274,7 +22593,7 @@
       }
     ]
   },
-  "Cocoa": {
+  "FLCocoa": {
     "Jurisdiction": "Cocoa",
     "County": "Brevard",
     "State": "FL",
@@ -24501,7 +22820,7 @@
       }
     ]
   },
-  "Melbourne": {
+  "FLMelbourne": {
     "Jurisdiction": "Melbourne",
     "County": "Brevard",
     "State": "FL",
@@ -24738,7 +23057,7 @@
       }
     ]
   },
-  "Palm Bay": {
+  "FLPalm Bay": {
     "Jurisdiction": "Palm Bay",
     "County": "Brevard",
     "State": "FL",
@@ -24976,7 +23295,7 @@
       }
     ]
   },
-  "Rockledge": {
+  "FLRockledge": {
     "Jurisdiction": "Rockledge",
     "County": "Brevard",
     "State": "FL",
@@ -25178,7 +23497,7 @@
       }
     ]
   },
-  "Broward Co": {
+  "FLBroward Co": {
     "Jurisdiction": "Broward Co",
     "County": "Broward",
     "State": "FL",
@@ -25350,7 +23669,7 @@
       }
     ]
   },
-  "Ft. Lauderdale": {
+  "FLFt. Lauderdale": {
     "Jurisdiction": "Ft. Lauderdale",
     "County": "Broward",
     "State": "FL",
@@ -25452,7 +23771,7 @@
       }
     ]
   },
-  "Charlotte Co": {
+  "FLCharlotte Co": {
     "Jurisdiction": "Charlotte Co",
     "County": "Charlotte",
     "State": "FL",
@@ -25659,7 +23978,7 @@
       }
     ]
   },
-  "Citrus Co": {
+  "FLCitrus Co": {
     "Jurisdiction": "Citrus Co",
     "County": "Citrus",
     "State": "FL",
@@ -25911,7 +24230,7 @@
       }
     ]
   },
-  "Clay Co": {
+  "FLClay Co": {
     "Jurisdiction": "Clay Co",
     "County": "Clay",
     "State": "FL",
@@ -26006,7 +24325,7 @@
       }
     ]
   },
-  "Collier Co": {
+  "FLCollier Co": {
     "Jurisdiction": "Collier Co",
     "County": "Collier",
     "State": "FL",
@@ -26338,7 +24657,7 @@
       }
     ]
   },
-  "Miami/Dade Co": {
+  "FLMiami/Dade Co": {
     "Jurisdiction": "Miami/Dade Co",
     "County": "Dade",
     "State": "FL",
@@ -26560,7 +24879,7 @@
       }
     ]
   },
-  "Miami": {
+  "FLMiami": {
     "Jurisdiction": "Miami",
     "County": "Dade",
     "State": "FL",
@@ -26793,7 +25112,7 @@
       }
     ]
   },
-  "DeSoto Co": {
+  "FLDeSoto Co": {
     "Jurisdiction": "DeSoto Co",
     "County": "DeSoto",
     "State": "FL",
@@ -26894,7 +25213,7 @@
       }
     ]
   },
-  "Flagler Co": {
+  "FLFlagler Co": {
     "Jurisdiction": "Flagler Co",
     "County": "Flagler",
     "State": "FL",
@@ -27036,7 +25355,7 @@
       }
     ]
   },
-  "Palm Coast": {
+  "FLPalm Coast": {
     "Jurisdiction": "Palm Coast",
     "County": "Flagler",
     "State": "FL",
@@ -27283,7 +25602,7 @@
       }
     ]
   },
-  "Gilchrist Co": {
+  "FLGilchrist Co": {
     "Jurisdiction": "Gilchrist Co",
     "County": "Gilchrist",
     "State": "FL",
@@ -27445,7 +25764,7 @@
       }
     ]
   },
-  "Glades Co": {
+  "FLGlades Co": {
     "Jurisdiction": "Glades Co",
     "County": "Glades",
     "State": "FL",
@@ -27534,7 +25853,7 @@
       }
     ]
   },
-  "Hardee Co": {
+  "FLHardee Co": {
     "Jurisdiction": "Hardee Co",
     "County": "Hardee",
     "State": "FL",
@@ -27638,7 +25957,7 @@
       }
     ]
   },
-  "Hendry Co": {
+  "FLHendry Co": {
     "Jurisdiction": "Hendry Co",
     "County": "Hendry",
     "State": "FL",
@@ -27720,7 +26039,7 @@
       }
     ]
   },
-  "Hernando Co": {
+  "FLHernando Co": {
     "Jurisdiction": "Hernando Co",
     "County": "Hernando",
     "State": "FL",
@@ -27899,7 +26218,7 @@
       }
     ]
   },
-  "Highlands Co": {
+  "FLHighlands Co": {
     "Jurisdiction": "Highlands Co",
     "County": "Highlands",
     "State": "FL",
@@ -27994,7 +26313,7 @@
       }
     ]
   },
-  "Hillsborough Co": {
+  "FLHillsborough Co": {
     "Jurisdiction": "Hillsborough Co",
     "County": "Hillsborough",
     "State": "FL",
@@ -28241,7 +26560,7 @@
       }
     ]
   },
-  "Plant City": {
+  "FLPlant City": {
     "Jurisdiction": "Plant City",
     "County": "Hillsborough",
     "State": "FL",
@@ -28523,7 +26842,7 @@
       }
     ]
   },
-  "Tampa": {
+  "FLTampa": {
     "Jurisdiction": "Tampa",
     "County": "Hillsborough",
     "State": "FL",
@@ -28685,7 +27004,7 @@
       }
     ]
   },
-  "Indian River Co": {
+  "FLIndian River Co": {
     "Jurisdiction": "Indian River Co",
     "County": "Indian River",
     "State": "FL",
@@ -28921,7 +27240,7 @@
       }
     ]
   },
-  "Lake Co": {
+  "FLLake Co": {
     "Jurisdiction": "Lake Co",
     "County": "Lake",
     "State": "FL",
@@ -29112,7 +27431,7 @@
       }
     ]
   },
-  "Eustis": {
+  "FLEustis": {
     "Jurisdiction": "Eustis",
     "County": "Lake",
     "State": "FL",
@@ -29363,7 +27682,7 @@
       }
     ]
   },
-  "Lee Co": {
+  "FLLee Co": {
     "Jurisdiction": "Lee Co",
     "County": "Lee",
     "State": "FL",
@@ -29561,7 +27880,7 @@
       }
     ]
   },
-  "Bonita Springs": {
+  "FLBonita Springs": {
     "Jurisdiction": "Bonita Springs",
     "County": "Lee",
     "State": "FL",
@@ -29758,7 +28077,7 @@
       }
     ]
   },
-  "Cape Coral": {
+  "FLCape Coral": {
     "Jurisdiction": "Cape Coral",
     "County": "Lee",
     "State": "FL",
@@ -30035,7 +28354,7 @@
       }
     ]
   },
-  "Ft. Myers": {
+  "FLFt. Myers": {
     "Jurisdiction": "Ft. Myers",
     "County": "Lee",
     "State": "FL",
@@ -30272,7 +28591,7 @@
       }
     ]
   },
-  "Levy Co": {
+  "FLLevy Co": {
     "Jurisdiction": "Levy Co",
     "County": "Levy",
     "State": "FL",
@@ -30467,7 +28786,7 @@
       }
     ]
   },
-  "Manatee Co": {
+  "FLManatee Co": {
     "Jurisdiction": "Manatee Co",
     "County": "Manatee",
     "State": "FL",
@@ -30681,7 +29000,7 @@
       }
     ]
   },
-  "Marion Co": {
+  "FLMarion Co": {
     "Jurisdiction": "Marion Co",
     "County": "Marion",
     "State": "FL",
@@ -30809,7 +29128,7 @@
       }
     ]
   },
-  "Martin Co": {
+  "FLMartin Co": {
     "Jurisdiction": "Martin Co",
     "County": "Martin",
     "State": "FL",
@@ -31063,7 +29382,7 @@
       }
     ]
   },
-  "Monroe Co": {
+  "FLMonroe Co": {
     "Jurisdiction": "Monroe Co",
     "County": "Monroe",
     "State": "FL",
@@ -31310,7 +29629,7 @@
       }
     ]
   },
-  "Nassau Co": {
+  "FLNassau Co": {
     "Jurisdiction": "Nassau Co",
     "County": "Nassau",
     "State": "FL",
@@ -31484,7 +29803,7 @@
       }
     ]
   },
-  "Destin": {
+  "FLDestin": {
     "Jurisdiction": "Destin",
     "County": "Okaloosa",
     "State": "FL",
@@ -31681,7 +30000,7 @@
       }
     ]
   },
-  "Orange Co.": {
+  "FLOrange Co.": {
     "Jurisdiction": "Orange Co.",
     "County": "Orange",
     "State": "FL",
@@ -31773,105 +30092,6 @@
         "RecordedAt": "s2012"
       },
       {
-        "Updated": 1345266000000,
-        "SingleFamily": {
-          "Total": 11017,
-          "NonUtil": 5623,
-          "Water": 1895,
-          "Sewer": 3499,
-          "Schools": 5623
-        },
-        "MultiFamily": {
-          "Total": 6148,
-          "NonUtil": 1743,
-          "Water": 1321,
-          "Sewer": 3084,
-          "Schools": 1743
-        },
-        "Retail": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Office": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Industrial": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345266000000,
-        "SingleFamily": {
-          "Total": 11017,
-          "NonUtil": 5623,
-          "Water": 1895,
-          "Sewer": 3499,
-          "Schools": 5623
-        },
-        "MultiFamily": {
-          "Total": 6148,
-          "NonUtil": 1743,
-          "Water": 1321,
-          "Sewer": 3084,
-          "Schools": 1743
-        },
-        "Retail": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Office": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Industrial": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1321164000000,
-        "SingleFamily": {
-          "Total": 10080,
-          "NonUtil": 4686,
-          "Water": 1895,
-          "Sewer": 3499,
-          "Schools": 4686
-        },
-        "MultiFamily": {
-          "Total": 5858,
-          "NonUtil": 1453,
-          "Water": 1321,
-          "Sewer": 3084,
-          "Schools": 1453
-        },
-        "Retail": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Office": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "Industrial": {
-          "Total": 1553,
-          "Water": 574,
-          "Sewer": 979
-        },
-        "RecordedAt": "s2011"
-      },
-      {
         "Updated": 1306386000000,
         "SingleFamily": {
           "Total": 10760,
@@ -31913,39 +30133,6 @@
           "Police": 38
         },
         "RecordedAt": "s2011"
-      },
-      {
-        "Updated": 1288242000000,
-        "SingleFamily": {
-          "Total": 8966,
-          "NonUtil": 3749,
-          "Water": 1833,
-          "Sewer": 3384,
-          "Schools": 3749
-        },
-        "MultiFamily": {
-          "Total": 5423,
-          "NonUtil": 1162,
-          "Water": 1278,
-          "Sewer": 2983,
-          "Schools": 1162
-        },
-        "Retail": {
-          "Total": 1502,
-          "Water": 555,
-          "Sewer": 947
-        },
-        "Office": {
-          "Total": 1502,
-          "Water": 555,
-          "Sewer": 947
-        },
-        "Industrial": {
-          "Total": 1502,
-          "Water": 555,
-          "Sewer": 947
-        },
-        "RecordedAt": "s2010"
       },
       {
         "Updated": 1284440400000,
@@ -32032,45 +30219,10 @@
           "Police": 48
         },
         "RecordedAt": "s2007"
-      },
-      {
-        "Updated": 1183093200000,
-        "SingleFamily": {
-          "Total": 8076,
-          "NonUtil": 3450,
-          "Water": 1625,
-          "Sewer": 3001,
-          "Parks": 450,
-          "Schools": 3000
-        },
-        "MultiFamily": {
-          "Total": 5648,
-          "NonUtil": 1870,
-          "Water": 1133,
-          "Sewer": 2645,
-          "Parks": 450,
-          "Schools": 1420
-        },
-        "Retail": {
-          "Total": 1332,
-          "Water": 492,
-          "Sewer": 840
-        },
-        "Office": {
-          "Total": 1332,
-          "Water": 492,
-          "Sewer": 840
-        },
-        "Industrial": {
-          "Total": 1332,
-          "Water": 492,
-          "Sewer": 840
-        },
-        "RecordedAt": "s2007"
       }
     ]
   },
-  "Apopka": {
+  "FLApopka": {
     "Jurisdiction": "Apopka",
     "County": "Orange",
     "State": "FL",
@@ -32120,7 +30272,7 @@
       }
     ]
   },
-  "Maitland": {
+  "FLMaitland": {
     "Jurisdiction": "Maitland",
     "County": "Orange",
     "State": "FL",
@@ -32173,7 +30325,7 @@
       }
     ]
   },
-  "Oakland": {
+  "FLOakland": {
     "Jurisdiction": "Oakland",
     "County": "Orange",
     "State": "FL",
@@ -32238,7 +30390,7 @@
       }
     ]
   },
-  "Ocoee": {
+  "FLOcoee": {
     "Jurisdiction": "Ocoee",
     "County": "Orange",
     "State": "FL",
@@ -32510,7 +30662,7 @@
       }
     ]
   },
-  "Orlando": {
+  "FLOrlando": {
     "Jurisdiction": "Orlando",
     "County": "Orange",
     "State": "FL",
@@ -32709,7 +30861,7 @@
       }
     ]
   },
-  "Winter Garden": {
+  "FLWinter Garden": {
     "Jurisdiction": "Winter Garden",
     "County": "Orange",
     "State": "FL",
@@ -32971,7 +31123,7 @@
       }
     ]
   },
-  "Osceola Co": {
+  "FLOsceola Co": {
     "Jurisdiction": "Osceola Co",
     "County": "Osceola",
     "State": "FL",
@@ -33152,7 +31304,7 @@
       }
     ]
   },
-  "Palm Beach Co": {
+  "FLPalm Beach Co": {
     "Jurisdiction": "Palm Beach Co",
     "County": "Palm Beach",
     "State": "FL",
@@ -33404,7 +31556,7 @@
       }
     ]
   },
-  "Palm Beach Gardens": {
+  "FLPalm Beach Gardens": {
     "Jurisdiction": "Palm Beach Gardens",
     "County": "Palm Beach",
     "State": "FL",
@@ -33660,7 +31812,7 @@
       }
     ]
   },
-  "Pasco Co": {
+  "FLPasco Co": {
     "Jurisdiction": "Pasco Co",
     "County": "Pasco",
     "State": "FL",
@@ -33904,7 +32056,7 @@
       }
     ]
   },
-  "Pinellas Co": {
+  "FLPinellas Co": {
     "Jurisdiction": "Pinellas Co",
     "County": "Pinellas",
     "State": "FL",
@@ -34081,7 +32233,7 @@
       }
     ]
   },
-  "Polk Co": {
+  "FLPolk Co": {
     "Jurisdiction": "Polk Co",
     "County": "Polk",
     "State": "FL",
@@ -34228,7 +32380,7 @@
       }
     ]
   },
-  "Lakeland": {
+  "FLLakeland": {
     "Jurisdiction": "Lakeland",
     "County": "Polk",
     "State": "FL",
@@ -34462,7 +32614,7 @@
       }
     ]
   },
-  "Putnam Co": {
+  "FLPutnam Co": {
     "Jurisdiction": "Putnam Co",
     "County": "Putnam",
     "State": "FL",
@@ -34551,7 +32703,7 @@
       }
     ]
   },
-  "Santa Rosa Co": {
+  "FLSanta Rosa Co": {
     "Jurisdiction": "Santa Rosa Co",
     "County": "Santa Rosa",
     "State": "FL",
@@ -34631,7 +32783,7 @@
       }
     ]
   },
-  "St. Johns Co": {
+  "FLSt. Johns Co": {
     "Jurisdiction": "St. Johns Co",
     "County": "St Johns",
     "State": "FL",
@@ -34878,7 +33030,7 @@
       }
     ]
   },
-  "St. Lucie Co": {
+  "FLSt. Lucie Co": {
     "Jurisdiction": "St. Lucie Co",
     "County": "St Lucie",
     "State": "FL",
@@ -35135,7 +33287,7 @@
       }
     ]
   },
-  "Sarasota Co": {
+  "FLSarasota Co": {
     "Jurisdiction": "Sarasota Co",
     "County": "Sarasota",
     "State": "FL",
@@ -35462,7 +33614,7 @@
       }
     ]
   },
-  "North Port": {
+  "FLNorth Port": {
     "Jurisdiction": "North Port",
     "County": "Sarasota",
     "State": "FL",
@@ -35717,7 +33869,7 @@
       }
     ]
   },
-  "Seminole Co": {
+  "FLSeminole Co": {
     "Jurisdiction": "Seminole Co",
     "County": "Seminole",
     "State": "FL",
@@ -35914,7 +34066,7 @@
       }
     ]
   },
-  "Altamonte Springs": {
+  "FLAltamonte Springs": {
     "Jurisdiction": "Altamonte Springs",
     "County": "Seminole",
     "State": "FL",
@@ -36146,7 +34298,7 @@
       }
     ]
   },
-  "Winter Springs": {
+  "FLWinter Springs": {
     "Jurisdiction": "Winter Springs",
     "County": "Seminole",
     "State": "FL",
@@ -36403,7 +34555,7 @@
       }
     ]
   },
-  "Sumter Co": {
+  "FLSumter Co": {
     "Jurisdiction": "Sumter Co",
     "County": "Sumter",
     "State": "FL",
@@ -36580,7 +34732,7 @@
       }
     ]
   },
-  "Volusia Co": {
+  "FLVolusia Co": {
     "Jurisdiction": "Volusia Co",
     "County": "Volusia",
     "State": "FL",
@@ -36757,7 +34909,7 @@
       }
     ]
   },
-  "Daytona Beach": {
+  "FLDaytona Beach": {
     "Jurisdiction": "Daytona Beach",
     "County": "Volusia",
     "State": "FL",
@@ -36982,7 +35134,7 @@
       }
     ]
   },
-  "Deland": {
+  "FLDeland": {
     "Jurisdiction": "Deland",
     "County": "Volusia",
     "State": "FL",
@@ -37217,7 +35369,7 @@
       }
     ]
   },
-  "Deltona": {
+  "FLDeltona": {
     "Jurisdiction": "Deltona",
     "County": "Volusia",
     "State": "FL",
@@ -37467,7 +35619,7 @@
       }
     ]
   },
-  "Edgewater": {
+  "FLEdgewater": {
     "Jurisdiction": "Edgewater",
     "County": "Volusia",
     "State": "FL",
@@ -37527,7 +35679,7 @@
       }
     ]
   },
-  "Ormond Beach": {
+  "FLOrmond Beach": {
     "Jurisdiction": "Ormond Beach",
     "County": "Volusia",
     "State": "FL",
@@ -37774,7 +35926,7 @@
       }
     ]
   },
-  "Port Orange": {
+  "FLPort Orange": {
     "Jurisdiction": "Port Orange",
     "County": "Volusia",
     "State": "FL",
@@ -38021,7 +36173,7 @@
       }
     ]
   },
-  "Canton": {
+  "GACanton": {
     "Jurisdiction": "Canton",
     "County": "Cherokee",
     "State": "GA",
@@ -38248,7 +36400,7 @@
       }
     ]
   },
-  "Cherokee Co": {
+  "GACherokee Co": {
     "Jurisdiction": "Cherokee Co",
     "County": "Cherokee",
     "State": "GA",
@@ -38480,7 +36632,7 @@
       }
     ]
   },
-  "Forsyth Co": {
+  "GAForsyth Co": {
     "Jurisdiction": "Forsyth Co",
     "County": "Forsyth",
     "State": "GA",
@@ -38652,7 +36804,7 @@
       }
     ]
   },
-  "Alpharetta": {
+  "GAAlpharetta": {
     "Jurisdiction": "Alpharetta",
     "County": "Fulton",
     "State": "GA",
@@ -38854,7 +37006,7 @@
       }
     ]
   },
-  "Atlanta": {
+  "GAAtlanta": {
     "Jurisdiction": "Atlanta",
     "County": "Fulton",
     "State": "GA",
@@ -39081,7 +37233,7 @@
       }
     ]
   },
-  "Roswell": {
+  "GARoswell": {
     "Jurisdiction": "Roswell",
     "County": "Fulton",
     "State": "GA",
@@ -39273,7 +37425,7 @@
       }
     ]
   },
-  "Honolulu": {
+  "HIHonolulu": {
     "Jurisdiction": "Honolulu",
     "County": "Honolulu",
     "State": "HI",
@@ -39425,7 +37577,7 @@
       }
     ]
   },
-  "Boise": {
+  "IDBoise": {
     "Jurisdiction": "Boise",
     "County": "Ada",
     "State": "ID",
@@ -39627,7 +37779,7 @@
       }
     ]
   },
-  "Post Falls": {
+  "IDPost Falls": {
     "Jurisdiction": "Post Falls",
     "County": "Kootenai",
     "State": "ID",
@@ -39889,7 +38041,7 @@
       }
     ]
   },
-  "DeKalb (city)": {
+  "ILDeKalb (city)": {
     "Jurisdiction": "DeKalb (city)",
     "County": "DeKalb",
     "State": "IL",
@@ -39991,7 +38143,7 @@
       }
     ]
   },
-  "Sandwich": {
+  "ILSandwich": {
     "Jurisdiction": "Sandwich",
     "County": "DeKalb",
     "State": "IL",
@@ -40039,7 +38191,7 @@
       }
     ]
   },
-  "DuPage County": {
+  "ILDuPage County": {
     "Jurisdiction": "DuPage County",
     "County": "DuPage",
     "State": "IL",
@@ -40191,7 +38343,7 @@
       }
     ]
   },
-  "Kane County": {
+  "ILKane County": {
     "Jurisdiction": "Kane County",
     "County": "Kane",
     "State": "IL",
@@ -40343,7 +38495,7 @@
       }
     ]
   },
-  "Fishers": {
+  "INFishers": {
     "Jurisdiction": "Fishers",
     "County": "Hamilton",
     "State": "IN",
@@ -40530,7 +38682,7 @@
       }
     ]
   },
-  "Noblesville": {
+  "INNoblesville": {
     "Jurisdiction": "Noblesville",
     "County": "Hamilton",
     "State": "IN",
@@ -40702,7 +38854,7 @@
       }
     ]
   },
-  "Lenexa": {
+  "KSLenexa": {
     "Jurisdiction": "Lenexa",
     "County": "Johnson",
     "State": "KS",
@@ -40919,7 +39071,7 @@
       }
     ]
   },
-  "Olathe": {
+  "KSOlathe": {
     "Jurisdiction": "Olathe",
     "County": "Johnson",
     "State": "KS",
@@ -41146,7 +39298,7 @@
       }
     ]
   },
-  "Overland Park": {
+  "KSOverland Park": {
     "Jurisdiction": "Overland Park",
     "County": "Johnson",
     "State": "KS",
@@ -41298,7 +39450,7 @@
       }
     ]
   },
-  "Baton Rouge": {
+  "LABaton Rouge": {
     "Jurisdiction": "Baton Rouge",
     "County": "E Baton Rouge",
     "State": "LA",
@@ -41469,7 +39621,7 @@
       }
     ]
   },
-  "St Tammany Parish": {
+  "LASt Tammany Parish": {
     "Jurisdiction": "St Tammany Parish",
     "County": "St Tammany",
     "State": "LA",
@@ -41646,7 +39798,7 @@
       }
     ]
   },
-  "Anne Arundel Co": {
+  "MDAnne Arundel Co": {
     "Jurisdiction": "Anne Arundel Co",
     "County": "Anne Arundel",
     "State": "MD",
@@ -41863,7 +40015,7 @@
       }
     ]
   },
-  "Calvert Co": {
+  "MDCalvert Co": {
     "Jurisdiction": "Calvert Co",
     "County": "Calvert",
     "State": "MD",
@@ -42075,7 +40227,7 @@
       }
     ]
   },
-  "Carroll Co": {
+  "MDCarroll Co": {
     "Jurisdiction": "Carroll Co",
     "County": "Carroll",
     "State": "MD",
@@ -42177,7 +40329,7 @@
       }
     ]
   },
-  "Charles Co": {
+  "MDCharles Co": {
     "Jurisdiction": "Charles Co",
     "County": "Charles",
     "State": "MD",
@@ -42349,7 +40501,7 @@
       }
     ]
   },
-  "Frederick Co": {
+  "MDFrederick Co": {
     "Jurisdiction": "Frederick Co",
     "County": "Frederick",
     "State": "MD",
@@ -42539,7 +40691,7 @@
       }
     ]
   },
-  "Harford Co": {
+  "MDHarford Co": {
     "Jurisdiction": "Harford Co",
     "County": "Harford",
     "State": "MD",
@@ -42631,7 +40783,7 @@
       }
     ]
   },
-  "Howard Co": {
+  "MDHoward Co": {
     "Jurisdiction": "Howard Co",
     "County": "Howard",
     "State": "MD",
@@ -42793,7 +40945,7 @@
       }
     ]
   },
-  "Montgomery Co": {
+  "MDMontgomery Co": {
     "Jurisdiction": "Montgomery Co",
     "County": "Montgomery",
     "State": "MD",
@@ -43005,7 +41157,7 @@
       }
     ]
   },
-  "Queen Anne's Co": {
+  "MDQueen Anne's Co": {
     "Jurisdiction": "Queen Anne's Co",
     "County": "Queen Anne's",
     "State": "MD",
@@ -43177,7 +41329,7 @@
       }
     ]
   },
-  "St. Mary's Co": {
+  "MDSt. Mary's Co": {
     "Jurisdiction": "St. Mary's Co",
     "County": "St. Mary's",
     "State": "MD",
@@ -43289,7 +41441,7 @@
       }
     ]
   },
-  "Kansas City": {
+  "MOKansas City": {
     "Jurisdiction": "Kansas City",
     "County": "Clay/Jackson",
     "State": "MO",
@@ -43441,7 +41593,7 @@
       }
     ]
   },
-  "Lee's Summit": {
+  "MOLee's Summit": {
     "Jurisdiction": "Lee's Summit",
     "County": "Jackson",
     "State": "MO",
@@ -43593,7 +41745,7 @@
       }
     ]
   },
-  "Bozeman": {
+  "MTBozeman": {
     "Jurisdiction": "Bozeman",
     "County": "Gallatin",
     "State": "MT",
@@ -43820,7 +41972,7 @@
       }
     ]
   },
-  "Chatham Co.": {
+  "NCChatham Co.": {
     "Jurisdiction": "Chatham Co.",
     "County": "Chatham",
     "State": "NC",
@@ -43971,7 +42123,7 @@
       }
     ]
   },
-  "Durham": {
+  "NCDurham": {
     "Jurisdiction": "Durham",
     "County": "Durham",
     "State": "NC",
@@ -44193,7 +42345,181 @@
       }
     ]
   },
-  "Cary": {
+  "NCOrange Co.": {
+    "Jurisdiction": "Orange Co.",
+    "County": "Orange",
+    "State": "NC",
+    "DataEntries": [
+      {
+        "Updated": 1345266000000,
+        "SingleFamily": {
+          "Total": 11017,
+          "NonUtil": 5623,
+          "Water": 1895,
+          "Sewer": 3499,
+          "Schools": 5623
+        },
+        "MultiFamily": {
+          "Total": 6148,
+          "NonUtil": 1743,
+          "Water": 1321,
+          "Sewer": 3084,
+          "Schools": 1743
+        },
+        "Retail": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Office": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Industrial": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345266000000,
+        "SingleFamily": {
+          "Total": 11017,
+          "NonUtil": 5623,
+          "Water": 1895,
+          "Sewer": 3499,
+          "Schools": 5623
+        },
+        "MultiFamily": {
+          "Total": 6148,
+          "NonUtil": 1743,
+          "Water": 1321,
+          "Sewer": 3084,
+          "Schools": 1743
+        },
+        "Retail": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Office": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Industrial": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321164000000,
+        "SingleFamily": {
+          "Total": 10080,
+          "NonUtil": 4686,
+          "Water": 1895,
+          "Sewer": 3499,
+          "Schools": 4686
+        },
+        "MultiFamily": {
+          "Total": 5858,
+          "NonUtil": 1453,
+          "Water": 1321,
+          "Sewer": 3084,
+          "Schools": 1453
+        },
+        "Retail": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Office": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "Industrial": {
+          "Total": 1553,
+          "Water": 574,
+          "Sewer": 979
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288242000000,
+        "SingleFamily": {
+          "Total": 8966,
+          "NonUtil": 3749,
+          "Water": 1833,
+          "Sewer": 3384,
+          "Schools": 3749
+        },
+        "MultiFamily": {
+          "Total": 5423,
+          "NonUtil": 1162,
+          "Water": 1278,
+          "Sewer": 2983,
+          "Schools": 1162
+        },
+        "Retail": {
+          "Total": 1502,
+          "Water": 555,
+          "Sewer": 947
+        },
+        "Office": {
+          "Total": 1502,
+          "Water": 555,
+          "Sewer": 947
+        },
+        "Industrial": {
+          "Total": 1502,
+          "Water": 555,
+          "Sewer": 947
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1183093200000,
+        "SingleFamily": {
+          "Total": 8076,
+          "NonUtil": 3450,
+          "Water": 1625,
+          "Sewer": 3001,
+          "Parks": 450,
+          "Schools": 3000
+        },
+        "MultiFamily": {
+          "Total": 5648,
+          "NonUtil": 1870,
+          "Water": 1133,
+          "Sewer": 2645,
+          "Parks": 450,
+          "Schools": 1420
+        },
+        "Retail": {
+          "Total": 1332,
+          "Water": 492,
+          "Sewer": 840
+        },
+        "Office": {
+          "Total": 1332,
+          "Water": 492,
+          "Sewer": 840
+        },
+        "Industrial": {
+          "Total": 1332,
+          "Water": 492,
+          "Sewer": 840
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "NCCary": {
     "Jurisdiction": "Cary",
     "County": "Wake",
     "State": "NC",
@@ -44395,7 +42721,7 @@
       }
     ]
   },
-  "Raleigh": {
+  "NCRaleigh": {
     "Jurisdiction": "Raleigh",
     "County": "Wake",
     "State": "NC",
@@ -44607,7 +42933,7 @@
       }
     ]
   },
-  "Lincoln": {
+  "NELincoln": {
     "Jurisdiction": "Lincoln",
     "County": "Lancaster",
     "State": "NE",
@@ -44819,7 +43145,7 @@
       }
     ]
   },
-  "Manchester": {
+  "NHManchester": {
     "Jurisdiction": "Manchester",
     "County": "Hillsborough",
     "State": "NH",
@@ -44921,7 +43247,7 @@
       }
     ]
   },
-  "Concord": {
+  "NHConcord": {
     "Jurisdiction": "Concord",
     "County": "Merrimack",
     "State": "NH",
@@ -45093,7 +43419,7 @@
       }
     ]
   },
-  "Salem": {
+  "NHSalem": {
     "Jurisdiction": "Salem",
     "County": "Rockingham",
     "State": "NH",
@@ -45128,52 +43454,6 @@
       {
         "Updated": 1345352400000,
         "SingleFamily": {
-          "Total": 13193,
-          "NonUtil": 6193,
-          "Roads": 1954,
-          "Water": 3500,
-          "Sewer": 3500,
-          "Drain": 494,
-          "Parks": 3745
-        },
-        "MultiFamily": {
-          "Total": 5050,
-          "NonUtil": 4123,
-          "Roads": 1372,
-          "Water": 541,
-          "Sewer": 386,
-          "Drain": 302,
-          "Parks": 2449
-        },
-        "Retail": {
-          "Total": 9839,
-          "NonUtil": 9069,
-          "Roads": 8767,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "Office": {
-          "Total": 3320,
-          "NonUtil": 2550,
-          "Roads": 2248,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "Industrial": {
-          "Total": 2495,
-          "NonUtil": 1725,
-          "Roads": 1423,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
           "Total": 5532,
           "NonUtil": 5532
         },
@@ -45197,98 +43477,6 @@
           "Police": 300
         },
         "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 13193,
-          "NonUtil": 6193,
-          "Roads": 1954,
-          "Water": 3500,
-          "Sewer": 3500,
-          "Drain": 494,
-          "Parks": 3745
-        },
-        "MultiFamily": {
-          "Total": 5050,
-          "NonUtil": 4123,
-          "Roads": 1372,
-          "Water": 541,
-          "Sewer": 386,
-          "Drain": 302,
-          "Parks": 2449
-        },
-        "Retail": {
-          "Total": 9839,
-          "NonUtil": 9069,
-          "Roads": 8767,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "Office": {
-          "Total": 3320,
-          "NonUtil": 2550,
-          "Roads": 2248,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "Industrial": {
-          "Total": 2495,
-          "NonUtil": 1725,
-          "Roads": 1423,
-          "Water": 385,
-          "Sewer": 385,
-          "Drain": 302
-        },
-        "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1321596000000,
-        "SingleFamily": {
-          "Total": 13304,
-          "NonUtil": 6080,
-          "Roads": 1953,
-          "Water": 4291,
-          "Sewer": 2933,
-          "Drain": 481,
-          "Parks": 3646
-        },
-        "MultiFamily": {
-          "Total": 5032,
-          "NonUtil": 3960,
-          "Roads": 1274,
-          "Water": 705,
-          "Sewer": 367,
-          "Drain": 302,
-          "Parks": 2384
-        },
-        "Retail": {
-          "Total": 9294,
-          "NonUtil": 8445,
-          "Roads": 8143,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 302
-        },
-        "Office": {
-          "Total": 3239,
-          "NonUtil": 2390,
-          "Roads": 2088,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 302
-        },
-        "Industrial": {
-          "Total": 2473,
-          "NonUtil": 1624,
-          "Roads": 1322,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 302
-        },
-        "RecordedAt": "s2011"
       },
       {
         "Updated": 1321164000000,
@@ -45318,52 +43506,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1288328400000,
-        "SingleFamily": {
-          "Total": 13312,
-          "NonUtil": 6088,
-          "Roads": 1953,
-          "Water": 4291,
-          "Sewer": 2933,
-          "Drain": 587,
-          "Parks": 3548
-        },
-        "MultiFamily": {
-          "Total": 4577,
-          "NonUtil": 3505,
-          "Roads": 1274,
-          "Water": 705,
-          "Sewer": 367,
-          "Drain": 294,
-          "Parks": 1937
-        },
-        "Retail": {
-          "Total": 9285,
-          "NonUtil": 8436,
-          "Roads": 8143,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 294
-        },
-        "Office": {
-          "Total": 3230,
-          "NonUtil": 2381,
-          "Roads": 2088,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 294
-        },
-        "Industrial": {
-          "Total": 2464,
-          "NonUtil": 1615,
-          "Roads": 1322,
-          "Water": 493,
-          "Sewer": 356,
-          "Drain": 294
-        },
-        "RecordedAt": "s2010"
-      },
-      {
         "Updated": 1288242000000,
         "SingleFamily": {
           "Total": 5232,
@@ -45389,52 +43531,6 @@
           "Police": 300
         },
         "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1184648400000,
-        "SingleFamily": {
-          "Total": 12216,
-          "NonUtil": 5227,
-          "Roads": 1815,
-          "Water": 4184,
-          "Sewer": 2805,
-          "Drain": 449,
-          "Parks": 2963
-        },
-        "MultiFamily": {
-          "Total": 6987,
-          "NonUtil": 3493,
-          "Roads": 1274,
-          "Water": 2092,
-          "Sewer": 1402,
-          "Drain": 281,
-          "Parks": 1937
-        },
-        "Retail": {
-          "Total": 9542,
-          "NonUtil": 8424,
-          "Roads": 8143,
-          "Water": 669,
-          "Sewer": 449,
-          "Drain": 281
-        },
-        "Office": {
-          "Total": 3487,
-          "NonUtil": 2369,
-          "Roads": 2088,
-          "Water": 669,
-          "Sewer": 449,
-          "Drain": 281
-        },
-        "Industrial": {
-          "Total": 2354,
-          "NonUtil": 1603,
-          "Roads": 1322,
-          "Water": 302,
-          "Sewer": 449,
-          "Drain": 281
-        },
-        "RecordedAt": "s2007"
       },
       {
         "Updated": 1183093200000,
@@ -45465,7 +43561,99 @@
       }
     ]
   },
-  "Albuquerque": {
+  "NHFremont": {
+    "Jurisdiction": "Fremont",
+    "County": "Rockingham",
+    "State": "NH",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 3761,
+          "NonUtil": 3761,
+          "Schools": 3761
+        },
+        "MultiFamily": {
+          "Total": 2438,
+          "NonUtil": 2438,
+          "Schools": 2438
+        },
+        "Retail": {},
+        "Office": {},
+        "Industrial": {},
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 3761,
+          "NonUtil": 3761,
+          "Schools": 3761
+        },
+        "MultiFamily": {
+          "Total": 2438,
+          "NonUtil": 2438,
+          "Schools": 2438
+        },
+        "Retail": {},
+        "Office": {},
+        "Industrial": {},
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321164000000,
+        "SingleFamily": {
+          "Total": 3761,
+          "NonUtil": 3761,
+          "Schools": 3761
+        },
+        "MultiFamily": {
+          "Total": 2438,
+          "NonUtil": 2438,
+          "Schools": 2438
+        },
+        "Retail": {},
+        "Office": {},
+        "Industrial": {},
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288242000000,
+        "SingleFamily": {
+          "Total": 3761,
+          "NonUtil": 3761,
+          "Schools": 3761
+        },
+        "MultiFamily": {
+          "Total": 2438,
+          "NonUtil": 2438,
+          "Schools": 2438
+        },
+        "Retail": {},
+        "Office": {},
+        "Industrial": {},
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1183093200000,
+        "SingleFamily": {
+          "Total": 3761,
+          "NonUtil": 3761,
+          "Schools": 3761
+        },
+        "MultiFamily": {
+          "Total": 2438,
+          "NonUtil": 2438,
+          "Schools": 2438
+        },
+        "Retail": {},
+        "Office": {},
+        "Industrial": {},
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "NMAlbuquerque": {
     "Jurisdiction": "Albuquerque",
     "County": "Bernalillo",
     "State": "NM",
@@ -45727,7 +43915,7 @@
       }
     ]
   },
-  "Bernalillo Co": {
+  "NMBernalillo Co": {
     "Jurisdiction": "Bernalillo Co",
     "County": "Bernalillo",
     "State": "NM",
@@ -45949,7 +44137,7 @@
       }
     ]
   },
-  "Las Cruces": {
+  "NMLas Cruces": {
     "Jurisdiction": "Las Cruces",
     "County": "Dona Ana",
     "State": "NM",
@@ -46136,7 +44324,7 @@
       }
     ]
   },
-  "Ruidoso": {
+  "NMRuidoso": {
     "Jurisdiction": "Ruidoso",
     "County": "Lincoln",
     "State": "NM",
@@ -46288,7 +44476,7 @@
       }
     ]
   },
-  "Rio Rancho": {
+  "NMRio Rancho": {
     "Jurisdiction": "Rio Rancho",
     "County": "Sandoval",
     "State": "NM",
@@ -46575,7 +44763,7 @@
       }
     ]
   },
-  "Santa Fe": {
+  "NMSanta Fe": {
     "Jurisdiction": "Santa Fe",
     "County": "Santa Fe",
     "State": "NM",
@@ -46798,7 +44986,7 @@
       }
     ]
   },
-  "Santa Fe County": {
+  "NMSanta Fe County": {
     "Jurisdiction": "Santa Fe County",
     "County": "Santa Fe",
     "State": "NM",
@@ -46950,7 +45138,7 @@
       }
     ]
   },
-  "Los Lunas": {
+  "NMLos Lunas": {
     "Jurisdiction": "Los Lunas",
     "County": "Valencia",
     "State": "NM",
@@ -47122,7 +45310,7 @@
       }
     ]
   },
-  "Churchill County": {
+  "NVChurchill County": {
     "Jurisdiction": "Churchill County",
     "County": "Churchill",
     "State": "NV",
@@ -47234,7 +45422,7 @@
       }
     ]
   },
-  "Las Vegas": {
+  "NVLas Vegas": {
     "Jurisdiction": "Las Vegas",
     "County": "Clark",
     "State": "NV",
@@ -47446,7 +45634,7 @@
       }
     ]
   },
-  "Mesquite": {
+  "NVMesquite": {
     "Jurisdiction": "Mesquite",
     "County": "Clark",
     "State": "NV",
@@ -47637,7 +45825,7 @@
       }
     ]
   },
-  "Truckee": {
+  "NVTruckee": {
     "Jurisdiction": "Truckee",
     "County": "Placer",
     "State": "NV",
@@ -47727,7 +45915,7 @@
       }
     ]
   },
-  "Reno": {
+  "NVReno": {
     "Jurisdiction": "Reno",
     "County": "Washoe",
     "State": "NV",
@@ -47889,7 +46077,7 @@
       }
     ]
   },
-  "Middletown": {
+  "OHMiddletown": {
     "Jurisdiction": "Middletown",
     "County": "Butler",
     "State": "OH",
@@ -47981,7 +46169,7 @@
       }
     ]
   },
-  "Delaware (city)": {
+  "OHDelaware (city)": {
     "Jurisdiction": "Delaware (city)",
     "County": "Delaware",
     "State": "OH",
@@ -48243,7 +46431,7 @@
       }
     ]
   },
-  "Hamilton Township": {
+  "OHHamilton Township": {
     "Jurisdiction": "Hamilton Township",
     "County": "Warren",
     "State": "OH",
@@ -48373,7 +46561,7 @@
       }
     ]
   },
-  "Moore": {
+  "OKMoore": {
     "Jurisdiction": "Moore",
     "County": "Cleveland",
     "State": "OK",
@@ -48535,7 +46723,7 @@
       }
     ]
   },
-  "Clackamas Co.": {
+  "ORClackamas Co.": {
     "Jurisdiction": "Clackamas Co.",
     "County": "Clackamas",
     "State": "OR",
@@ -48748,7 +46936,7 @@
       }
     ]
   },
-  "West Linn": {
+  "ORWest Linn": {
     "Jurisdiction": "West Linn",
     "County": "Clackamas",
     "State": "OR",
@@ -49005,7 +47193,7 @@
       }
     ]
   },
-  "Bend": {
+  "ORBend": {
     "Jurisdiction": "Bend",
     "County": "Deschutes",
     "State": "OR",
@@ -49217,7 +47405,7 @@
       }
     ]
   },
-  "Grants Pass": {
+  "ORGrants Pass": {
     "Jurisdiction": "Grants Pass",
     "County": "Josephine",
     "State": "OR",
@@ -49442,7 +47630,7 @@
       }
     ]
   },
-  "Eugene": {
+  "OREugene": {
     "Jurisdiction": "Eugene",
     "County": "Lane",
     "State": "OR",
@@ -49671,7 +47859,7 @@
       }
     ]
   },
-  "Springfield": {
+  "ORSpringfield": {
     "Jurisdiction": "Springfield",
     "County": "Lane",
     "State": "OR",
@@ -49873,7 +48061,244 @@
       }
     ]
   },
-  "Silverton": {
+  "ORSalem": {
+    "Jurisdiction": "Salem",
+    "County": "Marion",
+    "State": "OR",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 13193,
+          "NonUtil": 6193,
+          "Roads": 1954,
+          "Water": 3500,
+          "Sewer": 3500,
+          "Drain": 494,
+          "Parks": 3745
+        },
+        "MultiFamily": {
+          "Total": 5050,
+          "NonUtil": 4123,
+          "Roads": 1372,
+          "Water": 541,
+          "Sewer": 386,
+          "Drain": 302,
+          "Parks": 2449
+        },
+        "Retail": {
+          "Total": 9839,
+          "NonUtil": 9069,
+          "Roads": 8767,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "Office": {
+          "Total": 3320,
+          "NonUtil": 2550,
+          "Roads": 2248,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "Industrial": {
+          "Total": 2495,
+          "NonUtil": 1725,
+          "Roads": 1423,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 13193,
+          "NonUtil": 6193,
+          "Roads": 1954,
+          "Water": 3500,
+          "Sewer": 3500,
+          "Drain": 494,
+          "Parks": 3745
+        },
+        "MultiFamily": {
+          "Total": 5050,
+          "NonUtil": 4123,
+          "Roads": 1372,
+          "Water": 541,
+          "Sewer": 386,
+          "Drain": 302,
+          "Parks": 2449
+        },
+        "Retail": {
+          "Total": 9839,
+          "NonUtil": 9069,
+          "Roads": 8767,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "Office": {
+          "Total": 3320,
+          "NonUtil": 2550,
+          "Roads": 2248,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "Industrial": {
+          "Total": 2495,
+          "NonUtil": 1725,
+          "Roads": 1423,
+          "Water": 385,
+          "Sewer": 385,
+          "Drain": 302
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321596000000,
+        "SingleFamily": {
+          "Total": 13304,
+          "NonUtil": 6080,
+          "Roads": 1953,
+          "Water": 4291,
+          "Sewer": 2933,
+          "Drain": 481,
+          "Parks": 3646
+        },
+        "MultiFamily": {
+          "Total": 5032,
+          "NonUtil": 3960,
+          "Roads": 1274,
+          "Water": 705,
+          "Sewer": 367,
+          "Drain": 302,
+          "Parks": 2384
+        },
+        "Retail": {
+          "Total": 9294,
+          "NonUtil": 8445,
+          "Roads": 8143,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 302
+        },
+        "Office": {
+          "Total": 3239,
+          "NonUtil": 2390,
+          "Roads": 2088,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 302
+        },
+        "Industrial": {
+          "Total": 2473,
+          "NonUtil": 1624,
+          "Roads": 1322,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 302
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288328400000,
+        "SingleFamily": {
+          "Total": 13312,
+          "NonUtil": 6088,
+          "Roads": 1953,
+          "Water": 4291,
+          "Sewer": 2933,
+          "Drain": 587,
+          "Parks": 3548
+        },
+        "MultiFamily": {
+          "Total": 4577,
+          "NonUtil": 3505,
+          "Roads": 1274,
+          "Water": 705,
+          "Sewer": 367,
+          "Drain": 294,
+          "Parks": 1937
+        },
+        "Retail": {
+          "Total": 9285,
+          "NonUtil": 8436,
+          "Roads": 8143,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 294
+        },
+        "Office": {
+          "Total": 3230,
+          "NonUtil": 2381,
+          "Roads": 2088,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 294
+        },
+        "Industrial": {
+          "Total": 2464,
+          "NonUtil": 1615,
+          "Roads": 1322,
+          "Water": 493,
+          "Sewer": 356,
+          "Drain": 294
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1184648400000,
+        "SingleFamily": {
+          "Total": 12216,
+          "NonUtil": 5227,
+          "Roads": 1815,
+          "Water": 4184,
+          "Sewer": 2805,
+          "Drain": 449,
+          "Parks": 2963
+        },
+        "MultiFamily": {
+          "Total": 6987,
+          "NonUtil": 3493,
+          "Roads": 1274,
+          "Water": 2092,
+          "Sewer": 1402,
+          "Drain": 281,
+          "Parks": 1937
+        },
+        "Retail": {
+          "Total": 9542,
+          "NonUtil": 8424,
+          "Roads": 8143,
+          "Water": 669,
+          "Sewer": 449,
+          "Drain": 281
+        },
+        "Office": {
+          "Total": 3487,
+          "NonUtil": 2369,
+          "Roads": 2088,
+          "Water": 669,
+          "Sewer": 449,
+          "Drain": 281
+        },
+        "Industrial": {
+          "Total": 2354,
+          "NonUtil": 1603,
+          "Roads": 1322,
+          "Water": 302,
+          "Sewer": 449,
+          "Drain": 281
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "ORSilverton": {
     "Jurisdiction": "Silverton",
     "County": "Marion",
     "State": "OR",
@@ -50094,7 +48519,7 @@
       }
     ]
   },
-  "Portland": {
+  "ORPortland": {
     "Jurisdiction": "Portland",
     "County": "Multnomah",
     "State": "OR",
@@ -50151,35 +48576,6 @@
       {
         "Updated": 1345352400000,
         "SingleFamily": {
-          "Total": 3065,
-          "NonUtil": 3065,
-          "Parks": 1228,
-          "Schools": 1400,
-          "Other": 437
-        },
-        "MultiFamily": {
-          "Total": 1931,
-          "NonUtil": 1931,
-          "Parks": 907,
-          "Schools": 700,
-          "Other": 324
-        },
-        "Retail": {
-          "Other": 400
-        },
-        "Office": {
-          "Other": 400
-        },
-        "Industrial": {
-          "Total": 400,
-          "NonUtil": 400,
-          "Other": 400
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
           "Total": 17460,
           "NonUtil": 11308,
           "Roads": 2773,
@@ -50223,35 +48619,6 @@
           "Sewer": 694,
           "Drain": 328,
           "Parks": 216
-        },
-        "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 3065,
-          "NonUtil": 3065,
-          "Parks": 1228,
-          "Schools": 1400,
-          "Other": 437
-        },
-        "MultiFamily": {
-          "Total": 1931,
-          "NonUtil": 1931,
-          "Parks": 907,
-          "Schools": 700,
-          "Other": 324
-        },
-        "Retail": {
-          "Other": 400
-        },
-        "Office": {
-          "Other": 400
-        },
-        "Industrial": {
-          "Total": 400,
-          "NonUtil": 400,
-          "Other": 400
         },
         "RecordedAt": "s2015"
       },
@@ -50305,35 +48672,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1321596000000,
-        "SingleFamily": {
-          "Total": 3065,
-          "NonUtil": 3065,
-          "Parks": 1228,
-          "Schools": 1400,
-          "Other": 437
-        },
-        "MultiFamily": {
-          "Total": 1931,
-          "NonUtil": 1931,
-          "Parks": 907,
-          "Schools": 700,
-          "Other": 324
-        },
-        "Retail": {
-          "Other": 400
-        },
-        "Office": {
-          "Other": 400
-        },
-        "Industrial": {
-          "Total": 400,
-          "NonUtil": 400,
-          "Schools": 400
-        },
-        "RecordedAt": "s2011"
-      },
-      {
         "Updated": 1288328400000,
         "SingleFamily": {
           "Total": 17083,
@@ -50383,64 +48721,6 @@
         "RecordedAt": "s2010"
       },
       {
-        "Updated": 1288328400000,
-        "SingleFamily": {
-          "Total": 3065,
-          "NonUtil": 3065,
-          "Parks": 1228,
-          "Schools": 1400,
-          "Other": 437
-        },
-        "MultiFamily": {
-          "Total": 1931,
-          "NonUtil": 1931,
-          "Parks": 907,
-          "Schools": 700,
-          "Other": 324
-        },
-        "Retail": {
-          "Other": 400
-        },
-        "Office": {
-          "Other": 400
-        },
-        "Industrial": {
-          "Total": 400,
-          "NonUtil": 400,
-          "Schools": 400
-        },
-        "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1184821200000,
-        "SingleFamily": {
-          "Total": 3065,
-          "NonUtil": 3065,
-          "Parks": 1228,
-          "Schools": 1400,
-          "Other": 437
-        },
-        "MultiFamily": {
-          "Total": 1931,
-          "NonUtil": 1931,
-          "Parks": 907,
-          "Schools": 700,
-          "Other": 324
-        },
-        "Retail": {
-          "Other": 400
-        },
-        "Office": {
-          "Other": 400
-        },
-        "Industrial": {
-          "Total": 400,
-          "NonUtil": 400,
-          "Schools": 400
-        },
-        "RecordedAt": "s2007"
-      },
-      {
         "Updated": 1184648400000,
         "SingleFamily": {
           "Total": 10771,
@@ -50488,7 +48768,7 @@
       }
     ]
   },
-  "Tigard": {
+  "ORTigard": {
     "Jurisdiction": "Tigard",
     "County": "Washington",
     "State": "OR",
@@ -50685,7 +48965,7 @@
       }
     ]
   },
-  "Washington Co": {
+  "ORWashington Co": {
     "Jurisdiction": "Washington Co",
     "County": "Washington",
     "State": "OR",
@@ -50887,7 +49167,7 @@
       }
     ]
   },
-  "Towamencin Twp": {
+  "PATowamencin Twp": {
     "Jurisdiction": "Towamencin Twp",
     "County": "Montgomery",
     "State": "PA",
@@ -51139,7 +49419,7 @@
       }
     ]
   },
-  "Beaufort Co": {
+  "SCBeaufort Co": {
     "Jurisdiction": "Beaufort Co",
     "County": "Beaufort",
     "State": "SC",
@@ -51336,7 +49616,7 @@
       }
     ]
   },
-  "Hilton Head": {
+  "SCHilton Head": {
     "Jurisdiction": "Hilton Head",
     "County": "Beaufort",
     "State": "SC",
@@ -51558,7 +49838,7 @@
       }
     ]
   },
-  "Mt. Pleasant": {
+  "SCMt. Pleasant": {
     "Jurisdiction": "Mt. Pleasant",
     "County": "Berkeley",
     "State": "SC",
@@ -51845,7 +50125,7 @@
       }
     ]
   },
-  "La Vergne": {
+  "TNLa Vergne": {
     "Jurisdiction": "La Vergne",
     "County": "Rutherford",
     "State": "TN",
@@ -52061,7 +50341,7 @@
       }
     ]
   },
-  "Smyrna": {
+  "TNSmyrna": {
     "Jurisdiction": "Smyrna",
     "County": "Rutherford",
     "State": "TN",
@@ -52258,7 +50538,159 @@
       }
     ]
   },
-  "White House": {
+  "TNPortland": {
+    "Jurisdiction": "Portland",
+    "County": "Sumner",
+    "State": "TN",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 3065,
+          "NonUtil": 3065,
+          "Parks": 1228,
+          "Schools": 1400,
+          "Other": 437
+        },
+        "MultiFamily": {
+          "Total": 1931,
+          "NonUtil": 1931,
+          "Parks": 907,
+          "Schools": 700,
+          "Other": 324
+        },
+        "Retail": {
+          "Other": 400
+        },
+        "Office": {
+          "Other": 400
+        },
+        "Industrial": {
+          "Total": 400,
+          "NonUtil": 400,
+          "Other": 400
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 3065,
+          "NonUtil": 3065,
+          "Parks": 1228,
+          "Schools": 1400,
+          "Other": 437
+        },
+        "MultiFamily": {
+          "Total": 1931,
+          "NonUtil": 1931,
+          "Parks": 907,
+          "Schools": 700,
+          "Other": 324
+        },
+        "Retail": {
+          "Other": 400
+        },
+        "Office": {
+          "Other": 400
+        },
+        "Industrial": {
+          "Total": 400,
+          "NonUtil": 400,
+          "Other": 400
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321596000000,
+        "SingleFamily": {
+          "Total": 3065,
+          "NonUtil": 3065,
+          "Parks": 1228,
+          "Schools": 1400,
+          "Other": 437
+        },
+        "MultiFamily": {
+          "Total": 1931,
+          "NonUtil": 1931,
+          "Parks": 907,
+          "Schools": 700,
+          "Other": 324
+        },
+        "Retail": {
+          "Other": 400
+        },
+        "Office": {
+          "Other": 400
+        },
+        "Industrial": {
+          "Total": 400,
+          "NonUtil": 400,
+          "Schools": 400
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288328400000,
+        "SingleFamily": {
+          "Total": 3065,
+          "NonUtil": 3065,
+          "Parks": 1228,
+          "Schools": 1400,
+          "Other": 437
+        },
+        "MultiFamily": {
+          "Total": 1931,
+          "NonUtil": 1931,
+          "Parks": 907,
+          "Schools": 700,
+          "Other": 324
+        },
+        "Retail": {
+          "Other": 400
+        },
+        "Office": {
+          "Other": 400
+        },
+        "Industrial": {
+          "Total": 400,
+          "NonUtil": 400,
+          "Schools": 400
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1184821200000,
+        "SingleFamily": {
+          "Total": 3065,
+          "NonUtil": 3065,
+          "Parks": 1228,
+          "Schools": 1400,
+          "Other": 437
+        },
+        "MultiFamily": {
+          "Total": 1931,
+          "NonUtil": 1931,
+          "Parks": 907,
+          "Schools": 700,
+          "Other": 324
+        },
+        "Retail": {
+          "Other": 400
+        },
+        "Office": {
+          "Other": 400
+        },
+        "Industrial": {
+          "Total": 400,
+          "NonUtil": 400,
+          "Schools": 400
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "TNWhite House": {
     "Jurisdiction": "White House",
     "County": "Sumner",
     "State": "TN",
@@ -52483,7 +50915,7 @@
       }
     ]
   },
-  "Franklin": {
+  "TNFranklin": {
     "Jurisdiction": "Franklin",
     "County": "Williamson",
     "State": "TN",
@@ -52710,7 +51142,7 @@
       }
     ]
   },
-  "Nolensville": {
+  "TNNolensville": {
     "Jurisdiction": "Nolensville",
     "County": "Williamson",
     "State": "TN",
@@ -52887,7 +51319,7 @@
       }
     ]
   },
-  "College Station": {
+  "TXCollege Station": {
     "Jurisdiction": "College Station",
     "County": "Brazos",
     "State": "TX",
@@ -53059,7 +51491,7 @@
       }
     ]
   },
-  "Allen": {
+  "TXAllen": {
     "Jurisdiction": "Allen",
     "County": "Collin",
     "State": "TX",
@@ -53261,7 +51693,7 @@
       }
     ]
   },
-  "McKinney": {
+  "TXMcKinney": {
     "Jurisdiction": "McKinney",
     "County": "Collin",
     "State": "TX",
@@ -53463,7 +51895,7 @@
       }
     ]
   },
-  "Denton": {
+  "TXDenton": {
     "Jurisdiction": "Denton",
     "County": "Denton",
     "State": "TX",
@@ -53615,7 +52047,7 @@
       }
     ]
   },
-  "Arlington": {
+  "TXArlington": {
     "Jurisdiction": "Arlington",
     "County": "Tarrant",
     "State": "TX",
@@ -53827,7 +52259,7 @@
       }
     ]
   },
-  "Colleyville": {
+  "TXColleyville": {
     "Jurisdiction": "Colleyville",
     "County": "Tarrant",
     "State": "TX",
@@ -54029,7 +52461,7 @@
       }
     ]
   },
-  "Ft. Worth": {
+  "TXFt. Worth": {
     "Jurisdiction": "Ft. Worth",
     "County": "Tarrant",
     "State": "TX",
@@ -54201,7 +52633,7 @@
       }
     ]
   },
-  "Georgetown": {
+  "TXGeorgetown": {
     "Jurisdiction": "Georgetown",
     "County": "Williamson",
     "State": "TX",
@@ -54353,7 +52785,7 @@
       }
     ]
   },
-  "Logan": {
+  "UTLogan": {
     "Jurisdiction": "Logan",
     "County": "Cache",
     "State": "UT",
@@ -54640,7 +53072,7 @@
       }
     ]
   },
-  "Layton": {
+  "UTLayton": {
     "Jurisdiction": "Layton",
     "County": "Davis",
     "State": "UT",
@@ -54877,7 +53309,7 @@
       }
     ]
   },
-  "Draper": {
+  "UTDraper": {
     "Jurisdiction": "Draper",
     "County": "Salt Lake",
     "State": "UT",
@@ -55139,7 +53571,7 @@
       }
     ]
   },
-  "Sandy City": {
+  "UTSandy City": {
     "Jurisdiction": "Sandy City",
     "County": "Salt Lake",
     "State": "UT",
@@ -55395,7 +53827,7 @@
       }
     ]
   },
-  "West Jordan City": {
+  "UTWest Jordan City": {
     "Jurisdiction": "West Jordan City",
     "County": "Salt Lake",
     "State": "UT",
@@ -55682,7 +54114,7 @@
       }
     ]
   },
-  "West Valley City": {
+  "UTWest Valley City": {
     "Jurisdiction": "West Valley City",
     "County": "Salt Lake",
     "State": "UT",
@@ -55919,7 +54351,7 @@
       }
     ]
   },
-  "Tooele": {
+  "UTTooele": {
     "Jurisdiction": "Tooele",
     "County": "Tooele",
     "State": "UT",
@@ -56134,7 +54566,7 @@
       }
     ]
   },
-  "Provo": {
+  "UTProvo": {
     "Jurisdiction": "Provo",
     "County": "Utah",
     "State": "UT",
@@ -56371,7 +54803,7 @@
       }
     ]
   },
-  "Leesburg": {
+  "VALeesburg": {
     "Jurisdiction": "Leesburg",
     "County": "Loudoun",
     "State": "VA",
@@ -56523,7 +54955,7 @@
       }
     ]
   },
-  "Stafford Co": {
+  "VAStafford Co": {
     "Jurisdiction": "Stafford Co",
     "County": "Stafford",
     "State": "VA",
@@ -56735,7 +55167,7 @@
       }
     ]
   },
-  "Burlington": {
+  "VTBurlington": {
     "Jurisdiction": "Burlington",
     "County": "Chittenden",
     "State": "VT",
@@ -56791,55 +55223,6 @@
       {
         "Updated": 1345352400000,
         "SingleFamily": {
-          "Total": 6289,
-          "NonUtil": 3159,
-          "Roads": 1835,
-          "Sewer": 3130,
-          "Drain": 549,
-          "Parks": 625,
-          "Fire": 150
-        },
-        "MultiFamily": {
-          "Total": 4783,
-          "NonUtil": 2280,
-          "Roads": 1126,
-          "Sewer": 2503,
-          "Drain": 275,
-          "Parks": 625,
-          "Fire": 254
-        },
-        "Retail": {
-          "Total": 8071,
-          "NonUtil": 7777,
-          "Roads": 6776,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Office": {
-          "Total": 4002,
-          "NonUtil": 3708,
-          "Roads": 2707,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Industrial": {
-          "Total": 3057,
-          "NonUtil": 2764,
-          "Roads": 1762,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "RecordedAt": "s2012"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
           "Total": 4918,
           "NonUtil": 4918,
           "Roads": 364,
@@ -56882,55 +55265,6 @@
           "Parks": 395,
           "Fire": 183,
           "Police": 329
-        },
-        "RecordedAt": "s2015"
-      },
-      {
-        "Updated": 1345352400000,
-        "SingleFamily": {
-          "Total": 6289,
-          "NonUtil": 3159,
-          "Roads": 1835,
-          "Sewer": 3130,
-          "Drain": 549,
-          "Parks": 625,
-          "Fire": 150
-        },
-        "MultiFamily": {
-          "Total": 4783,
-          "NonUtil": 2280,
-          "Roads": 1126,
-          "Sewer": 2503,
-          "Drain": 275,
-          "Parks": 625,
-          "Fire": 254
-        },
-        "Retail": {
-          "Total": 8071,
-          "NonUtil": 7777,
-          "Roads": 6776,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Office": {
-          "Total": 4002,
-          "NonUtil": 3708,
-          "Roads": 2707,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Industrial": {
-          "Total": 3057,
-          "NonUtil": 2764,
-          "Roads": 1762,
-          "Sewer": 294,
-          "Drain": 275,
-          "Parks": 500,
-          "Fire": 227
         },
         "RecordedAt": "s2015"
       },
@@ -56983,108 +55317,6 @@
         "RecordedAt": "s2011"
       },
       {
-        "Updated": 1321596000000,
-        "SingleFamily": {
-          "Total": 13811,
-          "NonUtil": 10681,
-          "Roads": 3669,
-          "Sewer": 3130,
-          "Drain": 441,
-          "Parks": 625,
-          "Fire": 150,
-          "Schools": 5796
-        },
-        "MultiFamily": {
-          "Total": 11387,
-          "NonUtil": 8884,
-          "Roads": 2252,
-          "Sewer": 2503,
-          "Drain": 221,
-          "Parks": 625,
-          "Fire": 254,
-          "Schools": 5532
-        },
-        "Retail": {
-          "Total": 15306,
-          "NonUtil": 14719,
-          "Roads": 13551,
-          "Sewer": 587,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Office": {
-          "Total": 7168,
-          "NonUtil": 6581,
-          "Roads": 5413,
-          "Sewer": 587,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Industrial": {
-          "Total": 5279,
-          "NonUtil": 4692,
-          "Roads": 3524,
-          "Sewer": 587,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "RecordedAt": "s2011"
-      },
-      {
-        "Updated": 1288674000000,
-        "SingleFamily": {
-          "Total": 11977,
-          "NonUtil": 8847,
-          "Roads": 1835,
-          "Sewer": 3130,
-          "Drain": 441,
-          "Parks": 625,
-          "Fire": 150,
-          "Schools": 5796
-        },
-        "MultiFamily": {
-          "Total": 10261,
-          "NonUtil": 7758,
-          "Roads": 1126,
-          "Sewer": 2503,
-          "Drain": 221,
-          "Parks": 625,
-          "Fire": 254,
-          "Schools": 5532
-        },
-        "Retail": {
-          "Total": 8237,
-          "NonUtil": 7944,
-          "Roads": 6776,
-          "Sewer": 294,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Office": {
-          "Total": 4168,
-          "NonUtil": 3875,
-          "Roads": 2707,
-          "Sewer": 294,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "Industrial": {
-          "Total": 3224,
-          "NonUtil": 2930,
-          "Roads": 1762,
-          "Sewer": 294,
-          "Drain": 441,
-          "Parks": 500,
-          "Fire": 227
-        },
-        "RecordedAt": "s2010"
-      },
-      {
         "Updated": 1288587600000,
         "SingleFamily": {
           "Total": 4686,
@@ -57131,52 +55363,6 @@
           "Police": 314
         },
         "RecordedAt": "s2010"
-      },
-      {
-        "Updated": 1185253200000,
-        "SingleFamily": {
-          "Total": 5836,
-          "NonUtil": 3228,
-          "Roads": 188,
-          "Sewer": 2608,
-          "Parks": 500,
-          "Fire": 150,
-          "Schools": 2390
-        },
-        "MultiFamily": {
-          "Total": 5585,
-          "NonUtil": 3499,
-          "Roads": 116,
-          "Sewer": 2086,
-          "Parks": 500,
-          "Fire": 254,
-          "Schools": 2629
-        },
-        "Retail": {
-          "Total": 1846,
-          "NonUtil": 1326,
-          "Roads": 699,
-          "Sewer": 520,
-          "Parks": 400,
-          "Fire": 227
-        },
-        "Office": {
-          "Total": 1425,
-          "NonUtil": 905,
-          "Roads": 278,
-          "Sewer": 520,
-          "Parks": 400,
-          "Fire": 227
-        },
-        "Industrial": {
-          "Total": 1330,
-          "NonUtil": 810,
-          "Roads": 183,
-          "Sewer": 520,
-          "Parks": 400,
-          "Fire": 227
-        },
-        "RecordedAt": "s2007"
       },
       {
         "Updated": 1185166800000,
@@ -57228,7 +55414,7 @@
       }
     ]
   },
-  "Williston": {
+  "VTWilliston": {
     "Jurisdiction": "Williston",
     "County": "Chittenden",
     "State": "VT",
@@ -57400,7 +55586,7 @@
       }
     ]
   },
-  "Vancouver": {
+  "WAVancouver": {
     "Jurisdiction": "Vancouver",
     "County": "Clark",
     "State": "WA",
@@ -57592,7 +55778,7 @@
       }
     ]
   },
-  "Woodland": {
+  "WAWoodland": {
     "Jurisdiction": "Woodland",
     "County": "Cowlitz",
     "State": "WA",
@@ -57814,7 +56000,7 @@
       }
     ]
   },
-  "King Co": {
+  "WAKing Co": {
     "Jurisdiction": "King Co",
     "County": "King",
     "State": "WA",
@@ -57922,7 +56108,7 @@
       }
     ]
   },
-  "Bellevue": {
+  "WABellevue": {
     "Jurisdiction": "Bellevue",
     "County": "King",
     "State": "WA",
@@ -58074,7 +56260,7 @@
       }
     ]
   },
-  "Bothell": {
+  "WABothell": {
     "Jurisdiction": "Bothell",
     "County": "King",
     "State": "WA",
@@ -58296,7 +56482,7 @@
       }
     ]
   },
-  "Issaquqh": {
+  "WAIssaquqh": {
     "Jurisdiction": "Issaquqh",
     "County": "King",
     "State": "WA",
@@ -58539,7 +56725,7 @@
       }
     ]
   },
-  "Kirkland": {
+  "WAKirkland": {
     "Jurisdiction": "Kirkland",
     "County": "King",
     "State": "WA",
@@ -58778,7 +56964,7 @@
       }
     ]
   },
-  "Kitsap Co": {
+  "WAKitsap Co": {
     "Jurisdiction": "Kitsap Co",
     "County": "Kitsap",
     "State": "WA",
@@ -58950,7 +57136,7 @@
       }
     ]
   },
-  "Pierce Co": {
+  "WAPierce Co": {
     "Jurisdiction": "Pierce Co",
     "County": "Pierce",
     "State": "WA",
@@ -59122,7 +57308,7 @@
       }
     ]
   },
-  "Anacortes": {
+  "WAAnacortes": {
     "Jurisdiction": "Anacortes",
     "County": "Skagit",
     "State": "WA",
@@ -59344,7 +57530,260 @@
       }
     ]
   },
-  "Snohomish Co": {
+  "WABurlington": {
+    "Jurisdiction": "Burlington",
+    "County": "Skagit",
+    "State": "WA",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 6289,
+          "NonUtil": 3159,
+          "Roads": 1835,
+          "Sewer": 3130,
+          "Drain": 549,
+          "Parks": 625,
+          "Fire": 150
+        },
+        "MultiFamily": {
+          "Total": 4783,
+          "NonUtil": 2280,
+          "Roads": 1126,
+          "Sewer": 2503,
+          "Drain": 275,
+          "Parks": 625,
+          "Fire": 254
+        },
+        "Retail": {
+          "Total": 8071,
+          "NonUtil": 7777,
+          "Roads": 6776,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Office": {
+          "Total": 4002,
+          "NonUtil": 3708,
+          "Roads": 2707,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Industrial": {
+          "Total": 3057,
+          "NonUtil": 2764,
+          "Roads": 1762,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 6289,
+          "NonUtil": 3159,
+          "Roads": 1835,
+          "Sewer": 3130,
+          "Drain": 549,
+          "Parks": 625,
+          "Fire": 150
+        },
+        "MultiFamily": {
+          "Total": 4783,
+          "NonUtil": 2280,
+          "Roads": 1126,
+          "Sewer": 2503,
+          "Drain": 275,
+          "Parks": 625,
+          "Fire": 254
+        },
+        "Retail": {
+          "Total": 8071,
+          "NonUtil": 7777,
+          "Roads": 6776,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Office": {
+          "Total": 4002,
+          "NonUtil": 3708,
+          "Roads": 2707,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Industrial": {
+          "Total": 3057,
+          "NonUtil": 2764,
+          "Roads": 1762,
+          "Sewer": 294,
+          "Drain": 275,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321596000000,
+        "SingleFamily": {
+          "Total": 13811,
+          "NonUtil": 10681,
+          "Roads": 3669,
+          "Sewer": 3130,
+          "Drain": 441,
+          "Parks": 625,
+          "Fire": 150,
+          "Schools": 5796
+        },
+        "MultiFamily": {
+          "Total": 11387,
+          "NonUtil": 8884,
+          "Roads": 2252,
+          "Sewer": 2503,
+          "Drain": 221,
+          "Parks": 625,
+          "Fire": 254,
+          "Schools": 5532
+        },
+        "Retail": {
+          "Total": 15306,
+          "NonUtil": 14719,
+          "Roads": 13551,
+          "Sewer": 587,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Office": {
+          "Total": 7168,
+          "NonUtil": 6581,
+          "Roads": 5413,
+          "Sewer": 587,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Industrial": {
+          "Total": 5279,
+          "NonUtil": 4692,
+          "Roads": 3524,
+          "Sewer": 587,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288674000000,
+        "SingleFamily": {
+          "Total": 11977,
+          "NonUtil": 8847,
+          "Roads": 1835,
+          "Sewer": 3130,
+          "Drain": 441,
+          "Parks": 625,
+          "Fire": 150,
+          "Schools": 5796
+        },
+        "MultiFamily": {
+          "Total": 10261,
+          "NonUtil": 7758,
+          "Roads": 1126,
+          "Sewer": 2503,
+          "Drain": 221,
+          "Parks": 625,
+          "Fire": 254,
+          "Schools": 5532
+        },
+        "Retail": {
+          "Total": 8237,
+          "NonUtil": 7944,
+          "Roads": 6776,
+          "Sewer": 294,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Office": {
+          "Total": 4168,
+          "NonUtil": 3875,
+          "Roads": 2707,
+          "Sewer": 294,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "Industrial": {
+          "Total": 3224,
+          "NonUtil": 2930,
+          "Roads": 1762,
+          "Sewer": 294,
+          "Drain": 441,
+          "Parks": 500,
+          "Fire": 227
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1185253200000,
+        "SingleFamily": {
+          "Total": 5836,
+          "NonUtil": 3228,
+          "Roads": 188,
+          "Sewer": 2608,
+          "Parks": 500,
+          "Fire": 150,
+          "Schools": 2390
+        },
+        "MultiFamily": {
+          "Total": 5585,
+          "NonUtil": 3499,
+          "Roads": 116,
+          "Sewer": 2086,
+          "Parks": 500,
+          "Fire": 254,
+          "Schools": 2629
+        },
+        "Retail": {
+          "Total": 1846,
+          "NonUtil": 1326,
+          "Roads": 699,
+          "Sewer": 520,
+          "Parks": 400,
+          "Fire": 227
+        },
+        "Office": {
+          "Total": 1425,
+          "NonUtil": 905,
+          "Roads": 278,
+          "Sewer": 520,
+          "Parks": 400,
+          "Fire": 227
+        },
+        "Industrial": {
+          "Total": 1330,
+          "NonUtil": 810,
+          "Roads": 183,
+          "Sewer": 520,
+          "Parks": 400,
+          "Fire": 227
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "WASnohomish Co": {
     "Jurisdiction": "Snohomish Co",
     "County": "Snohomish",
     "State": "WA",
@@ -59516,7 +57955,7 @@
       }
     ]
   },
-  "Olympia": {
+  "WAOlympia": {
     "Jurisdiction": "Olympia",
     "County": "Thurston",
     "State": "WA",
@@ -59693,7 +58132,7 @@
       }
     ]
   },
-  "Tumwater": {
+  "WATumwater": {
     "Jurisdiction": "Tumwater",
     "County": "Thurston",
     "State": "WA",
@@ -59915,7 +58354,7 @@
       }
     ]
   },
-  "Bellingham": {
+  "WABellingham": {
     "Jurisdiction": "Bellingham",
     "County": "Whatcom",
     "State": "WA",
@@ -60159,7 +58598,204 @@
       }
     ]
   },
-  "Fitchburg": {
+  "WVJefferson Co": {
+    "Jurisdiction": "Jefferson Co",
+    "County": "Jefferson",
+    "State": "WV",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 13070,
+          "NonUtil": 13070,
+          "Parks": 752,
+          "Fire": 698,
+          "Police": 262,
+          "Schools": 11358
+        },
+        "MultiFamily": {
+          "Total": 7594,
+          "NonUtil": 7594,
+          "Parks": 566,
+          "Fire": 525,
+          "Police": 197,
+          "Schools": 6306
+        },
+        "Retail": {
+          "Total": 1740,
+          "NonUtil": 1740,
+          "Fire": 1653,
+          "Police": 87
+        },
+        "Office": {
+          "Total": 577,
+          "NonUtil": 577,
+          "Fire": 548,
+          "Police": 29
+        },
+        "Industrial": {
+          "Total": 356,
+          "NonUtil": 356,
+          "Fire": 338,
+          "Police": 18
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 13070,
+          "NonUtil": 13070,
+          "Parks": 752,
+          "Fire": 698,
+          "Police": 262,
+          "Schools": 11358
+        },
+        "MultiFamily": {
+          "Total": 7594,
+          "NonUtil": 7594,
+          "Parks": 566,
+          "Fire": 525,
+          "Police": 197,
+          "Schools": 6306
+        },
+        "Retail": {
+          "Total": 1740,
+          "NonUtil": 1740,
+          "Fire": 1653,
+          "Police": 87
+        },
+        "Office": {
+          "Total": 577,
+          "NonUtil": 577,
+          "Fire": 548,
+          "Police": 29
+        },
+        "Industrial": {
+          "Total": 356,
+          "NonUtil": 356,
+          "Fire": 338,
+          "Police": 18
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321596000000,
+        "SingleFamily": {
+          "Total": 13070,
+          "NonUtil": 13070,
+          "Parks": 752,
+          "Fire": 698,
+          "Police": 262,
+          "Schools": 11358
+        },
+        "MultiFamily": {
+          "Total": 7594,
+          "NonUtil": 7594,
+          "Parks": 566,
+          "Fire": 525,
+          "Police": 197,
+          "Schools": 6306
+        },
+        "Retail": {
+          "Total": 1740,
+          "NonUtil": 1740,
+          "Fire": 1653,
+          "Police": 87
+        },
+        "Office": {
+          "Total": 577,
+          "NonUtil": 577,
+          "Fire": 548,
+          "Police": 29
+        },
+        "Industrial": {
+          "Total": 356,
+          "NonUtil": 356,
+          "Fire": 338,
+          "Police": 18
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288587600000,
+        "SingleFamily": {
+          "Total": 13070,
+          "NonUtil": 13070,
+          "Parks": 752,
+          "Fire": 698,
+          "Police": 262,
+          "Schools": 11358
+        },
+        "MultiFamily": {
+          "Total": 7594,
+          "NonUtil": 7594,
+          "Parks": 566,
+          "Fire": 525,
+          "Police": 197,
+          "Schools": 6306
+        },
+        "Retail": {
+          "Total": 1740,
+          "NonUtil": 1740,
+          "Fire": 1653,
+          "Police": 87
+        },
+        "Office": {
+          "Total": 577,
+          "NonUtil": 577,
+          "Fire": 548,
+          "Police": 29
+        },
+        "Industrial": {
+          "Total": 356,
+          "NonUtil": 356,
+          "Fire": 338,
+          "Police": 18
+        },
+        "RecordedAt": "s2010"
+      },
+      {
+        "Updated": 1185253200000,
+        "SingleFamily": {
+          "Total": 12144,
+          "NonUtil": 12144,
+          "Parks": 751,
+          "Fire": 603,
+          "Police": 135,
+          "Schools": 10655
+        },
+        "MultiFamily": {
+          "Total": 7047,
+          "NonUtil": 7047,
+          "Parks": 565,
+          "Fire": 454,
+          "Police": 112,
+          "Schools": 5916
+        },
+        "Retail": {
+          "Total": 1844,
+          "NonUtil": 1844,
+          "Fire": 1650,
+          "Police": 194
+        },
+        "Office": {
+          "Total": 624,
+          "NonUtil": 624,
+          "Fire": 559,
+          "Police": 65
+        },
+        "Industrial": {
+          "Total": 327,
+          "NonUtil": 327,
+          "Fire": 293,
+          "Police": 34
+        },
+        "RecordedAt": "s2007"
+      }
+    ]
+  },
+  "WIFitchburg": {
     "Jurisdiction": "Fitchburg",
     "County": "Dane",
     "State": "WI",
@@ -60265,7 +58901,7 @@
       }
     ]
   },
-  "Oconomowoc": {
+  "WIOconomowoc": {
     "Jurisdiction": "Oconomowoc",
     "County": "Jefferson",
     "State": "WI",
@@ -60527,7 +59163,7 @@
       }
     ]
   },
-  "Cedarburg": {
+  "WICedarburg": {
     "Jurisdiction": "Cedarburg",
     "County": "Ozaukee",
     "State": "WI",
@@ -60749,7 +59385,7 @@
       }
     ]
   },
-  "Hudson": {
+  "WIHudson": {
     "Jurisdiction": "Hudson",
     "County": "St Croix",
     "State": "WI",
@@ -60961,7 +59597,7 @@
       }
     ]
   },
-  "Columbia Co": {
+  "FLColumbia Co": {
     "Jurisdiction": "Columbia Co",
     "County": "Columbia",
     "State": "FL",
@@ -61012,7 +59648,7 @@
       }
     ]
   },
-  "Effingham Co": {
+  "GAEffingham Co": {
     "Jurisdiction": "Effingham Co",
     "County": "Effingham",
     "State": "GA",
@@ -61169,7 +59805,7 @@
       }
     ]
   },
-  "Hall Co": {
+  "GAHall Co": {
     "Jurisdiction": "Hall Co",
     "County": "Hall",
     "State": "GA",
@@ -61292,7 +59928,7 @@
       }
     ]
   },
-  "Henry Co": {
+  "GAHenry Co": {
     "Jurisdiction": "Henry Co",
     "County": "Henry",
     "State": "GA",
@@ -61415,7 +60051,7 @@
       }
     ]
   },
-  "McDonough": {
+  "GAMcDonough": {
     "Jurisdiction": "McDonough",
     "County": "Henry",
     "State": "GA",
@@ -61538,7 +60174,7 @@
       }
     ]
   },
-  "Salt Lake City": {
+  "UTSalt Lake City": {
     "Jurisdiction": "Salt Lake City",
     "County": "Salt Lake",
     "State": "UT",
@@ -61706,6 +60342,177 @@
           "Roads": 1250,
           "Fire": 290,
           "Police": 270
+        },
+        "RecordedAt": "s2010"
+      }
+    ]
+  },
+  "UTPayson": {
+    "Jurisdiction": "Payson",
+    "County": "Utah",
+    "State": "UT",
+    "DataEntries": [
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 7415,
+          "NonUtil": 3205,
+          "Water": 1620,
+          "Sewer": 2590,
+          "Parks": 2800,
+          "Police": 405
+        },
+        "MultiFamily": {
+          "Total": 2798,
+          "NonUtil": 2405,
+          "Water": 151,
+          "Sewer": 242,
+          "Parks": 2000,
+          "Police": 405
+        },
+        "Retail": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Office": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Industrial": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "RecordedAt": "s2012"
+      },
+      {
+        "Updated": 1345352400000,
+        "SingleFamily": {
+          "Total": 7415,
+          "NonUtil": 3205,
+          "Water": 1620,
+          "Sewer": 2590,
+          "Parks": 2800,
+          "Police": 405
+        },
+        "MultiFamily": {
+          "Total": 2798,
+          "NonUtil": 2405,
+          "Water": 151,
+          "Sewer": 242,
+          "Parks": 2000,
+          "Police": 405
+        },
+        "Retail": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Office": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Industrial": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "RecordedAt": "s2015"
+      },
+      {
+        "Updated": 1321596000000,
+        "SingleFamily": {
+          "Total": 7415,
+          "NonUtil": 3205,
+          "Water": 1620,
+          "Sewer": 2590,
+          "Parks": 2800,
+          "Police": 405
+        },
+        "MultiFamily": {
+          "Total": 2798,
+          "NonUtil": 2405,
+          "Water": 151,
+          "Sewer": 242,
+          "Parks": 2000,
+          "Police": 405
+        },
+        "Retail": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Office": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Industrial": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "RecordedAt": "s2011"
+      },
+      {
+        "Updated": 1288587600000,
+        "SingleFamily": {
+          "Total": 7415,
+          "NonUtil": 3205,
+          "Water": 1620,
+          "Sewer": 2590,
+          "Parks": 2800,
+          "Police": 405
+        },
+        "MultiFamily": {
+          "Total": 2798,
+          "NonUtil": 2405,
+          "Water": 151,
+          "Sewer": 242,
+          "Parks": 2000,
+          "Police": 405
+        },
+        "Retail": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Office": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
+        },
+        "Industrial": {
+          "Total": 604,
+          "NonUtil": 225,
+          "Water": 146,
+          "Sewer": 233,
+          "Fire": 225
         },
         "RecordedAt": "s2010"
       }

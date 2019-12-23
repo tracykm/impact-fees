@@ -3,24 +3,28 @@ function nestData(listOfYears) {
   Object.keys(listOfYears).forEach(yearName => {
     const yearData = listOfYears[yearName];
     yearData.forEach(dataPoint => {
+      const key = dataPoint.State + dataPoint.Jurisdiction;
       const { Jurisdiction, County, State, ...otherDataPoint } = dataPoint;
-      newObj[dataPoint.Jurisdiction] = newObj[dataPoint.Jurisdiction] || {
+      newObj[key] = newObj[key] || {
         Jurisdiction,
         County,
         State,
         DataEntries: []
       };
       otherDataPoint.RecordedAt = yearName;
-      newObj[dataPoint.Jurisdiction].DataEntries.push(otherDataPoint);
+      if (otherDataPoint.Updated) {
+        newObj[key].DataEntries.push(otherDataPoint);
+      }
     });
   });
 
   Object.keys(listOfYears).forEach(yearName => {
     const yearData = listOfYears[yearName];
     yearData.forEach(dataPoint => {
-      newObj[dataPoint.Jurisdiction].DataEntries = newObj[
-        dataPoint.Jurisdiction
-      ].DataEntries.sort((d1, d2) => d2.Updated - d1.Updated);
+      const key = dataPoint.State + dataPoint.Jurisdiction;
+      newObj[key].DataEntries = newObj[key].DataEntries.sort(
+        (d1, d2) => d2.Updated - d1.Updated
+      );
     });
   });
 
