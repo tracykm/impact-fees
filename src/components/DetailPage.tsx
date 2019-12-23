@@ -12,7 +12,7 @@ const Wrapper = styled.div`
 `;
 
 const ChartsWrapper = styled.div`
-  width: 1100px;
+  width: 1200px;
   margin: auto;
 `;
 

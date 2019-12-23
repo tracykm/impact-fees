@@ -52,6 +52,22 @@ const App: React.FC = () => {
         <Route path="/state/:state/jurisdiction/:name">
           <JurisdictionBreadcrumb />
         </Route>
+        <Route path="/about">
+          <>
+            /
+            <Link className="p-2" to={`/about`}>
+              About
+            </Link>
+          </>
+        </Route>
+        <Route path="/national-averages">
+          <>
+            /
+            <Link className="p-2" to={`/national-averages`}>
+              National Averages
+            </Link>
+          </>
+        </Route>
 
         <div className="float-right">
           <Link className="p-2" to="/national-averages">
