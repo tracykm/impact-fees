@@ -9,7 +9,7 @@ export const DollarCell = ({ cell }) => {
 };
 
 export function formatMoney(value) {
-  if (value === undefined) return "";
+  if (value === undefined || value === null) return "";
   return (
     "$" +
     value

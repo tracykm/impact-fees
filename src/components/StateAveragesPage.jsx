@@ -1,15 +1,15 @@
 import React from "react";
 import { DetailPage } from "./DetailPage";
 import { useParams, Link } from "react-router-dom";
-import { getAverages } from "../data/getAverages.js";
+import stateAverages from "../data/cleaned/stateAverages.json";
 
 export const StateAveragesPage = () => {
   const { state } = useParams();
 
-  const { DataEntries, sampleSize } = getAverages(d => d.State === state);
+  const DataEntries = stateAverages[state];
   debugger;
 
-  if (!sampleSize[0] || !sampleSize[0].Total.num)
+  if (!DataEntries[0] || !DataEntries[0].SampleSize)
     return (
       <div
         style={{
@@ -31,17 +31,17 @@ export const StateAveragesPage = () => {
           <>
             <h1>{state}</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
-              Sample size: {sampleSize[0].Total.num}
+              Sample size: {DataEntries[0].SampleSize}
             </div>
           </>
         }
       />
-      Jurisdictions:
-      {sampleSize[0].Total.jurisdictions.map(j => (
+      {/* Jurisdictions:
+      {SampleSize[0].Total.jurisdictions.map(j => (
         <Link className="p-2" to={`/state/${state}/jurisdiction/${j}`}>
           {j}{" "}
         </Link>
-      ))}
+      ))} */}
     </>
   );
 };

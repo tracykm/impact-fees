@@ -11,6 +11,7 @@ const s2007 = require("./raw/s2007");
 const { cleanData } = require("./cleanData");
 const { nestData } = require("./nestData");
 const { getAverages } = require("./getAverages");
+const { STATES } = require("../constants");
 var fs = require("fs");
 
 const allSets = {
@@ -39,16 +40,33 @@ Object.keys(allSets).forEach(name => {
   );
 });
 
+const myNestedData = nestData(cleanedJS);
+
 fs.writeFile(
   `src/data/cleaned/nestedData.json`,
-  JSON.stringify(nestData(cleanedJS), null, 2),
+  JSON.stringify(myNestedData, null, 2),
   "utf8",
   () => {}
 );
 
-// fs.writeFile(
-//   `src/data/cleaned/stateAverages.json`,
-//   JSON.stringify(getAverages(d => d.State === "CO")),
-//   "utf8",
-//   () => {}
-// );
+fs.writeFile(
+  `src/data/cleaned/nationalAverages.json`,
+  JSON.stringify(getAverages(d => true, myNestedData).DataEntries, null, 2),
+  "utf8",
+  () => {}
+);
+
+const allStates = {};
+STATES.forEach(({ short_name }) => {
+  allStates[short_name] = getAverages(
+    d => d.State === short_name,
+    myNestedData
+  ).DataEntries;
+});
+
+fs.writeFile(
+  `src/data/cleaned/stateAverages.json`,
+  JSON.stringify(allStates, null, 2),
+  "utf8",
+  () => {}
+);

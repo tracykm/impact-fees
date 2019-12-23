@@ -1,14 +1,24 @@
-import data from "../data/cleaned/nestedData.json";
-import { TypesOfUtilities, TypesOfPlaces, UtilityDict } from "../types";
+// const data = require("../data/cleaned/nestedData.json");
+const { TypesOfUtilities, TypesOfPlaces } = require("../constants");
 
-const objectMap = (obj, fn) =>
-  Object.fromEntries(Object.entries(obj).map(([k, v], i) => [k, fn(v, k, i)]));
+const objectMap = (obj, fn) => {
+  if (!obj) return;
+  const newObj = {};
+  Object.keys(obj).forEach(k => {
+    let value = obj[k];
+    value = fn(value);
+    newObj[k] = value;
+  });
+  return newObj;
+};
 
-export function getAverages(filterFunc) {
+function getAverages(filterFunc, data) {
+  // console.log("data", data);
   const averagesForUtils = Object.values(data).reduce((acc, d) => {
     if (!filterFunc(d)) return acc;
     d.DataEntries.forEach(entry => {
-      //   if (!entry.Updated) return;
+      // console.log(entry);
+      if (!entry.Updated) return;
       const year = String(new Date(entry.Updated).getFullYear());
       acc[year] = acc[year] || {};
       TypesOfPlaces.forEach(property => {
@@ -73,3 +83,5 @@ export function getAverages(filterFunc) {
     sampleSize
   };
 }
+
+module.exports = { getAverages };

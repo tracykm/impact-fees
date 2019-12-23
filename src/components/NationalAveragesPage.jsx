@@ -1,12 +1,13 @@
 import React from "react";
 import { DetailPage } from "./DetailPage";
-import { getAverages } from "../data/getAverages.js";
+import nationalAverages from "../data/cleaned/nationalAverages.json";
 import { Link } from "react-router-dom";
 import { STATES } from "../types";
 
 export const NationalAveragesPage = () => {
-  const { DataEntries, sampleSize } = getAverages(() => true);
+  const DataEntries = nationalAverages;
   const myData = { DataEntries };
+  debugger;
   return (
     <>
       <DetailPage
@@ -15,7 +16,7 @@ export const NationalAveragesPage = () => {
           <div>
             <h1>National Averages</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
-              Sample size: {sampleSize[1].Total.num}
+              Sample size: {DataEntries[1].SampleSize}
             </div>
           </div>
         }
