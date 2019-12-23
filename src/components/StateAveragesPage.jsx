@@ -36,12 +36,12 @@ export const StateAveragesPage = () => {
           </>
         }
       />
-      {/* Jurisdictions:
-      {SampleSize[0].Total.jurisdictions.map(j => (
+      Jurisdictions:
+      {DataEntries[0].SampleJurisdictions.sort().map(j => (
         <Link className="p-2" to={`/state/${state}/jurisdiction/${j}`}>
           {j}{" "}
         </Link>
-      ))} */}
+      ))}
     </>
   );
 };

@@ -62,6 +62,8 @@ function getAverages(filterFunc, data) {
     DataEntries.push({
       Updated: Number(new Date(`June ${year}`)),
       SampleSize: averagesForUtils[year].SingleFamily.Total.num,
+      SampleJurisdictions:
+        averagesForUtils[year].SingleFamily.Total.jurisdictions,
       SingleFamily: objectMap(
         averagesForUtils[year].SingleFamily,
         d => d.total / d.num
