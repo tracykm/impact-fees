@@ -3,6 +3,7 @@ import { DetailPage } from "./DetailPage";
 import nationalAverages from "../data/cleaned/nationalAverages.json";
 import { Link } from "react-router-dom";
 import { STATES } from "../types";
+import stateAverages from "../data/cleaned/stateAverages.json";
 
 export const NationalAveragesPage = () => {
   const DataEntries = nationalAverages;
@@ -21,11 +22,19 @@ export const NationalAveragesPage = () => {
           </div>
         }
       />
-      {STATES.map(s => (
-        <Link className="p-2" to={`/state/${s.short_name}`}>
-          {s.name}{" "}
-        </Link>
-      ))}
+      {STATES.map(s => {
+        const samples =
+          stateAverages[s.short_name][0] &&
+          stateAverages[s.short_name][0].SampleSize;
+        if (!samples) {
+          return <span className="p-2">{s.name} </span>;
+        }
+        return (
+          <Link className="p-2" to={`/state/${s.short_name}`}>
+            {s.name} ({samples})
+          </Link>
+        );
+      })}
     </>
   );
 };
