@@ -7,17 +7,17 @@ const objectMap = (obj, fn) => {
   Object.keys(obj).forEach(k => {
     let value = obj[k];
     value = fn(value);
-    newObj[k] = value;
+    if (value) {
+      newObj[k] = value;
+    }
   });
   return newObj;
 };
 
 function getAverages(filterFunc, data) {
-  // console.log("data", data);
   const averagesForUtils = Object.values(data).reduce((acc, d) => {
     if (!filterFunc(d)) return acc;
     d.DataEntries.forEach(entry => {
-      // console.log(entry);
       if (!entry.Updated) return;
       const year = String(new Date(entry.Updated).getFullYear());
       acc[year] = acc[year] || {};
@@ -31,7 +31,7 @@ function getAverages(filterFunc, data) {
             num: 0,
             jurisdictions: []
           };
-          if (entry[property][utilityName]) {
+          if (entry[property] && entry[property][utilityName]) {
             acc[year][property][utilityName].total +=
               entry[property][utilityName];
             acc[year][property][utilityName].num += 1;
