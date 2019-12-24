@@ -5,15 +5,17 @@ function nestData(listOfYears) {
     yearData.forEach(dataPoint => {
       const key = dataPoint.State + dataPoint.Jurisdiction;
       const { Jurisdiction, County, State, ...otherDataPoint } = dataPoint;
-      newObj[key] = newObj[key] || {
-        Jurisdiction,
-        County,
-        State,
-        DataEntries: []
-      };
-      otherDataPoint.RecordedAt = yearName;
-      if (otherDataPoint.Updated) {
-        newObj[key].DataEntries.push(otherDataPoint);
+      if (Jurisdiction && Jurisdiction !== "Jurisdiction") {
+        newObj[key] = newObj[key] || {
+          Jurisdiction,
+          County,
+          State,
+          DataEntries: []
+        };
+        otherDataPoint.RecordedAt = yearName;
+        if (otherDataPoint.Updated) {
+          newObj[key].DataEntries.push(otherDataPoint);
+        }
       }
     });
   });
@@ -22,9 +24,11 @@ function nestData(listOfYears) {
     const yearData = listOfYears[yearName];
     yearData.forEach(dataPoint => {
       const key = dataPoint.State + dataPoint.Jurisdiction;
-      newObj[key].DataEntries = newObj[key].DataEntries.sort(
-        (d1, d2) => d2.Updated - d1.Updated
-      );
+      if (newObj[key]) {
+        newObj[key].DataEntries = newObj[key].DataEntries.sort(
+          (d1, d2) => d2.Updated - d1.Updated
+        );
+      }
     });
   });
 

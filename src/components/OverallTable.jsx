@@ -21,7 +21,8 @@ const Wrapper = styled.div`
 `;
 
 const dataJS = Object.values(data);
-const path = "DataEntries[1].";
+// debugger;
+const path = "DataEntries[0].";
 export function OverallTable() {
   const columns = React.useMemo(
     () => [
@@ -59,7 +60,7 @@ export function OverallTable() {
           },
           {
             Header: "Updated",
-            accessor: "DataEntries[1].Updated",
+            accessor: `${path}Updated`,
             Cell: DateCell
           }
         ]
