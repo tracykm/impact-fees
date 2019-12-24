@@ -4,6 +4,21 @@ import { Table } from "./Table";
 import { DateCell } from "./Cell";
 import { JurisdictionData } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
+import styled from "styled-components";
+
+// to make Jurisdiction sticky but not detail 3rd row
+const Wrapper = styled.div`
+  td:nth-child(1),
+  tr:nth-child(2) th:nth-child(1) {
+    position: sticky;
+    left: 0;
+    background-color: #25282e;
+    z-index: 1;
+  }
+  tr:nth-child(2) th:nth-child(1) {
+    background-color: #1b1d20;
+  }
+`;
 
 export const JurisdictionTable = ({
   data,
@@ -26,7 +41,8 @@ export const JurisdictionTable = ({
     {
       Header: "Updated",
       accessor: "Updated",
-      Cell: DateCell
+      width: 80,
+      Cell: ({ cell }) => new Date(cell.value).getFullYear()
     },
     ...(data.DataEntries[0].SampleSize
       ? [
@@ -75,6 +91,8 @@ export const JurisdictionTable = ({
   ];
 
   return (
-    <Table columns={columns} data={data.DataEntries} hasPagination={false} />
+    <Wrapper>
+      <Table columns={columns} data={data.DataEntries} hasPagination={false} />
+    </Wrapper>
   );
 };

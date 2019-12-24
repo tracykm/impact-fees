@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const Wrapper = styled.div`
-  font-size: 1.5em;
+  font-size: 18px;
   h2 {
     font-size: inherit;
     font-weight: bolder;
@@ -19,12 +19,14 @@ const Wrapper = styled.div`
     display: grid;
     grid-template-columns: 3fr 5fr;
     grid-column-gap: 2em;
-    /* max-width: 1200px; */
   }
+  max-width: 1200px;
+  margin: auto;
 `;
 
 export const About = () => (
   <Wrapper>
+    <h1>About</h1>
     <p>
       This report presents the results of a detailed survey of impact fees that
       individual jurisdictions across the country are charging. Unlike in-kind

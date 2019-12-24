@@ -24,6 +24,14 @@ a {
   color: #56d19d;
 }
 
+a:hover {
+  color: #70f3bb;
+}
+
+a:active {
+  color: ##40ad7e;
+}
+
 .piechart tspan,
 .xAxis,
 .yAxis {

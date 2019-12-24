@@ -14,6 +14,16 @@ import {
   useParams
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
+import styled from "styled-components";
+
+const NavWrapper = styled.nav`
+  display: flex;
+  .title {
+    flex-grow: 1;
+    text-align: center;
+  }
+  font-size: 18px;
+`;
 
 const StateBreadcrumb = () => {
   const { state } = useParams();
@@ -39,45 +49,37 @@ const JurisdictionBreadcrumb = () => {
   );
 };
 
+const Breadcrumbs = () => (
+  <div>
+    <Link className="pr-2 py-2" to="/">
+      Home
+    </Link>
+    <Route path="/state/:state">
+      <StateBreadcrumb />
+    </Route>
+    <Route path="/state/:state/jurisdiction/:name">
+      <JurisdictionBreadcrumb />
+    </Route>
+  </div>
+);
+
 const App: React.FC = () => {
   return (
     <div className="m-3">
       <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop />
-        <Link className="p-2" to="/">
-          Home
-        </Link>
-        <Route path="/state/:state">
-          <StateBreadcrumb />
-        </Route>
-        <Route path="/state/:state/jurisdiction/:name">
-          <JurisdictionBreadcrumb />
-        </Route>
-        <Route path="/about">
-          <>
-            /
-            <Link className="p-2" to={`/about`}>
-              About
-            </Link>
-          </>
-        </Route>
-        <Route path="/national-averages">
-          <>
-            /
-            <Link className="p-2" to={`/national-averages`}>
+        <NavWrapper>
+          <Breadcrumbs />
+          <div className="title">Impact Fee Survey</div>
+          <div>
+            <Link className="p-2" to="/national-averages">
               National Averages
             </Link>
-          </>
-        </Route>
-
-        <div className="float-right">
-          <Link className="p-2" to="/national-averages">
-            National Averages
-          </Link>
-          <Link className="p-2" to="/about">
-            About
-          </Link>
-        </div>
+            <Link className="p-2" to="/about">
+              About
+            </Link>
+          </div>
+        </NavWrapper>
         <Switch>
           <Route path="/state/:state/jurisdiction/:name">
             <JurisdictionPage />

@@ -1,5 +1,14 @@
 import React from "react";
 import { ButtonGroup, Button } from "reactstrap";
+import styled from "styled-components";
+
+interface ButtonOptionProps {
+  selected: boolean;
+}
+
+const ButtonOption = styled(Button)`
+  z-index: ${(props: ButtonOptionProps) => (props.selected ? 1 : 0)};
+`;
 
 export const ButtonOptions = ({
   options,
@@ -13,7 +22,8 @@ export const ButtonOptions = ({
   return (
     <ButtonGroup>
       {options.map(d => (
-        <Button
+        <ButtonOption
+          selected={d.value === value}
           key={d.value}
           onClick={() => onChange(d.value)}
           className={
@@ -21,7 +31,7 @@ export const ButtonOptions = ({
           }
         >
           {d.name}
-        </Button>
+        </ButtonOption>
       ))}
     </ButtonGroup>
   );

@@ -21,7 +21,6 @@ const Wrapper = styled.div`
 `;
 
 const dataJS = Object.values(data);
-// debugger;
 const path = "DataEntries[0].";
 export function OverallTable() {
   const columns = React.useMemo(
