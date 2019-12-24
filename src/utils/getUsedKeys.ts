@@ -11,7 +11,7 @@ export function getUsedKeys(data: JurisdictionData["DataEntries"]) {
   data.forEach(pointInTime => {
     Object.keys(pointInTime).forEach((group: keyof typeof pointInTime) => {
       const groupTime = pointInTime[group];
-      if (typeof groupTime === "object") {
+      if (typeof groupTime === "object" && !Array.isArray(groupTime)) {
         Object.keys(groupTime).forEach((cat: keyof UtilityBreakDown) => {
           const val = pointInTime[group][cat];
           if (val) {
