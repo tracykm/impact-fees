@@ -1,5 +1,6 @@
 {
   "name": "impact-fees",
+  "homepage": "https://tracykm.github.io/impact-fees/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

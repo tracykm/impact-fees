@@ -42,7 +42,7 @@ const JurisdictionBreadcrumb = () => {
 const App: React.FC = () => {
   return (
     <div className="m-3">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop />
         <Link className="p-2" to="/">
           Home
