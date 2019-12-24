@@ -41,12 +41,12 @@ export const StateAveragesPage = () => {
       <DetailPage
         data={myData}
         headerText={
-          <>
+          <div className="text-left">
             <h1>{STATES.find(s => s.short_name === state).name}</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
               Sample size: {min === max ? min : `${min}-${max}`}
             </div>
-          </>
+          </div>
         }
       />
       {jurisdictions.length} Jurisdictions:

@@ -15,7 +15,7 @@ export const JurisdictionPage = ({ myData }: { myData?: JurisdictionData }) => {
     <DetailPage
       data={data}
       headerText={
-        <div>
+        <div className="text-left">
           <h1>{name}</h1>
           <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
             {data.County}, {data.State}

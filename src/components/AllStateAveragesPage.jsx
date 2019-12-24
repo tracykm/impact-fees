@@ -24,7 +24,7 @@ export const AllStateAveragesPage = () => {
       <DetailPage
         data={myData}
         headerText={
-          <div>
+          <div className="text-left">
             <h1>State Averages</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
               Sample size: {DataEntries[1].SampleSize}

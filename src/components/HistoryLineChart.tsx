@@ -58,10 +58,7 @@ export const HistoryLineChart = ({
           labelFormatter={val => {
             return new Date(val).getFullYear();
           }}
-          formatter={(arg, a2) => {
-            console.log(arg, a2);
-            return formatMoney(arg);
-          }}
+          formatter={formatMoney}
         />
         {TypesOfPlaces.map(propertyType => (
           <Line

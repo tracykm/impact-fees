@@ -12,8 +12,12 @@ const Wrapper = styled.div`
 `;
 
 const ChartsWrapper = styled.div`
-  width: 1200px;
+  max-width: 1200px;
   margin: auto;
+  text-align: center;
+  > div {
+    margin: 1em 0;
+  }
 `;
 
 export const DetailPage = ({

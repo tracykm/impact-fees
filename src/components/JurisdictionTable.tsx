@@ -41,7 +41,7 @@ export const JurisdictionTable = ({
     {
       Header: "Updated",
       accessor: "Updated",
-      width: 80,
+      width: 90,
       Cell: ({ cell }) => new Date(cell.value).getFullYear()
     },
     ...(data.DataEntries[0].SampleSize
