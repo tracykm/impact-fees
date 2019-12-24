@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import { About } from "./components/About";
+import { AllStateAveragesPage } from "./components/AllStateAveragesPage";
 import { NationalAveragesPage } from "./components/NationalAveragesPage";
 import { OverallTable } from "./components/OverallTable";
 import { JurisdictionPage } from "./components/JurisdictionPage";
@@ -89,6 +90,9 @@ const App: React.FC = () => {
           </Route>
           <Route path="/national-averages">
             <NationalAveragesPage />
+          </Route>
+          <Route path="/state-averages">
+            <AllStateAveragesPage />
           </Route>
           <Route path="">
             <OverallTable />

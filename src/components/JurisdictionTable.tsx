@@ -13,6 +13,16 @@ export const JurisdictionTable = ({
   usedKeys: UsedKeys;
 }) => {
   const columns = [
+    // @ts-ignore
+    ...(data.DataEntries[0].State
+      ? [
+          {
+            Header: "State",
+            accessor: "State"
+            // width: 70
+          }
+        ]
+      : []),
     {
       Header: "Updated",
       accessor: "Updated",
