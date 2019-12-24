@@ -47,14 +47,22 @@ export const HistoryLineChart = ({
       >
         <XAxis
           tickFormatter={val => {
-            return formatDate(new Date(val));
+            return new Date(val).getFullYear();
           }}
           dataKey="Updated"
           type="number"
           domain={["auto", "auto"]}
         />
         <YAxis tickFormatter={formatMoney} />
-        <Tooltip formatter={formatMoney} />
+        <Tooltip
+          labelFormatter={val => {
+            return new Date(val).getFullYear();
+          }}
+          formatter={(arg, a2) => {
+            console.log(arg, a2);
+            return formatMoney(arg);
+          }}
+        />
         {TypesOfPlaces.map(propertyType => (
           <Line
             type="monotone"

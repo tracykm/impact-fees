@@ -9,12 +9,12 @@ const data = [];
 
 Object.keys(stateAverages).forEach(State => {
   if (stateAverages[State][0]) {
-
-    data.push({ ...stateAverages[State][0], State: STATES.find(d => d.short_name === State).name });
+    data.push({
+      ...stateAverages[State][0],
+      State: STATES.find(d => d.short_name === State).name
+    });
   }
 });
-
-debugger;
 
 export const AllStateAveragesPage = () => {
   const DataEntries = data;

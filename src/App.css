@@ -29,3 +29,8 @@ a {
 .yAxis {
   font-size: 14px;
 }
+
+.recharts-default-tooltip {
+  background: #1b1d20 !important;
+  border: #1b1d20 solid !important;
+}

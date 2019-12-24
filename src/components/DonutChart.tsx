@@ -1,8 +1,8 @@
 import React, { PureComponent } from "react";
 import { PieChart, Pie, Cell } from "recharts";
 
-const renderCustomizedLabel = ({ tooltipPayload }) => {
-  return tooltipPayload[0].name;
+const renderCustomizedLabel = ({ tooltipPayload, percent }) => {
+  return Math.round(percent * 100) + "% " + tooltipPayload[0].name;
 };
 
 export class DonutChart extends PureComponent<{
@@ -19,7 +19,7 @@ export class DonutChart extends PureComponent<{
 
   render() {
     const { data } = this.props;
-    const width = 400;
+    const width = 480;
     const height = 400;
     return (
       <PieChart
