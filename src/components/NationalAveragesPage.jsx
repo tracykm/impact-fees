@@ -5,10 +5,11 @@ import { Link } from "react-router-dom";
 import { STATES } from "../types";
 import stateAverages from "../data/cleaned/stateAverages.json";
 
+const data = nationalAverages.filter(n => n.SampleSize > 50);
+
 export const NationalAveragesPage = () => {
-  const DataEntries = nationalAverages;
+  const DataEntries = data;
   const myData = { DataEntries };
-  debugger;
   return (
     <>
       <DetailPage

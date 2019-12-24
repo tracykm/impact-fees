@@ -13,7 +13,10 @@ function nestData(listOfYears) {
           DataEntries: []
         };
         otherDataPoint.RecordedAt = yearName;
-        if (otherDataPoint.Updated) {
+        const allReadyEntered = !!newObj[key].DataEntries.find(
+          d => d.Updated === otherDataPoint.Updated
+        );
+        if (otherDataPoint.Updated && !allReadyEntered) {
           newObj[key].DataEntries.push(otherDataPoint);
         }
       }
