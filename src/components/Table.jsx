@@ -13,7 +13,7 @@ const SearchBar = ({ columns }) => {
   const [columnFilter, setColumnFilter] = useState(2);
   const currentCol = columns[0].columns[columnFilter];
   return (
-    <div className="input-group my-3" style={{ width: "300px" }}>
+    <div className="input-group my-3 pt-5" style={{ width: "300px" }}>
       <select
         className="custom-select"
         onChange={e => {

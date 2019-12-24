@@ -11,12 +11,20 @@ import {
   Route,
   Switch,
   Link,
-  useParams
+  useParams,
+  useLocation
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import styled from "styled-components";
 
 const NavWrapper = styled.nav`
+  &&.home {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+    padding: 1rem;
+  }
   display: flex;
   .title {
     flex-grow: 1;
@@ -63,23 +71,32 @@ const Breadcrumbs = () => (
   </div>
 );
 
+const Nav = () => {
+  const { pathname } = useLocation();
+  // ugly hack to make the nav bar stick on home where whole page scrolls
+  // without changing for other pages
+  return (
+    <NavWrapper className={pathname === "/" ? "home" : ""}>
+      <Breadcrumbs />
+      <div className="title">Impact Fee Survey</div>
+      <div>
+        <Link className="p-2" to="/national-averages">
+          National Averages
+        </Link>
+        <Link className="p-2" to="/about">
+          About
+        </Link>
+      </div>
+    </NavWrapper>
+  );
+};
+
 const App: React.FC = () => {
   return (
     <div className="m-3">
       <Router>
         <ScrollToTop />
-        <NavWrapper>
-          <Breadcrumbs />
-          <div className="title">Impact Fee Survey</div>
-          <div>
-            <Link className="p-2" to="/national-averages">
-              National Averages
-            </Link>
-            <Link className="p-2" to="/about">
-              About
-            </Link>
-          </div>
-        </NavWrapper>
+        <Nav />
         <Switch>
           <Route path="/state/:state/jurisdiction/:name">
             <JurisdictionPage />
