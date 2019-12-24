@@ -8,6 +8,7 @@ import {
   useBlockLayout
 } from "react-table";
 import TableStyles from "./TableStyles";
+import { FaAngleUp, FaAngleDown } from "react-icons/fa";
 
 const SearchBar = ({ columns }) => {
   const [columnFilter, setColumnFilter] = useState(2);
@@ -83,11 +84,15 @@ export function Table({ columns, data, hasPagination }) {
                   {column.render("Header")}
                   {/* Add a sort direction indicator */}
                   <span>
-                    {column.isSorted
-                      ? column.isSortedDesc
-                        ? " 🔽"
-                        : " 🔼"
-                      : ""}
+                    {column.isSorted ? (
+                      column.isSortedDesc ? (
+                        <FaAngleDown size={30} />
+                      ) : (
+                        <FaAngleUp size={30} />
+                      )
+                    ) : (
+                      ""
+                    )}
                   </span>
                 </th>
               ))}
