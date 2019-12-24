@@ -7,7 +7,7 @@ import { OverallTable } from "./components/OverallTable";
 import { JurisdictionPage } from "./components/JurisdictionPage";
 import { StateAveragesPage } from "./components/StateAveragesPage";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
   Link,
@@ -66,7 +66,7 @@ const Breadcrumbs = () => (
 const App: React.FC = () => {
   return (
     <div className="m-3">
-      <Router basename={"/impact-fees"}>
+      <Router>
         <ScrollToTop />
         <NavWrapper>
           <Breadcrumbs />
