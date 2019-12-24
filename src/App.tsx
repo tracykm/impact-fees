@@ -66,7 +66,7 @@ const Breadcrumbs = () => (
 const App: React.FC = () => {
   return (
     <div className="m-3">
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename={"/impact-fees"}>
         <ScrollToTop />
         <NavWrapper>
           <Breadcrumbs />
