@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
-import { formatDate, formatMoney } from "./Cell";
+import { formatMoney } from "./Cell";
 import {
   JurisdictionData,
   UtilityType,

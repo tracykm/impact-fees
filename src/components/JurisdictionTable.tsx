@@ -1,7 +1,6 @@
 import React from "react";
 import { DetailColumns } from "./columns";
 import { Table } from "./Table";
-import { DateCell } from "./Cell";
 import { JurisdictionData } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
 import styled from "styled-components";

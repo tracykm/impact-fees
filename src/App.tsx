@@ -78,7 +78,7 @@ const Nav = () => {
   return (
     <NavWrapper className={pathname === "/" ? "home" : ""}>
       <Breadcrumbs />
-      <div className="title">Impact Fee Survey</div>
+      <div className="title"></div>
       <div>
         <Link className="p-2" to="/national-averages">
           National Averages

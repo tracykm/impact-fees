@@ -1,7 +1,5 @@
 import React from "react";
 import { DetailPage } from "./DetailPage";
-import nationalAverages from "../data/cleaned/nationalAverages.json";
-import { Link } from "react-router-dom";
 import { STATES } from "../types";
 import stateAverages from "../data/cleaned/stateAverages.json";
 
@@ -14,6 +12,7 @@ Object.keys(stateAverages).forEach(State => {
       State: STATES.find(d => d.short_name === State).name
     });
   }
+  return undefined;
 });
 
 export const AllStateAveragesPage = () => {
@@ -39,6 +38,7 @@ export const AllStateAveragesPage = () => {
         if (!samples) {
           return <span className="p-2">{s.name} </span>;
         }
+        return undefined;
       })}
     </>
   );
