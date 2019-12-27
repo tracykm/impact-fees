@@ -62,7 +62,7 @@ export function Table({ columns, data, hasPagination }) {
     {
       columns,
       data,
-      initialState: { pageSize: 20 }
+      initialState: { pageSize: 50 }
     },
     useBlockLayout,
     useFilters,
@@ -177,7 +177,7 @@ export function Table({ columns, data, hasPagination }) {
               setPageSize(Number(e.target.value));
             }}
           >
-            {[10, 20, 30, 40, 50].map(pageSize => (
+            {[20, 50, 100].map(pageSize => (
               <option key={pageSize} value={pageSize}>
                 Show {pageSize}
               </option>

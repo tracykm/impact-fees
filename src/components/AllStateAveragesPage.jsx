@@ -1,14 +1,15 @@
 import React from "react";
-import { DetailPage } from "./DetailPage";
 import { STATES } from "../types";
 import stateAverages from "../data/cleaned/stateAverages.json";
+import { AllDetailColumns } from "./columns";
+import { Table } from "./Table";
 
 const data = [];
 
 Object.keys(stateAverages).forEach(State => {
   if (stateAverages[State][0]) {
     data.push({
-      ...stateAverages[State][0],
+      DataEntries: stateAverages[State],
       State: STATES.find(d => d.short_name === State).name
     });
   }
@@ -16,20 +17,18 @@ Object.keys(stateAverages).forEach(State => {
 });
 
 export const AllStateAveragesPage = () => {
-  const DataEntries = data;
-  const myData = { DataEntries };
+  const path = `DataEntries[0].`;
   return (
     <>
-      <DetailPage
-        data={myData}
-        headerText={
-          <div className="text-left">
-            <h1>State Averages</h1>
-            <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
-              Sample size: {DataEntries[1].SampleSize}
-            </div>
-          </div>
-        }
+      <Table
+        columns={[
+          {
+            Header: "State",
+            accessor: "State"
+          },
+          ...AllDetailColumns({ path })
+        ]}
+        data={data}
       />
       {STATES.map(s => {
         const samples =

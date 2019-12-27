@@ -1,5 +1,5 @@
 import React from "react";
-import { DetailColumns } from "./columns";
+import { AllDetailColumns } from "./columns";
 import { Table } from "./Table";
 import { JurisdictionData } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
@@ -52,41 +52,7 @@ export const JurisdictionTable = ({
           }
         ]
       : []),
-    {
-      Header: "Single Family",
-      columns: DetailColumns({
-        name: "SingleFamily",
-        usedKeys: usedKeys.SingleFamily || []
-      })
-    },
-    {
-      Header: "Multi Family",
-      columns: DetailColumns({
-        name: "MultiFamily",
-        usedKeys: usedKeys.MultiFamily || []
-      })
-    },
-    {
-      Header: "Retail",
-      columns: DetailColumns({
-        name: "Retail",
-        usedKeys: usedKeys.Retail || []
-      })
-    },
-    {
-      Header: "Office",
-      columns: DetailColumns({
-        name: "Office",
-        usedKeys: usedKeys.Office || []
-      })
-    },
-    {
-      Header: "Industrial",
-      columns: DetailColumns({
-        name: "Industrial",
-        usedKeys: usedKeys.Industrial || []
-      })
-    }
+    ...AllDetailColumns({ usedKeys })
   ];
 
   return (

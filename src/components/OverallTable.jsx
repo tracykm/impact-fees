@@ -1,6 +1,6 @@
 import React from "react";
 import { Table } from "./Table";
-import { DetailColumns } from "./columns";
+import { AllDetailColumns } from "./columns";
 import { DateCell } from "./Cell";
 import { Link } from "react-router-dom";
 import data from "../data/cleaned/nestedData.json";
@@ -64,26 +64,7 @@ export function OverallTable() {
           }
         ]
       },
-      {
-        Header: "Single Family",
-        columns: DetailColumns({ name: "SingleFamily", path })
-      },
-      {
-        Header: "Multi Family",
-        columns: DetailColumns({ name: "MultiFamily", path })
-      },
-      {
-        Header: "Retail",
-        columns: DetailColumns({ name: "Retail", path })
-      },
-      {
-        Header: "Office",
-        columns: DetailColumns({ name: "Office", path })
-      },
-      {
-        Header: "Industrial",
-        columns: DetailColumns({ name: "Industrial", path })
-      }
+      ...AllDetailColumns({ path })
     ],
     []
   );
