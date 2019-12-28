@@ -14,7 +14,11 @@ export const ButtonOptions = ({
   onChange,
   value
 }: {
-  options: Array<{ name: string; value: string | number }>;
+  options: Array<{
+    name: string;
+    value: string | number;
+    icon?: () => JSX.Element;
+  }>;
   onChange: (val: any) => void;
   value: string | number;
 }) => {
@@ -32,7 +36,7 @@ export const ButtonOptions = ({
               : "btn-outline-secondary")
           }
         >
-          {d.name}
+          {d.icon && <d.icon />} {d.name}
         </ButtonOption>
       ))}
     </div>

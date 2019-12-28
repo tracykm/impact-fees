@@ -126,7 +126,11 @@ export const AllStateAveragesPage = () => {
         <ButtonOptions
           className="mb-3"
           value={selectedUtil}
-          options={Object.keys(UtilityDict).map(d => ({ name: d, value: d }))}
+          options={Object.keys(UtilityDict).map(d => ({
+            name: d,
+            value: d,
+            icon: UtilityDict[d].Icon
+          }))}
           onChange={changeUtil}
         />
       </div>
