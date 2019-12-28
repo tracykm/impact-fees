@@ -17,7 +17,7 @@ const Wrapper = styled.div`
 
   .two-col {
     display: grid;
-    grid-template-columns: 3fr 5fr;
+    grid-template-columns: 4fr 7fr;
     grid-column-gap: 2em;
   }
   max-width: 1200px;
@@ -95,13 +95,6 @@ export const About = () => (
           against the charges for developer-constructed improvements, but
           instead of adopting them as impact fees the City adopted them as
           development taxes. This survey includes development taxes.
-        </p>
-        <p>
-          1 The survey was completed by ClancyMullen, principal of
-          DuncanAssociates, on August 18, 2019, with assistance from Matt Dixon,
-          graduate research assistant at the University of Arizona, and David
-          Hymel and Stuart Wallace, J.D. candidates at Georgia State University
-          College of Law.
         </p>
       </div>
       <div>
@@ -206,5 +199,11 @@ export const About = () => (
         </p>
       </div>
     </main>
+    <p>
+      The survey was completed by Clancy Mullen, principal of DuncanAssociates,
+      on August 18, 2019, with assistance from Matt Dixon, graduate research
+      assistant at the University of Arizona, and David Hymel and Stuart
+      Wallace, J.D. candidates at Georgia State University College of Law.
+    </p>
   </Wrapper>
 );

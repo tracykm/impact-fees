@@ -5,9 +5,10 @@ import { AllDetailColumns } from "./columns";
 import { Table } from "./Table";
 import { ButtonsOrDropdown } from "./ButtonsOrDropdown";
 import { ButtonOptions } from "./ButtonOptions";
-import { BarChart, CartesianGrid, XAxis, YAxis, Bar, Tooltip } from "recharts";
+import { BarChart, XAxis, YAxis, Bar, Tooltip } from "recharts";
 import { formatMoney } from "./Cell";
 import styled from "styled-components";
+import { Link } from "react-router-dom";
 import { TypesOfPlaces } from "../types";
 
 const Wrapper = styled.div`
@@ -32,8 +33,8 @@ Object.keys(stateAverages).forEach(State => {
   if (stateAverages[State][0]) {
     data.push({
       DataEntries: stateAverages[State],
-      SampleSize: stateAverages[State].length,
-      State: STATES.find(d => d.short_name === State).name
+      State: STATES.find(d => d.short_name === State).name,
+      StateShortName: State
     });
   }
   return undefined;
@@ -58,6 +59,22 @@ export const AllStateAveragesPage = () => {
   const [placeSelected, changePlace] = useState("SingleFamily");
   const path = `DataEntries[${yearSelected}].`;
   const longerPath = `${path}${placeSelected}.Total`;
+  const leftOffStates = [];
+  const myData = data.filter(d => {
+    if (
+      d.DataEntries[yearSelected] &&
+      d.DataEntries[yearSelected].SampleSize > 5
+    ) {
+      return true;
+    } else {
+      leftOffStates.push({
+        State: d.State,
+        StateShortName: d.StateShortName,
+        SampleSize:
+          d.DataEntries[yearSelected] && d.DataEntries[yearSelected].SampleSize
+      });
+    }
+  });
   return (
     <>
       <div style={{ margin: "auto", width: "1200px" }} className="text-center">
@@ -71,8 +88,7 @@ export const AllStateAveragesPage = () => {
             }}
           />
         </div>
-        <BarChart width={1200} height={250} data={data}>
-          <CartesianGrid strokeDasharray="3 3" />
+        <BarChart width={1200} height={250} data={myData}>
           <XAxis dataKey="State" tickFormatter={getShortStateName} />
           <YAxis tickFormatter={formatMoney} domain={[0, d => 40000]} />
           <Tooltip
@@ -95,17 +111,33 @@ export const AllStateAveragesPage = () => {
           columns={[
             {
               Header: "State",
-              accessor: "State"
+              accessor: "State",
+              Cell: ({ cell, row }) => {
+                return (
+                  <Link to={`state/${row.original.StateShortName}`}>
+                    {cell.value}
+                  </Link>
+                );
+              }
             },
             {
               Header: " ",
-              accessor: "SampleSize",
+              accessor: `${path}SampleSize`,
               width: 50
             },
             ...AllDetailColumns({ path })
           ]}
-          data={data}
+          data={myData}
         />
+
+        <div>
+          Sample size too small:{" "}
+          {leftOffStates.map(s => (
+            <Link className="p-2" to={`/state/${s.StateShortName}`}>
+              {s.State} ({s.SampleSize || 0}){" "}
+            </Link>
+          ))}
+        </div>
       </Wrapper>
     </>
   );

@@ -37,7 +37,7 @@ export const JurisdictionTable = ({
         ]
       : []),
     {
-      Header: "Updated",
+      Header: "Date",
       accessor: "Updated",
       width: 90,
       Cell: ({ cell }) => new Date(cell.value).getFullYear()

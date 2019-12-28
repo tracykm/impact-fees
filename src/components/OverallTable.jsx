@@ -58,7 +58,7 @@ export function OverallTable() {
             }
           },
           {
-            Header: "Updated",
+            Header: "Date",
             accessor: `${path}Updated`,
             Cell: DateCell
           }
