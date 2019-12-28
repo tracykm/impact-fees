@@ -9,7 +9,7 @@ import { BarChart, XAxis, YAxis, Bar, Tooltip } from "recharts";
 import { formatMoney } from "./Cell";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { TypesOfPlaces, PropertyDict } from "../types";
+import { TypesOfPlaces, UtilityDict, PropertyDict } from "../types";
 
 const Wrapper = styled.div`
   td:nth-child(1),
@@ -56,9 +56,9 @@ function getShortStateName(val) {
 
 export const AllStateAveragesPage = () => {
   const [yearSelected, changeYear] = useState(0);
-  const [placeSelected, changePlace] = useState("SingleFamily");
+  const [selectedPlace, changePlace] = useState("SingleFamily");
+  const [selectedUtil, changeUtil] = useState("Total");
   const path = `DataEntries[${yearSelected}].`;
-  const longerPath = `${path}${placeSelected}.Total`;
   const leftOffStates = [];
   const myData = data.filter(d => {
     if (
@@ -77,7 +77,10 @@ export const AllStateAveragesPage = () => {
   });
 
   const AllBars = Object.keys(PropertyDict).map(place => (
-    <Bar dataKey={`${path}${place}.Total`} fill={PropertyDict[place].color} />
+    <Bar
+      dataKey={`${path}${place}.${selectedUtil}`}
+      fill={PropertyDict[place].color}
+    />
   ));
   return (
     <>
@@ -94,27 +97,37 @@ export const AllStateAveragesPage = () => {
         </div>
         <BarChart width={1200} height={250} data={myData}>
           <XAxis dataKey="State" tickFormatter={getShortStateName} />
-          <YAxis tickFormatter={formatMoney} domain={[0, d => 40000]} />
+          <YAxis
+            tickFormatter={formatMoney}
+            // domain={[0, d => 40000]}
+          />
           <Tooltip
             formatter={(val, name) => [
               formatMoney(val),
               name.split(".")[1] + " " + name.split(".")[2]
             ]}
           />
-          {placeSelected === "All" ? (
+          {selectedPlace === "All" ? (
             AllBars
           ) : (
             <Bar
-              dataKey={`${path}${placeSelected}.Total`}
-              fill={PropertyDict[placeSelected].color}
+              dataKey={`${path}${selectedPlace}.${selectedUtil}`}
+              fill={PropertyDict[selectedPlace].color}
             />
           )}
         </BarChart>
         <ButtonOptions
           className="mb-3"
-          value={placeSelected}
+          value={selectedPlace}
           options={["All", ...TypesOfPlaces].map(d => ({ name: d, value: d }))}
           onChange={changePlace}
+        />
+        <br />
+        <ButtonOptions
+          className="mb-3"
+          value={selectedUtil}
+          options={Object.keys(UtilityDict).map(d => ({ name: d, value: d }))}
+          onChange={changeUtil}
         />
       </div>
       <Wrapper>
@@ -140,16 +153,15 @@ export const AllStateAveragesPage = () => {
           ]}
           data={myData}
         />
-
-        <div>
-          Sample size too small:{" "}
-          {leftOffStates.map(s => (
-            <Link className="p-2" to={`/state/${s.StateShortName}`}>
-              {s.State} ({s.SampleSize || 0}){" "}
-            </Link>
-          ))}
-        </div>
       </Wrapper>
+      <div>
+        Sample size too small:{" "}
+        {leftOffStates.map(s => (
+          <Link className="p-2" to={`/state/${s.StateShortName}`}>
+            {s.State} ({s.SampleSize || 0}){" "}
+          </Link>
+        ))}
+      </div>
     </>
   );
 };
