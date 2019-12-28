@@ -3,16 +3,18 @@ import React from "react";
 export const Dropdown = ({
   options,
   onChange,
-  value
+  value,
+  className
 }: {
   options: Array<{ name: string; value: string | number }>;
   onChange: (val: any) => void;
   value: string | number;
+  className?: string;
 }) => {
   return (
     <select
       style={{ width: "initial" }}
-      className="custom-select"
+      className={"custom-select" + " " + className}
       value={value}
       onChange={e => {
         onChange(e.target.value);

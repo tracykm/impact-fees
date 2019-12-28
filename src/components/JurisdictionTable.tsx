@@ -5,7 +5,6 @@ import { JurisdictionData } from "../types";
 import { UsedKeys } from "../utils/getUsedKeys";
 import styled from "styled-components";
 
-// to make Jurisdiction sticky but not detail 3rd row
 const Wrapper = styled.div`
   td:nth-child(1),
   tr:nth-child(2) th:nth-child(1) {

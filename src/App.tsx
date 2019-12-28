@@ -80,6 +80,9 @@ const Nav = () => {
       <Breadcrumbs />
       <div className="title"></div>
       <div>
+        <Link className="p-2" to="/state-averages">
+          State Averages
+        </Link>
         <Link className="p-2" to="/national-averages">
           National Averages
         </Link>
