@@ -9,7 +9,7 @@ import { BarChart, XAxis, YAxis, Bar, Tooltip } from "recharts";
 import { formatMoney } from "./Cell";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
-import { TypesOfPlaces } from "../types";
+import { TypesOfPlaces, PropertyDict } from "../types";
 
 const Wrapper = styled.div`
   td:nth-child(1),
@@ -75,6 +75,10 @@ export const AllStateAveragesPage = () => {
       });
     }
   });
+
+  const AllBars = Object.keys(PropertyDict).map(place => (
+    <Bar dataKey={`${path}${place}.Total`} fill={PropertyDict[place].color} />
+  ));
   return (
     <>
       <div style={{ margin: "auto", width: "1200px" }} className="text-center">
@@ -97,12 +101,19 @@ export const AllStateAveragesPage = () => {
               name.split(".")[1] + " " + name.split(".")[2]
             ]}
           />
-          <Bar dataKey={longerPath} fill="#56d19d" />
+          {placeSelected === "All" ? (
+            AllBars
+          ) : (
+            <Bar
+              dataKey={`${path}${placeSelected}.Total`}
+              fill={PropertyDict[placeSelected].color}
+            />
+          )}
         </BarChart>
         <ButtonOptions
           className="mb-3"
           value={placeSelected}
-          options={TypesOfPlaces.map(d => ({ name: d, value: d }))}
+          options={["All", ...TypesOfPlaces].map(d => ({ name: d, value: d }))}
           onChange={changePlace}
         />
       </div>
