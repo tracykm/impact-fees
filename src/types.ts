@@ -53,19 +53,19 @@ export interface UtilityBreakDown {
 
 export const PropertyDict: { [k in PropertyType]: { color: string } } = {
   SingleFamily: {
-    color: "#a3ea83"
+    color: "#db6d4f"
   },
   MultiFamily: {
-    color: "#31c3a6"
+    color: "#ca5865"
   },
   Retail: {
-    color: "#01a4ac"
+    color: "#ab4e74"
   },
   Office: {
-    color: "#36849d"
+    color: "#844a7a"
   },
   Industrial: {
-    color: "#56d19d"
+    color: "#614879"
   }
 };
 // @ts-ignore
@@ -73,55 +73,55 @@ export const TypesOfPlaces: PropertyType[] = Object.keys(PropertyDict);
 
 export const UtilityDict = {
   Total: {
-    color: "#565154",
+    color: "#d0aa26",
     Icon: null
   },
   NonUtil: {
-    color: "#ccc",
+    color: "#d99a2d",
     Icon: null
   },
   Fire: {
-    color: "#fafa6e",
+    color: "#de8a37",
     Icon: FaFireAlt
   },
   Roads: {
-    color: "#cdf377",
+    color: "#de7b43",
     Icon: FaRoad
   },
   GenGov: {
-    color: "#a3ea83",
+    color: "#db6d4f",
     Icon: FaBuilding
   },
   Schools: {
-    color: "#7cde91",
+    color: "#d4615a",
     Icon: FaSchool
   },
   Sewer: {
-    color: "#31c3a6",
+    color: "#ca5865",
     Icon: FaWaveSquare
   },
   Library: {
-    color: "#09b4ac",
+    color: "#bc526d",
     Icon: FaBook
   },
   Parks: {
-    color: "#01a4ac",
+    color: "#ab4e74",
     Icon: FaTree
   },
   Drain: {
-    color: "#2094a7",
+    color: "#984b79",
     Icon: FaShower
   },
   Water: {
-    color: "#36849d",
+    color: "#844a7a",
     Icon: FaWater
   },
   Police: {
-    color: "#44748e",
+    color: "#6f4879",
     Icon: FaShieldAlt
   },
   Other: {
-    color: "#56d19d",
+    color: "#614879",
     Icon: null
   }
 };

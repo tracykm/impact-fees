@@ -7,7 +7,7 @@ const TableStyles = styled.div`
     font-size: 14px;
     position: fixed;
     bottom: 0;
-    background: #1b1d20;
+    background: #d9d9d9;
     width: 100%;
     z-index: 2;
 
@@ -35,7 +35,7 @@ const TableStyles = styled.div`
     margin-bottom: 2rem;
 
     thead {
-      background-color: #1b1d20;
+      background-color: #eaeaea;
       position: sticky;
       top: 0;
       display: block;

@@ -1,7 +1,8 @@
 body {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   font-size: 16px;
-  color: #d5d5d5;
+  color: #7a7a7a;
+  font-weight: 400;
 }
 
 .light-text {
@@ -11,25 +12,38 @@ body {
 }
 
 .btn-outline-primary {
-  color: #ccc;
-  border-color: #ccc;
+  color: #ed864b;
+  border-color: #ed864b;
 }
 
-.btn-outline-primary:hover {
-  background: #ccc;
-  border-color: #ccc;
+.btn-outline-primary:hover,
+.btn-outline-secondary:hover {
+  background: #d4615a;
+  border-color: #d4615a;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-secondary:not(:disabled):not(.disabled):active {
+  background: #ca5865 !important;
+  border-color: #ca5865 !important;
+}
+
+table,
+th,
+td {
+  border: 1px solid #f7f7f7 !important;
 }
 
 a {
-  color: #56d19d;
+  color: #ed864b;
 }
 
 a:hover {
-  color: #70f3bb;
+  color: #d4615a;
 }
 
 a:active {
-  color: ##40ad7e;
+  color: #ca5865;
 }
 
 .piechart tspan,
@@ -39,6 +53,6 @@ a:active {
 }
 
 .recharts-default-tooltip {
-  background: #1b1d20 !important;
-  border: #1b1d20 solid !important;
+  /* background: #1b1d20 !important;
+  border: #1b1d20 solid !important; */
 }

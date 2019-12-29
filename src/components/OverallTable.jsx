@@ -12,11 +12,11 @@ const Wrapper = styled.div`
   tr:nth-child(2) th:nth-child(3) {
     position: sticky;
     left: 0;
-    background-color: #25282e;
+    background-color: #ffffff;
     z-index: 1;
   }
   tr:nth-child(2) th:nth-child(3) {
-    background-color: #1b1d20;
+    background-color: #eaeaea;
   }
 `;
 
