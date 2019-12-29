@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useMemo } from "react";
 import { STATES } from "../types";
 import stateAverages from "../data/cleaned/stateAverages.json";
 import { AllDetailColumns } from "./columns";
@@ -49,6 +49,12 @@ data = data.sort((d1, d2) => {
 const yearOpts = data[0].DataEntries.map((d, i) => {
   return { value: i, name: new Date(d.Updated).getFullYear() };
 });
+const placeOpts = ["All", ...TypesOfPlaces].map(d => ({ name: d, value: d }));
+const utilOpts = Object.keys(UtilityDict).map(d => ({
+  name: d,
+  value: d,
+  icon: UtilityDict[d].Icon
+}));
 
 function getShortStateName(val) {
   return STATES.find(d => d.name === val).short_name;
@@ -76,12 +82,40 @@ export const AllStateAveragesPage = () => {
     }
   });
 
-  const AllBars = Object.keys(PropertyDict).map(place => (
-    <Bar
-      dataKey={`${path}${place}.${selectedUtil}`}
-      fill={PropertyDict[place].color}
-    />
-  ));
+  const AllBars = useMemo(
+    () =>
+      Object.keys(PropertyDict).map(place => (
+        <Bar
+          dataKey={`${path}${place}.${selectedUtil}`}
+          fill={PropertyDict[place].color}
+        />
+      )),
+    [selectedUtil]
+  );
+
+  const columns = useMemo(
+    () => [
+      {
+        Header: "State",
+        accessor: "State",
+        Cell: ({ cell, row }) => {
+          return (
+            <Link to={`state/${row.original.StateShortName}`}>
+              {cell.value}
+            </Link>
+          );
+        }
+      },
+      {
+        Header: " ",
+        accessor: `${path}SampleSize`,
+        width: 50
+      },
+      ...AllDetailColumns({ path })
+    ],
+    [path]
+  );
+
   return (
     <>
       <div style={{ margin: "auto", width: "1200px" }} className="text-center">
@@ -119,44 +153,19 @@ export const AllStateAveragesPage = () => {
         <ButtonOptions
           className="mb-3"
           value={selectedPlace}
-          options={["All", ...TypesOfPlaces].map(d => ({ name: d, value: d }))}
+          options={placeOpts}
           onChange={changePlace}
         />
         <br />
         <ButtonOptions
           className="mb-3"
           value={selectedUtil}
-          options={Object.keys(UtilityDict).map(d => ({
-            name: d,
-            value: d,
-            icon: UtilityDict[d].Icon
-          }))}
+          options={utilOpts}
           onChange={changeUtil}
         />
       </div>
       <Wrapper>
-        <Table
-          columns={[
-            {
-              Header: "State",
-              accessor: "State",
-              Cell: ({ cell, row }) => {
-                return (
-                  <Link to={`state/${row.original.StateShortName}`}>
-                    {cell.value}
-                  </Link>
-                );
-              }
-            },
-            {
-              Header: " ",
-              accessor: `${path}SampleSize`,
-              width: 50
-            },
-            ...AllDetailColumns({ path })
-          ]}
-          data={myData}
-        />
+        <Table columns={columns} data={myData} />
       </Wrapper>
       <div>
         Sample size too small:{" "}
