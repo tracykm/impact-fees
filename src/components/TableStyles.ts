@@ -28,10 +28,8 @@ const TableStyles = styled.div`
       width: 100%;
       height: 100%;
       display: block;
+      z-index: 100;
     }
-
-    border-spacing: 0;
-    border: 1px solid black;
     margin-bottom: 2rem;
 
     thead {
@@ -57,6 +55,7 @@ const TableStyles = styled.div`
 
     th,
     td {
+      background: white;
       margin: 0;
       padding: 0.5rem;
       border-bottom: 1px solid black;

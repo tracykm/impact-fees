@@ -18,6 +18,18 @@ const Wrapper = styled.div`
   tr:nth-child(2) th:nth-child(3) {
     background-color: #eaeaea;
   }
+  margin-top: 170px;
+
+  #search-bar,
+  .overall-links {
+    position: fixed;
+    left: calc(50% - 600px);
+    width: 1200px;
+    top: 0;
+  }
+  #search-bar {
+    top: 100px;
+  }
 `;
 
 const dataJS = Object.values(data);
@@ -73,6 +85,23 @@ export function OverallTable() {
 
   return (
     <Wrapper>
+      <div className="mt-5 text-center overall-links">
+        <Link
+          className="btn btn-lg btn-outline-primary m-2"
+          to="/state-averages"
+        >
+          State Averages
+        </Link>
+        <Link
+          className="btn btn-lg btn-outline-primary m-2"
+          to="/national-averages"
+        >
+          National Averages
+        </Link>
+        <Link className="btn btn-lg btn-outline-primary m-2" to="/about">
+          About this Survey
+        </Link>
+      </div>
       <Table columns={columns} data={data} hasPagination />
     </Wrapper>
   );

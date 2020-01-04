@@ -18,10 +18,11 @@ import ScrollToTop from "./components/ScrollToTop";
 import styled from "styled-components";
 
 const NavWrapper = styled.nav`
+  width: 1200px;
+  margin: auto;
   &&.home {
     position: fixed;
-    width: 100%;
-    left: 0;
+    left: calc(50% - 600px);
     top: 0;
     padding: 1rem;
   }
@@ -59,14 +60,42 @@ const JurisdictionBreadcrumb = () => {
 
 const Breadcrumbs = () => (
   <div>
-    <Link className="pr-2 py-2" to="/">
+    <a className="pr-2 py-2" href="http://www.impactfees.com/">
       Home
+    </a>
+    /{" "}
+    <Link className="pr-2 py-2" to="/">
+      Survey
     </Link>
     <Route path="/state/:state">
       <StateBreadcrumb />
     </Route>
     <Route path="/state/:state/jurisdiction/:name">
       <JurisdictionBreadcrumb />
+    </Route>
+    <Route path="/about">
+      <>
+        /
+        <Link className="p-2" to={`/about`}>
+          About
+        </Link>
+      </>
+    </Route>
+    <Route path="/national-averages">
+      <>
+        /
+        <Link className="p-2" to={`/national-averages`}>
+          National Averages
+        </Link>
+      </>
+    </Route>
+    <Route path="/state-averages">
+      <>
+        /
+        <Link className="p-2" to={`/state-averages`}>
+          State Averages
+        </Link>
+      </>
     </Route>
   </div>
 );
@@ -79,17 +108,6 @@ const Nav = () => {
     <NavWrapper className={pathname === "/" ? "home" : ""}>
       <Breadcrumbs />
       <div className="title"></div>
-      <div>
-        <Link className="p-2" to="/state-averages">
-          State Averages
-        </Link>
-        <Link className="p-2" to="/national-averages">
-          National Averages
-        </Link>
-        <Link className="p-2" to="/about">
-          About
-        </Link>
-      </div>
     </NavWrapper>
   );
 };

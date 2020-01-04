@@ -14,28 +14,33 @@ const SearchBar = ({ columns }) => {
   const [columnFilter, setColumnFilter] = useState(2);
   const currentCol = columns[0].columns[columnFilter];
   return (
-    <div className="input-group my-3 pt-5" style={{ width: "300px" }}>
-      <select
-        className="custom-select"
-        onChange={e => {
-          columns[0].columns[Number(e.target.value)].setFilter(
-            currentCol.filterValue
-          );
-          currentCol.setFilter(undefined);
-          setColumnFilter(Number(e.target.value));
-        }}
+    <div id="search-bar">
+      <div
+        className="input-group my-3"
+        style={{ width: "300px", margin: "auto" }}
       >
-        <option value="2">Jurisdiction</option>
-        <option value="1">County</option>
-        <option value="0">State</option>
-      </select>
-      <input
-        className="input-group-append form-control"
-        onChange={e => {
-          currentCol.setFilter(e.target.value);
-        }}
-        placeholder="search..."
-      />
+        <select
+          className="custom-select"
+          onChange={e => {
+            columns[0].columns[Number(e.target.value)].setFilter(
+              currentCol.filterValue
+            );
+            currentCol.setFilter(undefined);
+            setColumnFilter(Number(e.target.value));
+          }}
+        >
+          <option value="2">Jurisdiction</option>
+          <option value="1">County</option>
+          <option value="0">State</option>
+        </select>
+        <input
+          className="input-group-append form-control"
+          onChange={e => {
+            currentCol.setFilter(e.target.value);
+          }}
+          placeholder="search..."
+        />
+      </div>
     </div>
   );
 };
