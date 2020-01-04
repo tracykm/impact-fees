@@ -1,5 +1,6 @@
 import React from "react";
 import { Table } from "./Table";
+import { MapChart } from "./MapChart";
 import { AllDetailColumns } from "./columns";
 import { DateCell } from "./Cell";
 import { Link } from "react-router-dom";
@@ -20,13 +21,13 @@ const Wrapper = styled.div`
   }
   margin-top: 170px;
 
-  #search-bar,
+  /* #search-bar,
   .overall-links {
     position: fixed;
     left: calc(50% - 600px);
     width: 1200px;
     top: 0;
-  }
+  } */
   #search-bar {
     top: 100px;
   }
@@ -101,7 +102,9 @@ export function OverallTable() {
         <Link className="btn btn-lg btn-outline-primary m-2" to="/about">
           About this Survey
         </Link>
+        <MapChart />
       </div>
+      <div className="spacer"></div>
       <Table columns={columns} data={data} hasPagination />
     </Wrapper>
   );
