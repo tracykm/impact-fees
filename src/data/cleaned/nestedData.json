@@ -446,7 +446,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "05007"
   },
   "ARConway": {
     "Jurisdiction": "Conway",
@@ -794,7 +795,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "05045"
   },
   "ARFayetteville": {
     "Jurisdiction": "Fayetteville",
@@ -1240,7 +1242,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "05143"
   },
   "AZPayson": {
     "Jurisdiction": "Payson",
@@ -1391,7 +1394,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04007"
   },
   "AZSedona": {
     "Jurisdiction": "Sedona",
@@ -1915,7 +1919,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04007"
   },
   "AZAvondale": {
     "Jurisdiction": "Avondale",
@@ -2572,7 +2577,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZBuckeye": {
     "Jurisdiction": "Buckeye",
@@ -3102,7 +3108,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZChandler": {
     "Jurisdiction": "Chandler",
@@ -3729,7 +3736,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZFountain Hills": {
     "Jurisdiction": "Fountain Hills",
@@ -4206,7 +4214,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZGilbert": {
     "Jurisdiction": "Gilbert",
@@ -4811,7 +4820,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZGlendale": {
     "Jurisdiction": "Glendale",
@@ -5404,7 +5414,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZGoodyear": {
     "Jurisdiction": "Goodyear",
@@ -6060,7 +6071,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZMesa": {
     "Jurisdiction": "Mesa",
@@ -6677,7 +6689,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZPeoria": {
     "Jurisdiction": "Peoria",
@@ -7303,7 +7316,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZPhoenix": {
     "Jurisdiction": "Phoenix",
@@ -7900,7 +7914,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZScottsdale": {
     "Jurisdiction": "Scottsdale",
@@ -8374,7 +8389,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZTempe": {
     "Jurisdiction": "Tempe",
@@ -8725,7 +8741,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZBullhead City": {
     "Jurisdiction": "Bullhead City",
@@ -8973,7 +8990,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04015"
   },
   "AZShow Low": {
     "Jurisdiction": "Show Low",
@@ -9389,7 +9407,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04017"
   },
   "AZPima County": {
     "Jurisdiction": "Pima County",
@@ -9728,7 +9747,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04019"
   },
   "AZMarana": {
     "Jurisdiction": "Marana",
@@ -10072,7 +10092,8 @@
         "Industrial": {},
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04019"
   },
   "AZOro Valley": {
     "Jurisdiction": "Oro Valley",
@@ -10486,7 +10507,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04019"
   },
   "AZTucson": {
     "Jurisdiction": "Tucson",
@@ -10966,7 +10988,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04019"
   },
   "AZApache Junction": {
     "Jurisdiction": "Apache Junction",
@@ -11492,7 +11515,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04021"
   },
   "AZCasa Grande": {
     "Jurisdiction": "Casa Grande",
@@ -12063,7 +12087,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04021"
   },
   "AZFlorence": {
     "Jurisdiction": "Florence",
@@ -12672,7 +12697,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04021"
   },
   "AZQueen Creek": {
     "Jurisdiction": "Queen Creek",
@@ -13185,7 +13211,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04021"
   },
   "AZChino Valley": {
     "Jurisdiction": "Chino Valley",
@@ -13729,7 +13756,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04025"
   },
   "AZPrescott": {
     "Jurisdiction": "Prescott",
@@ -14159,7 +14187,8 @@
         "Industrial": {},
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "04025"
   },
   "CADavis": {
     "Jurisdiction": "Davis",
@@ -14743,7 +14772,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06113"
   },
   "CAEl Dorado Co": {
     "Jurisdiction": "El Dorado Co",
@@ -15121,7 +15151,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06017"
   },
   "CALancaster": {
     "Jurisdiction": "Lancaster",
@@ -15556,7 +15587,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06037"
   },
   "CASacramento": {
     "Jurisdiction": "Sacramento",
@@ -16067,7 +16099,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06067"
   },
   "CASan Diego": {
     "Jurisdiction": "San Diego",
@@ -16460,7 +16493,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06073"
   },
   "CASan Francisco": {
     "Jurisdiction": "San Francisco",
@@ -16539,7 +16573,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06075"
   },
   "CASanta Cruz Co": {
     "Jurisdiction": "Santa Cruz Co",
@@ -16892,7 +16927,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "06087"
   },
   "COAdams Co": {
     "Jurisdiction": "Adams Co",
@@ -17160,7 +17196,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08001"
   },
   "COCommerce City": {
     "Jurisdiction": "Commerce City",
@@ -17503,7 +17540,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08001"
   },
   "COBoulder": {
     "Jurisdiction": "Boulder",
@@ -18256,7 +18294,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08013"
   },
   "COEagle Co": {
     "Jurisdiction": "Eagle Co",
@@ -18603,7 +18642,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08037"
   },
   "COBasalt": {
     "Jurisdiction": "Basalt",
@@ -19023,7 +19063,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08037"
   },
   "COEagle": {
     "Jurisdiction": "Eagle",
@@ -19098,7 +19139,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08037"
   },
   "COColorado Springs": {
     "Jurisdiction": "Colorado Springs",
@@ -19535,7 +19577,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08041"
   },
   "COJefferson Co": {
     "Jurisdiction": "Jefferson Co",
@@ -19832,7 +19875,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08059"
   },
   "COLarimer Co": {
     "Jurisdiction": "Larimer Co",
@@ -20193,7 +20237,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08069"
   },
   "COLoveland": {
     "Jurisdiction": "Loveland",
@@ -20820,7 +20865,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08069"
   },
   "COFt. Collins": {
     "Jurisdiction": "Ft. Collins",
@@ -21531,7 +21577,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08069"
   },
   "COPitken Co": {
     "Jurisdiction": "Pitken Co",
@@ -22010,7 +22057,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08123"
   },
   "COWindsor": {
     "Jurisdiction": "Windsor",
@@ -22523,7 +22571,8 @@
         },
         "RecordedAt": "s2003"
       }
-    ]
+    ],
+    "fips": "08123"
   },
   "DENew Castle Co": {
     "Jurisdiction": "New Castle Co",
@@ -60950,7 +60999,8 @@
         "Industrial": {},
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "04003"
   },
   "AZEloy": {
     "Jurisdiction": "Eloy",
@@ -61408,7 +61458,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "04021"
   },
   "AZYavapai County": {
     "Jurisdiction": "Yavapai County",
@@ -61551,7 +61602,8 @@
         "Industrial": {},
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "04025"
   },
   "CAFremont": {
     "Jurisdiction": "Fremont",
@@ -61925,7 +61977,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06001"
   },
   "CAHayward": {
     "Jurisdiction": "Hayward",
@@ -62351,7 +62404,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06001"
   },
   "CALivermore": {
     "Jurisdiction": "Livermore",
@@ -62883,7 +62937,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06001"
   },
   "CASan Leandro": {
     "Jurisdiction": "San Leandro",
@@ -63299,7 +63354,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06001"
   },
   "CAOrinda": {
     "Jurisdiction": "Orinda",
@@ -63630,7 +63686,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06013"
   },
   "CAClovis": {
     "Jurisdiction": "Clovis",
@@ -64096,7 +64153,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06019"
   },
   "CABakersfield": {
     "Jurisdiction": "Bakersfield",
@@ -64517,7 +64575,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06029"
   },
   "CALong Beach": {
     "Jurisdiction": "Long Beach",
@@ -64920,7 +64979,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06037"
   },
   "CASalinas": {
     "Jurisdiction": "Salinas",
@@ -65272,7 +65332,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06053"
   },
   "CASt. Helena": {
     "Jurisdiction": "St. Helena",
@@ -65807,7 +65868,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06055"
   },
   "CABrea": {
     "Jurisdiction": "Brea",
@@ -66203,7 +66265,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06059"
   },
   "CARocklin": {
     "Jurisdiction": "Rocklin",
@@ -66584,7 +66647,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06061"
   },
   "CACitrus Heights": {
     "Jurisdiction": "Citrus Heights",
@@ -67015,7 +67079,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06067"
   },
   "CAElk Grove": {
     "Jurisdiction": "Elk Grove",
@@ -67627,7 +67692,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06067"
   },
   "CAHighland": {
     "Jurisdiction": "Highland",
@@ -69642,7 +69708,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06073"
   },
   "CAEscondido": {
     "Jurisdiction": "Escondido",
@@ -70131,7 +70198,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06073"
   },
   "CALodi": {
     "Jurisdiction": "Lodi",
@@ -70709,7 +70777,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06077"
   },
   "CARipon": {
     "Jurisdiction": "Ripon",
@@ -71311,7 +71380,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06077"
   },
   "CAPaso Robles": {
     "Jurisdiction": "Paso Robles",
@@ -71798,7 +71868,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06079"
   },
   "CASan Luis Obispo": {
     "Jurisdiction": "San Luis Obispo",
@@ -72197,7 +72268,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06079"
   },
   "CACarpinteria": {
     "Jurisdiction": "Carpinteria",
@@ -72677,7 +72749,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06083"
   },
   "CASanta Maria": {
     "Jurisdiction": "Santa Maria",
@@ -73250,7 +73323,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06083"
   },
   "CAGilroy": {
     "Jurisdiction": "Gilroy",
@@ -73726,7 +73800,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06085"
   },
   "CAPalo Alto": {
     "Jurisdiction": "Palo Alto",
@@ -74132,7 +74207,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06085"
   },
   "CAScotts Valley": {
     "Jurisdiction": "Scotts Valley",
@@ -74558,7 +74634,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06087"
   },
   "CARedding": {
     "Jurisdiction": "Redding",
@@ -75020,7 +75097,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06089"
   },
   "CAVacaville": {
     "Jurisdiction": "Vacaville",
@@ -75637,7 +75715,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06095"
   },
   "CAWindsor": {
     "Jurisdiction": "Windsor",
@@ -76108,7 +76187,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06097"
   },
   "CASanta Paula": {
     "Jurisdiction": "Santa Paula",
@@ -76305,7 +76385,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "06111"
   },
   "CODurango": {
     "Jurisdiction": "Durango",
@@ -76651,7 +76732,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "08067"
   },
   "COMesa Co": {
     "Jurisdiction": "Mesa Co",
@@ -76940,7 +77022,8 @@
         },
         "RecordedAt": "s2005"
       }
-    ]
+    ],
+    "fips": "08077"
   },
   "FLBrevard Co": {
     "Jurisdiction": "Brevard Co",
@@ -92526,7 +92609,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "05007"
   },
   "AZEager": {
     "Jurisdiction": "Eager",
@@ -92552,7 +92636,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "04001"
   },
   "AZLitchfield Park": {
     "Jurisdiction": "Litchfield Park",
@@ -92572,7 +92657,8 @@
         "Industrial": {},
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZSurprise": {
     "Jurisdiction": "Surprise",
@@ -93118,7 +93204,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "04013"
   },
   "AZYuma": {
     "Jurisdiction": "Yuma",
@@ -93614,7 +93701,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "04027"
   },
   "COPitkin Co": {
     "Jurisdiction": "Pitkin Co",
@@ -93934,7 +94022,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "08097"
   },
   "COGreeley": {
     "Jurisdiction": "Greeley",
@@ -94375,7 +94464,8 @@
         },
         "RecordedAt": "s2006"
       }
-    ]
+    ],
+    "fips": "08123"
   },
   "FLAlachula Co": {
     "Jurisdiction": "Alachula Co",
@@ -101466,7 +101556,8 @@
         },
         "RecordedAt": "s2007"
       }
-    ]
+    ],
+    "fips": "08043"
   },
   "FLAlachua Co": {
     "Jurisdiction": "Alachua Co",

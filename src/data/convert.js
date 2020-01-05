@@ -13,6 +13,7 @@ const s2003 = require("./raw/s2003");
 
 const { cleanData } = require("./cleanData");
 const { nestData } = require("./nestData");
+const { addFipsCodes } = require("./addFipsCodes");
 const { getAverages } = require("./getAverages");
 const { STATES } = require("../constants");
 var fs = require("fs");
@@ -48,7 +49,7 @@ Object.keys(allSets).forEach(name => {
   );
 });
 
-const myNestedData = nestData(cleanedJS);
+const myNestedData = addFipsCodes(nestData(cleanedJS));
 
 fs.writeFile(
   `src/data/cleaned/nestedData.json`,

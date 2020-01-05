@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { scaleQuantize } from "d3-scale";
+import ReactTooltip from "react-tooltip";
 // import { csv } from "d3-fetch";
 
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json";
@@ -20,6 +21,7 @@ const colorScale = scaleQuantize()
   ]);
 
 export const MapChart = () => {
+  const [tooltipContent, setTooltipContent] = useState("");
   const [data, setData] = useState([]);
 
   //   useEffect(() => {
@@ -31,7 +33,8 @@ export const MapChart = () => {
 
   return (
     <>
-      <ComposableMap projection="geoAlbersUsa" height={600}>
+      <ReactTooltip>{tooltipContent}</ReactTooltip>
+      <ComposableMap projection="geoAlbersUsa" data-tip="" height={600}>
         <Geographies geography={geoUrl}>
           {({ geographies }) =>
             geographies.map(geo => {
@@ -40,6 +43,28 @@ export const MapChart = () => {
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}
+                  onMouseEnter={arg => {
+                    // const { name } = geo.properties;
+                    // debugger;
+                    setTooltipContent(geo.properties.name);
+                  }}
+                  onMouseLeave={() => {
+                    setTooltipContent("");
+                  }}
+                  style={{
+                    default: {
+                      fill: "#D6D6DA",
+                      outline: "none"
+                    },
+                    hover: {
+                      fill: "#F53",
+                      outline: "none"
+                    },
+                    pressed: {
+                      fill: "#E42",
+                      outline: "none"
+                    }
+                  }}
                   fill={colorScale(cur ? cur.unemployment_rate : "#EEE")}
                 />
               );
