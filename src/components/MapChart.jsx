@@ -8,20 +8,10 @@ import usedFipsCodes from "../data/cleaned/usedFipsCodes.json";
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json";
 
 const colorScale = scaleQuantize()
-  .domain([1, 10])
-  .range([
-    "#ffedea",
-    "#ffcec5",
-    "#ffad9f",
-    "#ff8a75",
-    "#ff5533",
-    "#e2492d",
-    "#be3d26",
-    "#9a311f",
-    "#782618"
-  ]);
+  .domain([1, 3])
+  .range(["#d98e79", "#d4826c", "#d6866f", "#db6d4f"]);
 
-export const MapChart = () => {
+export const MapChart = ({ stateShortName, stateFips }) => {
   const [tooltipContent, setTooltipContent] = useState("");
 
   return (
@@ -31,20 +21,27 @@ export const MapChart = () => {
         <Geographies geography={geoUrl}>
           {({ geographies }) =>
             geographies.map(geo => {
+              const stateCode = String(geo.id).slice(0, 2);
+              // console.log(stateCode);
+              if (stateFips !== stateCode) return;
               const cur = usedFipsCodes[geo.id];
+              let len = 0;
+              if (cur && cur.jurisdictions[0].State === stateShortName) {
+                len = cur.jurisdictions.length;
+              }
               return (
                 <Geography
                   key={geo.rsmKey}
                   geography={geo}
                   onMouseEnter={arg => {
-                    setTooltipContent(geo.properties.name);
+                    setTooltipContent(geo.properties.name + " " + len);
                   }}
                   onMouseLeave={() => {
                     setTooltipContent("");
                   }}
                   style={{
                     default: {
-                      fill: colorScale(cur ? cur.jurisdictions.length : "#EEE"),
+                      fill: len ? colorScale(len) : "#EEE",
                       outline: "none"
                     },
                     hover: {
