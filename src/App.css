@@ -22,8 +22,7 @@ body {
   border-color: #d4615a;
 }
 
-.btn-outline-primary:not(:disabled):not(.disabled).active,
-.btn-outline-secondary:not(:disabled):not(.disabled):active {
+.btn-outline-primary:not(:disabled):not(.disabled):active {
   background: #ca5865 !important;
   border-color: #ca5865 !important;
 }

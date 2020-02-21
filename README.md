@@ -15,7 +15,7 @@ or with docker
 ```bash
 docker build . -t reactIF
 docker create -ti --name tempBuildIF reactIF
-docker cp tempBuildIF:/usr/src/app/build build
+docker cp tempBuildIF:/usr/src/app/build .
 docker rm -f tempBuildIF
 open build/index.html
 ```

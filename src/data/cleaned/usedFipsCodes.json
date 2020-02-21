@@ -1,0 +1,2290 @@
+{
+  "113": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Pasco Co",
+        "County": "Pasco",
+        "State": "FL"
+      }
+    ]
+  },
+  "115": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Pinellas Co",
+        "County": "Pinellas",
+        "State": "FL"
+      }
+    ]
+  },
+  "116": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Effingham Co",
+        "County": "Effingham",
+        "State": "GA"
+      }
+    ]
+  },
+  "117": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Polk Co",
+        "County": "Polk",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Lakeland",
+        "County": "Polk",
+        "State": "FL"
+      }
+    ]
+  },
+  "119": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Putnam Co",
+        "County": "Putnam",
+        "State": "FL"
+      }
+    ]
+  },
+  "121": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "St. Johns Co",
+        "County": "St Johns",
+        "State": "FL"
+      }
+    ]
+  },
+  "123": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "St. Lucie Co",
+        "County": "St Lucie",
+        "State": "FL"
+      }
+    ]
+  },
+  "125": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "St Tammany Parish",
+        "County": "St Tammany",
+        "State": "LA"
+      },
+      {
+        "Jurisdiction": "Santa Rosa Co",
+        "County": "Santa Rosa",
+        "State": "FL"
+      }
+    ]
+  },
+  "127": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Sarasota Co",
+        "County": "Sarasota",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "North Port",
+        "County": "Sarasota",
+        "State": "FL"
+      }
+    ]
+  },
+  "129": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Seminole Co",
+        "County": "Seminole",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Altamonte Springs",
+        "County": "Seminole",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Winter Springs",
+        "County": "Seminole",
+        "State": "FL"
+      }
+    ]
+  },
+  "130": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Forsyth Co",
+        "County": "Forsyth",
+        "State": "GA"
+      }
+    ]
+  },
+  "131": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Sumter Co",
+        "County": "Sumter",
+        "State": "FL"
+      }
+    ]
+  },
+  "134": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Atlanta",
+        "County": "Fulton",
+        "State": "GA"
+      },
+      {
+        "Jurisdiction": "Alpharetta",
+        "County": "Fulton",
+        "State": "GA"
+      }
+    ]
+  },
+  "139": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Volusia Co",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Daytona Beach",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Deland",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Deltona",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Edgewater",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Ormond Beach",
+        "County": "Volusia",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Port Orange",
+        "County": "Volusia",
+        "State": "FL"
+      }
+    ]
+  },
+  "140": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lincoln",
+        "County": "Lancaster",
+        "State": "NE"
+      }
+    ]
+  },
+  "152": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hall Co",
+        "County": "Hall",
+        "State": "GA"
+      }
+    ]
+  },
+  "158": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Leesburg",
+        "County": "Louden",
+        "State": "VA"
+      }
+    ]
+  },
+  "164": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hudson",
+        "County": "St Croix",
+        "State": "WI"
+      },
+      {
+        "Jurisdiction": "Henry Co",
+        "County": "Henry",
+        "State": "GA"
+      },
+      {
+        "Jurisdiction": "McDonough",
+        "County": "Henry",
+        "State": "GA"
+      }
+    ]
+  },
+  "166": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Franklin",
+        "County": "Maury",
+        "State": "TN"
+      }
+    ]
+  },
+  "169": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Denton",
+        "County": "Denton",
+        "State": "TX"
+      }
+    ]
+  },
+  "172": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Orange Co.",
+        "County": "Orange",
+        "State": "NC"
+      }
+    ]
+  },
+  "196": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "LaVergne",
+        "County": "Rutherford",
+        "State": "TN"
+      },
+      {
+        "Jurisdiction": "Smyrna",
+        "County": "Rutherford",
+        "State": "TN"
+      },
+      {
+        "Jurisdiction": "La Vergne",
+        "County": "Rutherford",
+        "State": "TN"
+      }
+    ]
+  },
+  "204": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hamilton Township",
+        "County": "Warren",
+        "State": "OH"
+      }
+    ]
+  },
+  "212": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "White House",
+        "County": "Sumner",
+        "State": "TN"
+      },
+      {
+        "Jurisdiction": "Portland",
+        "County": "Sumner",
+        "State": "TN"
+      }
+    ]
+  },
+  "220": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Cary",
+        "County": "Wake",
+        "State": "NC"
+      },
+      {
+        "Jurisdiction": "Raleigh",
+        "County": "Wake",
+        "State": "NC"
+      }
+    ]
+  },
+  "230": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Stafford Co",
+        "County": "Stafford",
+        "State": "VA"
+      }
+    ]
+  },
+  "234": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Nolensville",
+        "County": "Williamson",
+        "State": "TN"
+      }
+    ]
+  },
+  "236": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Wilson Co",
+        "County": "Wilson",
+        "State": "TN"
+      }
+    ]
+  },
+  "487": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Arlington",
+        "County": "Tarrant",
+        "State": "TX"
+      },
+      {
+        "Jurisdiction": "Colleyville",
+        "County": "Tarrant",
+        "State": "TX"
+      },
+      {
+        "Jurisdiction": "Ft. Worth",
+        "County": "Tarrant",
+        "State": "TX"
+      },
+      {
+        "Jurisdiction": "Watauga",
+        "County": "Tarrant",
+        "State": "TX"
+      }
+    ]
+  },
+  "539": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Georgetown",
+        "County": "Williamson",
+        "State": "TX"
+      }
+    ]
+  },
+  "10003": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "New Castle Co",
+        "County": "New Castle",
+        "State": "DE"
+      }
+    ]
+  },
+  "12001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Alachula Co",
+        "County": "Alachua",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Alachua Co",
+        "County": "Alachua",
+        "State": "FL"
+      }
+    ]
+  },
+  "12007": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bradford Co",
+        "County": "Bradford",
+        "State": "FL"
+      }
+    ]
+  },
+  "12009": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Brevard Co",
+        "County": "Brevard",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Cocoa",
+        "County": "Brevard",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Palm Bay",
+        "County": "Brevard",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Rockledge",
+        "County": "Brevard",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Melbourne",
+        "County": "Brevard",
+        "State": "FL"
+      }
+    ]
+  },
+  "12011": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Broward Co",
+        "County": "Broward",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Ft. Lauderdale",
+        "County": "Broward",
+        "State": "FL"
+      }
+    ]
+  },
+  "12015": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Charlotte Co",
+        "County": "Charlotte",
+        "State": "FL"
+      }
+    ]
+  },
+  "12017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Citrus Co",
+        "County": "Citrus",
+        "State": "FL"
+      }
+    ]
+  },
+  "12019": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Clay Co",
+        "County": "Clay",
+        "State": "FL"
+      }
+    ]
+  },
+  "12021": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Collier Co",
+        "County": "Collier",
+        "State": "FL"
+      }
+    ]
+  },
+  "12023": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Columbia Co",
+        "County": "Columbia",
+        "State": "FL"
+      }
+    ]
+  },
+  "12027": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "DeSoto Co",
+        "County": "DeSoto",
+        "State": "FL"
+      }
+    ]
+  },
+  "12035": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Flagler Co",
+        "County": "Flagler",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Palm Coast",
+        "County": "Flagler",
+        "State": "FL"
+      }
+    ]
+  },
+  "12041": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Gilchrist Co",
+        "County": "Gilchrist",
+        "State": "FL"
+      }
+    ]
+  },
+  "12043": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Glades Co",
+        "County": "Glades",
+        "State": "FL"
+      }
+    ]
+  },
+  "12049": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hardee Co",
+        "County": "Hardee",
+        "State": "FL"
+      }
+    ]
+  },
+  "12051": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hendry Co",
+        "County": "Hendry",
+        "State": "FL"
+      }
+    ]
+  },
+  "12053": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hernando Co",
+        "County": "Hernando",
+        "State": "FL"
+      }
+    ]
+  },
+  "12055": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Highlands Co",
+        "County": "Highlands",
+        "State": "FL"
+      }
+    ]
+  },
+  "12057": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Hillsborough Co",
+        "County": "Hillsborough",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Tampa",
+        "County": "Hillsborough",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Plant City",
+        "County": "Hillsborough",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Hillsborough Co.",
+        "County": "Hillsborough",
+        "State": "FL"
+      }
+    ]
+  },
+  "12061": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Indian River Co",
+        "County": "Indian River",
+        "State": "FL"
+      }
+    ]
+  },
+  "12069": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lake Co",
+        "County": "Lake",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Eustis",
+        "County": "Lake",
+        "State": "FL"
+      }
+    ]
+  },
+  "12071": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lee Co",
+        "County": "Lee",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Cape Coral",
+        "County": "Lee",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Ft. Myers",
+        "County": "Lee",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Bonita Springs",
+        "County": "Lee",
+        "State": "FL"
+      }
+    ]
+  },
+  "12075": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Levy Co",
+        "County": "Levy",
+        "State": "FL"
+      }
+    ]
+  },
+  "12081": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Manatee Co",
+        "County": "Manatee",
+        "State": "FL"
+      }
+    ]
+  },
+  "12083": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Marion Co",
+        "County": "Marion",
+        "State": "FL"
+      }
+    ]
+  },
+  "12085": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Martin Co",
+        "County": "Martin",
+        "State": "FL"
+      }
+    ]
+  },
+  "12086": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Miami/Dade Co",
+        "County": "Dade",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Miami",
+        "County": "Dade",
+        "State": "FL"
+      }
+    ]
+  },
+  "12087": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Monroe Co",
+        "County": "Monroe",
+        "State": "FL"
+      }
+    ]
+  },
+  "12089": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Nassau Co",
+        "County": "Nassau",
+        "State": "FL"
+      }
+    ]
+  },
+  "12091": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Destin",
+        "County": "Okaloosa",
+        "State": "FL"
+      }
+    ]
+  },
+  "12095": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Orange Co.",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Ocoee",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Orlando",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Winter Garden",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Apopka",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Maitland",
+        "County": "Orange",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Oakland",
+        "County": "Orange",
+        "State": "FL"
+      }
+    ]
+  },
+  "12097": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Osceola Co",
+        "County": "Osceola",
+        "State": "FL"
+      }
+    ]
+  },
+  "12099": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Palm Beach Co",
+        "County": "Palm Beach",
+        "State": "FL"
+      },
+      {
+        "Jurisdiction": "Palm Beach Gardens",
+        "County": "Palm Beach",
+        "State": "FL"
+      }
+    ]
+  },
+  "13057": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Canton",
+        "County": "Cherokee",
+        "State": "GA"
+      },
+      {
+        "Jurisdiction": "Cherokee Co",
+        "County": "Cherokee",
+        "State": "GA"
+      }
+    ]
+  },
+  "13067": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Roswell",
+        "County": "Cobb",
+        "State": "GA"
+      }
+    ]
+  },
+  "15003": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Honolulu",
+        "County": "Honolulu",
+        "State": "HI"
+      }
+    ]
+  },
+  "16001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Boise",
+        "County": "Ada",
+        "State": "ID"
+      }
+    ]
+  },
+  "16055": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Post Falls",
+        "County": "Kootenai",
+        "State": "ID"
+      }
+    ]
+  },
+  "17037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "DeKalb (city)",
+        "County": "DeKalb",
+        "State": "IL"
+      },
+      {
+        "Jurisdiction": "Sandwich",
+        "County": "DeKalb",
+        "State": "IL"
+      }
+    ]
+  },
+  "17043": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "DuPage County",
+        "County": "DuPage",
+        "State": "IL"
+      },
+      {
+        "Jurisdiction": "Aurora",
+        "County": "DuPage/Kane",
+        "State": "IL"
+      }
+    ]
+  },
+  "17089": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Kane Co",
+        "County": "Kane",
+        "State": "IL"
+      },
+      {
+        "Jurisdiction": "Kane County",
+        "County": "Kane",
+        "State": "IL"
+      }
+    ]
+  },
+  "18057": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Fishers",
+        "County": "Hamilton",
+        "State": "IN"
+      },
+      {
+        "Jurisdiction": "Noblesville",
+        "County": "Hamilton",
+        "State": "IN"
+      }
+    ]
+  },
+  "20091": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lenexa",
+        "County": "Johnson",
+        "State": "KS"
+      },
+      {
+        "Jurisdiction": "Overland Park",
+        "County": "Johnson",
+        "State": "KS"
+      },
+      {
+        "Jurisdiction": "Olathe",
+        "County": "Johnson",
+        "State": "KS"
+      }
+    ]
+  },
+  "22033": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Baton Rouge",
+        "County": "E Baton Rouge",
+        "State": "LA"
+      }
+    ]
+  },
+  "24003": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Ann Arundel Co",
+        "County": "Ann Arundel",
+        "State": "MD"
+      },
+      {
+        "Jurisdiction": "Anne Arundel Co",
+        "County": "Anne Arundel",
+        "State": "MD"
+      }
+    ]
+  },
+  "24009": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Calvert Co",
+        "County": "Calvert",
+        "State": "MD"
+      }
+    ]
+  },
+  "24013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Carroll Co",
+        "County": "Carroll",
+        "State": "MD"
+      }
+    ]
+  },
+  "24017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Charles Co",
+        "County": "Charles",
+        "State": "MD"
+      }
+    ]
+  },
+  "24019": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Cambridge",
+        "County": "Dorchester",
+        "State": "MD"
+      }
+    ]
+  },
+  "24021": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Frederick Co",
+        "County": "Frederick",
+        "State": "MD"
+      }
+    ]
+  },
+  "24025": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Harford Co",
+        "County": "Harford",
+        "State": "MD"
+      }
+    ]
+  },
+  "24027": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Howard Co",
+        "County": "Howard",
+        "State": "MD"
+      }
+    ]
+  },
+  "24031": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Montgomery Co",
+        "County": "Montgomery",
+        "State": "MD"
+      }
+    ]
+  },
+  "24033": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Prince George's Co",
+        "County": "Prince George's",
+        "State": "MD"
+      }
+    ]
+  },
+  "24035": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Queen Anne's Co",
+        "County": "Queen Anne's",
+        "State": "MD"
+      }
+    ]
+  },
+  "24037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "St. Mary's Co",
+        "County": "St. Mary's",
+        "State": "MD"
+      }
+    ]
+  },
+  "28089": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Madison",
+        "County": "Madison",
+        "State": "MS"
+      }
+    ]
+  },
+  "29095": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lee's Summit",
+        "County": "Jackson",
+        "State": "MO"
+      }
+    ]
+  },
+  "30031": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bozeman",
+        "County": "Gallatin",
+        "State": "MT"
+      }
+    ]
+  },
+  "32001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Churchill County",
+        "County": "Churchill",
+        "State": "NV"
+      }
+    ]
+  },
+  "32003": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Las Vegas",
+        "County": "Clark",
+        "State": "NV"
+      },
+      {
+        "Jurisdiction": "Mesquite",
+        "County": "Clark",
+        "State": "NV"
+      }
+    ]
+  },
+  "32031": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Reno",
+        "County": "Washoe",
+        "State": "NV"
+      }
+    ]
+  },
+  "33011": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Manchester",
+        "County": "Hillsborough",
+        "State": "NH"
+      }
+    ]
+  },
+  "33013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Concord",
+        "County": "Merrimack",
+        "State": "NH"
+      }
+    ]
+  },
+  "33015": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Fremont",
+        "County": "Rockingham",
+        "State": "NH"
+      },
+      {
+        "Jurisdiction": "Salem",
+        "County": "Rockingham",
+        "State": "NH"
+      }
+    ]
+  },
+  "35001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bernalillo Co",
+        "County": "Bernalillo",
+        "State": "NM"
+      },
+      {
+        "Jurisdiction": "Albuquerque",
+        "County": "Bernalillo",
+        "State": "NM"
+      }
+    ]
+  },
+  "35013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Las Cruces",
+        "County": "Dona Ana",
+        "State": "NM"
+      }
+    ]
+  },
+  "35027": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Ruidoso",
+        "County": "Lincoln",
+        "State": "NM"
+      }
+    ]
+  },
+  "35043": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Rio Rancho",
+        "County": "Sandoval",
+        "State": "NM"
+      }
+    ]
+  },
+  "35049": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Santa Fe",
+        "County": "Santa Fe",
+        "State": "NM"
+      },
+      {
+        "Jurisdiction": "Santa Fe County",
+        "County": "Santa Fe",
+        "State": "NM"
+      }
+    ]
+  },
+  "35061": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Los Lunas",
+        "County": "Valencia",
+        "State": "NM"
+      }
+    ]
+  },
+  "37037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Chatham Co.",
+        "County": "Chatham",
+        "State": "NC"
+      }
+    ]
+  },
+  "37063": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Durham",
+        "County": "Durham",
+        "State": "NC"
+      }
+    ]
+  },
+  "39017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Middletown",
+        "County": "Butler",
+        "State": "OH"
+      }
+    ]
+  },
+  "39041": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Delaware (city)",
+        "County": "Delaware",
+        "State": "OH"
+      }
+    ]
+  },
+  "40027": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Moore",
+        "County": "Cleveland",
+        "State": "OK"
+      }
+    ]
+  },
+  "41005": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "West Linn",
+        "County": "Clackamas",
+        "State": "OR"
+      },
+      {
+        "Jurisdiction": "Clackamas Co.",
+        "County": "Clackamas",
+        "State": "OR"
+      }
+    ]
+  },
+  "41017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bend",
+        "County": "Deschutes",
+        "State": "OR"
+      }
+    ]
+  },
+  "41033": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Grants Pass",
+        "County": "Josephine",
+        "State": "OR"
+      }
+    ]
+  },
+  "41039": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Eugene",
+        "County": "Lane",
+        "State": "OR"
+      },
+      {
+        "Jurisdiction": "Springfield",
+        "County": "Lane",
+        "State": "OR"
+      }
+    ]
+  },
+  "41047": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Salem",
+        "County": "Marion",
+        "State": "OR"
+      },
+      {
+        "Jurisdiction": "Silverton",
+        "County": "Marion",
+        "State": "OR"
+      }
+    ]
+  },
+  "41051": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Portland",
+        "County": "Multnomah",
+        "State": "OR"
+      }
+    ]
+  },
+  "41067": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Washington Co",
+        "County": "Washington",
+        "State": "OR"
+      },
+      {
+        "Jurisdiction": "Hillsboro",
+        "County": "Washington",
+        "State": "OR"
+      },
+      {
+        "Jurisdiction": "Tigard",
+        "County": "Washington",
+        "State": "OR"
+      }
+    ]
+  },
+  "42091": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Towamencin Twp",
+        "County": "Montgomery",
+        "State": "PA"
+      }
+    ]
+  },
+  "45013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Beaufort Co",
+        "County": "Beaufort",
+        "State": "SC"
+      },
+      {
+        "Jurisdiction": "Hilton Head",
+        "County": "Beaufort",
+        "State": "SC"
+      }
+    ]
+  },
+  "45015": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Mt. Pleasant",
+        "County": "Berkeley",
+        "State": "SC"
+      }
+    ]
+  },
+  "48041": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "College Station",
+        "County": "Brazos",
+        "State": "TX"
+      }
+    ]
+  },
+  "48085": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "McKinney",
+        "County": "Collin",
+        "State": "TX"
+      },
+      {
+        "Jurisdiction": "Allen",
+        "County": "Collin",
+        "State": "TX"
+      }
+    ]
+  },
+  "49000": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Provo",
+        "County": "Utah",
+        "State": "UT"
+      },
+      {
+        "Jurisdiction": "Payson",
+        "County": "Utah",
+        "State": "UT"
+      }
+    ]
+  },
+  "49005": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Logan",
+        "County": "Cache",
+        "State": "UT"
+      }
+    ]
+  },
+  "49011": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Layton",
+        "County": "Davis",
+        "State": "UT"
+      }
+    ]
+  },
+  "49035": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Sandy City",
+        "County": "Salt Lake",
+        "State": "UT"
+      },
+      {
+        "Jurisdiction": "West Valley City",
+        "County": "Salt Lake",
+        "State": "UT"
+      },
+      {
+        "Jurisdiction": "Draper",
+        "County": "Salt Lake",
+        "State": "UT"
+      },
+      {
+        "Jurisdiction": "West Jordan City",
+        "County": "Salt Lake",
+        "State": "UT"
+      },
+      {
+        "Jurisdiction": "Salt Lake City",
+        "County": "Salt Lake",
+        "State": "UT"
+      }
+    ]
+  },
+  "49045": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Tooele",
+        "County": "Tooele",
+        "State": "UT"
+      }
+    ]
+  },
+  "50007": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Burlington",
+        "County": "Chittenden",
+        "State": "VT"
+      },
+      {
+        "Jurisdiction": "Williston",
+        "County": "Chittendon",
+        "State": "VT"
+      }
+    ]
+  },
+  "51087": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Richmond",
+        "County": "Henrico",
+        "State": "VA"
+      }
+    ]
+  },
+  "53011": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Vancouver",
+        "County": "Clark",
+        "State": "WA"
+      }
+    ]
+  },
+  "53015": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Woodland",
+        "County": "Cowlitz",
+        "State": "WA"
+      }
+    ]
+  },
+  "53033": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "King Co",
+        "County": "King",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Bothell",
+        "County": "King",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Kirkland",
+        "County": "King",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Bellevue",
+        "County": "King",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Issaquqh",
+        "County": "King",
+        "State": "WA"
+      }
+    ]
+  },
+  "53035": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Kitsap Co",
+        "County": "Kitsap",
+        "State": "WA"
+      }
+    ]
+  },
+  "53053": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Pierce Co",
+        "County": "Pierce",
+        "State": "WA"
+      }
+    ]
+  },
+  "53057": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Burlington",
+        "County": "Skagit",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Anacortes",
+        "County": "Skagit",
+        "State": "WA"
+      }
+    ]
+  },
+  "53061": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Snohomish Co",
+        "County": "Snohomish",
+        "State": "WA"
+      }
+    ]
+  },
+  "53067": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Tumwater",
+        "County": "Thurston",
+        "State": "WA"
+      },
+      {
+        "Jurisdiction": "Olympia",
+        "County": "Thurston",
+        "State": "WA"
+      }
+    ]
+  },
+  "53073": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bellingham",
+        "County": "Whatcom",
+        "State": "WA"
+      }
+    ]
+  },
+  "54037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Jefferson Co",
+        "County": "Jefferson",
+        "State": "WV"
+      }
+    ]
+  },
+  "55025": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Fitchburg",
+        "County": "Dane",
+        "State": "WI"
+      }
+    ]
+  },
+  "55055": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Oconomowoc",
+        "County": "Jefferson",
+        "State": "WI"
+      }
+    ]
+  },
+  "55089": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Cedarburg",
+        "County": "Ozaukee",
+        "State": "WI"
+      }
+    ]
+  },
+  "05007": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bentonville",
+        "County": "Benton",
+        "State": "AR"
+      },
+      {
+        "Jurisdiction": "Lowell",
+        "County": "Benton",
+        "State": "AR"
+      }
+    ]
+  },
+  "05045": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Conway",
+        "County": "Faulkner",
+        "State": "AR"
+      }
+    ]
+  },
+  "05143": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Fayetteville",
+        "County": "Washington",
+        "State": "AR"
+      }
+    ]
+  },
+  "04007": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Payson",
+        "County": "Gila",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Sedona",
+        "County": "Gila",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Avondale",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Buckeye",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Chandler",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Fountain Hills",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Gilbert",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Glendale",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Goodyear",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Mesa",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Peoria",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Phoenix",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Suprise",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Tempe",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Litchfield Park",
+        "County": "Maricopa",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Surprise",
+        "County": "Maricopa",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04000": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Scottsdale",
+        "County": "Mariciopa",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04015": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bullhead City",
+        "County": "Mohave",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Show Low",
+        "County": "Navajo",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04019": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Pima County",
+        "County": "Pima",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Marana",
+        "County": "Pima",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Oro Valley",
+        "County": "Pima",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Tucson",
+        "County": "Pima",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04021": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Apache Junction",
+        "County": "Pinal",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Casa Grande",
+        "County": "Pinal",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Florence",
+        "County": "Pinal",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Queen Creek",
+        "County": "Pinal",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Eloy",
+        "County": "Pinal",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04025": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Chino Valley",
+        "County": "Yavapai",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Prescott",
+        "County": "Yavapai",
+        "State": "AZ"
+      },
+      {
+        "Jurisdiction": "Yavapai County",
+        "County": "Yavapai",
+        "State": "AZ"
+      }
+    ]
+  },
+  "06113": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Davis",
+        "County": "Yolo",
+        "State": "CA"
+      }
+    ]
+  },
+  "06017": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "El Dorado Co",
+        "County": "El Dorado",
+        "State": "CA"
+      }
+    ]
+  },
+  "06037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lancaster",
+        "County": "Los Angeles",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Long Beach",
+        "County": "Los Angeles",
+        "State": "CA"
+      }
+    ]
+  },
+  "06067": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Sacramento",
+        "County": "Sacramento",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Citrus Heights",
+        "County": "Sacramento",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Elk Grove",
+        "County": "Sacramento",
+        "State": "CA"
+      }
+    ]
+  },
+  "06073": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "San Diego",
+        "County": "San Diego",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Carlsbad",
+        "County": "San Diego",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Escondido",
+        "County": "San Diego",
+        "State": "CA"
+      }
+    ]
+  },
+  "06075": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "San Francisco",
+        "County": "San Francisco",
+        "State": "CA"
+      }
+    ]
+  },
+  "06087": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Santa Cruz Co",
+        "County": "Santa Cruz",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Scotts Valley",
+        "County": "Santa Cruz",
+        "State": "CA"
+      }
+    ]
+  },
+  "08001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Adams Co",
+        "County": "Adams",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Commerce City",
+        "County": "Adams",
+        "State": "CO"
+      }
+    ]
+  },
+  "08013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Boulder",
+        "County": "Boulder",
+        "State": "CO"
+      }
+    ]
+  },
+  "08037": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Eagle Co",
+        "County": "Eagle",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Basalt",
+        "County": "Eagle",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Eagle",
+        "County": "Eagle",
+        "State": "CO"
+      }
+    ]
+  },
+  "08041": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Colorado Springs",
+        "County": "El Paso",
+        "State": "CO"
+      }
+    ]
+  },
+  "08059": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Jefferson Co",
+        "County": "Jefferson",
+        "State": "CO"
+      }
+    ]
+  },
+  "08069": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Larimer Co",
+        "County": "Larimer",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Loveland",
+        "County": "Larimer",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Ft. Collins",
+        "County": "Larimer",
+        "State": "CO"
+      }
+    ]
+  },
+  "08097": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Pitken Co",
+        "County": "Pitken",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Pitkin Co",
+        "County": "Pitkin",
+        "State": "CO"
+      }
+    ]
+  },
+  "08123": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Weld Co",
+        "County": "Weld",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Windsor",
+        "County": "Weld",
+        "State": "CO"
+      },
+      {
+        "Jurisdiction": "Greeley",
+        "County": "Weld",
+        "State": "CO"
+      }
+    ]
+  },
+  "04003": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Sierra Vista",
+        "County": "Cochise",
+        "State": "AZ"
+      }
+    ]
+  },
+  "06001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Fremont",
+        "County": "Alameda",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Hayward",
+        "County": "Alameda",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Livermore",
+        "County": "Alameda",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "San Leandro",
+        "County": "Alameda",
+        "State": "CA"
+      }
+    ]
+  },
+  "06013": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Orinda",
+        "County": "Contra Costa",
+        "State": "CA"
+      }
+    ]
+  },
+  "06019": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Clovis",
+        "County": "Fresno",
+        "State": "CA"
+      }
+    ]
+  },
+  "06029": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Bakersfield",
+        "County": "Kern",
+        "State": "CA"
+      }
+    ]
+  },
+  "06053": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Salinas",
+        "County": "Monterey",
+        "State": "CA"
+      }
+    ]
+  },
+  "06055": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "St. Helena",
+        "County": "Napa",
+        "State": "CA"
+      }
+    ]
+  },
+  "06059": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Brea",
+        "County": "Orange",
+        "State": "CA"
+      }
+    ]
+  },
+  "06061": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Rocklin",
+        "County": "Placer",
+        "State": "CA"
+      }
+    ]
+  },
+  "06071": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Highland",
+        "County": "San Bernadino",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Redlands",
+        "County": "San Bernadino",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Rialto",
+        "County": "San Bernadino",
+        "State": "CA"
+      }
+    ]
+  },
+  "06077": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Lodi",
+        "County": "San Joaquin",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Ripon",
+        "County": "San Joaquin",
+        "State": "CA"
+      }
+    ]
+  },
+  "06079": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Paso Robles",
+        "County": "San Luis Obispo",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "San Luis Obispo",
+        "County": "San Luis Obispo",
+        "State": "CA"
+      }
+    ]
+  },
+  "06083": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Carpinteria",
+        "County": "Santa Barbara",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Santa Maria",
+        "County": "Santa Barbara",
+        "State": "CA"
+      }
+    ]
+  },
+  "06085": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Gilroy",
+        "County": "Santa Clara",
+        "State": "CA"
+      },
+      {
+        "Jurisdiction": "Palo Alto",
+        "County": "Santa Clara",
+        "State": "CA"
+      }
+    ]
+  },
+  "06089": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Redding",
+        "County": "Shasta",
+        "State": "CA"
+      }
+    ]
+  },
+  "06095": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Vacaville",
+        "County": "Solano",
+        "State": "CA"
+      }
+    ]
+  },
+  "06097": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Windsor",
+        "County": "Sonoma",
+        "State": "CA"
+      }
+    ]
+  },
+  "06111": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Santa Paula",
+        "County": "Ventura",
+        "State": "CA"
+      }
+    ]
+  },
+  "08067": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Durango",
+        "County": "La Plata",
+        "State": "CO"
+      }
+    ]
+  },
+  "08077": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Mesa Co",
+        "County": "Mesa",
+        "State": "CO"
+      }
+    ]
+  },
+  "04001": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Eager",
+        "County": "Apache",
+        "State": "AZ"
+      }
+    ]
+  },
+  "04027": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Yuma",
+        "County": "Yuma",
+        "State": "AZ"
+      }
+    ]
+  },
+  "08043": {
+    "jurisdictions": [
+      {
+        "Jurisdiction": "Canon City",
+        "County": "Fremont",
+        "State": "CO"
+      }
+    ]
+  }
+}

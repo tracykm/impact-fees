@@ -49,18 +49,25 @@ Object.keys(allSets).forEach(name => {
   );
 });
 
-const myNestedData = addFipsCodes(nestData(cleanedJS));
+const { usedCodes, nestedData } = addFipsCodes(nestData(cleanedJS));
+
+fs.writeFile(
+  `src/data/cleaned/usedFipsCodes.json`,
+  JSON.stringify(usedCodes, null, 2),
+  "utf8",
+  () => {}
+);
 
 fs.writeFile(
   `src/data/cleaned/nestedData.json`,
-  JSON.stringify(myNestedData, null, 2),
+  JSON.stringify(nestedData, null, 2),
   "utf8",
   () => {}
 );
 
 fs.writeFile(
   `src/data/cleaned/nationalAverages.json`,
-  JSON.stringify(getAverages(d => true, myNestedData).DataEntries, null, 2),
+  JSON.stringify(getAverages(d => true, nestedData).DataEntries, null, 2),
   "utf8",
   () => {}
 );
@@ -69,7 +76,7 @@ const allStates = {};
 STATES.forEach(({ short_name }) => {
   allStates[short_name] = getAverages(
     d => d.State === short_name,
-    myNestedData
+    nestedData
   ).DataEntries;
 });
 

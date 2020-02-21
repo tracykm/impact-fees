@@ -1,6 +1,6 @@
 import React from "react";
 import { Table } from "./Table";
-import { MapChart } from "./MapChart";
+import MapStates from "./MapStates";
 import { AllDetailColumns } from "./columns";
 import { DateCell } from "./Cell";
 import { Link } from "react-router-dom";
@@ -102,7 +102,7 @@ export function OverallTable() {
         <Link className="btn btn-lg btn-outline-primary m-2" to="/about">
           About this Survey
         </Link>
-        <MapChart />
+        <MapStates />
       </div>
       <div className="spacer"></div>
       <Table columns={columns} data={data} hasPagination />

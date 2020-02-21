@@ -10,6 +10,7 @@ import { formatMoney } from "./Cell";
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 import { TypesOfPlaces, UtilityDict, PropertyDict } from "../types";
+import MapStates from "./MapStates";
 
 const Wrapper = styled.div`
   td:nth-child(1),
@@ -131,10 +132,7 @@ export const AllStateAveragesPage = () => {
         </div>
         <BarChart width={1200} height={250} data={myData}>
           <XAxis dataKey="State" tickFormatter={getShortStateName} />
-          <YAxis
-            tickFormatter={formatMoney}
-            // domain={[0, d => 40000]}
-          />
+          <YAxis tickFormatter={formatMoney} />
           <Tooltip
             formatter={(val, name) => [
               formatMoney(val),
@@ -170,10 +168,17 @@ export const AllStateAveragesPage = () => {
       <div>
         Sample size too small:{" "}
         {leftOffStates.map(s => (
-          <Link className="p-2" to={`/state/${s.StateShortName}`}>
+          <Link
+            key={s.StateShortName}
+            className="p-2"
+            to={`/state/${s.StateShortName}`}
+          >
             {s.State} ({s.SampleSize || 0}){" "}
           </Link>
         ))}
+      </div>
+      <div style={{ maxWidth: 600, margin: "auto" }}>
+        <MapStates />
       </div>
     </>
   );
