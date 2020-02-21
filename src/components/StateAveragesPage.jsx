@@ -1,4 +1,5 @@
 import React from "react";
+import { MapChart } from "./MapChart";
 import { DetailPage } from "./DetailPage";
 import { useParams, Link } from "react-router-dom";
 import stateAverages from "../data/cleaned/stateAverages.json";
@@ -36,13 +37,15 @@ export const StateAveragesPage = () => {
     }, {})
   );
 
+  const fullState = STATES.find(s => s.short_name === state);
+
   return (
     <>
       <DetailPage
         data={myData}
         headerText={
           <div className="text-left">
-            <h1>{STATES.find(s => s.short_name === state).name}</h1>
+            <h1>{fullState.name}</h1>
             <div style={{ opacity: 0.5, marginTop: "-.5em" }}>
               Sample size: {min === max ? min : `${min}-${max}`}
             </div>
@@ -55,6 +58,7 @@ export const StateAveragesPage = () => {
           {j}{" "}
         </Link>
       ))}
+      <MapChart stateShortName={state} stateFips={fullState.fips} />
     </>
   );
 };
