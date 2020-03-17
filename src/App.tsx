@@ -20,12 +20,6 @@ import styled from "styled-components";
 const NavWrapper = styled.nav`
   width: 1200px;
   margin: auto;
-  &&.home {
-    position: fixed;
-    left: calc(50% - 600px);
-    top: 0;
-    padding: 1rem;
-  }
   display: flex;
   .title {
     flex-grow: 1;
@@ -65,7 +59,7 @@ const Breadcrumbs = () => (
     </a>
     /{" "}
     <Link className="pr-2 py-2" to="/">
-      Survey
+      National Survey
     </Link>
     <Route path="/state/:state">
       <StateBreadcrumb />

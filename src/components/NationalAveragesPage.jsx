@@ -28,10 +28,14 @@ export const NationalAveragesPage = () => {
           stateAverages[s.short_name][0] &&
           stateAverages[s.short_name][0].SampleSize;
         if (!samples) {
-          return <span className="p-2">{s.name} </span>;
+          return (
+            <span key={s.name} className="p-2">
+              {s.name}{" "}
+            </span>
+          );
         }
         return (
-          <Link className="p-2" to={`/state/${s.short_name}`}>
+          <Link key={s.name} className="p-2" to={`/state/${s.short_name}`}>
             {s.name} ({samples})
           </Link>
         );

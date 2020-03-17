@@ -87,6 +87,7 @@ export const AllStateAveragesPage = () => {
     () =>
       Object.keys(PropertyDict).map(place => (
         <Bar
+          key={`${path}${place}.${selectedUtil}`}
           dataKey={`${path}${place}.${selectedUtil}`}
           fill={PropertyDict[place].color}
         />
@@ -177,7 +178,7 @@ export const AllStateAveragesPage = () => {
           </Link>
         ))}
       </div>
-      <div style={{ maxWidth: 600, margin: "auto" }}>
+      <div style={{ maxWidth: 900, margin: "auto" }}>
         <MapStates />
       </div>
     </>

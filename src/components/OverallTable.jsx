@@ -19,7 +19,6 @@ const Wrapper = styled.div`
   tr:nth-child(2) th:nth-child(3) {
     background-color: #eaeaea;
   }
-  margin-top: 170px;
 
   /* #search-bar,
   .overall-links {
@@ -86,7 +85,7 @@ export function OverallTable() {
 
   return (
     <Wrapper>
-      <div className="mt-5 text-center overall-links">
+      <div className="text-center overall-links">
         <Link
           className="btn btn-lg btn-outline-primary m-2"
           to="/state-averages"
@@ -102,7 +101,9 @@ export function OverallTable() {
         <Link className="btn btn-lg btn-outline-primary m-2" to="/about">
           About this Survey
         </Link>
-        <MapStates />
+        <div style={{ width: 200, margin: "auto" }}>
+          <MapStates />
+        </div>
       </div>
       <div className="spacer"></div>
       <Table columns={columns} data={data} hasPagination />

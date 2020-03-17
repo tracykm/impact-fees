@@ -134,7 +134,7 @@ function addFipsCodes(nestedData) {
         fips: d.fips
       });
     } else {
-      console.log(d.County, d.State, state.fips);
+      // console.log(d.County, d.State, state.fips);
     }
   });
   return { usedCodes, nestedData };

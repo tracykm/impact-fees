@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { MapChart } from "./MapChart";
 import { DetailPage } from "./DetailPage";
 import { useParams, Link } from "react-router-dom";
@@ -54,11 +54,30 @@ export const StateAveragesPage = () => {
       />
       {jurisdictions.length} Jurisdictions:
       {jurisdictions.sort().map(j => (
-        <Link className="p-2" to={`/state/${state}/jurisdiction/${j}`}>
+        <Link key={j} className="p-2" to={`/state/${state}/jurisdiction/${j}`}>
           {j}{" "}
         </Link>
       ))}
-      <MapChart stateShortName={state} stateFips={fullState.fips} />
+      <ShowHide
+        ChildComp={MapChart}
+        childProps={{ stateShortName: state, stateFips: fullState.fips }}
+      />
     </>
   );
 };
+
+function ShowHide({ ChildComp, childProps }) {
+  const [show, setShow] = useState(false);
+  return (
+    <div>
+      <a
+        className="btn btn-lg btn-outline-primary m-2 p-2 float-right"
+        onClick={() => setShow(!show)}
+        style={{ position: "relative", zIndex: 10 }}
+      >
+        {show ? "Hide Map" : "Show Map"}
+      </a>
+      {show && <ChildComp {...childProps} />}
+    </div>
+  );
+}
