@@ -31,7 +31,6 @@ export default function MapStates() {
                     geography={geo}
                     fill={len ? colorScale(len) : "#EEE"}
                     onMouseEnter={arg => {
-                      console.log(geo.properties.name, len);
                       setTooltipContent(geo.properties.name + " " + len);
                     }}
                     onMouseLeave={() => {
