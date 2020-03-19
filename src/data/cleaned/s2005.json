@@ -1653,9 +1653,7 @@
       "Roads": 3943,
       "Water": 328,
       "Sewer": 676,
-      "Parks": 690,
-      "Fire": 0,
-      "Police": 0
+      "Parks": 690
     },
     "Industrial": {
       "Total": 8265,
@@ -1663,9 +1661,7 @@
       "Roads": 6571,
       "Water": 328,
       "Sewer": 676,
-      "Parks": 690,
-      "Fire": 0,
-      "Police": 0
+      "Parks": 690
     }
   },
   {
@@ -2728,7 +2724,6 @@
       "NonUtil": 5770,
       "Roads": 3267,
       "Drain": 748,
-      "Fire": 0,
       "Schools": 1025
     },
     "Retail": {
@@ -2749,8 +2744,6 @@
       "Total": 13428,
       "NonUtil": 13428,
       "Roads": 11698,
-      "Water": 0,
-      "Sewer": 0,
       "Drain": 1373,
       "Schools": 330
     }
@@ -5142,7 +5135,6 @@
       "Roads": 1315,
       "Water": 900,
       "Sewer": 2890,
-      "Fire": 0,
       "Schools": 2828,
       "Other": 20
     },
@@ -7574,7 +7566,6 @@
     },
     "Office": {
       "Total": 150,
-      "NonUtil": 0,
       "Water": 150
     },
     "Industrial": {

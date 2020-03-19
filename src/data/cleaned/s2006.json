@@ -405,7 +405,6 @@
       "Water": 5542,
       "Sewer": 2490,
       "Parks": 2250,
-      "Library": 0,
       "Fire": 362,
       "Police": 296
     },
@@ -416,7 +415,6 @@
       "Water": 2934,
       "Sewer": 1465,
       "Parks": 1294,
-      "Library": 0,
       "Fire": 362,
       "Police": 296
     },
@@ -1883,9 +1881,7 @@
       "Roads": 3943,
       "Water": 328,
       "Sewer": 676,
-      "Parks": 1080,
-      "Fire": 0,
-      "Police": 0
+      "Parks": 1080
     },
     "Industrial": {
       "Total": 8655,
@@ -1893,9 +1889,7 @@
       "Roads": 6571,
       "Water": 328,
       "Sewer": 676,
-      "Parks": 1080,
-      "Fire": 0,
-      "Police": 0
+      "Parks": 1080
     }
   },
   {
@@ -2964,7 +2958,6 @@
       "Roads": 3316,
       "Drain": 809,
       "Parks": 8900,
-      "Fire": 0,
       "Schools": 1025
     },
     "Retail": {
@@ -2987,8 +2980,6 @@
       "Total": 15011,
       "NonUtil": 15011,
       "Roads": 11873,
-      "Water": 0,
-      "Sewer": 0,
       "Drain": 1672,
       "Parks": 1108,
       "Schools": 330
@@ -4668,10 +4659,7 @@
     },
     "Retail": {},
     "Office": {},
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -8673,7 +8661,6 @@
     },
     "Office": {
       "Total": 150,
-      "NonUtil": 0,
       "Water": 150
     },
     "Industrial": {
@@ -9478,10 +9465,7 @@
     "County": "Butler",
     "Jurisdiction": "Middletown",
     "Updated": 1151557200000,
-    "SingleFamily": {
-      "Total": 0,
-      "NonUtil": 0
-    },
+    "SingleFamily": {},
     "MultiFamily": {
       "Total": 500,
       "NonUtil": 500,

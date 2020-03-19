@@ -820,7 +820,6 @@
     "Updated": 1343451600000,
     "SingleFamily": {
       "Total": 10321,
-      "NonUtil": 0,
       "Water": 6450,
       "Sewer": 3871
     },
@@ -6884,8 +6883,6 @@
       "Total": 2662,
       "NonUtil": 2662,
       "Roads": 2310,
-      "Water": 0,
-      "Sewer": 0,
       "Fire": 22,
       "Police": 30,
       "GenGov": 300
@@ -6894,8 +6891,6 @@
       "Total": 1489,
       "NonUtil": 1489,
       "Roads": 1220,
-      "Water": 0,
-      "Sewer": 0,
       "Fire": 51,
       "Police": 15,
       "GenGov": 203

@@ -6207,18 +6207,9 @@
       "NonUtil": 3726,
       "Schools": 3726
     },
-    "Retail": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Office": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",

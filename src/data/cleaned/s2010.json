@@ -6049,18 +6049,9 @@
       "NonUtil": 3726,
       "Schools": 3726
     },
-    "Retail": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Office": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -6551,18 +6542,9 @@
       "NonUtil": 1571,
       "Schools": 1571
     },
-    "Retail": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Office": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -6576,8 +6558,7 @@
       "Parks": 2707,
       "Fire": 349,
       "Police": 591,
-      "Schools": 4160,
-      "Other": 0
+      "Schools": 4160
     },
     "MultiFamily": {
       "Total": 6663,

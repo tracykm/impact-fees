@@ -6040,18 +6040,9 @@
       "NonUtil": 3726,
       "Schools": 3726
     },
-    "Retail": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Office": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -6525,18 +6516,9 @@
       "NonUtil": 1571,
       "Schools": 1571
     },
-    "Retail": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Office": {
-      "Total": 0,
-      "NonUtil": 0
-    },
-    "Industrial": {
-      "Total": 0,
-      "NonUtil": 0
-    }
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -7095,8 +7077,6 @@
       "Total": 2662,
       "NonUtil": 2662,
       "Roads": 2310,
-      "Water": 0,
-      "Sewer": 0,
       "Fire": 22,
       "Police": 30,
       "GenGov": 300
@@ -7105,8 +7085,6 @@
       "Total": 1489,
       "NonUtil": 1489,
       "Roads": 1220,
-      "Water": 0,
-      "Sewer": 0,
       "Fire": 51,
       "Police": 15,
       "GenGov": 203
