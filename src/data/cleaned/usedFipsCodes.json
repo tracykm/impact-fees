@@ -4,7 +4,8 @@
       {
         "Jurisdiction": "Pasco Co",
         "County": "Pasco",
-        "State": "FL"
+        "State": "FL",
+        "fips": 113
       }
     ]
   },
@@ -13,7 +14,8 @@
       {
         "Jurisdiction": "Pinellas Co",
         "County": "Pinellas",
-        "State": "FL"
+        "State": "FL",
+        "fips": 115
       }
     ]
   },
@@ -22,7 +24,8 @@
       {
         "Jurisdiction": "Effingham Co",
         "County": "Effingham",
-        "State": "GA"
+        "State": "GA",
+        "fips": 116
       }
     ]
   },
@@ -31,12 +34,14 @@
       {
         "Jurisdiction": "Polk Co",
         "County": "Polk",
-        "State": "FL"
+        "State": "FL",
+        "fips": 117
       },
       {
         "Jurisdiction": "Lakeland",
         "County": "Polk",
-        "State": "FL"
+        "State": "FL",
+        "fips": 117
       }
     ]
   },
@@ -45,7 +50,8 @@
       {
         "Jurisdiction": "Putnam Co",
         "County": "Putnam",
-        "State": "FL"
+        "State": "FL",
+        "fips": 119
       }
     ]
   },
@@ -54,7 +60,8 @@
       {
         "Jurisdiction": "St. Johns Co",
         "County": "St Johns",
-        "State": "FL"
+        "State": "FL",
+        "fips": 121
       }
     ]
   },
@@ -63,7 +70,8 @@
       {
         "Jurisdiction": "St. Lucie Co",
         "County": "St Lucie",
-        "State": "FL"
+        "State": "FL",
+        "fips": 123
       }
     ]
   },
@@ -72,12 +80,14 @@
       {
         "Jurisdiction": "St Tammany Parish",
         "County": "St Tammany",
-        "State": "LA"
+        "State": "LA",
+        "fips": 125
       },
       {
         "Jurisdiction": "Santa Rosa Co",
         "County": "Santa Rosa",
-        "State": "FL"
+        "State": "FL",
+        "fips": 125
       }
     ]
   },
@@ -86,12 +96,14 @@
       {
         "Jurisdiction": "Sarasota Co",
         "County": "Sarasota",
-        "State": "FL"
+        "State": "FL",
+        "fips": 127
       },
       {
         "Jurisdiction": "North Port",
         "County": "Sarasota",
-        "State": "FL"
+        "State": "FL",
+        "fips": 127
       }
     ]
   },
@@ -100,17 +112,20 @@
       {
         "Jurisdiction": "Seminole Co",
         "County": "Seminole",
-        "State": "FL"
+        "State": "FL",
+        "fips": 129
       },
       {
         "Jurisdiction": "Altamonte Springs",
         "County": "Seminole",
-        "State": "FL"
+        "State": "FL",
+        "fips": 129
       },
       {
         "Jurisdiction": "Winter Springs",
         "County": "Seminole",
-        "State": "FL"
+        "State": "FL",
+        "fips": 129
       }
     ]
   },
@@ -119,7 +134,8 @@
       {
         "Jurisdiction": "Forsyth Co",
         "County": "Forsyth",
-        "State": "GA"
+        "State": "GA",
+        "fips": 130
       }
     ]
   },
@@ -128,7 +144,8 @@
       {
         "Jurisdiction": "Sumter Co",
         "County": "Sumter",
-        "State": "FL"
+        "State": "FL",
+        "fips": 131
       }
     ]
   },
@@ -137,12 +154,14 @@
       {
         "Jurisdiction": "Atlanta",
         "County": "Fulton",
-        "State": "GA"
+        "State": "GA",
+        "fips": 134
       },
       {
         "Jurisdiction": "Alpharetta",
         "County": "Fulton",
-        "State": "GA"
+        "State": "GA",
+        "fips": 134
       }
     ]
   },
@@ -151,37 +170,44 @@
       {
         "Jurisdiction": "Volusia Co",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Daytona Beach",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Deland",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Deltona",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Edgewater",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Ormond Beach",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       },
       {
         "Jurisdiction": "Port Orange",
         "County": "Volusia",
-        "State": "FL"
+        "State": "FL",
+        "fips": 139
       }
     ]
   },
@@ -190,7 +216,8 @@
       {
         "Jurisdiction": "Lincoln",
         "County": "Lancaster",
-        "State": "NE"
+        "State": "NE",
+        "fips": 140
       }
     ]
   },
@@ -199,7 +226,8 @@
       {
         "Jurisdiction": "Hall Co",
         "County": "Hall",
-        "State": "GA"
+        "State": "GA",
+        "fips": 152
       }
     ]
   },
@@ -208,7 +236,8 @@
       {
         "Jurisdiction": "Leesburg",
         "County": "Louden",
-        "State": "VA"
+        "State": "VA",
+        "fips": 158
       }
     ]
   },
@@ -217,17 +246,20 @@
       {
         "Jurisdiction": "Hudson",
         "County": "St Croix",
-        "State": "WI"
+        "State": "WI",
+        "fips": 164
       },
       {
         "Jurisdiction": "Henry Co",
         "County": "Henry",
-        "State": "GA"
+        "State": "GA",
+        "fips": 164
       },
       {
         "Jurisdiction": "McDonough",
         "County": "Henry",
-        "State": "GA"
+        "State": "GA",
+        "fips": 164
       }
     ]
   },
@@ -236,7 +268,8 @@
       {
         "Jurisdiction": "Franklin",
         "County": "Maury",
-        "State": "TN"
+        "State": "TN",
+        "fips": 166
       }
     ]
   },
@@ -245,7 +278,8 @@
       {
         "Jurisdiction": "Denton",
         "County": "Denton",
-        "State": "TX"
+        "State": "TX",
+        "fips": 169
       }
     ]
   },
@@ -254,7 +288,8 @@
       {
         "Jurisdiction": "Orange Co.",
         "County": "Orange",
-        "State": "NC"
+        "State": "NC",
+        "fips": 172
       }
     ]
   },
@@ -263,17 +298,20 @@
       {
         "Jurisdiction": "LaVergne",
         "County": "Rutherford",
-        "State": "TN"
+        "State": "TN",
+        "fips": 196
       },
       {
         "Jurisdiction": "Smyrna",
         "County": "Rutherford",
-        "State": "TN"
+        "State": "TN",
+        "fips": 196
       },
       {
         "Jurisdiction": "La Vergne",
         "County": "Rutherford",
-        "State": "TN"
+        "State": "TN",
+        "fips": 196
       }
     ]
   },
@@ -282,7 +320,8 @@
       {
         "Jurisdiction": "Hamilton Township",
         "County": "Warren",
-        "State": "OH"
+        "State": "OH",
+        "fips": 204
       }
     ]
   },
@@ -291,12 +330,14 @@
       {
         "Jurisdiction": "White House",
         "County": "Sumner",
-        "State": "TN"
+        "State": "TN",
+        "fips": 212
       },
       {
         "Jurisdiction": "Portland",
         "County": "Sumner",
-        "State": "TN"
+        "State": "TN",
+        "fips": 212
       }
     ]
   },
@@ -305,12 +346,14 @@
       {
         "Jurisdiction": "Cary",
         "County": "Wake",
-        "State": "NC"
+        "State": "NC",
+        "fips": 220
       },
       {
         "Jurisdiction": "Raleigh",
         "County": "Wake",
-        "State": "NC"
+        "State": "NC",
+        "fips": 220
       }
     ]
   },
@@ -319,7 +362,8 @@
       {
         "Jurisdiction": "Stafford Co",
         "County": "Stafford",
-        "State": "VA"
+        "State": "VA",
+        "fips": 230
       }
     ]
   },
@@ -328,7 +372,8 @@
       {
         "Jurisdiction": "Nolensville",
         "County": "Williamson",
-        "State": "TN"
+        "State": "TN",
+        "fips": 234
       }
     ]
   },
@@ -337,7 +382,8 @@
       {
         "Jurisdiction": "Wilson Co",
         "County": "Wilson",
-        "State": "TN"
+        "State": "TN",
+        "fips": 236
       }
     ]
   },
@@ -346,22 +392,26 @@
       {
         "Jurisdiction": "Arlington",
         "County": "Tarrant",
-        "State": "TX"
+        "State": "TX",
+        "fips": 487
       },
       {
         "Jurisdiction": "Colleyville",
         "County": "Tarrant",
-        "State": "TX"
+        "State": "TX",
+        "fips": 487
       },
       {
         "Jurisdiction": "Ft. Worth",
         "County": "Tarrant",
-        "State": "TX"
+        "State": "TX",
+        "fips": 487
       },
       {
         "Jurisdiction": "Watauga",
         "County": "Tarrant",
-        "State": "TX"
+        "State": "TX",
+        "fips": 487
       }
     ]
   },
@@ -370,7 +420,8 @@
       {
         "Jurisdiction": "Georgetown",
         "County": "Williamson",
-        "State": "TX"
+        "State": "TX",
+        "fips": 539
       }
     ]
   },
@@ -379,7 +430,8 @@
       {
         "Jurisdiction": "New Castle Co",
         "County": "New Castle",
-        "State": "DE"
+        "State": "DE",
+        "fips": "10003"
       }
     ]
   },
@@ -388,12 +440,14 @@
       {
         "Jurisdiction": "Alachula Co",
         "County": "Alachua",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12001"
       },
       {
         "Jurisdiction": "Alachua Co",
         "County": "Alachua",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12001"
       }
     ]
   },
@@ -402,7 +456,8 @@
       {
         "Jurisdiction": "Bradford Co",
         "County": "Bradford",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12007"
       }
     ]
   },
@@ -411,27 +466,32 @@
       {
         "Jurisdiction": "Brevard Co",
         "County": "Brevard",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12009"
       },
       {
         "Jurisdiction": "Cocoa",
         "County": "Brevard",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12009"
       },
       {
         "Jurisdiction": "Palm Bay",
         "County": "Brevard",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12009"
       },
       {
         "Jurisdiction": "Rockledge",
         "County": "Brevard",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12009"
       },
       {
         "Jurisdiction": "Melbourne",
         "County": "Brevard",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12009"
       }
     ]
   },
@@ -440,12 +500,14 @@
       {
         "Jurisdiction": "Broward Co",
         "County": "Broward",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12011"
       },
       {
         "Jurisdiction": "Ft. Lauderdale",
         "County": "Broward",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12011"
       }
     ]
   },
@@ -454,7 +516,8 @@
       {
         "Jurisdiction": "Charlotte Co",
         "County": "Charlotte",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12015"
       }
     ]
   },
@@ -463,7 +526,8 @@
       {
         "Jurisdiction": "Citrus Co",
         "County": "Citrus",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12017"
       }
     ]
   },
@@ -472,7 +536,8 @@
       {
         "Jurisdiction": "Clay Co",
         "County": "Clay",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12019"
       }
     ]
   },
@@ -481,7 +546,8 @@
       {
         "Jurisdiction": "Collier Co",
         "County": "Collier",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12021"
       }
     ]
   },
@@ -490,7 +556,8 @@
       {
         "Jurisdiction": "Columbia Co",
         "County": "Columbia",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12023"
       }
     ]
   },
@@ -499,7 +566,8 @@
       {
         "Jurisdiction": "DeSoto Co",
         "County": "DeSoto",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12027"
       }
     ]
   },
@@ -508,12 +576,14 @@
       {
         "Jurisdiction": "Flagler Co",
         "County": "Flagler",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12035"
       },
       {
         "Jurisdiction": "Palm Coast",
         "County": "Flagler",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12035"
       }
     ]
   },
@@ -522,7 +592,8 @@
       {
         "Jurisdiction": "Gilchrist Co",
         "County": "Gilchrist",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12041"
       }
     ]
   },
@@ -531,7 +602,8 @@
       {
         "Jurisdiction": "Glades Co",
         "County": "Glades",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12043"
       }
     ]
   },
@@ -540,7 +612,8 @@
       {
         "Jurisdiction": "Hardee Co",
         "County": "Hardee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12049"
       }
     ]
   },
@@ -549,7 +622,8 @@
       {
         "Jurisdiction": "Hendry Co",
         "County": "Hendry",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12051"
       }
     ]
   },
@@ -558,7 +632,8 @@
       {
         "Jurisdiction": "Hernando Co",
         "County": "Hernando",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12053"
       }
     ]
   },
@@ -567,7 +642,8 @@
       {
         "Jurisdiction": "Highlands Co",
         "County": "Highlands",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12055"
       }
     ]
   },
@@ -576,22 +652,26 @@
       {
         "Jurisdiction": "Hillsborough Co",
         "County": "Hillsborough",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12057"
       },
       {
         "Jurisdiction": "Tampa",
         "County": "Hillsborough",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12057"
       },
       {
         "Jurisdiction": "Plant City",
         "County": "Hillsborough",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12057"
       },
       {
         "Jurisdiction": "Hillsborough Co.",
         "County": "Hillsborough",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12057"
       }
     ]
   },
@@ -600,7 +680,8 @@
       {
         "Jurisdiction": "Indian River Co",
         "County": "Indian River",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12061"
       }
     ]
   },
@@ -609,12 +690,14 @@
       {
         "Jurisdiction": "Lake Co",
         "County": "Lake",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12069"
       },
       {
         "Jurisdiction": "Eustis",
         "County": "Lake",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12069"
       }
     ]
   },
@@ -623,22 +706,26 @@
       {
         "Jurisdiction": "Lee Co",
         "County": "Lee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12071"
       },
       {
         "Jurisdiction": "Cape Coral",
         "County": "Lee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12071"
       },
       {
         "Jurisdiction": "Ft. Myers",
         "County": "Lee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12071"
       },
       {
         "Jurisdiction": "Bonita Springs",
         "County": "Lee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12071"
       }
     ]
   },
@@ -647,7 +734,8 @@
       {
         "Jurisdiction": "Levy Co",
         "County": "Levy",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12075"
       }
     ]
   },
@@ -656,7 +744,8 @@
       {
         "Jurisdiction": "Manatee Co",
         "County": "Manatee",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12081"
       }
     ]
   },
@@ -665,7 +754,8 @@
       {
         "Jurisdiction": "Marion Co",
         "County": "Marion",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12083"
       }
     ]
   },
@@ -674,7 +764,8 @@
       {
         "Jurisdiction": "Martin Co",
         "County": "Martin",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12085"
       }
     ]
   },
@@ -683,12 +774,14 @@
       {
         "Jurisdiction": "Miami/Dade Co",
         "County": "Dade",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12086"
       },
       {
         "Jurisdiction": "Miami",
         "County": "Dade",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12086"
       }
     ]
   },
@@ -697,7 +790,8 @@
       {
         "Jurisdiction": "Monroe Co",
         "County": "Monroe",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12087"
       }
     ]
   },
@@ -706,7 +800,8 @@
       {
         "Jurisdiction": "Nassau Co",
         "County": "Nassau",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12089"
       }
     ]
   },
@@ -715,7 +810,8 @@
       {
         "Jurisdiction": "Destin",
         "County": "Okaloosa",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12091"
       }
     ]
   },
@@ -724,37 +820,44 @@
       {
         "Jurisdiction": "Orange Co.",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Ocoee",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Orlando",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Winter Garden",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Apopka",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Maitland",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       },
       {
         "Jurisdiction": "Oakland",
         "County": "Orange",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12095"
       }
     ]
   },
@@ -763,7 +866,8 @@
       {
         "Jurisdiction": "Osceola Co",
         "County": "Osceola",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12097"
       }
     ]
   },
@@ -772,12 +876,14 @@
       {
         "Jurisdiction": "Palm Beach Co",
         "County": "Palm Beach",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12099"
       },
       {
         "Jurisdiction": "Palm Beach Gardens",
         "County": "Palm Beach",
-        "State": "FL"
+        "State": "FL",
+        "fips": "12099"
       }
     ]
   },
@@ -786,12 +892,14 @@
       {
         "Jurisdiction": "Canton",
         "County": "Cherokee",
-        "State": "GA"
+        "State": "GA",
+        "fips": "13057"
       },
       {
         "Jurisdiction": "Cherokee Co",
         "County": "Cherokee",
-        "State": "GA"
+        "State": "GA",
+        "fips": "13057"
       }
     ]
   },
@@ -800,7 +908,8 @@
       {
         "Jurisdiction": "Roswell",
         "County": "Cobb",
-        "State": "GA"
+        "State": "GA",
+        "fips": "13067"
       }
     ]
   },
@@ -809,7 +918,8 @@
       {
         "Jurisdiction": "Honolulu",
         "County": "Honolulu",
-        "State": "HI"
+        "State": "HI",
+        "fips": "15003"
       }
     ]
   },
@@ -818,7 +928,8 @@
       {
         "Jurisdiction": "Boise",
         "County": "Ada",
-        "State": "ID"
+        "State": "ID",
+        "fips": "16001"
       }
     ]
   },
@@ -827,7 +938,8 @@
       {
         "Jurisdiction": "Post Falls",
         "County": "Kootenai",
-        "State": "ID"
+        "State": "ID",
+        "fips": "16055"
       }
     ]
   },
@@ -836,12 +948,14 @@
       {
         "Jurisdiction": "DeKalb (city)",
         "County": "DeKalb",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17037"
       },
       {
         "Jurisdiction": "Sandwich",
         "County": "DeKalb",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17037"
       }
     ]
   },
@@ -850,12 +964,14 @@
       {
         "Jurisdiction": "DuPage County",
         "County": "DuPage",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17043"
       },
       {
         "Jurisdiction": "Aurora",
         "County": "DuPage/Kane",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17043"
       }
     ]
   },
@@ -864,12 +980,14 @@
       {
         "Jurisdiction": "Kane Co",
         "County": "Kane",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17089"
       },
       {
         "Jurisdiction": "Kane County",
         "County": "Kane",
-        "State": "IL"
+        "State": "IL",
+        "fips": "17089"
       }
     ]
   },
@@ -878,12 +996,14 @@
       {
         "Jurisdiction": "Fishers",
         "County": "Hamilton",
-        "State": "IN"
+        "State": "IN",
+        "fips": "18057"
       },
       {
         "Jurisdiction": "Noblesville",
         "County": "Hamilton",
-        "State": "IN"
+        "State": "IN",
+        "fips": "18057"
       }
     ]
   },
@@ -892,17 +1012,20 @@
       {
         "Jurisdiction": "Lenexa",
         "County": "Johnson",
-        "State": "KS"
+        "State": "KS",
+        "fips": "20091"
       },
       {
         "Jurisdiction": "Overland Park",
         "County": "Johnson",
-        "State": "KS"
+        "State": "KS",
+        "fips": "20091"
       },
       {
         "Jurisdiction": "Olathe",
         "County": "Johnson",
-        "State": "KS"
+        "State": "KS",
+        "fips": "20091"
       }
     ]
   },
@@ -911,7 +1034,8 @@
       {
         "Jurisdiction": "Baton Rouge",
         "County": "E Baton Rouge",
-        "State": "LA"
+        "State": "LA",
+        "fips": "22033"
       }
     ]
   },
@@ -920,12 +1044,14 @@
       {
         "Jurisdiction": "Ann Arundel Co",
         "County": "Ann Arundel",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24003"
       },
       {
         "Jurisdiction": "Anne Arundel Co",
         "County": "Anne Arundel",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24003"
       }
     ]
   },
@@ -934,7 +1060,8 @@
       {
         "Jurisdiction": "Calvert Co",
         "County": "Calvert",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24009"
       }
     ]
   },
@@ -943,7 +1070,8 @@
       {
         "Jurisdiction": "Carroll Co",
         "County": "Carroll",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24013"
       }
     ]
   },
@@ -952,7 +1080,8 @@
       {
         "Jurisdiction": "Charles Co",
         "County": "Charles",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24017"
       }
     ]
   },
@@ -961,7 +1090,8 @@
       {
         "Jurisdiction": "Cambridge",
         "County": "Dorchester",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24019"
       }
     ]
   },
@@ -970,7 +1100,8 @@
       {
         "Jurisdiction": "Frederick Co",
         "County": "Frederick",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24021"
       }
     ]
   },
@@ -979,7 +1110,8 @@
       {
         "Jurisdiction": "Harford Co",
         "County": "Harford",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24025"
       }
     ]
   },
@@ -988,7 +1120,8 @@
       {
         "Jurisdiction": "Howard Co",
         "County": "Howard",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24027"
       }
     ]
   },
@@ -997,7 +1130,8 @@
       {
         "Jurisdiction": "Montgomery Co",
         "County": "Montgomery",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24031"
       }
     ]
   },
@@ -1006,7 +1140,8 @@
       {
         "Jurisdiction": "Prince George's Co",
         "County": "Prince George's",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24033"
       }
     ]
   },
@@ -1015,7 +1150,8 @@
       {
         "Jurisdiction": "Queen Anne's Co",
         "County": "Queen Anne's",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24035"
       }
     ]
   },
@@ -1024,7 +1160,8 @@
       {
         "Jurisdiction": "St. Mary's Co",
         "County": "St. Mary's",
-        "State": "MD"
+        "State": "MD",
+        "fips": "24037"
       }
     ]
   },
@@ -1033,7 +1170,8 @@
       {
         "Jurisdiction": "Madison",
         "County": "Madison",
-        "State": "MS"
+        "State": "MS",
+        "fips": "28089"
       }
     ]
   },
@@ -1042,7 +1180,8 @@
       {
         "Jurisdiction": "Lee's Summit",
         "County": "Jackson",
-        "State": "MO"
+        "State": "MO",
+        "fips": "29095"
       }
     ]
   },
@@ -1051,7 +1190,8 @@
       {
         "Jurisdiction": "Bozeman",
         "County": "Gallatin",
-        "State": "MT"
+        "State": "MT",
+        "fips": "30031"
       }
     ]
   },
@@ -1060,7 +1200,8 @@
       {
         "Jurisdiction": "Churchill County",
         "County": "Churchill",
-        "State": "NV"
+        "State": "NV",
+        "fips": "32001"
       }
     ]
   },
@@ -1069,12 +1210,14 @@
       {
         "Jurisdiction": "Las Vegas",
         "County": "Clark",
-        "State": "NV"
+        "State": "NV",
+        "fips": "32003"
       },
       {
         "Jurisdiction": "Mesquite",
         "County": "Clark",
-        "State": "NV"
+        "State": "NV",
+        "fips": "32003"
       }
     ]
   },
@@ -1083,7 +1226,8 @@
       {
         "Jurisdiction": "Reno",
         "County": "Washoe",
-        "State": "NV"
+        "State": "NV",
+        "fips": "32031"
       }
     ]
   },
@@ -1092,7 +1236,8 @@
       {
         "Jurisdiction": "Manchester",
         "County": "Hillsborough",
-        "State": "NH"
+        "State": "NH",
+        "fips": "33011"
       }
     ]
   },
@@ -1101,7 +1246,8 @@
       {
         "Jurisdiction": "Concord",
         "County": "Merrimack",
-        "State": "NH"
+        "State": "NH",
+        "fips": "33013"
       }
     ]
   },
@@ -1110,12 +1256,14 @@
       {
         "Jurisdiction": "Fremont",
         "County": "Rockingham",
-        "State": "NH"
+        "State": "NH",
+        "fips": "33015"
       },
       {
         "Jurisdiction": "Salem",
         "County": "Rockingham",
-        "State": "NH"
+        "State": "NH",
+        "fips": "33015"
       }
     ]
   },
@@ -1124,12 +1272,14 @@
       {
         "Jurisdiction": "Bernalillo Co",
         "County": "Bernalillo",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35001"
       },
       {
         "Jurisdiction": "Albuquerque",
         "County": "Bernalillo",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35001"
       }
     ]
   },
@@ -1138,7 +1288,8 @@
       {
         "Jurisdiction": "Las Cruces",
         "County": "Dona Ana",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35013"
       }
     ]
   },
@@ -1147,7 +1298,8 @@
       {
         "Jurisdiction": "Ruidoso",
         "County": "Lincoln",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35027"
       }
     ]
   },
@@ -1156,7 +1308,8 @@
       {
         "Jurisdiction": "Rio Rancho",
         "County": "Sandoval",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35043"
       }
     ]
   },
@@ -1165,12 +1318,14 @@
       {
         "Jurisdiction": "Santa Fe",
         "County": "Santa Fe",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35049"
       },
       {
         "Jurisdiction": "Santa Fe County",
         "County": "Santa Fe",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35049"
       }
     ]
   },
@@ -1179,7 +1334,8 @@
       {
         "Jurisdiction": "Los Lunas",
         "County": "Valencia",
-        "State": "NM"
+        "State": "NM",
+        "fips": "35061"
       }
     ]
   },
@@ -1188,7 +1344,8 @@
       {
         "Jurisdiction": "Chatham Co.",
         "County": "Chatham",
-        "State": "NC"
+        "State": "NC",
+        "fips": "37037"
       }
     ]
   },
@@ -1197,7 +1354,8 @@
       {
         "Jurisdiction": "Durham",
         "County": "Durham",
-        "State": "NC"
+        "State": "NC",
+        "fips": "37063"
       }
     ]
   },
@@ -1206,7 +1364,8 @@
       {
         "Jurisdiction": "Middletown",
         "County": "Butler",
-        "State": "OH"
+        "State": "OH",
+        "fips": "39017"
       }
     ]
   },
@@ -1215,7 +1374,8 @@
       {
         "Jurisdiction": "Delaware (city)",
         "County": "Delaware",
-        "State": "OH"
+        "State": "OH",
+        "fips": "39041"
       }
     ]
   },
@@ -1224,7 +1384,8 @@
       {
         "Jurisdiction": "Moore",
         "County": "Cleveland",
-        "State": "OK"
+        "State": "OK",
+        "fips": "40027"
       }
     ]
   },
@@ -1233,12 +1394,14 @@
       {
         "Jurisdiction": "West Linn",
         "County": "Clackamas",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41005"
       },
       {
         "Jurisdiction": "Clackamas Co.",
         "County": "Clackamas",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41005"
       }
     ]
   },
@@ -1247,7 +1410,8 @@
       {
         "Jurisdiction": "Bend",
         "County": "Deschutes",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41017"
       }
     ]
   },
@@ -1256,7 +1420,8 @@
       {
         "Jurisdiction": "Grants Pass",
         "County": "Josephine",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41033"
       }
     ]
   },
@@ -1265,12 +1430,14 @@
       {
         "Jurisdiction": "Eugene",
         "County": "Lane",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41039"
       },
       {
         "Jurisdiction": "Springfield",
         "County": "Lane",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41039"
       }
     ]
   },
@@ -1279,12 +1446,14 @@
       {
         "Jurisdiction": "Salem",
         "County": "Marion",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41047"
       },
       {
         "Jurisdiction": "Silverton",
         "County": "Marion",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41047"
       }
     ]
   },
@@ -1293,7 +1462,8 @@
       {
         "Jurisdiction": "Portland",
         "County": "Multnomah",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41051"
       }
     ]
   },
@@ -1302,17 +1472,20 @@
       {
         "Jurisdiction": "Washington Co",
         "County": "Washington",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41067"
       },
       {
         "Jurisdiction": "Hillsboro",
         "County": "Washington",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41067"
       },
       {
         "Jurisdiction": "Tigard",
         "County": "Washington",
-        "State": "OR"
+        "State": "OR",
+        "fips": "41067"
       }
     ]
   },
@@ -1321,7 +1494,8 @@
       {
         "Jurisdiction": "Towamencin Twp",
         "County": "Montgomery",
-        "State": "PA"
+        "State": "PA",
+        "fips": "42091"
       }
     ]
   },
@@ -1330,12 +1504,14 @@
       {
         "Jurisdiction": "Beaufort Co",
         "County": "Beaufort",
-        "State": "SC"
+        "State": "SC",
+        "fips": "45013"
       },
       {
         "Jurisdiction": "Hilton Head",
         "County": "Beaufort",
-        "State": "SC"
+        "State": "SC",
+        "fips": "45013"
       }
     ]
   },
@@ -1344,7 +1520,8 @@
       {
         "Jurisdiction": "Mt. Pleasant",
         "County": "Berkeley",
-        "State": "SC"
+        "State": "SC",
+        "fips": "45015"
       }
     ]
   },
@@ -1353,7 +1530,8 @@
       {
         "Jurisdiction": "College Station",
         "County": "Brazos",
-        "State": "TX"
+        "State": "TX",
+        "fips": "48041"
       }
     ]
   },
@@ -1362,12 +1540,14 @@
       {
         "Jurisdiction": "McKinney",
         "County": "Collin",
-        "State": "TX"
+        "State": "TX",
+        "fips": "48085"
       },
       {
         "Jurisdiction": "Allen",
         "County": "Collin",
-        "State": "TX"
+        "State": "TX",
+        "fips": "48085"
       }
     ]
   },
@@ -1376,12 +1556,14 @@
       {
         "Jurisdiction": "Provo",
         "County": "Utah",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49000"
       },
       {
         "Jurisdiction": "Payson",
         "County": "Utah",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49000"
       }
     ]
   },
@@ -1390,7 +1572,8 @@
       {
         "Jurisdiction": "Logan",
         "County": "Cache",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49005"
       }
     ]
   },
@@ -1399,7 +1582,8 @@
       {
         "Jurisdiction": "Layton",
         "County": "Davis",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49011"
       }
     ]
   },
@@ -1408,27 +1592,32 @@
       {
         "Jurisdiction": "Sandy City",
         "County": "Salt Lake",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49035"
       },
       {
         "Jurisdiction": "West Valley City",
         "County": "Salt Lake",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49035"
       },
       {
         "Jurisdiction": "Draper",
         "County": "Salt Lake",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49035"
       },
       {
         "Jurisdiction": "West Jordan City",
         "County": "Salt Lake",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49035"
       },
       {
         "Jurisdiction": "Salt Lake City",
         "County": "Salt Lake",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49035"
       }
     ]
   },
@@ -1437,7 +1626,8 @@
       {
         "Jurisdiction": "Tooele",
         "County": "Tooele",
-        "State": "UT"
+        "State": "UT",
+        "fips": "49045"
       }
     ]
   },
@@ -1446,12 +1636,14 @@
       {
         "Jurisdiction": "Burlington",
         "County": "Chittenden",
-        "State": "VT"
+        "State": "VT",
+        "fips": "50007"
       },
       {
         "Jurisdiction": "Williston",
         "County": "Chittendon",
-        "State": "VT"
+        "State": "VT",
+        "fips": "50007"
       }
     ]
   },
@@ -1460,7 +1652,8 @@
       {
         "Jurisdiction": "Richmond",
         "County": "Henrico",
-        "State": "VA"
+        "State": "VA",
+        "fips": "51087"
       }
     ]
   },
@@ -1469,7 +1662,8 @@
       {
         "Jurisdiction": "Vancouver",
         "County": "Clark",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53011"
       }
     ]
   },
@@ -1478,7 +1672,8 @@
       {
         "Jurisdiction": "Woodland",
         "County": "Cowlitz",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53015"
       }
     ]
   },
@@ -1487,27 +1682,32 @@
       {
         "Jurisdiction": "King Co",
         "County": "King",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53033"
       },
       {
         "Jurisdiction": "Bothell",
         "County": "King",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53033"
       },
       {
         "Jurisdiction": "Kirkland",
         "County": "King",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53033"
       },
       {
         "Jurisdiction": "Bellevue",
         "County": "King",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53033"
       },
       {
         "Jurisdiction": "Issaquqh",
         "County": "King",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53033"
       }
     ]
   },
@@ -1516,7 +1716,8 @@
       {
         "Jurisdiction": "Kitsap Co",
         "County": "Kitsap",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53035"
       }
     ]
   },
@@ -1525,7 +1726,8 @@
       {
         "Jurisdiction": "Pierce Co",
         "County": "Pierce",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53053"
       }
     ]
   },
@@ -1534,12 +1736,14 @@
       {
         "Jurisdiction": "Burlington",
         "County": "Skagit",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53057"
       },
       {
         "Jurisdiction": "Anacortes",
         "County": "Skagit",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53057"
       }
     ]
   },
@@ -1548,7 +1752,8 @@
       {
         "Jurisdiction": "Snohomish Co",
         "County": "Snohomish",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53061"
       }
     ]
   },
@@ -1557,12 +1762,14 @@
       {
         "Jurisdiction": "Tumwater",
         "County": "Thurston",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53067"
       },
       {
         "Jurisdiction": "Olympia",
         "County": "Thurston",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53067"
       }
     ]
   },
@@ -1571,7 +1778,8 @@
       {
         "Jurisdiction": "Bellingham",
         "County": "Whatcom",
-        "State": "WA"
+        "State": "WA",
+        "fips": "53073"
       }
     ]
   },
@@ -1580,7 +1788,8 @@
       {
         "Jurisdiction": "Jefferson Co",
         "County": "Jefferson",
-        "State": "WV"
+        "State": "WV",
+        "fips": "54037"
       }
     ]
   },
@@ -1589,7 +1798,8 @@
       {
         "Jurisdiction": "Fitchburg",
         "County": "Dane",
-        "State": "WI"
+        "State": "WI",
+        "fips": "55025"
       }
     ]
   },
@@ -1598,7 +1808,8 @@
       {
         "Jurisdiction": "Oconomowoc",
         "County": "Jefferson",
-        "State": "WI"
+        "State": "WI",
+        "fips": "55055"
       }
     ]
   },
@@ -1607,7 +1818,8 @@
       {
         "Jurisdiction": "Cedarburg",
         "County": "Ozaukee",
-        "State": "WI"
+        "State": "WI",
+        "fips": "55089"
       }
     ]
   },
@@ -1616,12 +1828,14 @@
       {
         "Jurisdiction": "Bentonville",
         "County": "Benton",
-        "State": "AR"
+        "State": "AR",
+        "fips": "05007"
       },
       {
         "Jurisdiction": "Lowell",
         "County": "Benton",
-        "State": "AR"
+        "State": "AR",
+        "fips": "05007"
       }
     ]
   },
@@ -1630,7 +1844,8 @@
       {
         "Jurisdiction": "Conway",
         "County": "Faulkner",
-        "State": "AR"
+        "State": "AR",
+        "fips": "05045"
       }
     ]
   },
@@ -1639,7 +1854,8 @@
       {
         "Jurisdiction": "Fayetteville",
         "County": "Washington",
-        "State": "AR"
+        "State": "AR",
+        "fips": "05143"
       }
     ]
   },
@@ -1648,12 +1864,14 @@
       {
         "Jurisdiction": "Payson",
         "County": "Gila",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04007"
       },
       {
         "Jurisdiction": "Sedona",
         "County": "Gila",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04007"
       }
     ]
   },
@@ -1662,72 +1880,86 @@
       {
         "Jurisdiction": "Avondale",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Buckeye",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Chandler",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Fountain Hills",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Gilbert",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Glendale",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Goodyear",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Mesa",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Peoria",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Phoenix",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Suprise",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Tempe",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Litchfield Park",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       },
       {
         "Jurisdiction": "Surprise",
         "County": "Maricopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04013"
       }
     ]
   },
@@ -1736,7 +1968,8 @@
       {
         "Jurisdiction": "Scottsdale",
         "County": "Mariciopa",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04000"
       }
     ]
   },
@@ -1745,7 +1978,8 @@
       {
         "Jurisdiction": "Bullhead City",
         "County": "Mohave",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04015"
       }
     ]
   },
@@ -1754,7 +1988,8 @@
       {
         "Jurisdiction": "Show Low",
         "County": "Navajo",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04017"
       }
     ]
   },
@@ -1763,22 +1998,26 @@
       {
         "Jurisdiction": "Pima County",
         "County": "Pima",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04019"
       },
       {
         "Jurisdiction": "Marana",
         "County": "Pima",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04019"
       },
       {
         "Jurisdiction": "Oro Valley",
         "County": "Pima",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04019"
       },
       {
         "Jurisdiction": "Tucson",
         "County": "Pima",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04019"
       }
     ]
   },
@@ -1787,27 +2026,32 @@
       {
         "Jurisdiction": "Apache Junction",
         "County": "Pinal",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04021"
       },
       {
         "Jurisdiction": "Casa Grande",
         "County": "Pinal",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04021"
       },
       {
         "Jurisdiction": "Florence",
         "County": "Pinal",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04021"
       },
       {
         "Jurisdiction": "Queen Creek",
         "County": "Pinal",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04021"
       },
       {
         "Jurisdiction": "Eloy",
         "County": "Pinal",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04021"
       }
     ]
   },
@@ -1816,17 +2060,20 @@
       {
         "Jurisdiction": "Chino Valley",
         "County": "Yavapai",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04025"
       },
       {
         "Jurisdiction": "Prescott",
         "County": "Yavapai",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04025"
       },
       {
         "Jurisdiction": "Yavapai County",
         "County": "Yavapai",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04025"
       }
     ]
   },
@@ -1835,7 +2082,8 @@
       {
         "Jurisdiction": "Davis",
         "County": "Yolo",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06113"
       }
     ]
   },
@@ -1844,7 +2092,8 @@
       {
         "Jurisdiction": "El Dorado Co",
         "County": "El Dorado",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06017"
       }
     ]
   },
@@ -1853,12 +2102,14 @@
       {
         "Jurisdiction": "Lancaster",
         "County": "Los Angeles",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06037"
       },
       {
         "Jurisdiction": "Long Beach",
         "County": "Los Angeles",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06037"
       }
     ]
   },
@@ -1867,17 +2118,20 @@
       {
         "Jurisdiction": "Sacramento",
         "County": "Sacramento",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06067"
       },
       {
         "Jurisdiction": "Citrus Heights",
         "County": "Sacramento",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06067"
       },
       {
         "Jurisdiction": "Elk Grove",
         "County": "Sacramento",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06067"
       }
     ]
   },
@@ -1886,17 +2140,20 @@
       {
         "Jurisdiction": "San Diego",
         "County": "San Diego",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06073"
       },
       {
         "Jurisdiction": "Carlsbad",
         "County": "San Diego",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06073"
       },
       {
         "Jurisdiction": "Escondido",
         "County": "San Diego",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06073"
       }
     ]
   },
@@ -1905,7 +2162,8 @@
       {
         "Jurisdiction": "San Francisco",
         "County": "San Francisco",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06075"
       }
     ]
   },
@@ -1914,12 +2172,14 @@
       {
         "Jurisdiction": "Santa Cruz Co",
         "County": "Santa Cruz",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06087"
       },
       {
         "Jurisdiction": "Scotts Valley",
         "County": "Santa Cruz",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06087"
       }
     ]
   },
@@ -1928,12 +2188,14 @@
       {
         "Jurisdiction": "Adams Co",
         "County": "Adams",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08001"
       },
       {
         "Jurisdiction": "Commerce City",
         "County": "Adams",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08001"
       }
     ]
   },
@@ -1942,7 +2204,8 @@
       {
         "Jurisdiction": "Boulder",
         "County": "Boulder",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08013"
       }
     ]
   },
@@ -1951,17 +2214,20 @@
       {
         "Jurisdiction": "Eagle Co",
         "County": "Eagle",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08037"
       },
       {
         "Jurisdiction": "Basalt",
         "County": "Eagle",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08037"
       },
       {
         "Jurisdiction": "Eagle",
         "County": "Eagle",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08037"
       }
     ]
   },
@@ -1970,7 +2236,8 @@
       {
         "Jurisdiction": "Colorado Springs",
         "County": "El Paso",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08041"
       }
     ]
   },
@@ -1979,7 +2246,8 @@
       {
         "Jurisdiction": "Jefferson Co",
         "County": "Jefferson",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08059"
       }
     ]
   },
@@ -1988,17 +2256,20 @@
       {
         "Jurisdiction": "Larimer Co",
         "County": "Larimer",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08069"
       },
       {
         "Jurisdiction": "Loveland",
         "County": "Larimer",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08069"
       },
       {
         "Jurisdiction": "Ft. Collins",
         "County": "Larimer",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08069"
       }
     ]
   },
@@ -2007,12 +2278,14 @@
       {
         "Jurisdiction": "Pitken Co",
         "County": "Pitken",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08097"
       },
       {
         "Jurisdiction": "Pitkin Co",
         "County": "Pitkin",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08097"
       }
     ]
   },
@@ -2021,17 +2294,20 @@
       {
         "Jurisdiction": "Weld Co",
         "County": "Weld",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08123"
       },
       {
         "Jurisdiction": "Windsor",
         "County": "Weld",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08123"
       },
       {
         "Jurisdiction": "Greeley",
         "County": "Weld",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08123"
       }
     ]
   },
@@ -2040,7 +2316,8 @@
       {
         "Jurisdiction": "Sierra Vista",
         "County": "Cochise",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04003"
       }
     ]
   },
@@ -2049,22 +2326,26 @@
       {
         "Jurisdiction": "Fremont",
         "County": "Alameda",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06001"
       },
       {
         "Jurisdiction": "Hayward",
         "County": "Alameda",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06001"
       },
       {
         "Jurisdiction": "Livermore",
         "County": "Alameda",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06001"
       },
       {
         "Jurisdiction": "San Leandro",
         "County": "Alameda",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06001"
       }
     ]
   },
@@ -2073,7 +2354,8 @@
       {
         "Jurisdiction": "Orinda",
         "County": "Contra Costa",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06013"
       }
     ]
   },
@@ -2082,7 +2364,8 @@
       {
         "Jurisdiction": "Clovis",
         "County": "Fresno",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06019"
       }
     ]
   },
@@ -2091,7 +2374,8 @@
       {
         "Jurisdiction": "Bakersfield",
         "County": "Kern",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06029"
       }
     ]
   },
@@ -2100,7 +2384,8 @@
       {
         "Jurisdiction": "Salinas",
         "County": "Monterey",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06053"
       }
     ]
   },
@@ -2109,7 +2394,8 @@
       {
         "Jurisdiction": "St. Helena",
         "County": "Napa",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06055"
       }
     ]
   },
@@ -2118,7 +2404,8 @@
       {
         "Jurisdiction": "Brea",
         "County": "Orange",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06059"
       }
     ]
   },
@@ -2127,7 +2414,8 @@
       {
         "Jurisdiction": "Rocklin",
         "County": "Placer",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06061"
       }
     ]
   },
@@ -2136,17 +2424,20 @@
       {
         "Jurisdiction": "Highland",
         "County": "San Bernadino",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06071"
       },
       {
         "Jurisdiction": "Redlands",
         "County": "San Bernadino",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06071"
       },
       {
         "Jurisdiction": "Rialto",
         "County": "San Bernadino",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06071"
       }
     ]
   },
@@ -2155,12 +2446,14 @@
       {
         "Jurisdiction": "Lodi",
         "County": "San Joaquin",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06077"
       },
       {
         "Jurisdiction": "Ripon",
         "County": "San Joaquin",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06077"
       }
     ]
   },
@@ -2169,12 +2462,14 @@
       {
         "Jurisdiction": "Paso Robles",
         "County": "San Luis Obispo",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06079"
       },
       {
         "Jurisdiction": "San Luis Obispo",
         "County": "San Luis Obispo",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06079"
       }
     ]
   },
@@ -2183,12 +2478,14 @@
       {
         "Jurisdiction": "Carpinteria",
         "County": "Santa Barbara",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06083"
       },
       {
         "Jurisdiction": "Santa Maria",
         "County": "Santa Barbara",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06083"
       }
     ]
   },
@@ -2197,12 +2494,14 @@
       {
         "Jurisdiction": "Gilroy",
         "County": "Santa Clara",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06085"
       },
       {
         "Jurisdiction": "Palo Alto",
         "County": "Santa Clara",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06085"
       }
     ]
   },
@@ -2211,7 +2510,8 @@
       {
         "Jurisdiction": "Redding",
         "County": "Shasta",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06089"
       }
     ]
   },
@@ -2220,7 +2520,8 @@
       {
         "Jurisdiction": "Vacaville",
         "County": "Solano",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06095"
       }
     ]
   },
@@ -2229,7 +2530,8 @@
       {
         "Jurisdiction": "Windsor",
         "County": "Sonoma",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06097"
       }
     ]
   },
@@ -2238,7 +2540,8 @@
       {
         "Jurisdiction": "Santa Paula",
         "County": "Ventura",
-        "State": "CA"
+        "State": "CA",
+        "fips": "06111"
       }
     ]
   },
@@ -2247,7 +2550,8 @@
       {
         "Jurisdiction": "Durango",
         "County": "La Plata",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08067"
       }
     ]
   },
@@ -2256,7 +2560,8 @@
       {
         "Jurisdiction": "Mesa Co",
         "County": "Mesa",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08077"
       }
     ]
   },
@@ -2265,7 +2570,8 @@
       {
         "Jurisdiction": "Eager",
         "County": "Apache",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04001"
       }
     ]
   },
@@ -2274,7 +2580,8 @@
       {
         "Jurisdiction": "Yuma",
         "County": "Yuma",
-        "State": "AZ"
+        "State": "AZ",
+        "fips": "04027"
       }
     ]
   },
@@ -2283,7 +2590,8 @@
       {
         "Jurisdiction": "Canon City",
         "County": "Fremont",
-        "State": "CO"
+        "State": "CO",
+        "fips": "08043"
       }
     ]
   }
