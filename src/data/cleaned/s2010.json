@@ -158,16 +158,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "AZ",
     "County": "Cochise",
     "Jurisdiction": "Sierra Vista",
@@ -1725,16 +1715,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Fremont",
@@ -2526,7 +2506,7 @@
       "Roads": 7580,
       "Water": 377,
       "Sewer": 2569,
-      "Drain": 2121.521739,
+      "Drain": 2121.52173913043,
       "Parks": 1210,
       "Fire": 1400,
       "Police": 130,
@@ -3752,16 +3732,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Adams Co",
@@ -4513,16 +4483,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "DE",
     "County": "New Castle",
     "Jurisdiction": "New Castle Co",
@@ -4571,16 +4531,6 @@
       "Police": 7,
       "GenGov": 88
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "FL",
@@ -5413,7 +5363,7 @@
     "Jurisdiction": "Highlands Co",
     "Updated": 1256619600000,
     "SingleFamily": {
-      "TotalNotes": "all fees suspended for 2 yrs eff. 7/1/2009"
+      "TotalNotes": "all fees suspended for 1 yr eff. 7/1/2009"
     },
     "MultiFamily": {},
     "Retail": {},
@@ -5875,20 +5825,18 @@
     "Jurisdiction": "Levy Co",
     "Updated": 1288069200000,
     "SingleFamily": {
-      "Total": 2066,
-      "NonUtil": 2066,
+      "Total": 1249,
+      "NonUtil": 1249,
       "Roads": 1046,
       "Parks": 150,
-      "Fire": 53,
-      "Schools": 817
+      "Fire": 53
     },
     "MultiFamily": {
-      "Total": 1327,
-      "NonUtil": 1327,
+      "Total": 911,
+      "NonUtil": 911,
       "Roads": 734,
       "Parks": 124,
-      "Fire": 53,
-      "Schools": 416
+      "Fire": 53
     },
     "Retail": {
       "Total": 1790,
@@ -7390,16 +7338,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Canton",
@@ -7792,16 +7730,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "HI",
     "County": "Honolulu",
     "Jurisdiction": "Honolulu",
@@ -7831,16 +7759,6 @@
       "NonUtil": 2019,
       "Roads": 2019
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "ID",
@@ -7939,16 +7857,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "IL",
     "County": "DeKalb",
     "Jurisdiction": "DeKalb (city)",
@@ -8032,16 +7940,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Fishers",
@@ -8111,16 +8009,6 @@
       "NonUtil": 1394,
       "Roads": 1394
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "KS",
@@ -8245,16 +8133,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "LA",
     "County": "E Baton Rouge",
     "Jurisdiction": "Baton Rouge",
@@ -8325,16 +8203,6 @@
       "Roads": 1254,
       "Drain": 878
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "MD",
@@ -8656,16 +8524,6 @@
     "Industrial": {}
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MO",
     "County": "Clay/Jackson",
     "Jurisdiction": "Kansas City",
@@ -8726,16 +8584,6 @@
       "NonUtil": 743,
       "Roads": 743
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "MT",
@@ -8979,16 +8827,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NE",
     "County": "Lancaster",
     "Jurisdiction": "Lincoln",
@@ -9030,16 +8868,6 @@
       "Water": 134,
       "Sewer": 67
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "NH",
@@ -9141,16 +8969,6 @@
       "NonUtil": 2438,
       "Schools": 2438
     },
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
     "Retail": {},
     "Office": {},
     "Industrial": {}
@@ -9497,16 +9315,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NV",
     "County": "Churchill",
     "Jurisdiction": "Churchill County",
@@ -9684,16 +9492,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OH",
     "County": "Butler",
     "Jurisdiction": "Middletown",
@@ -9809,16 +9607,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OK",
     "County": "Cleveland",
     "Jurisdiction": "Moore",
@@ -9850,16 +9638,6 @@
       "NonUtil": 360,
       "Roads": 360
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "OR",
@@ -10359,16 +10137,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "PA",
     "County": "Montgomery",
     "Jurisdiction": "Towamencin Twp",
@@ -10418,16 +10186,6 @@
       "Parks": 500,
       "Other": 300
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "SC",
@@ -10597,22 +10355,17 @@
     },
     "Retail": {
       "Total": 1318,
-      "NonUtil": 942,
       "Roads": 942,
       "Water": 80,
       "Sewer": 296
     },
     "Office": {
-      "Total": 1681,
-      "NonUtil": 1305,
-      "Roads": 1305,
+      "Total": 376,
       "Water": 80,
       "Sewer": 296
     },
     "Industrial": {
-      "Total": 1234,
-      "NonUtil": 858,
-      "Roads": 858,
+      "Total": 376,
       "Water": 80,
       "Sewer": 296
     }
@@ -10639,9 +10392,9 @@
       "Other": 1500
     },
     "Retail": {
-      "Total": 2137,
-      "NonUtil": 2137,
-      "Roads": 1587,
+      "Total": 2988,
+      "NonUtil": 2988,
+      "Roads": 2438,
       "Fire": 550
     },
     "Office": {
@@ -10740,44 +10493,44 @@
     "Jurisdiction": "Franklin",
     "Updated": 1288328400000,
     "SingleFamily": {
-      "Total": 9251,
-      "NonUtil": 5971,
+      "Total": 8391,
+      "NonUtil": 5111,
       "Roads": 2191,
       "Water": 1185,
       "Sewer": 2095,
-      "Other": 3780
+      "Other": 2920
     },
     "MultiFamily": {
-      "Total": 5871,
-      "NonUtil": 3247,
+      "Total": 5621,
+      "NonUtil": 2997,
       "Roads": 1537,
       "Water": 948,
       "Sewer": 1676,
-      "Other": 1710
+      "Other": 1460
     },
     "Retail": {
-      "Total": 6173,
-      "NonUtil": 4861,
+      "Total": 5763,
+      "NonUtil": 4451,
       "Roads": 2681,
       "Water": 474,
       "Sewer": 838,
-      "Other": 2180
+      "Other": 1770
     },
     "Office": {
-      "Total": 5383,
-      "NonUtil": 4071,
+      "Total": 4973,
+      "NonUtil": 3661,
       "Roads": 1891,
       "Water": 474,
       "Sewer": 838,
-      "Other": 2180
+      "Other": 1770
     },
     "Industrial": {
-      "Total": 5005,
-      "NonUtil": 3693,
+      "Total": 4595,
+      "NonUtil": 3283,
       "Roads": 1513,
       "Water": 474,
       "Sewer": 838,
-      "Other": 2180
+      "Other": 1770
     }
   },
   {
@@ -10815,16 +10568,6 @@
       "Roads": 498,
       "Other": 2000
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "TX",
@@ -11124,16 +10867,6 @@
       "Water": 355,
       "Sewer": 266
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "UT",
@@ -11629,16 +11362,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "VA",
     "County": "Loudoun",
     "Jurisdiction": "Leesburg",
@@ -11709,16 +11432,6 @@
       "Water": 1104,
       "Sewer": 560
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "VT",
@@ -11804,16 +11517,6 @@
       "NonUtil": 294,
       "Roads": 294
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "WA",
@@ -12426,16 +12129,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "WV",
     "County": "Jefferson",
     "Jurisdiction": "Jefferson Co",
@@ -12474,16 +12167,6 @@
       "Fire": 338,
       "Police": 18
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "WI",

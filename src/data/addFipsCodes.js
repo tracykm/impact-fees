@@ -102,12 +102,16 @@ function addFipsCodes(nestedData) {
   const usedCodes = {};
   Object.values(nestedData).forEach(d => {
     const state = STATES.find(s => s.short_name === d.State);
+
     const baseCountyName = d.County.toLowerCase()
       .replace("county", "")
       .replace(".", "")
       .trim();
 
     const item = countyCodes.find((code, i) => {
+      if (!state) {
+        return { usedCodes, nestedData };
+      }
       if (state.fips !== String(code["State Code (FIPS)"])) {
         return false;
       }
