@@ -17,12 +17,12 @@ it('cleans data', () => {
       Library__1: '',
     },
   ]
-  expect(cleanData(data)).toEqual([
+  expect(cleanData(data, 's2010')).toEqual([
     {
       State: 'AR',
       County: 'Benton',
       Jurisdiction: 'Lowell',
-      Updated: 1176699600000,
+      Updated: 1281243600000,
       SingleFamily: {
         Total: 1754,
         NonUtil: 504,
@@ -52,7 +52,7 @@ it('empty row', () => {
       Industrial: {},
     },
   ]
-  expect(cleanData(data)).toEqual([])
+  expect(cleanData(data, 's2010')).toEqual([])
 })
 
 it('header', () => {
@@ -62,32 +62,28 @@ it('header', () => {
       County: 'County',
       Jurisdiction: 'Jurisdiction',
       UpdatedNotes: 'Updated',
-      SingleFamily: {
-        TotalNotes: 'Total',
-        NonUtilNotes: 'Non-Util',
-        RoadsNotes: 'Roads',
-        WaterNotes: 'Water',
-        SewerNotes: 'Sewer',
-        DrainNotes: 'Drain',
-        ParksNotes: 'Parks',
-        LibraryNotes: 'Library',
-        FireNotes: 'Fire',
-        PoliceNotes: 'Police',
-        GenGovNotes: 'GenGov',
-        SchoolsNotes: 'Schools',
-        OtherNotes: 'Other',
-      },
-      MultiFamily: {
-        TotalNotes: 'Total',
-      },
+      Total: 'Total',
+      NonUtil: 'Non-Util',
+      Roads: 'Roads',
+      Water: 'Water',
+      Sewer: 'Sewer',
+      Drain: 'Drain',
+      Parks: 'Parks',
+      Library: 'Library',
+      Fire: 'Fire',
+      Police: 'Police',
+      GenGov: 'GenGov',
+      Schools: 'Schools',
+      Other: 'Other',
+      Total__1: 'Total',
     },
   ]
-  expect(cleanData(data)).toEqual([])
+  expect(cleanData(data, 's2010')).toEqual([])
 })
 
 it('empty key', () => {
   const data = [{ '': 'Single-Family Unit' }]
-  expect(cleanData(data)).toEqual([])
+  expect(cleanData(data, 's2010')).toEqual([])
 })
 
 it('extra header', () => {
@@ -98,7 +94,7 @@ it('extra header', () => {
       Jurisdiction: 275,
     },
   ]
-  expect(cleanData(data)).toEqual([])
+  expect(cleanData(data, 's2010')).toEqual([])
 })
 
 it('sub total', () => {
@@ -107,13 +103,11 @@ it('sub total', () => {
       State: 'NV',
       County: '',
       Jurisdiction: 5,
-      SingleFamily: {
-        Total: 5604,
-        NonUtil: 4772,
-      },
+      Total: '5604',
+      NonUtil: '4772',
     },
   ]
-  expect(cleanData(data)).toEqual([])
+  expect(cleanData(data, 's2010')).toEqual([])
 })
 
 it('zero', () => {
@@ -128,12 +122,12 @@ it('zero', () => {
       Water: '0',
     },
   ]
-  expect(cleanData(data)).toEqual([
+  expect(cleanData(data, 's2010')).toEqual([
     {
       State: 'AR',
       County: 'Benton',
       Jurisdiction: 'Lowell',
-      Updated: 1176699600000,
+      Updated: 1281243600000,
       SingleFamily: {
         Total: 5604,
       },

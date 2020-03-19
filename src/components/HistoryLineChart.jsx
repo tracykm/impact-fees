@@ -1,31 +1,25 @@
-import React, { useState } from "react";
-import { LineChart, Tooltip, Line, XAxis, YAxis } from "recharts";
-import { formatMoney } from "./Cell";
+import React, { useState } from 'react'
+import { LineChart, Tooltip, Line, XAxis, YAxis } from 'recharts'
+import { formatMoney } from './Cell'
 import {
   JurisdictionData,
   UtilityType,
   TypesOfPlaces,
-  PropertyDict
-} from "../types";
-import { UsedKeys } from "../utils/getUsedKeys";
-import { ButtonsOrDropdown } from "./ButtonsOrDropdown";
+  PropertyDict,
+} from '../types'
+import { UsedKeys } from '../utils/getUsedKeys'
+import { ButtonsOrDropdown } from './ButtonsOrDropdown'
 
-export const HistoryLineChart = ({
-  DataEntries,
-  usedKeys
-}: {
-  DataEntries: JurisdictionData["DataEntries"];
-  usedKeys: UsedKeys;
-}) => {
-  const [utility, setUtility] = useState("Total" as UtilityType);
-  const opts: string[] = Object.keys(
+export const HistoryLineChart = ({ DataEntries, usedKeys }) => {
+  const [utility, setUtility] = useState('Total')
+  const opts = Object.keys(
     Object.values(usedKeys)
       .flat()
       .reduce((acc, k) => {
-        acc[k] = k; // remove duplicates
-        return acc;
-      }, {})
-  );
+        acc[k] = k // remove duplicates
+        return acc
+      }, {}),
+  )
 
   const data = DataEntries.map(d => ({
     SingleFamily: d.SingleFamily[utility],
@@ -33,8 +27,9 @@ export const HistoryLineChart = ({
     Retail: d.Retail[utility],
     Office: d.Office[utility],
     Industrial: d.Industrial[utility],
-    Updated: d.Updated
-  }));
+    Updated: d.Updated,
+  }))
+  // @ts-ignore-start
   return (
     <div className="d-inline-block">
       <LineChart
@@ -42,21 +37,22 @@ export const HistoryLineChart = ({
         height={400}
         data={data}
         margin={{
-          bottom: 10
+          bottom: 10,
         }}
       >
         <XAxis
+          //@ts-ignore
           tickFormatter={val => {
-            return new Date(val).getFullYear();
+            return new Date(val).getFullYear()
           }}
           dataKey="Updated"
           type="number"
-          domain={["auto", "auto"]}
+          domain={['auto', 'auto']}
         />
         <YAxis tickFormatter={formatMoney} />
         <Tooltip
           labelFormatter={val => {
-            return new Date(val).getFullYear();
+            return new Date(val).getFullYear()
           }}
           formatter={formatMoney}
         />
@@ -65,17 +61,18 @@ export const HistoryLineChart = ({
             type="monotone"
             key={propertyType}
             dataKey={propertyType}
-            stroke={PropertyDict[propertyType].color || ""}
+            stroke={PropertyDict[propertyType].color || ''}
           />
         ))}
       </LineChart>
       <div className="text-center">
         <ButtonsOrDropdown
           onChange={setUtility}
-          value={utility as string}
+          value={utility}
           options={opts.map(d => ({ name: d, value: d }))}
         />
       </div>
     </div>
-  );
-};
+  )
+}
+// @ts-ignore-end

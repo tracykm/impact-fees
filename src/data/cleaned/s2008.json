@@ -3,7 +3,7 @@
     "State": "AR",
     "County": "Benton",
     "Jurisdiction": "Bentonville",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3358,
       "NonUtil": 762,
@@ -44,7 +44,7 @@
     "State": "AR",
     "County": "Benton",
     "Jurisdiction": "Lowell",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 754,
       "NonUtil": 504,
@@ -80,7 +80,7 @@
     "State": "AR",
     "County": "Faulkner",
     "Jurisdiction": "Conway",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1698,
       "NonUtil": 1698,
@@ -113,7 +113,7 @@
     "State": "AR",
     "County": "Washington",
     "Jurisdiction": "Fayetteville",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1455,
       "NonUtil": 312,
@@ -159,7 +159,7 @@
     "State": "AZ",
     "County": "Cochise",
     "Jurisdiction": "Sierra Vista",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4818,
       "NonUtil": 4818,
@@ -204,7 +204,7 @@
     "State": "AZ",
     "County": "Gila",
     "Jurisdiction": "Payson",
-    "Updated": 1222750800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10305,
       "NonUtil": 2735,
@@ -238,7 +238,7 @@
     "State": "AZ",
     "County": "Gila",
     "Jurisdiction": "Sedona",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9475,
       "NonUtil": 9475,
@@ -286,7 +286,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Avondale",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18021,
       "NonUtil": 7277,
@@ -347,7 +347,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Buckeye",
-    "Updated": 1222318800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7412,
       "NonUtil": 3648,
@@ -407,7 +407,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Chandler",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 19538,
       "NonUtil": 10932,
@@ -465,7 +465,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Fountain Hills",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5114,
       "NonUtil": 5114,
@@ -515,7 +515,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Gilbert",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18505,
       "NonUtil": 7010,
@@ -573,7 +573,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Glendale",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14780,
       "NonUtil": 5790,
@@ -638,7 +638,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Goodyear",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14997,
       "NonUtil": 5998,
@@ -703,7 +703,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Mesa",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8451,
       "NonUtil": 3572,
@@ -765,7 +765,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Peoria",
-    "Updated": 1220331600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18874,
       "NonUtil": 13061,
@@ -827,7 +827,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Phoenix",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14444,
       "NonUtil": 7304,
@@ -888,7 +888,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Scottsdale",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8462,
       "NonUtil": 906,
@@ -929,7 +929,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Surprise",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14602,
       "NonUtil": 9022,
@@ -994,7 +994,7 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Tempe",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4823,
       "Water": 2621,
@@ -1025,7 +1025,7 @@
     "State": "AZ",
     "County": "Mojave",
     "Jurisdiction": "Bullhead City",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 721,
       "Water": 721
@@ -1051,7 +1051,7 @@
     "State": "AZ",
     "County": "Navajo",
     "Jurisdiction": "Show Low",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5054,
       "NonUtil": 1770,
@@ -1096,7 +1096,7 @@
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Pima County",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11255,
       "NonUtil": 6142,
@@ -1134,7 +1134,7 @@
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Marana",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9944,
       "NonUtil": 7613,
@@ -1166,7 +1166,7 @@
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Oro Valley",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7877,
       "NonUtil": 3040,
@@ -1196,7 +1196,7 @@
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Tucson",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8857,
       "NonUtil": 7329,
@@ -1240,7 +1240,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Apache Junction",
-    "Updated": 1220504400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12429,
       "NonUtil": 9508,
@@ -1295,7 +1295,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Casa Grande",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11120,
       "NonUtil": 7004,
@@ -1351,7 +1351,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Eloy",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4188,
       "NonUtil": 1670,
@@ -1401,7 +1401,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Florence",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5535,
       "NonUtil": 3765,
@@ -1463,7 +1463,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Queen Creek",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15569,
       "NonUtil": 10684,
@@ -1518,7 +1518,7 @@
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Yavapai County",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3400,
       "NonUtil": 3400,
@@ -1537,7 +1537,7 @@
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Chino Valley",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10353,
       "NonUtil": 4538,
@@ -1597,7 +1597,7 @@
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Prescott",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12600,
       "NonUtil": 3227,
@@ -1643,7 +1643,7 @@
     "State": "AZ",
     "County": "Yuma",
     "Jurisdiction": "Yuma",
-    "Updated": 1220590800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 16130,
       "NonUtil": 4350,
@@ -1706,7 +1706,7 @@
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Fremont",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 36075,
       "NonUtil": 36075,
@@ -1749,7 +1749,7 @@
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Hayward",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 27886,
       "NonUtil": 19143,
@@ -1797,7 +1797,7 @@
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Livermore",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 57075,
       "NonUtil": 29871,
@@ -1857,7 +1857,7 @@
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "San Leandro",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 23445,
       "NonUtil": 22153,
@@ -1905,7 +1905,7 @@
     "State": "CA",
     "County": "Contra Costa",
     "Jurisdiction": "Orinda",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18220,
       "NonUtil": 18220,
@@ -1943,7 +1943,7 @@
     "State": "CA",
     "County": "El Dorado",
     "Jurisdiction": "El Dorado Co",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 38237,
       "NonUtil": 38237,
@@ -1986,7 +1986,7 @@
     "State": "CA",
     "County": "Fresno",
     "Jurisdiction": "Clovis",
-    "Updated": 1220936400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24183,
       "NonUtil": 13639,
@@ -2048,7 +2048,7 @@
     "State": "CA",
     "County": "Kern",
     "Jurisdiction": "Bakersfield",
-    "Updated": 1221109200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15326,
       "NonUtil": 11926,
@@ -2096,7 +2096,7 @@
     "State": "CA",
     "County": "Los Angeles",
     "Jurisdiction": "Lancaster",
-    "Updated": 1221109200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13094,
       "NonUtil": 13094,
@@ -2148,7 +2148,7 @@
     "State": "CA",
     "County": "Los Angeles",
     "Jurisdiction": "Long Beach",
-    "Updated": 1221109200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13183,
       "NonUtil": 13105,
@@ -2201,7 +2201,7 @@
     "State": "CA",
     "County": "Monterey",
     "Jurisdiction": "Salinas",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10242,
       "NonUtil": 6322,
@@ -2244,7 +2244,7 @@
     "State": "CA",
     "County": "Napa",
     "Jurisdiction": "St. Helena",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24280,
       "NonUtil": 10740,
@@ -2300,7 +2300,7 @@
     "State": "CA",
     "County": "Orange",
     "Jurisdiction": "Brea",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18071,
       "NonUtil": 4490,
@@ -2346,7 +2346,7 @@
     "State": "CA",
     "County": "Placer",
     "Jurisdiction": "Rocklin",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18668,
       "NonUtil": 18668,
@@ -2394,7 +2394,7 @@
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Citrus Heights",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13893,
       "NonUtil": 6793,
@@ -2447,7 +2447,7 @@
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Elk Grove",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 52835,
       "NonUtil": 33131,
@@ -2520,7 +2520,7 @@
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Sacramento",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 30787,
       "NonUtil": 22038,
@@ -2576,7 +2576,7 @@
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Highland",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 23006,
       "NonUtil": 23006,
@@ -2631,7 +2631,7 @@
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Redlands",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15662,
       "NonUtil": 6082,
@@ -2694,7 +2694,7 @@
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Rialto",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 16926,
       "NonUtil": 8456,
@@ -2762,7 +2762,7 @@
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "Carlsbad",
-    "Updated": 1221195600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24876,
       "NonUtil": 15948,
@@ -2812,7 +2812,7 @@
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "Escondido",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 29901,
       "NonUtil": 14201,
@@ -2866,7 +2866,7 @@
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "San Diego",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 23620,
       "NonUtil": 12620,
@@ -2901,7 +2901,7 @@
     "State": "CA",
     "County": "San Joaquin",
     "Jurisdiction": "Lodi",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24935,
       "NonUtil": 18153,
@@ -2967,7 +2967,7 @@
     "State": "CA",
     "County": "San Joaquin",
     "Jurisdiction": "Ripon",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 56631,
       "NonUtil": 45710,
@@ -3045,7 +3045,7 @@
     "State": "CA",
     "County": "San Luis Obispo",
     "Jurisdiction": "Paso Robles",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 34697,
       "NonUtil": 20431,
@@ -3107,7 +3107,7 @@
     "State": "CA",
     "County": "San Luis Obispo",
     "Jurisdiction": "San Luis Obispo",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 36768,
       "NonUtil": 15631,
@@ -3150,7 +3150,7 @@
     "State": "CA",
     "County": "Santa Barbara",
     "Jurisdiction": "Carpinteria",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24861,
       "NonUtil": 24861,
@@ -3209,7 +3209,7 @@
     "State": "CA",
     "County": "Santa Barbara",
     "Jurisdiction": "Santa Maria",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 27407,
       "NonUtil": 19580,
@@ -3275,7 +3275,7 @@
     "State": "CA",
     "County": "Santa Clara",
     "Jurisdiction": "Gilroy",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 51320,
       "NonUtil": 33553,
@@ -3326,7 +3326,7 @@
     "State": "CA",
     "County": "Santa Clara",
     "Jurisdiction": "Palo Alto",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 41533,
       "NonUtil": 41533,
@@ -3370,7 +3370,7 @@
     "State": "CA",
     "County": "Santa Cruz",
     "Jurisdiction": "Santa Cruz Co",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11850,
       "NonUtil": 6223,
@@ -3416,7 +3416,7 @@
     "State": "CA",
     "County": "Santa Cruz",
     "Jurisdiction": "Scotts Valley",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 21287,
       "NonUtil": 15150,
@@ -3471,7 +3471,7 @@
     "State": "CA",
     "County": "Shasta",
     "Jurisdiction": "Redding",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 22959,
       "NonUtil": 9956,
@@ -3524,7 +3524,7 @@
     "State": "CA",
     "County": "Solano",
     "Jurisdiction": "Vacaville",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 48366,
       "NonUtil": 32973,
@@ -3597,7 +3597,7 @@
     "State": "CA",
     "County": "Sonoma",
     "Jurisdiction": "Windsor",
-    "Updated": 1222318800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 37379,
       "NonUtil": 23084,
@@ -3650,7 +3650,7 @@
     "State": "CA",
     "County": "Ventura",
     "Jurisdiction": "Santa Paula",
-    "Updated": 1184216400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 21974,
       "NonUtil": 13447,
@@ -3720,7 +3720,7 @@
     "State": "CA",
     "County": "Yolo",
     "Jurisdiction": "Davis",
-    "Updated": 1222664400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 31866,
       "NonUtil": 22976,
@@ -3786,7 +3786,7 @@
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Adams Co",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1599,
       "NonUtil": 1599,
@@ -3817,7 +3817,7 @@
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Commerce City",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2700,
       "NonUtil": 2700,
@@ -3855,7 +3855,7 @@
     "State": "CO",
     "County": "Boulder",
     "Jurisdiction": "Boulder",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 23326,
       "NonUtil": 11761,
@@ -3927,7 +3927,7 @@
     "State": "CO",
     "County": "Eagle",
     "Jurisdiction": "Eagle Co",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2137,
       "NonUtil": 2137,
@@ -3965,7 +3965,7 @@
     "State": "CO",
     "County": "Eagle",
     "Jurisdiction": "Basalt",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11867,
       "NonUtil": 1750,
@@ -4012,7 +4012,7 @@
     "State": "CO",
     "County": "El Paso",
     "Jurisdiction": "Colorado Springs",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15985,
       "NonUtil": 5001,
@@ -4057,7 +4057,7 @@
     "State": "CO",
     "County": "Fremont",
     "Jurisdiction": "Canon City",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 304,
       "NonUtil": 304,
@@ -4088,7 +4088,7 @@
     "State": "CO",
     "County": "Jefferson",
     "Jurisdiction": "Jefferson Co",
-    "Updated": 1221541200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2591,
       "NonUtil": 2591,
@@ -4119,7 +4119,7 @@
     "State": "CO",
     "County": "La Plata",
     "Jurisdiction": "Durango",
-    "Updated": 1222578000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10516,
       "NonUtil": 3414,
@@ -4164,7 +4164,7 @@
     "State": "CO",
     "County": "Larimer",
     "Jurisdiction": "Larimer Co",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4172,
       "NonUtil": 4172,
@@ -4197,7 +4197,7 @@
     "State": "CO",
     "County": "Larimer",
     "Jurisdiction": "Loveland",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 20176,
       "NonUtil": 13104,
@@ -4263,7 +4263,7 @@
     "State": "CO",
     "County": "Larimer",
     "Jurisdiction": "Ft. Collins",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 22520,
       "NonUtil": 9312,
@@ -4330,7 +4330,7 @@
     "State": "CO",
     "County": "Mesa",
     "Jurisdiction": "Mesa Co",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2314,
       "NonUtil": 2314,
@@ -4365,7 +4365,7 @@
     "State": "CO",
     "County": "Pitkin",
     "Jurisdiction": "Pitkin Co",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 20980,
       "NonUtil": 20980,
@@ -4406,7 +4406,7 @@
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Weld Co",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2862,
       "NonUtil": 2862,
@@ -4447,7 +4447,7 @@
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Windsor",
-    "Updated": 1222318800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 17844,
       "NonUtil": 7419,
@@ -4495,7 +4495,7 @@
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Greeley",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5433,
       "NonUtil": 5433,
@@ -4543,7 +4543,7 @@
     "State": "DE",
     "County": "New Castle",
     "Jurisdiction": "New Castle Co",
-    "Updated": 1221714000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9321,
       "NonUtil": 1157,
@@ -4593,7 +4593,7 @@
     "State": "FL",
     "County": "Alachua",
     "Jurisdiction": "Alachua Co",
-    "Updated": 1222318800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4678,
       "NonUtil": 3202,
@@ -4633,7 +4633,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Brevard Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13347,
       "NonUtil": 9187,
@@ -4680,7 +4680,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Cocoa",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10133,
       "NonUtil": 9133,
@@ -4730,7 +4730,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Melbourne",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9923,
       "NonUtil": 9923,
@@ -4782,7 +4782,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Palm Bay",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9869,
       "NonUtil": 9869,
@@ -4834,7 +4834,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Rockledge",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9133,
       "NonUtil": 9133,
@@ -4879,7 +4879,7 @@
     "State": "FL",
     "County": "Broward",
     "Jurisdiction": "Broward Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2694,
       "NonUtil": 2694,
@@ -4914,7 +4914,7 @@
     "State": "FL",
     "County": "Broward",
     "Jurisdiction": "Ft. Lauderdale",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3918,
       "NonUtil": 3918,
@@ -4935,7 +4935,7 @@
     "State": "FL",
     "County": "Charlotte",
     "Jurisdiction": "Charlotte Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2510,
       "NonUtil": 2510,
@@ -4985,7 +4985,7 @@
     "State": "FL",
     "County": "Citrus",
     "Jurisdiction": "Citrus Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9314,
       "NonUtil": 9314,
@@ -5037,7 +5037,7 @@
     "State": "FL",
     "County": "Clay",
     "Jurisdiction": "Clay Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12112,
       "NonUtil": 12112,
@@ -5070,7 +5070,7 @@
     "State": "FL",
     "County": "Collier",
     "Jurisdiction": "Collier Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 35725,
       "NonUtil": 28655,
@@ -5137,7 +5137,7 @@
     "State": "FL",
     "County": "Columbia",
     "Jurisdiction": "Columbia Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3071,
       "NonUtil": 3071,
@@ -5162,7 +5162,7 @@
     "State": "FL",
     "County": "Dade",
     "Jurisdiction": "Miami/Dade Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7206,
       "NonUtil": 7206,
@@ -5207,7 +5207,7 @@
     "State": "FL",
     "County": "Dade",
     "Jurisdiction": "Miami",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10547,
       "NonUtil": 10547,
@@ -5251,7 +5251,7 @@
     "State": "FL",
     "County": "DeSoto",
     "Jurisdiction": "DeSoto Co",
-    "Updated": 1222750800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "TotalNotes": "suspended fees effective January 1, 2008"
     },
@@ -5264,7 +5264,7 @@
     "State": "FL",
     "County": "Flagler",
     "Jurisdiction": "Flagler Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5307,
       "NonUtil": 5307,
@@ -5299,7 +5299,7 @@
     "State": "FL",
     "County": "Flagler",
     "Jurisdiction": "Palm Coast",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13775,
       "NonUtil": 8865,
@@ -5349,7 +5349,7 @@
     "State": "FL",
     "County": "Gilchrist",
     "Jurisdiction": "Gilchrist Co",
-    "Updated": 1222578000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3500,
       "NonUtil": 3500,
@@ -5387,7 +5387,7 @@
     "State": "FL",
     "County": "Glades",
     "Jurisdiction": "Glades Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8143,
       "NonUtil": 8143,
@@ -5427,7 +5427,7 @@
     "State": "FL",
     "County": "Hardee",
     "Jurisdiction": "Hardee Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2628,
       "NonUtil": 2628,
@@ -5482,7 +5482,7 @@
     "State": "FL",
     "County": "Hendry",
     "Jurisdiction": "Hendry Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7591,
       "NonUtil": 7591,
@@ -5515,7 +5515,7 @@
     "State": "FL",
     "County": "Hernando",
     "Jurisdiction": "Hernando Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9238,
       "NonUtil": 9238,
@@ -5567,7 +5567,7 @@
     "State": "FL",
     "County": "Highlands",
     "Jurisdiction": "Highlands Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6034,
       "NonUtil": 6034,
@@ -5613,7 +5613,7 @@
     "State": "FL",
     "County": "Hillsborough",
     "Jurisdiction": "Hillsborough Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8221,
       "NonUtil": 4671,
@@ -5663,7 +5663,7 @@
     "State": "FL",
     "County": "Hillsborough",
     "Jurisdiction": "Plant City",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10949,
       "NonUtil": 8317,
@@ -5720,7 +5720,7 @@
     "State": "FL",
     "County": "Hillsborough",
     "Jurisdiction": "Tampa",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4374,
       "NonUtil": 4374,
@@ -5753,7 +5753,7 @@
     "State": "FL",
     "County": "Indian River",
     "Jurisdiction": "Indian River Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9877,
       "NonUtil": 9877,
@@ -5810,7 +5810,7 @@
     "State": "FL",
     "County": "Lake",
     "Jurisdiction": "Lake Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12316,
       "NonUtil": 12316,
@@ -5852,7 +5852,7 @@
     "State": "FL",
     "County": "Lake",
     "Jurisdiction": "Eustis",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14023,
       "NonUtil": 10501,
@@ -5904,7 +5904,7 @@
     "State": "FL",
     "County": "Lee",
     "Jurisdiction": "Lee Co",
-    "Updated": 1238216400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15310,
       "NonUtil": 15310,
@@ -5944,7 +5944,7 @@
     "State": "FL",
     "County": "Lee",
     "Jurisdiction": "Bonita Springs",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14062,
       "NonUtil": 14062,
@@ -5984,7 +5984,7 @@
     "State": "FL",
     "County": "Lee",
     "Jurisdiction": "Cape Coral",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14921,
       "NonUtil": 9785,
@@ -6039,7 +6039,7 @@
     "State": "FL",
     "County": "Lee",
     "Jurisdiction": "Ft. Myers",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18075,
       "NonUtil": 14086,
@@ -6087,7 +6087,7 @@
     "State": "FL",
     "County": "Levy",
     "Jurisdiction": "Levy Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1249,
       "NonUtil": 1249,
@@ -6125,7 +6125,7 @@
     "State": "FL",
     "County": "Manatee",
     "Jurisdiction": "Manatee Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15755,
       "NonUtil": 15755,
@@ -6170,7 +6170,7 @@
     "State": "FL",
     "County": "Marion",
     "Jurisdiction": "Marion Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9230,
       "NonUtil": 9230,
@@ -6208,7 +6208,7 @@
     "State": "FL",
     "County": "Martin",
     "Jurisdiction": "Martin Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11511,
       "NonUtil": 11511,
@@ -6260,7 +6260,7 @@
     "State": "FL",
     "County": "Monroe",
     "Jurisdiction": "Monroe Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1534,
       "NonUtil": 1534,
@@ -6310,7 +6310,7 @@
     "State": "FL",
     "County": "Nassau",
     "Jurisdiction": "Nassau Co",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6211,
       "NonUtil": 6211,
@@ -6360,7 +6360,7 @@
     "State": "FL",
     "County": "Okaloosa",
     "Jurisdiction": "Destin",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1384,
       "NonUtil": 1384,
@@ -6400,7 +6400,7 @@
     "State": "FL",
     "County": "Orange",
     "Jurisdiction": "Orange Co.",
-    "Updated": 1222405200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 17046,
       "NonUtil": 17046,
@@ -6445,7 +6445,7 @@
     "State": "FL",
     "County": "Orange",
     "Jurisdiction": "Ocoee",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24627,
       "NonUtil": 18495,
@@ -6500,7 +6500,7 @@
     "State": "FL",
     "County": "Orange",
     "Jurisdiction": "Orlando",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 17416,
       "NonUtil": 14879,
@@ -6543,7 +6543,7 @@
     "State": "FL",
     "County": "Orange",
     "Jurisdiction": "Winter Garden",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 22502,
       "NonUtil": 19157,
@@ -6596,7 +6596,7 @@
     "State": "FL",
     "County": "Osceola",
     "Jurisdiction": "Osceola Co",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18173,
       "NonUtil": 18173,
@@ -6636,7 +6636,7 @@
     "State": "FL",
     "County": "Palm Beach",
     "Jurisdiction": "Palm Beach Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11367,
       "NonUtil": 11367,
@@ -6688,7 +6688,7 @@
     "State": "FL",
     "County": "Palm Beach",
     "Jurisdiction": "Palm Beach Gardens",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15618,
       "NonUtil": 11327,
@@ -6740,7 +6740,7 @@
     "State": "FL",
     "County": "Pasco",
     "Jurisdiction": "Pasco Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 21119,
       "NonUtil": 16828,
@@ -6797,7 +6797,7 @@
     "State": "FL",
     "County": "Pinellas",
     "Jurisdiction": "Pinellas Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2418,
       "NonUtil": 2066,
@@ -6833,7 +6833,7 @@
     "State": "FL",
     "County": "Polk",
     "Jurisdiction": "Polk Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11821,
       "NonUtil": 11821,
@@ -6885,7 +6885,7 @@
     "State": "FL",
     "County": "Polk",
     "Jurisdiction": "Lakeland",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14299,
       "NonUtil": 14299,
@@ -6935,7 +6935,7 @@
     "State": "FL",
     "County": "Putnam",
     "Jurisdiction": "Putnam Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7023,
       "NonUtil": 7023,
@@ -6975,7 +6975,7 @@
     "State": "FL",
     "County": "Santa Rosa",
     "Jurisdiction": "Santa Rosa Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2090,
       "NonUtil": 2090,
@@ -7006,7 +7006,7 @@
     "State": "FL",
     "County": "St Johns",
     "Jurisdiction": "St. Johns Co",
-    "Updated": 1222750800000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9817,
       "NonUtil": 9817,
@@ -7056,7 +7056,7 @@
     "State": "FL",
     "County": "St Lucie",
     "Jurisdiction": "St. Lucie Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9222,
       "NonUtil": 9222,
@@ -7108,7 +7108,7 @@
     "State": "FL",
     "County": "Sarasota",
     "Jurisdiction": "Sarasota Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 16954,
       "NonUtil": 12203,
@@ -7175,7 +7175,7 @@
     "State": "FL",
     "County": "Sarasota",
     "Jurisdiction": "North Port",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12036,
       "NonUtil": 12036,
@@ -7229,7 +7229,7 @@
     "State": "FL",
     "County": "Seminole",
     "Jurisdiction": "Seminole Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6251,
       "NonUtil": 6251,
@@ -7269,7 +7269,7 @@
     "State": "FL",
     "County": "Seminole",
     "Jurisdiction": "Altamonte Springs",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6267,
       "NonUtil": 6267,
@@ -7316,7 +7316,7 @@
     "State": "FL",
     "County": "Seminole",
     "Jurisdiction": "Winter Springs",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10823,
       "NonUtil": 10823,
@@ -7366,7 +7366,7 @@
     "State": "FL",
     "County": "Sumter",
     "Jurisdiction": "Sumter Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2393,
       "NonUtil": 2393,
@@ -7402,7 +7402,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Volusia Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 9084,
       "NonUtil": 9084,
@@ -7442,7 +7442,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Daytona Beach",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11019,
       "NonUtil": 11019,
@@ -7492,7 +7492,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Deland",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15092,
       "NonUtil": 10029,
@@ -7552,7 +7552,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Deltona",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 11922,
       "NonUtil": 8996,
@@ -7607,7 +7607,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Ormond Beach",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13509,
       "NonUtil": 9559,
@@ -7657,7 +7657,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Port Orange",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 16637,
       "NonUtil": 10937,
@@ -7707,7 +7707,7 @@
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Canton",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3346,
       "NonUtil": 3346,
@@ -7753,7 +7753,7 @@
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Cherokee Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1953,
       "NonUtil": 1953,
@@ -7798,7 +7798,7 @@
     "State": "GA",
     "County": "Forsyth",
     "Jurisdiction": "Forsyth Co",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1030,
       "NonUtil": 1030,
@@ -7833,7 +7833,7 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Alpharetta",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1940,
       "NonUtil": 1940,
@@ -7874,7 +7874,7 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Atlanta",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1544,
       "NonUtil": 1544,
@@ -7920,7 +7920,7 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Roswell",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1998,
       "NonUtil": 1998,
@@ -7958,7 +7958,7 @@
     "State": "HI",
     "County": "Honolulu",
     "Jurisdiction": "Honolulu",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1836,
       "NonUtil": 1836,
@@ -7989,7 +7989,7 @@
     "State": "ID",
     "County": "Ada",
     "Jurisdiction": "Boise",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4801,
       "NonUtil": 4801,
@@ -8032,7 +8032,7 @@
     "State": "ID",
     "County": "Kootenai",
     "Jurisdiction": "Post Falls",
-    "Updated": 1222837200000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10585,
       "NonUtil": 3200,
@@ -8085,7 +8085,7 @@
     "State": "IL",
     "County": "DeKalb",
     "Jurisdiction": "DeKalb (city)",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2419,
       "NonUtil": 2419,
@@ -8106,7 +8106,7 @@
     "State": "IL",
     "County": "DeKalb",
     "Jurisdiction": "Sandwich",
-    "Updated": 1184043600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12695,
       "NonUtil": 5395,
@@ -8149,7 +8149,7 @@
     "State": "IL",
     "County": "DuPage",
     "Jurisdiction": "DuPage County",
-    "Updated": 1222578000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 624,
       "NonUtil": 624,
@@ -8180,7 +8180,7 @@
     "State": "IL",
     "County": "Kane",
     "Jurisdiction": "Kane County",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1948,
       "NonUtil": 1948,
@@ -8211,7 +8211,7 @@
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Fishers",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5150,
       "NonUtil": 2750,
@@ -8249,7 +8249,7 @@
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Noblesville",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3050,
       "NonUtil": 3050,
@@ -8282,7 +8282,7 @@
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Lenexa",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3908,
       "NonUtil": 3908,
@@ -8326,7 +8326,7 @@
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Olathe",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8047,
       "NonUtil": 2902,
@@ -8372,7 +8372,7 @@
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Overland Park",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2341,
       "NonUtil": 2341,
@@ -8403,7 +8403,7 @@
     "State": "LA",
     "County": "E Baton Rouge",
     "Jurisdiction": "Baton Rouge",
-    "Updated": 1233986400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2841,
       "NonUtil": 691,
@@ -8439,7 +8439,7 @@
     "State": "LA",
     "County": "St Tammany",
     "Jurisdiction": "St Tammany Parish",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3077,
       "NonUtil": 3077,
@@ -8475,7 +8475,7 @@
     "State": "MD",
     "County": "Anne Arundel",
     "Jurisdiction": "Anne Arundel Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5096,
       "NonUtil": 5096,
@@ -8513,7 +8513,7 @@
     "State": "MD",
     "County": "Calvert",
     "Jurisdiction": "Calvert Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12950,
       "NonUtil": 12950,
@@ -8550,7 +8550,7 @@
     "State": "MD",
     "County": "Carroll",
     "Jurisdiction": "Carroll Co",
-    "Updated": 1222578000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6836,
       "NonUtil": 6836,
@@ -8571,7 +8571,7 @@
     "State": "MD",
     "County": "Charles",
     "Jurisdiction": "Charles Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 19955,
       "NonUtil": 11598,
@@ -8606,7 +8606,7 @@
     "State": "MD",
     "County": "Frederick",
     "Jurisdiction": "Frederick Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 24733,
       "NonUtil": 13953,
@@ -8651,7 +8651,7 @@
     "State": "MD",
     "County": "Harford",
     "Jurisdiction": "Harford Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8269,
       "NonUtil": 8269,
@@ -8670,7 +8670,7 @@
     "State": "MD",
     "County": "Howard",
     "Jurisdiction": "Howard Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2960,
       "NonUtil": 1760,
@@ -8711,7 +8711,7 @@
     "State": "MD",
     "County": "Montgomery",
     "Jurisdiction": "Montgomery Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 18429,
       "NonUtil": 15375,
@@ -8754,7 +8754,7 @@
     "State": "MD",
     "County": "Queen Anne's",
     "Jurisdiction": "Queen Anne's Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7639,
       "NonUtil": 7639,
@@ -8789,7 +8789,7 @@
     "State": "MD",
     "County": "St. Mary's",
     "Jurisdiction": "St. Mary's Co",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4500,
       "NonUtil": 4500,
@@ -8812,7 +8812,7 @@
     "State": "MO",
     "County": "Clay/Jackson",
     "Jurisdiction": "Kansas City",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 711,
       "NonUtil": 711,
@@ -8843,7 +8843,7 @@
     "State": "MO",
     "County": "Jackson",
     "Jurisdiction": "Lee's Summit",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1011,
       "NonUtil": 1011,
@@ -8874,7 +8874,7 @@
     "State": "MT",
     "County": "Gallatin",
     "Jurisdiction": "Bozeman",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7160,
       "NonUtil": 2094,
@@ -8920,7 +8920,7 @@
     "State": "NC",
     "County": "Chatham",
     "Jurisdiction": "Chatham Co.",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6948,
       "NonUtil": 3448,
@@ -8951,7 +8951,7 @@
     "State": "NC",
     "County": "Durham",
     "Jurisdiction": "Durham",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5314,
       "NonUtil": 3180,
@@ -8996,7 +8996,7 @@
     "State": "NC",
     "County": "Orange",
     "Jurisdiction": "Orange Co.",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8076,
       "NonUtil": 3450,
@@ -9033,7 +9033,7 @@
     "State": "NC",
     "County": "Wake",
     "Jurisdiction": "Cary",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5681,
       "NonUtil": 1243,
@@ -9074,7 +9074,7 @@
     "State": "NC",
     "County": "Wake",
     "Jurisdiction": "Raleigh",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7156,
       "NonUtil": 2269,
@@ -9117,7 +9117,7 @@
     "State": "NE",
     "County": "Lancaster",
     "Jurisdiction": "Lincoln",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4685,
       "NonUtil": 2800,
@@ -9160,7 +9160,7 @@
     "State": "NH",
     "County": "Hillsborough",
     "Jurisdiction": "Manchester",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2923,
       "NonUtil": 2923,
@@ -9181,7 +9181,7 @@
     "State": "NH",
     "County": "Merrimack",
     "Jurisdiction": "Concord",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4527,
       "NonUtil": 4527,
@@ -9216,7 +9216,7 @@
     "State": "NH",
     "County": "Rockingham",
     "Jurisdiction": "Salem",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 5232,
       "NonUtil": 5232
@@ -9245,7 +9245,7 @@
     "State": "NH",
     "County": "Rockingham",
     "Jurisdiction": "Fremont",
-    "Updated": 1221800400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3761,
       "NonUtil": 3761,
@@ -9264,7 +9264,7 @@
     "State": "NM",
     "County": "Bernalillo",
     "Jurisdiction": "Albuquerque",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12852,
       "NonUtil": 8496,
@@ -9317,7 +9317,7 @@
     "State": "NM",
     "County": "Bernalillo",
     "Jurisdiction": "Bernalillo Co",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10404,
       "NonUtil": 10404,
@@ -9362,7 +9362,7 @@
     "State": "NM",
     "County": "Dona Ana",
     "Jurisdiction": "Las Cruces",
-    "Updated": 1236146400000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4203,
       "NonUtil": 800,
@@ -9397,7 +9397,7 @@
     "State": "NM",
     "County": "Lincoln",
     "Jurisdiction": "Ruidoso",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4970,
       "Water": 3062,
@@ -9428,7 +9428,7 @@
     "State": "NM",
     "County": "Sandoval",
     "Jurisdiction": "Rio Rancho",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 17128,
       "NonUtil": 8785,
@@ -9486,7 +9486,7 @@
     "State": "NM",
     "County": "Santa Fe",
     "Jurisdiction": "Santa Fe",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6246,
       "NonUtil": 3498,
@@ -9539,7 +9539,7 @@
     "State": "NM",
     "County": "Santa Fe",
     "Jurisdiction": "Santa Fe County",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 550,
       "NonUtil": 550,
@@ -9570,7 +9570,7 @@
     "State": "NM",
     "County": "Valencia",
     "Jurisdiction": "Los Lunas",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4548,
       "NonUtil": 2171,
@@ -9605,7 +9605,7 @@
     "State": "NV",
     "County": "Churchill",
     "Jurisdiction": "Churchill County",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4200,
       "NonUtil": 4200,
@@ -9628,7 +9628,7 @@
     "State": "NV",
     "County": "Clark",
     "Jurisdiction": "Las Vegas",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4201,
       "NonUtil": 1546,
@@ -9671,7 +9671,7 @@
     "State": "NV",
     "County": "Clark",
     "Jurisdiction": "Mesquite",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3432,
       "NonUtil": 2108,
@@ -9714,7 +9714,7 @@
     "State": "NV",
     "County": "Placer",
     "Jurisdiction": "Truckee",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2381,
       "NonUtil": 2381,
@@ -9733,7 +9733,7 @@
     "State": "NV",
     "County": "Washoe",
     "Jurisdiction": "Reno",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3903,
       "NonUtil": 3903,
@@ -9766,7 +9766,7 @@
     "State": "OH",
     "County": "Butler",
     "Jurisdiction": "Middletown",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 500,
       "NonUtil": 500,
@@ -9785,7 +9785,7 @@
     "State": "OH",
     "County": "Delaware",
     "Jurisdiction": "Delaware (city)",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 13103,
       "NonUtil": 2068,
@@ -9838,7 +9838,7 @@
     "State": "OH",
     "County": "Warren",
     "Jurisdiction": "Hamilton Township",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 6153,
       "NonUtil": 6153,
@@ -9881,7 +9881,7 @@
     "State": "OK",
     "County": "Cleveland",
     "Jurisdiction": "Moore",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1347,
       "NonUtil": 647,
@@ -9914,7 +9914,7 @@
     "State": "OR",
     "County": "Clackamas",
     "Jurisdiction": "Clackamas Co.",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14494,
       "NonUtil": 12039,
@@ -9953,7 +9953,7 @@
     "State": "OR",
     "County": "Clackamas",
     "Jurisdiction": "West Linn",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 23416,
       "NonUtil": 13842,
@@ -10001,7 +10001,7 @@
     "State": "OR",
     "County": "Deschutes",
     "Jurisdiction": "Bend",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 15189,
       "NonUtil": 7940,
@@ -10044,7 +10044,7 @@
     "State": "OR",
     "County": "Josephine",
     "Jurisdiction": "Grants Pass",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14283,
       "NonUtil": 9146,
@@ -10095,7 +10095,7 @@
     "State": "OR",
     "County": "Lane",
     "Jurisdiction": "Eugene",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7159,
       "NonUtil": 3431,
@@ -10143,7 +10143,7 @@
     "State": "OR",
     "County": "Lane",
     "Jurisdiction": "Springfield",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 3087,
       "NonUtil": 1980,
@@ -10184,7 +10184,7 @@
     "State": "OR",
     "County": "Marion",
     "Jurisdiction": "Salem",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12216,
       "NonUtil": 5227,
@@ -10232,7 +10232,7 @@
     "State": "OR",
     "County": "Marion",
     "Jurisdiction": "Silverton",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 14747,
       "NonUtil": 6355,
@@ -10280,7 +10280,7 @@
     "State": "OR",
     "County": "Multnomah",
     "Jurisdiction": "Portland",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 12114,
       "NonUtil": 5954,
@@ -10328,7 +10328,7 @@
     "State": "OR",
     "County": "Washington",
     "Jurisdiction": "Tigard",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 10861,
       "NonUtil": 8459,
@@ -10366,7 +10366,7 @@
     "State": "OR",
     "County": "Washington",
     "Jurisdiction": "Washington Co",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 4650,
       "NonUtil": 1850,
@@ -10407,7 +10407,7 @@
     "State": "PA",
     "County": "Montgomery",
     "Jurisdiction": "Towamencin Twp",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 2220,
       "NonUtil": 2220,
@@ -10458,7 +10458,7 @@
     "State": "SC",
     "County": "Beaufort",
     "Jurisdiction": "Beaufort Co",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 1529,
       "NonUtil": 1529,
@@ -10498,7 +10498,7 @@
     "State": "SC",
     "County": "Beaufort",
     "Jurisdiction": "Hilton Head",
-    "Updated": 1222146000000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 7436,
       "NonUtil": 1996,
@@ -10543,7 +10543,7 @@
     "State": "SC",
     "County": "Berkeley",
     "Jurisdiction": "Mt. Pleasant",
-    "Updated": 1222491600000,
+    "Updated": 1218171600000,
     "SingleFamily": {
       "Total": 8360,
       "NonUtil": 1860,
