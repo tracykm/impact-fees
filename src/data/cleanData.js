@@ -13,9 +13,9 @@ function parseNum(obj, key) {
       return delete obj[key]
     } else {
       // remove 0 values, so that averages don't take them into account
-      // if (newNum == 0) {
-      //   return delete obj[key];
-      // }
+      if (newNum == 0) {
+        return delete obj[key]
+      }
       obj[key] = newNum
     }
   }

@@ -268,7 +268,6 @@
       "Total": 3410,
       "NonUtil": 3410,
       "Roads": 2520,
-      "Sewer": 0,
       "Drain": 300,
       "Police": 180,
       "GenGov": 410
@@ -277,7 +276,6 @@
       "Total": 2170,
       "NonUtil": 2170,
       "Roads": 1310,
-      "Sewer": 0,
       "Drain": 500,
       "Police": 100,
       "GenGov": 260
@@ -427,7 +425,6 @@
       "Water": 2934,
       "Sewer": 1465,
       "Parks": 1294,
-      "Library": 0,
       "Fire": 362,
       "Police": 296,
       "GenGov": 294
@@ -10130,19 +10127,16 @@
     },
     "Retail": {
       "Total": 360,
-      "NonUtil": 0,
       "Sewer": 360,
       "RoadsNotes": "varies"
     },
     "Office": {
       "Total": 360,
-      "NonUtil": 0,
       "Sewer": 360,
       "RoadsNotes": "varies"
     },
     "Industrial": {
       "Total": 360,
-      "NonUtil": 0,
       "Sewer": 360,
       "RoadsNotes": "varies"
     }

@@ -3673,8 +3673,6 @@
       "Total": 1544,
       "NonUtil": 1544,
       "Roads": 987,
-      "Water": 0,
-      "Sewer": 0,
       "Parks": 410,
       "Fire": 114,
       "Police": 33
@@ -4004,10 +4002,7 @@
       "Sewer": 2800,
       "Parks": 200
     },
-    "MultiFamily": {
-      "Total": 0,
-      "NonUtil": 0
-    },
+    "MultiFamily": {},
     "Retail": {},
     "Office": {},
     "Industrial": {}
@@ -5749,10 +5744,7 @@
       "NonUtil": 2125,
       "Parks": 2125
     },
-    "MultiFamily": {
-      "Total": 0,
-      "NonUtil": 0
-    },
+    "MultiFamily": {},
     "Retail": {},
     "Office": {},
     "Industrial": {}
