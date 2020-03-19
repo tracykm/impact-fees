@@ -3,7 +3,7 @@
     "State": "AR",
     "County": "Benton",
     "Jurisdiction": "Bentonville",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3789,
       "NonUtil": 1306,
@@ -46,7 +46,7 @@
     "State": "AR",
     "County": "Benton",
     "Jurisdiction": "Lowell",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1504,
       "NonUtil": 504,
@@ -82,7 +82,7 @@
     "State": "AR",
     "County": "Faulkner",
     "Jurisdiction": "Conway",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1698,
       "NonUtil": 1698,
@@ -115,7 +115,7 @@
     "State": "AR",
     "County": "Washington",
     "Jurisdiction": "Fayetteville",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2155,
       "NonUtil": 312,
@@ -158,517 +158,508 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "AZ",
     "County": "Cochise",
     "Jurisdiction": "Sierra Vista",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 4818,
-      "NonUtil": 4818,
-      "Roads": 1531,
-      "Parks": 1988,
-      "Library": 609,
-      "Fire": 436,
-      "Police": 509
+      "Total": 5609,
+      "NonUtil": 5609,
+      "Roads": 2608,
+      "Parks": 2102,
+      "Library": 88,
+      "Fire": 439,
+      "Police": 372
     },
     "MultiFamily": {
-      "Total": 3345,
-      "NonUtil": 3345,
-      "Roads": 1076,
-      "Parks": 1373,
-      "Library": 421,
-      "Fire": 302,
-      "Police": 350
+      "Total": 3945,
+      "NonUtil": 3945,
+      "Roads": 1812,
+      "Parks": 1493,
+      "Library": 63,
+      "Fire": 312,
+      "Police": 265
     },
     "Retail": {
-      "Total": 3130,
-      "NonUtil": 3130,
-      "Roads": 2440,
-      "Fire": 210,
-      "Police": 210
+      "Total": 5310,
+      "NonUtil": 5310,
+      "Roads": 4100,
+      "Fire": 250,
+      "Police": 960
     },
     "Office": {
-      "Total": 1230,
-      "NonUtil": 1230,
-      "Roads": 970,
-      "Fire": 70,
-      "Police": 70
+      "Total": 2470,
+      "NonUtil": 2470,
+      "Roads": 1930,
+      "Fire": 110,
+      "Police": 430
     },
     "Industrial": {
-      "Total": 720,
-      "NonUtil": 720,
-      "Roads": 670,
-      "Fire": 40,
-      "Police": 40
+      "Total": 1510,
+      "NonUtil": 1510,
+      "Roads": 1180,
+      "Fire": 70,
+      "Police": 260
     }
   },
   {
     "State": "AZ",
     "County": "Gila",
     "Jurisdiction": "Sedona",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 16351,
-      "NonUtil": 8822,
-      "Roads": 1917,
+      "Total": 13658,
+      "NonUtil": 6129,
+      "Roads": 1216,
       "Sewer": 7529,
-      "Drain": 660,
-      "Parks": 5932,
-      "Police": 313
+      "Drain": 581,
+      "Parks": 3627,
+      "Police": 511,
+      "GenGov": 194
     },
     "MultiFamily": {
-      "Total": 8189,
-      "NonUtil": 8189,
-      "Roads": 1346,
+      "Total": 6302,
+      "NonUtil": 6302,
+      "Roads": 954,
       "Sewer": 1255,
-      "Drain": 247,
-      "Parks": 5073,
-      "Police": 268
+      "Drain": 218,
+      "Parks": 3236,
+      "Police": 466,
+      "GenGov": 173
     },
     "Retail": {
-      "Total": 8535,
-      "NonUtil": 7330,
-      "Roads": 6830,
+      "Total": 4648,
+      "NonUtil": 3443,
+      "Roads": 2660,
       "Sewer": 1205,
-      "Police": 500
+      "Drain": 73,
+      "Police": 630,
+      "GenGov": 80
     },
     "Office": {
-      "Total": 3665,
-      "NonUtil": 3665,
-      "Roads": 2280,
+      "Total": 2818,
+      "NonUtil": 2818,
+      "Roads": 1150,
       "Sewer": 1205,
-      "Police": 180
+      "Drain": 73,
+      "Police": 250,
+      "GenGov": 140
     },
     "Industrial": {
-      "Total": 2675,
-      "NonUtil": 2675,
-      "Roads": 1400,
+      "Total": 2258,
+      "NonUtil": 2258,
+      "Roads": 720,
       "Sewer": 1205,
-      "Police": 70
+      "Drain": 73,
+      "Police": 160,
+      "GenGov": 100
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Avondale",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 16298,
-      "NonUtil": 5554,
-      "Roads": 1857,
+      "Total": 18307,
+      "NonUtil": 5383,
+      "Roads": 2945,
       "Water": 5251,
-      "Sewer": 5493,
-      "Parks": 1178,
-      "Library": 345,
-      "Fire": 943,
-      "Police": 326,
-      "GenGov": 905
+      "Sewer": 7673,
+      "Parks": 796,
+      "Library": 179,
+      "Fire": 607,
+      "Police": 499,
+      "GenGov": 357
     },
     "MultiFamily": {
-      "Total": 6190,
-      "NonUtil": 4049,
-      "Roads": 1137,
+      "Total": 12970,
+      "NonUtil": 4072,
+      "Roads": 2058,
       "Water": 1225,
-      "Sewer": 916,
-      "Parks": 928,
-      "Library": 272,
-      "Fire": 742,
-      "Police": 257,
-      "GenGov": 713
+      "Sewer": 7673,
+      "Parks": 658,
+      "Library": 148,
+      "Fire": 501,
+      "Police": 412,
+      "GenGov": 295
     },
     "Retail": {
-      "Total": 7057,
-      "NonUtil": 5900,
-      "Roads": 3390,
-      "Water": 562,
-      "Sewer": 595,
-      "Fire": 607,
-      "Police": 1153,
-      "GenGov": 750
+      "Total": 7475,
+      "NonUtil": 6160,
+      "Roads": 3660,
+      "Water": 496,
+      "Sewer": 819,
+      "Parks": 820,
+      "Library": 180,
+      "Fire": 620,
+      "Police": 510,
+      "GenGov": 370
     },
     "Office": {
-      "Total": 4385,
-      "NonUtil": 3228,
-      "Roads": 1096,
-      "Water": 562,
-      "Sewer": 595,
+      "Total": 2930,
+      "NonUtil": 1615,
+      "Roads": 158,
+      "Water": 496,
+      "Sewer": 819,
+      "Parks": 240,
+      "Library": 50,
       "Fire": 917,
-      "Police": 341,
-      "GenGov": 874
+      "Police": 150,
+      "GenGov": 100
     },
     "Industrial": {
-      "Total": 3268,
-      "NonUtil": 2111,
-      "Roads": 672,
-      "Water": 562,
-      "Sewer": 595,
-      "Fire": 632,
-      "Police": 209,
-      "GenGov": 598
+      "Total": 1815,
+      "NonUtil": 500,
+      "Roads": 100,
+      "Water": 496,
+      "Sewer": 819,
+      "Parks": 130,
+      "Library": 30,
+      "Fire": 100,
+      "Police": 80,
+      "GenGov": 60
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Buckeye",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 11062,
-      "NonUtil": 3204,
-      "Roads": 246,
-      "Water": 3689,
-      "Sewer": 4169,
-      "Parks": 1109,
-      "Library": 165,
-      "Fire": 1178,
-      "Police": 506
+      "Total": 16504,
+      "NonUtil": 3901,
+      "Roads": 189,
+      "Water": 6475,
+      "Sewer": 6128,
+      "Parks": 1374,
+      "Library": 240,
+      "Other": 2098
     },
     "MultiFamily": {
-      "Total": 2830,
-      "NonUtil": 2344,
-      "Roads": 124,
-      "Water": 269,
-      "Sewer": 217,
-      "Parks": 832,
-      "Library": 124,
-      "Fire": 884,
-      "Police": 380
+      "Total": 3444,
+      "NonUtil": 3077,
+      "Roads": 176,
+      "Water": 189,
+      "Sewer": 179,
+      "Parks": 1074,
+      "Library": 188,
+      "Other": 1639
     },
     "Retail": {
-      "Total": 3736,
-      "NonUtil": 3107,
-      "Roads": 1137,
-      "Water": 295,
-      "Sewer": 334,
-      "Fire": 1378,
-      "Police": 592
+      "Total": 1605,
+      "NonUtil": 1479,
+      "Roads": 318,
+      "Water": 65,
+      "Sewer": 61,
+      "Parks": 109,
+      "Library": 24,
+      "Other": 1028
     },
     "Office": {
-      "Total": 2978,
-      "NonUtil": 2349,
-      "Roads": 379,
-      "Water": 295,
-      "Sewer": 334,
-      "Fire": 1378,
-      "Police": 592
+      "Total": 1332,
+      "NonUtil": 1206,
+      "Roads": 137,
+      "Water": 65,
+      "Sewer": 61,
+      "Parks": 182,
+      "Library": 39,
+      "Other": 848
     },
     "Industrial": {
-      "Total": 2241,
-      "NonUtil": 1612,
-      "Roads": 232,
-      "Water": 295,
-      "Sewer": 334,
-      "Fire": 965,
-      "Police": 415
+      "Total": 558,
+      "NonUtil": 432,
+      "Roads": 127,
+      "Water": 65,
+      "Sewer": 61,
+      "Parks": 49,
+      "Library": 11,
+      "Other": 245
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Chandler",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 20009,
-      "NonUtil": 8403,
-      "Roads": 3983,
-      "Water": 6167,
-      "Sewer": 5439,
-      "Parks": 3740,
-      "Library": 75,
-      "Fire": 344,
-      "Police": 164,
-      "GenGov": 97
+      "Total": 19958,
+      "NonUtil": 7636,
+      "Roads": 3901,
+      "Water": 6518,
+      "Sewer": 5804,
+      "Parks": 2875,
+      "Library": 61,
+      "Fire": 412,
+      "Police": 277,
+      "Other": 110
     },
     "MultiFamily": {
-      "Total": 10677,
-      "NonUtil": 5831,
-      "Roads": 2446,
-      "Water": 2356,
-      "Sewer": 2490,
-      "Parks": 2865,
+      "Total": 10369,
+      "NonUtil": 5074,
+      "Roads": 2419,
+      "Water": 2544,
+      "Sewer": 2751,
+      "Parks": 2056,
       "Library": 58,
       "Fire": 263,
       "Police": 125,
-      "GenGov": 74
+      "GenGov": 74,
+      "Other": 79
     },
     "Retail": {
-      "Total": 9991,
-      "NonUtil": 8140,
-      "Roads": 7390,
-      "Water": 981,
-      "Sewer": 870,
-      "Fire": 430,
-      "Police": 200,
-      "GenGov": 120
+      "Total": 7022,
+      "NonUtil": 5050,
+      "Roads": 4130,
+      "Water": 1043,
+      "Sewer": 929,
+      "Fire": 480,
+      "Police": 320,
+      "Other": 120
     },
     "Office": {
-      "Total": 8311,
-      "NonUtil": 6460,
-      "Roads": 5880,
-      "Water": 981,
-      "Sewer": 870,
-      "Fire": 330,
-      "Police": 160,
-      "GenGov": 90
+      "Total": 6942,
+      "NonUtil": 4970,
+      "Roads": 4360,
+      "Water": 1043,
+      "Sewer": 929,
+      "Fire": 320,
+      "Police": 210,
+      "Other": 80
     },
     "Industrial": {
-      "Total": 3701,
-      "NonUtil": 1850,
-      "Roads": 1660,
-      "Water": 981,
-      "Sewer": 870,
-      "Fire": 110,
-      "Police": 50,
-      "GenGov": 30
+      "Total": 4462,
+      "NonUtil": 2490,
+      "Roads": 2300,
+      "Water": 1043,
+      "Sewer": 929,
+      "Fire": 100,
+      "Police": 70,
+      "Other": 20
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Fountain Hills",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 3612,
-      "NonUtil": 3612,
-      "Roads": 1381,
-      "Parks": 1479,
-      "Library": 174,
-      "Fire": 106,
-      "Police": 472
+      "Total": 1601,
+      "NonUtil": 1601,
+      "Parks": 1301,
+      "Fire": 300
     },
     "MultiFamily": {
-      "Total": 3050,
-      "NonUtil": 3050,
-      "Roads": 819,
-      "Parks": 1479,
-      "Library": 174,
-      "Fire": 106,
-      "Police": 472
+      "Total": 1601,
+      "NonUtil": 1601,
+      "Parks": 1301,
+      "Fire": 300
     },
     "Retail": {
-      "Total": 3571,
-      "NonUtil": 3571,
-      "Roads": 3210,
-      "Fire": 66,
-      "Police": 295
+      "Total": 243,
+      "NonUtil": 243,
+      "Fire": 243
     },
     "Office": {
-      "Total": 2711,
-      "NonUtil": 2711,
-      "Roads": 2350,
-      "Fire": 66,
-      "Police": 295
+      "Total": 243,
+      "NonUtil": 243,
+      "Fire": 243
     },
     "Industrial": {
-      "Total": 1596,
-      "NonUtil": 1596,
-      "Roads": 1235,
-      "Fire": 66,
-      "Police": 295
+      "Total": 243,
+      "NonUtil": 243,
+      "Fire": 243
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Gilbert",
-    "Updated": 1367730000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 18532,
-      "NonUtil": 6269,
-      "Roads": 423,
-      "Water": 6397,
-      "Sewer": 5866,
-      "Parks": 4030,
-      "Fire": 821,
-      "Police": 612,
-      "GenGov": 383
+      "Total": 17652,
+      "NonUtil": 8155,
+      "Roads": 450,
+      "Water": 5901,
+      "Sewer": 3596,
+      "Parks": 4081,
+      "GenGov": 1155,
+      "Other": 2469
     },
     "MultiFamily": {
-      "Total": 11818,
-      "NonUtil": 5524,
-      "Roads": 297,
-      "Water": 2767,
-      "Sewer": 3527,
-      "Parks": 3465,
-      "Fire": 821,
-      "Police": 612,
-      "GenGov": 329
+      "Total": 6908,
+      "NonUtil": 5592,
+      "Roads": 296,
+      "Water": 917,
+      "Sewer": 399,
+      "Parks": 2805,
+      "GenGov": 794,
+      "Other": 1697
     },
     "Retail": {
-      "Total": 4525,
-      "NonUtil": 2562,
-      "Roads": 1593,
-      "Water": 1024,
-      "Sewer": 939,
-      "Fire": 438,
-      "Police": 327,
-      "GenGov": 204
+      "Total": 4409,
+      "NonUtil": 2890,
+      "Roads": 1080,
+      "Water": 944,
+      "Sewer": 575,
+      "Parks": 500,
+      "GenGov": 300,
+      "Other": 1010
     },
     "Office": {
-      "Total": 3502,
-      "NonUtil": 1539,
-      "Roads": 570,
-      "Water": 1024,
-      "Sewer": 939,
-      "Fire": 438,
-      "Police": 327,
-      "GenGov": 204
+      "Total": 4459,
+      "NonUtil": 2940,
+      "Roads": 650,
+      "Water": 944,
+      "Sewer": 575,
+      "Parks": 700,
+      "GenGov": 400,
+      "Other": 1190
     },
     "Industrial": {
-      "Total": 3337,
-      "NonUtil": 1374,
-      "Roads": 405,
-      "Water": 1024,
-      "Sewer": 939,
-      "Fire": 438,
-      "Police": 327,
-      "GenGov": 204
+      "Total": 2819,
+      "NonUtil": 1300,
+      "Roads": 470,
+      "Water": 944,
+      "Sewer": 575,
+      "GenGov": 200,
+      "Other": 630
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Glendale",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 6186,
-      "NonUtil": 2286,
-      "Roads": 694,
-      "Water": 3420,
-      "Sewer": 480,
-      "Parks": 625,
-      "Library": 398,
-      "Fire": 317,
-      "Police": 252
+      "Total": 9636,
+      "NonUtil": 4931,
+      "Roads": 2537,
+      "Water": 2761,
+      "Sewer": 1944,
+      "Parks": 909,
+      "Fire": 1146,
+      "Police": 339
     },
     "MultiFamily": {
-      "Total": 2245,
-      "NonUtil": 1663,
-      "Roads": 408,
-      "Water": 529,
-      "Sewer": 53,
-      "Parks": 492,
-      "Library": 314,
-      "Fire": 250,
-      "Police": 199
+      "Total": 3420,
+      "NonUtil": 2776,
+      "Roads": 1414,
+      "Water": 429,
+      "Sewer": 215,
+      "Parks": 517,
+      "Fire": 652,
+      "Police": 193
     },
     "Retail": {
-      "Total": 3089,
-      "NonUtil": 2660,
-      "Roads": 2156,
-      "Water": 376,
-      "Sewer": 53,
-      "Fire": 200,
-      "Police": 304
+      "Total": 6030,
+      "NonUtil": 5529,
+      "Roads": 5162,
+      "Water": 294,
+      "Sewer": 207,
+      "Parks": 29,
+      "Fire": 239,
+      "Police": 99
     },
     "Office": {
-      "Total": 3050,
+      "Total": 3405,
       "NonUtil": 1034,
-      "Roads": 2173,
-      "Water": 376,
-      "Sewer": 53,
-      "Fire": 302,
-      "Police": 146
+      "Roads": 2235,
+      "Water": 294,
+      "Sewer": 207,
+      "Parks": 67,
+      "Fire": 563,
+      "Police": 39
     },
     "Industrial": {
-      "Total": 1476,
-      "NonUtil": 1047,
-      "Roads": 735,
-      "Water": 376,
-      "Sewer": 53,
-      "Fire": 208,
-      "Police": 104
+      "Total": 1386,
+      "NonUtil": 885,
+      "Roads": 721,
+      "Water": 294,
+      "Sewer": 207,
+      "Parks": 23,
+      "Fire": 129,
+      "Police": 12
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Goodyear",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 12434,
-      "NonUtil": 3452,
-      "Roads": 941,
-      "Water": 4789,
-      "Sewer": 4193,
-      "Parks": 939,
-      "Library": 138,
-      "Fire": 1057,
-      "Police": 377
+      "Total": 14004,
+      "NonUtil": 3296,
+      "Roads": 1441,
+      "Water": 7388,
+      "Sewer": 3320,
+      "Parks": 970,
+      "Fire": 506,
+      "Police": 379
     },
     "MultiFamily": {
-      "Total": 4175,
-      "NonUtil": 2977,
-      "Roads": 575,
-      "Water": 737,
-      "Sewer": 461,
-      "Parks": 898,
-      "Library": 132,
-      "Fire": 1011,
-      "Police": 361
+      "Total": 3967,
+      "NonUtil": 2501,
+      "Roads": 1006,
+      "Water": 1098,
+      "Sewer": 368,
+      "Parks": 808,
+      "Fire": 393,
+      "Police": 294
     },
     "Retail": {
-      "Total": 4235,
-      "NonUtil": 3150,
-      "Roads": 2240,
-      "Water": 583,
-      "Sewer": 502,
-      "Fire": 510,
-      "Police": 400
+      "Total": 3712,
+      "NonUtil": 2603,
+      "Roads": 1818,
+      "Water": 755,
+      "Sewer": 354,
+      "Parks": 106,
+      "Fire": 441,
+      "Police": 238
     },
     "Office": {
-      "Total": 2655,
-      "NonUtil": 1570,
-      "Roads": 680,
-      "Water": 583,
-      "Sewer": 502,
-      "Fire": 770,
-      "Police": 120
+      "Total": 2800,
+      "NonUtil": 1691,
+      "Roads": 787,
+      "Water": 755,
+      "Sewer": 354,
+      "Parks": 158,
+      "Fire": 654,
+      "Police": 93
     },
     "Industrial": {
-      "Total": 2095,
-      "NonUtil": 1010,
-      "Roads": 410,
-      "Water": 583,
-      "Sewer": 502,
-      "Fire": 530,
-      "Police": 70
+      "Total": 2220,
+      "NonUtil": 1111,
+      "Roads": 787,
+      "Water": 755,
+      "Sewer": 354,
+      "Parks": 46,
+      "Fire": 193,
+      "Police": 86
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Mesa",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 7505,
-      "NonUtil": 2626,
+      "Total": 7041,
+      "NonUtil": 2162,
       "Water": 2220,
       "Sewer": 2659,
       "Drain": 366,
       "Parks": 1122,
-      "Library": 464,
       "Fire": 272,
       "Police": 402
     },
     "MultiFamily": {
-      "Total": 4728,
-      "NonUtil": 1947,
+      "Total": 4396,
+      "NonUtil": 1615,
       "Water": 1265,
       "Sewer": 1516,
       "Drain": 195,
       "Parks": 802,
-      "Library": 332,
       "Fire": 230,
       "Police": 388
     },
@@ -705,276 +696,258 @@
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Peoria",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 17470,
-      "NonUtil": 11657,
-      "Roads": 8160,
-      "Water": 3890,
-      "Sewer": 1923,
-      "Parks": 2212,
-      "Library": 209,
-      "Fire": 624,
-      "Police": 452
+      "Total": 11696,
+      "NonUtil": 5653,
+      "Roads": 3956,
+      "Water": 4385,
+      "Sewer": 1659,
+      "Parks": 777,
+      "Fire": 417,
+      "Police": 503
     },
     "MultiFamily": {
-      "Total": 8899,
-      "NonUtil": 8134,
-      "Roads": 5730,
-      "Water": 571,
-      "Sewer": 194,
-      "Parks": 1520,
-      "Library": 144,
-      "Fire": 429,
-      "Police": 311
+      "Total": 4276,
+      "NonUtil": 3453,
+      "Roads": 2448,
+      "Water": 648,
+      "Sewer": 175,
+      "Parks": 458,
+      "Fire": 248,
+      "Police": 299
     },
     "Retail": {
-      "Total": 20100,
-      "NonUtil": 19526,
-      "Roads": 18490,
-      "Water": 390,
-      "Sewer": 184,
-      "Fire": 602,
-      "Police": 434
+      "Total": 6422,
+      "NonUtil": 5842,
+      "Roads": 4785,
+      "Water": 423,
+      "Sewer": 157,
+      "Parks": 47,
+      "Fire": 458,
+      "Police": 553
     },
     "Office": {
-      "Total": 7915,
-      "NonUtil": 7341,
-      "Roads": 6305,
-      "Water": 390,
-      "Sewer": 184,
-      "Fire": 602,
-      "Police": 434
+      "Total": 9294,
+      "NonUtil": 8714,
+      "Roads": 3616,
+      "Water": 423,
+      "Sewer": 157,
+      "Parks": 4785,
+      "Fire": 142,
+      "Police": 171
     },
     "Industrial": {
-      "Total": 5275,
-      "NonUtil": 4701,
-      "Roads": 3665,
-      "Water": 390,
-      "Sewer": 184,
-      "Fire": 602,
-      "Police": 434
+      "Total": 2650,
+      "NonUtil": 2070,
+      "Roads": 1948,
+      "Water": 423,
+      "Sewer": 157,
+      "Parks": 15,
+      "Fire": 48,
+      "Police": 58
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Phoenix",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 11732,
-      "NonUtil": 3444,
-      "Roads": 1273,
-      "Water": 5110,
-      "Sewer": 3178,
-      "Parks": 1613,
-      "Library": 53,
-      "Fire": 328,
-      "Police": 177
+      "Total": 36021,
+      "NonUtil": 4710,
+      "Roads": 2208,
+      "Water": 19789,
+      "Sewer": 11522,
+      "Parks": 1120,
+      "Fire": 475,
+      "Police": 500,
+      "Other": 407
     },
     "MultiFamily": {
-      "Total": 5098,
-      "NonUtil": 1886,
-      "Roads": 879,
-      "Water": 2438,
-      "Sewer": 774,
-      "Parks": 581,
-      "Library": 41,
-      "Fire": 250,
-      "Police": 135
+      "Total": 10158,
+      "NonUtil": 3031,
+      "Roads": 1546,
+      "Water": 4566,
+      "Sewer": 2562,
+      "Parks": 728,
+      "Fire": 309,
+      "Police": 325,
+      "Other": 123
     },
     "Retail": {
-      "Total": 3410,
-      "NonUtil": 2404,
-      "Roads": 1948,
-      "Water": 767,
-      "Sewer": 239,
-      "Parks": 148,
-      "Library": 29,
-      "Fire": 181,
-      "Police": 98
+      "Total": 6822,
+      "NonUtil": 3920,
+      "Roads": 3025,
+      "Water": 1847,
+      "Sewer": 1055,
+      "Parks": 56,
+      "Fire": 371,
+      "Police": 390,
+      "Other": 79
     },
     "Office": {
-      "Total": 3008,
-      "NonUtil": 2002,
-      "Roads": 1337,
-      "Water": 767,
-      "Sewer": 239,
-      "Parks": 313,
-      "Library": 33,
-      "Fire": 207,
-      "Police": 112
+      "Total": 5123,
+      "NonUtil": 2221,
+      "Roads": 1391,
+      "Water": 1847,
+      "Sewer": 1055,
+      "Parks": 78,
+      "Fire": 337,
+      "Police": 355,
+      "Other": 60
     },
     "Industrial": {
-      "Total": 2204,
-      "NonUtil": 1198,
-      "Roads": 814,
-      "Water": 767,
-      "Sewer": 239,
-      "Parks": 110,
-      "Library": 26,
-      "Fire": 161,
-      "Police": 87
+      "Total": 4218,
+      "NonUtil": 1316,
+      "Roads": 972,
+      "Water": 1847,
+      "Sewer": 1055,
+      "Parks": 22,
+      "Fire": 133,
+      "Police": 140,
+      "Other": 49
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Scottsdale",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 10321,
-      "Water": 6450,
-      "Sewer": 3871
+      "Total": 5407,
+      "Water": 3365,
+      "Sewer": 2042
     },
     "MultiFamily": {
-      "Total": 5365,
-      "Water": 2754,
-      "Sewer": 2611
+      "Total": 1126,
+      "Water": 785,
+      "Sewer": 340
     },
     "Retail": {
-      "Total": 1350,
-      "Water": 708,
-      "Sewer": 642
+      "Total": 1189,
+      "Water": 740,
+      "Sewer": 449
     },
     "Office": {
-      "Total": 1350,
-      "Water": 708,
-      "Sewer": 642
+      "Total": 1189,
+      "Water": 740,
+      "Sewer": 449
     },
     "Industrial": {
-      "Total": 1350,
-      "Water": 708,
-      "Sewer": 642
+      "Total": 1189,
+      "Water": 740,
+      "Sewer": 449
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Surprise",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 15873,
-      "NonUtil": 8143,
-      "Roads": 5396,
-      "Water": 4691,
-      "Sewer": 3039,
-      "Parks": 785,
-      "Library": 133,
-      "Fire": 688,
-      "Police": 371,
-      "GenGov": 661,
-      "Other": 109
+      "Total": 6351,
+      "NonUtil": 979,
+      "Roads": 299,
+      "Water": 2107,
+      "Sewer": 3265,
+      "Fire": 680
     },
     "MultiFamily": {
-      "Total": 6869,
-      "NonUtil": 5815,
-      "Roads": 3789,
-      "Water": 722,
-      "Sewer": 332,
-      "Parks": 580,
-      "Library": 98,
-      "Fire": 508,
-      "Police": 274,
-      "GenGov": 489,
-      "Other": 77
+      "Total": 1399,
+      "NonUtil": 708,
+      "Roads": 209,
+      "Water": 328,
+      "Sewer": 363,
+      "Fire": 499
     },
     "Retail": {
-      "Total": 12323,
-      "NonUtil": 11501,
-      "Roads": 9570,
-      "Water": 500,
-      "Sewer": 322,
-      "Fire": 604,
-      "Police": 428,
-      "GenGov": 493,
-      "Other": 406
+      "Total": 5274,
+      "NonUtil": 4737,
+      "Roads": 3958,
+      "Water": 211,
+      "Sewer": 327,
+      "Fire": 779
     },
     "Office": {
-      "Total": 5863,
-      "NonUtil": 5041,
-      "Roads": 3128,
-      "Water": 500,
-      "Sewer": 322,
-      "Fire": 911,
-      "Police": 126,
-      "GenGov": 745,
-      "Other": 131
+      "Total": 2024,
+      "NonUtil": 1487,
+      "Roads": 240,
+      "Water": 211,
+      "Sewer": 327,
+      "Fire": 1247
     },
     "Industrial": {
-      "Total": 4039,
-      "NonUtil": 3217,
-      "Roads": 1918,
-      "Water": 500,
-      "Sewer": 322,
-      "Fire": 628,
-      "Police": 77,
-      "GenGov": 513,
-      "Other": 81
+      "Total": 1206,
+      "NonUtil": 669,
+      "Roads": 150,
+      "Water": 211,
+      "Sewer": 327,
+      "Fire": 519
     }
   },
   {
     "State": "AZ",
     "County": "Maricopa",
     "Jurisdiction": "Tempe",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 5893,
-      "Water": 3045,
-      "Sewer": 2848
+      "Total": 2998,
+      "Water": 1664,
+      "Sewer": 1334
     },
     "MultiFamily": {
-      "Total": 1185,
-      "Water": 711,
-      "Sewer": 475
+      "Total": 611,
+      "Water": 388,
+      "Sewer": 222
     },
     "Retail": {
-      "Total": 825,
-      "Water": 426,
-      "Sewer": 399
+      "Total": 750,
+      "Water": 416,
+      "Sewer": 334
     },
     "Office": {
-      "Total": 825,
-      "Water": 426,
-      "Sewer": 399
+      "Total": 750,
+      "Water": 416,
+      "Sewer": 334
     },
     "Industrial": {
-      "Total": 825,
-      "Water": 426,
-      "Sewer": 399
+      "Total": 750,
+      "Water": 416,
+      "Sewer": 334
     }
   },
   {
     "State": "AZ",
     "County": "Mojave",
     "Jurisdiction": "Bullhead City",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 726,
-      "Water": 726
+      "Total": 715,
+      "Water": 715
     },
     "MultiFamily": {
-      "Total": 600,
-      "Water": 600
+      "Total": 591,
+      "Water": 591
     },
     "Retail": {
-      "Total": 116,
-      "Water": 116
+      "Total": 35,
+      "Water": 35
     },
     "Office": {
-      "Total": 116,
-      "Water": 116
+      "Total": 35,
+      "Water": 35
     },
     "Industrial": {
-      "Total": 116,
-      "Water": 116
+      "Total": 35,
+      "Water": 35
     }
   },
   {
     "State": "AZ",
     "County": "Navajo",
     "Jurisdiction": "Show Low",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1849,
       "NonUtil": 1849,
@@ -1006,166 +979,173 @@
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Pima County",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 4934,
-      "NonUtil": 4934,
-      "Roads": 4934
+      "Total": 5772,
+      "NonUtil": 5772,
+      "Roads": 5772
     },
     "MultiFamily": {
-      "Total": 3701,
-      "NonUtil": 3701,
-      "Roads": 3701
+      "Total": 4329,
+      "NonUtil": 4329,
+      "Roads": 4329
     },
     "Retail": {
-      "Total": 2008,
-      "NonUtil": 2008,
-      "Roads": 2008
+      "Total": 2730,
+      "NonUtil": 2730,
+      "Roads": 2730
     },
     "Office": {
-      "Total": 1633,
-      "NonUtil": 1633,
-      "Roads": 1633
+      "Total": 1917,
+      "NonUtil": 1917,
+      "Roads": 1917
     },
     "Industrial": {
-      "Total": 2076,
-      "NonUtil": 2076,
-      "Roads": 2076
+      "Total": 2113,
+      "NonUtil": 2113,
+      "Roads": 2113
     }
   },
   {
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Marana",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 17541,
-      "NonUtil": 10666,
-      "Roads": 7372,
-      "Water": 2331,
-      "Sewer": 4544,
-      "Parks": 3294
+      "Total": 16338,
+      "NonUtil": 6993,
+      "Roads": 4532,
+      "Water": 4255,
+      "Sewer": 5090,
+      "Parks": 2461
     },
     "MultiFamily": {
-      "Total": 9301,
-      "NonUtil": 8000,
-      "Roads": 5529,
-      "Water": 544,
-      "Sewer": 757,
-      "Parks": 2471
+      "Total": 6834,
+      "NonUtil": 5326,
+      "Roads": 3677,
+      "Water": 801,
+      "Sewer": 707,
+      "Parks": 1649
     },
     "Retail": {
-      "Total": 1100,
-      "Water": 373,
-      "Sewer": 727
+      "Total": 10672,
+      "Roads": 9522,
+      "Water": 514,
+      "Sewer": 636
     },
     "Office": {
-      "Total": 1100,
-      "Water": 373,
-      "Sewer": 727
+      "Total": 7756,
+      "Roads": 6606,
+      "Water": 514,
+      "Sewer": 636
     },
     "Industrial": {
-      "Total": 1100,
-      "Water": 373,
-      "Sewer": 727
+      "Total": 1943,
+      "Roads": 793,
+      "Water": 514,
+      "Sewer": 636
     }
   },
   {
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Oro Valley",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 10333,
-      "NonUtil": 2784,
-      "Roads": 1933,
+      "Total": 10705,
+      "NonUtil": 3156,
+      "Roads": 1990,
       "Water": 7549,
-      "Parks": 555,
-      "Police": 296
+      "Parks": 856,
+      "Police": 310
     },
     "MultiFamily": {
-      "Total": 5463,
-      "NonUtil": 1843,
-      "Roads": 1331,
+      "Total": 5665,
+      "NonUtil": 2045,
+      "Roads": 1231,
       "Water": 3620,
-      "Parks": 336,
-      "Police": 176
+      "Parks": 599,
+      "Police": 215
     },
     "Retail": {
-      "Total": 5243,
-      "NonUtil": 3527,
-      "Roads": 3436,
+      "Total": 4575,
+      "NonUtil": 2859,
+      "Roads": 2412,
       "Water": 1716,
-      "Police": 91
+      "Police": 447
     },
     "Office": {
-      "Total": 3033,
-      "NonUtil": 1317,
-      "Roads": 1290,
+      "Total": 3694,
+      "NonUtil": 1978,
+      "Roads": 1822,
       "Water": 1716,
-      "Police": 27
+      "Police": 156
     },
     "Industrial": {
-      "Total": 2421,
-      "NonUtil": 705,
-      "Roads": 689,
+      "Total": 2764,
+      "NonUtil": 1048,
+      "Roads": 983,
       "Water": 1716,
-      "Police": 16
+      "Police": 65
     }
   },
   {
     "State": "AZ",
     "County": "Pima",
     "Jurisdiction": "Tucson",
-    "Updated": 1380690000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 8431,
-      "NonUtil": 6920,
-      "Roads": 4300,
-      "Water": 1511,
-      "Parks": 1720,
-      "Fire": 357,
-      "Police": 543
+      "Total": 9472,
+      "NonUtil": 7505,
+      "Roads": 4838,
+      "Water": 1967,
+      "Parks": 1935,
+      "Fire": 303,
+      "Police": 379,
+      "Other": 50
     },
     "MultiFamily": {
-      "Total": 4028,
-      "NonUtil": 3675,
-      "Roads": 2150,
+      "Total": 4378,
+      "NonUtil": 4025,
+      "Roads": 2580,
       "Water": 353,
-      "Parks": 860,
-      "Fire": 263,
-      "Police": 402
+      "Parks": 1032,
+      "Fire": 183,
+      "Police": 230
     },
     "Retail": {
-      "Total": 5283,
-      "NonUtil": 5041,
+      "Total": 5040,
+      "NonUtil": 4798,
       "Roads": 4282,
       "Water": 242,
-      "Fire": 196,
-      "Police": 563
+      "Parks": 38,
+      "Fire": 157,
+      "Police": 321
     },
     "Office": {
-      "Total": 6088,
-      "NonUtil": 5846,
-      "Roads": 5087,
+      "Total": 4555,
+      "NonUtil": 4313,
+      "Roads": 3797,
       "Water": 242,
-      "Fire": 196,
-      "Police": 563
+      "Parks": 38,
+      "Fire": 157,
+      "Police": 321
     },
     "Industrial": {
-      "Total": 3197,
-      "NonUtil": 2955,
-      "Roads": 2196,
+      "Total": 1564,
+      "NonUtil": 1322,
+      "Roads": 806,
       "Water": 242,
-      "Fire": 196,
-      "Police": 563
+      "Parks": 38,
+      "Fire": 157,
+      "Police": 321
     }
   },
   {
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Apache Junction",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 9139,
       "NonUtil": 9139,
@@ -1205,7 +1185,7 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Casa Grande",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 10642,
       "NonUtil": 6352,
@@ -1258,168 +1238,177 @@
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Eloy",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 4868,
-      "NonUtil": 1941,
-      "Water": 1617,
-      "Sewer": 1310,
-      "Parks": 539,
-      "Library": 151,
-      "Police": 359,
-      "GenGov": 892
+      "Total": 3468,
+      "NonUtil": 779,
+      "Water": 1522,
+      "Sewer": 1167,
+      "Parks": 420,
+      "Police": 359
     },
     "MultiFamily": {
-      "Total": 1773,
-      "NonUtil": 1405,
-      "Water": 237,
-      "Sewer": 131,
-      "Parks": 391,
-      "Library": 109,
-      "Police": 260,
-      "GenGov": 645
+      "Total": 927,
+      "NonUtil": 565,
+      "Water": 234,
+      "Sewer": 128,
+      "Parks": 305,
+      "Police": 260
     },
     "Retail": {
-      "Total": 1296,
-      "NonUtil": 972,
-      "Water": 183,
-      "Sewer": 141,
-      "Police": 375,
-      "GenGov": 597
+      "Total": 721,
+      "NonUtil": 434,
+      "Water": 162,
+      "Sewer": 125,
+      "Police": 434
     },
     "Office": {
-      "Total": 1248,
-      "NonUtil": 924,
-      "Water": 183,
-      "Sewer": 141,
-      "Police": 124,
-      "GenGov": 800
+      "Total": 465,
+      "NonUtil": 178,
+      "Water": 162,
+      "Sewer": 125,
+      "Police": 178
     },
     "Industrial": {
-      "Total": 953,
-      "NonUtil": 629,
-      "Water": 183,
-      "Sewer": 141,
-      "Police": 77,
-      "GenGov": 552
+      "Total": 364,
+      "NonUtil": 77,
+      "Water": 162,
+      "Sewer": 125,
+      "Police": 77
     }
   },
   {
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Florence",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 10884,
-      "NonUtil": 3449,
-      "Roads": 583,
-      "Water": 3330,
-      "Sewer": 4105,
-      "Parks": 857,
-      "Fire": 1096,
-      "Police": 913
+      "Total": 9350,
+      "NonUtil": 5230,
+      "Roads": 2086,
+      "Water": 1980,
+      "Sewer": 2140,
+      "Parks": 1417,
+      "Library": 203,
+      "Fire": 917,
+      "Police": 607
     },
     "MultiFamily": {
-      "Total": 3690,
-      "NonUtil": 2472,
-      "Roads": 410,
-      "Water": 648,
-      "Sewer": 570,
-      "Parks": 617,
-      "Fire": 788,
-      "Police": 657
+      "Total": 4799,
+      "NonUtil": 3860,
+      "Roads": 1313,
+      "Water": 462,
+      "Sewer": 477,
+      "Parks": 1148,
+      "Library": 164,
+      "Fire": 743,
+      "Police": 492
     },
     "Retail": {
-      "Total": 4378,
-      "NonUtil": 3585,
-      "Roads": 2618,
-      "Water": 356,
-      "Sewer": 438,
-      "Parks": 167,
-      "Fire": 629,
-      "Police": 171
+      "Total": 5277,
+      "NonUtil": 4432,
+      "Roads": 3141,
+      "Water": 347,
+      "Sewer": 499,
+      "Parks": 170,
+      "Library": 24,
+      "Fire": 660,
+      "Police": 437
     },
     "Office": {
-      "Total": 4378,
-      "NonUtil": 3585,
-      "Roads": 2618,
-      "Water": 356,
-      "Sewer": 438,
-      "Parks": 167,
-      "Fire": 629,
-      "Police": 171
+      "Total": 5277,
+      "NonUtil": 4432,
+      "Roads": 3141,
+      "Water": 347,
+      "Sewer": 499,
+      "Parks": 170,
+      "Library": 24,
+      "Fire": 660,
+      "Police": 437
     },
     "Industrial": {
-      "Total": 1770,
-      "NonUtil": 977,
-      "Roads": 425,
-      "Water": 356,
-      "Sewer": 438,
-      "Parks": 92,
-      "Fire": 362,
-      "Police": 98
+      "Total": 2342,
+      "NonUtil": 1497,
+      "Roads": 1015,
+      "Water": 347,
+      "Sewer": 499,
+      "Parks": 128,
+      "Library": 18,
+      "Fire": 202,
+      "Police": 134
     }
   },
   {
     "State": "AZ",
     "County": "Pinal",
     "Jurisdiction": "Queen Creek",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 13883,
-      "NonUtil": 8941,
-      "Roads": 631,
-      "Sewer": 4942,
-      "Parks": 4325,
-      "Library": 1370,
-      "Fire": 704,
-      "Police": 693,
-      "GenGov": 1218
+      "Total": 15890,
+      "NonUtil": 6794,
+      "Roads": 1263,
+      "Water": 4014,
+      "Sewer": 5082,
+      "Parks": 3681,
+      "Library": 723,
+      "Fire": 490,
+      "Police": 167,
+      "GenGov": 470
     },
     "MultiFamily": {
-      "Total": 6425,
-      "NonUtil": 5882,
-      "Roads": 415,
-      "Sewer": 543,
-      "Parks": 2846,
-      "Library": 901,
-      "Fire": 456,
-      "Police": 463,
-      "GenGov": 801
+      "Total": 6131,
+      "NonUtil": 4954,
+      "Roads": 882,
+      "Water": 617,
+      "Sewer": 560,
+      "Parks": 2710,
+      "Library": 532,
+      "Fire": 361,
+      "Police": 123,
+      "GenGov": 346
     },
     "Retail": {
-      "Total": 5430,
-      "NonUtil": 4903,
-      "Roads": 3063,
-      "Sewer": 527,
-      "Fire": 869,
-      "Police": 180,
-      "GenGov": 791
+      "Total": 4141,
+      "NonUtil": 3054,
+      "Roads": 1569,
+      "Water": 478,
+      "Sewer": 608,
+      "Parks": 563,
+      "Library": 111,
+      "Fire": 290,
+      "Police": 229,
+      "GenGov": 292
     },
     "Office": {
-      "Total": 2982,
-      "NonUtil": 2455,
-      "Roads": 940,
-      "Sewer": 527,
-      "Fire": 267,
-      "Police": 55,
-      "GenGov": 1193
+      "Total": 3088,
+      "NonUtil": 2001,
+      "Roads": 679,
+      "Water": 478,
+      "Sewer": 608,
+      "Parks": 552,
+      "Library": 109,
+      "Fire": 285,
+      "Police": 90,
+      "GenGov": 286
     },
     "Industrial": {
-      "Total": 2247,
-      "NonUtil": 1720,
-      "Roads": 668,
-      "Sewer": 527,
-      "Fire": 190,
-      "Police": 39,
-      "GenGov": 823
+      "Total": 3023,
+      "NonUtil": 1936,
+      "Roads": 429,
+      "Water": 478,
+      "Sewer": 608,
+      "Parks": 650,
+      "Library": 128,
+      "Fire": 335,
+      "Police": 56,
+      "GenGov": 338
     }
   },
   {
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Yavapai County",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3400,
       "NonUtil": 3400,
@@ -1438,13 +1427,13 @@
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Chino Valley",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 9349,
+      "Total": 13804,
       "NonUtil": 3804,
       "Roads": 3028,
-      "Water": 854,
-      "Sewer": 4691,
+      "Water": 4000,
+      "Sewer": 6000,
       "Parks": 369,
       "Library": 113,
       "Police": 294
@@ -1460,27 +1449,27 @@
       "Police": 294
     },
     "Retail": {
-      "Total": 1965,
+      "Total": 2174,
       "NonUtil": 1130,
       "Roads": 970,
       "Water": 84,
-      "Sewer": 751,
+      "Sewer": 960,
       "Police": 160
     },
     "Office": {
-      "Total": 1965,
+      "Total": 2174,
       "NonUtil": 1130,
       "Roads": 970,
       "Water": 84,
-      "Sewer": 751,
+      "Sewer": 960,
       "Police": 160
     },
     "Industrial": {
-      "Total": 3775,
+      "Total": 3984,
       "NonUtil": 2940,
       "Roads": 2780,
       "Water": 84,
-      "Sewer": 751,
+      "Sewer": 960,
       "Police": 160
     }
   },
@@ -1488,7 +1477,7 @@
     "State": "AZ",
     "County": "Yavapai",
     "Jurisdiction": "Prescott",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 16158,
       "NonUtil": 2551,
@@ -1531,7 +1520,7 @@
     "State": "AZ",
     "County": "Yuma",
     "Jurisdiction": "Yuma",
-    "Updated": 1367730000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2712,
       "NonUtil": 2712,
@@ -1571,20 +1560,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Fremont",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 77194,
       "NonUtil": 77194,
@@ -1679,111 +1658,105 @@
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "Livermore",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 40667,
-      "NonUtil": 32243,
-      "Roads": 10172,
-      "Water": 3646,
-      "Sewer": 4778,
-      "Drain": 1120,
-      "Parks": 13334,
+      "Total": 44580,
+      "NonUtil": 35104,
+      "Roads": 11366,
+      "Water": 4051,
+      "Sewer": 5425,
+      "Drain": 620,
+      "Parks": 14721,
       "GenGov": 1677,
-      "Schools": 5940
+      "Schools": 6720
     },
     "MultiFamily": {
-      "Total": 26339,
-      "NonUtil": 21825,
-      "Roads": 6772,
-      "Water": 851,
+      "Total": 39019,
+      "NonUtil": 34411,
+      "Roads": 7708,
+      "Water": 945,
       "Sewer": 3663,
       "Drain": 560,
       "Parks": 10225,
       "GenGov": 1298,
-      "Schools": 2970
+      "Schools": 2970,
+      "Other": 11650
     },
     "Retail": {
-      "Total": 28226,
-      "NonUtil": 28226,
-      "Roads": 22958,
-      "Water": 583,
-      "Sewer": 1060,
-      "Drain": 560,
-      "Parks": 1690,
-      "GenGov": 5,
-      "Schools": 470,
-      "Other": 900
+      "Total": 35584,
+      "NonUtil": 35584,
+      "Roads": 25968,
+      "Sewer": 1210,
+      "Drain": 1000,
+      "Parks": 1866,
+      "GenGov": 5000,
+      "Schools": 540
     },
     "Office": {
-      "Total": 23491,
-      "NonUtil": 23491,
-      "Roads": 17814,
-      "Water": 583,
-      "Sewer": 1060,
-      "Drain": 560,
-      "Parks": 2418,
-      "GenGov": 7,
-      "Schools": 470,
-      "Other": 579
+      "Total": 32060,
+      "NonUtil": 32060,
+      "Roads": 19641,
+      "Sewer": 1210,
+      "Drain": 1000,
+      "Parks": 2669,
+      "GenGov": 7000,
+      "Schools": 540
     },
     "Industrial": {
-      "Total": 14637,
-      "NonUtil": 14637,
-      "Roads": 11281,
-      "Water": 583,
-      "Sewer": 270,
-      "Drain": 560,
-      "Parks": 1193,
-      "GenGov": 3,
-      "Schools": 470,
-      "Other": 277
+      "Total": 19487,
+      "NonUtil": 19487,
+      "Roads": 11996,
+      "Sewer": 1210,
+      "Drain": 1000,
+      "Parks": 1241,
+      "GenGov": 3500,
+      "Schools": 540
     }
   },
   {
     "State": "CA",
     "County": "Alameda",
     "Jurisdiction": "San Leandro",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 27687,
-      "NonUtil": 23795,
-      "Roads": 1222,
-      "Sewer": 3892,
-      "Parks": 14750,
-      "Schools": 6400,
+      "Total": 29701,
+      "NonUtil": 25559,
+      "Roads": 1337,
+      "Sewer": 4142,
+      "Parks": 16079,
+      "Schools": 6720,
       "Other": 1423
     },
     "MultiFamily": {
-      "Total": 21914,
-      "NonUtil": 18674,
-      "Roads": 1222,
-      "Sewer": 3240,
-      "Parks": 12892,
-      "Schools": 3200,
-      "Other": 1360
+      "Total": 22184,
+      "NonUtil": 18751,
+      "Roads": 1337,
+      "Sewer": 3433,
+      "Parks": 14054,
+      "Schools": 3360
     },
     "Retail": {
-      "Total": 5043,
-      "NonUtil": 5043,
-      "Roads": 3790,
-      "Sewer": 623,
-      "Schools": 510,
+      "Total": 5473,
+      "NonUtil": 5473,
+      "Roads": 4150,
+      "Sewer": 663,
+      "Schools": 540,
       "Other": 120
     },
     "Office": {
-      "Total": 4643,
-      "NonUtil": 4643,
-      "Roads": 3390,
-      "Sewer": 623,
-      "Schools": 510,
+      "Total": 3543,
+      "NonUtil": 3543,
+      "Roads": 2220,
+      "Sewer": 663,
+      "Schools": 540,
       "Other": 120
     },
     "Industrial": {
-      "Total": 2343,
-      "NonUtil": 2343,
-      "Roads": 1090,
-      "Sewer": 623,
-      "Schools": 510,
+      "Total": 2513,
+      "NonUtil": 2513,
+      "Roads": 1190,
+      "Sewer": 663,
+      "Schools": 540,
       "Other": 120
     }
   },
@@ -1791,137 +1764,141 @@
     "State": "CA",
     "County": "Contra Costa",
     "Jurisdiction": "Orinda",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 21096,
-      "NonUtil": 21096,
-      "Roads": 6093,
-      "Drain": 5080,
-      "Parks": 9923
+      "Total": 22678,
+      "NonUtil": 22678,
+      "Roads": 6462,
+      "Drain": 2620,
+      "Parks": 13596
     },
     "MultiFamily": {
-      "Total": 12540,
-      "NonUtil": 12540,
-      "Roads": 3838,
-      "Drain": 2540,
-      "Parks": 6162
+      "Total": 14828,
+      "NonUtil": 14828,
+      "Roads": 4031,
+      "Drain": 1310,
+      "Parks": 9487
     },
     "Retail": {
-      "Total": 5130,
-      "NonUtil": 5130,
-      "Roads": 2590,
-      "Drain": 2540
+      "Total": 4030,
+      "NonUtil": 4030,
+      "Roads": 2720,
+      "Drain": 1310
     },
     "Office": {
-      "Total": 5130,
-      "NonUtil": 5130,
-      "Roads": 2590,
-      "Drain": 2540
+      "Total": 4030,
+      "NonUtil": 4030,
+      "Roads": 2720,
+      "Drain": 1310
     },
     "Industrial": {
-      "Total": 5130,
-      "NonUtil": 5130,
-      "Roads": 2590,
-      "Drain": 2540
+      "Total": 4030,
+      "NonUtil": 4030,
+      "Roads": 2720,
+      "Drain": 1310
     }
   },
   {
     "State": "CA",
     "County": "El Dorado",
     "Jurisdiction": "El Dorado Co",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 28344,
-      "NonUtil": 28344,
+      "Total": 28294,
+      "NonUtil": 28294,
       "Roads": 22404,
-      "Schools": 5940
+      "Schools": 5890
     },
     "MultiFamily": {
-      "Total": 17553,
-      "NonUtil": 17553,
+      "Total": 17528,
+      "NonUtil": 17528,
       "Roads": 14583,
-      "Schools": 2970
+      "Schools": 2945
     },
     "Retail": {
-      "Total": 9258,
-      "NonUtil": 9258,
+      "Total": 9278,
+      "NonUtil": 9278,
       "Roads": 8788,
-      "Schools": 470
+      "Schools": 490
     },
     "Office": {
-      "Total": 2719,
-      "NonUtil": 2719,
+      "Total": 2739,
+      "NonUtil": 2739,
       "Roads": 2249,
-      "Schools": 470
+      "Schools": 490
     },
     "Industrial": {
-      "Total": 1900,
-      "NonUtil": 1900,
+      "Total": 1920,
+      "NonUtil": 1920,
       "Roads": 1430,
-      "Schools": 470
+      "Schools": 490
     }
   },
   {
     "State": "CA",
     "County": "Fresno",
     "Jurisdiction": "Clovis",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 19934,
-      "NonUtil": 7390,
-      "Roads": 4573,
-      "Water": 4380,
-      "Sewer": 8164,
-      "Parks": 1984,
-      "Fire": 514,
-      "Other": 319
+      "Total": 28899,
+      "NonUtil": 15397,
+      "Roads": 10417,
+      "Water": 4500,
+      "Sewer": 9002,
+      "Parks": 3230,
+      "Library": 604,
+      "Fire": 672,
+      "Police": 100,
+      "Other": 374
     },
     "MultiFamily": {
-      "Total": 8877,
-      "NonUtil": 6494,
-      "Roads": 3811,
-      "Water": 1022,
-      "Sewer": 1361,
-      "Parks": 1984,
-      "Fire": 514,
-      "Other": 185
+      "Total": 18117,
+      "NonUtil": 8875,
+      "Roads": 4167,
+      "Water": 1050,
+      "Sewer": 8192,
+      "Parks": 3230,
+      "Library": 494,
+      "Fire": 672,
+      "Police": 100,
+      "Other": 212
     },
     "Retail": {
-      "Total": 10646,
-      "NonUtil": 8639,
-      "Roads": 6999,
-      "Water": 701,
-      "Sewer": 1306,
-      "Parks": 830,
-      "Fire": 625,
-      "Other": 185
+      "Total": 14016,
+      "NonUtil": 12776,
+      "Roads": 11956,
+      "Water": 720,
+      "Sewer": 520,
+      "Parks": 48,
+      "Fire": 672,
+      "Police": 100
     },
     "Office": {
-      "Total": 11015,
-      "NonUtil": 9008,
-      "Roads": 6999,
-      "Water": 701,
-      "Sewer": 1306,
-      "Parks": 830,
-      "Fire": 625,
-      "Other": 554
+      "Total": 7553,
+      "NonUtil": 6313,
+      "Roads": 5452,
+      "Water": 720,
+      "Sewer": 520,
+      "Parks": 89,
+      "Fire": 672,
+      "Police": 100
     },
     "Industrial": {
-      "Total": 11015,
-      "NonUtil": 9008,
-      "Roads": 6999,
-      "Water": 701,
-      "Sewer": 1306,
-      "Parks": 830,
-      "Fire": 625,
-      "Other": 554
+      "Total": 3523,
+      "NonUtil": 2283,
+      "Roads": 1467,
+      "Water": 720,
+      "Sewer": 520,
+      "Parks": 44,
+      "Fire": 672,
+      "Police": 100
     }
   },
   {
     "State": "CA",
     "County": "Kern",
     "Jurisdiction": "Bakersfield",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 24702,
       "NonUtil": 20702,
@@ -1969,7 +1946,7 @@
     "State": "CA",
     "County": "Los Angeles",
     "Jurisdiction": "Lancaster",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 13881,
       "NonUtil": 13881,
@@ -2021,62 +1998,65 @@
     "State": "CA",
     "County": "Los Angeles",
     "Jurisdiction": "Long Beach",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 16817,
-      "NonUtil": 16817,
+      "Total": 15674,
+      "NonUtil": 15577,
       "Roads": 1125,
+      "Sewer": 97,
       "Parks": 4613,
       "Fire": 496,
       "Police": 703,
-      "Schools": 9880
+      "Schools": 8640
     },
     "MultiFamily": {
-      "Total": 10543,
-      "NonUtil": 10543,
+      "Total": 10020,
+      "NonUtil": 9923,
       "Roads": 1125,
+      "Sewer": 97,
       "Parks": 3563,
       "Fire": 378,
       "Police": 537,
-      "Schools": 4940
+      "Schools": 4320
     },
     "Retail": {
-      "Total": 4179,
-      "NonUtil": 4179,
+      "Total": 4249,
+      "NonUtil": 4249,
       "Roads": 3000,
       "Fire": 267,
       "Police": 442,
-      "Schools": 470
+      "Schools": 540
     },
     "Office": {
-      "Total": 3333,
-      "NonUtil": 3333,
+      "Total": 3403,
+      "NonUtil": 3403,
       "Roads": 2000,
       "Fire": 325,
       "Police": 538,
-      "Schools": 470
+      "Schools": 540
     },
     "Industrial": {
-      "Total": 1920,
-      "NonUtil": 1920,
+      "Total": 1990,
+      "NonUtil": 1990,
       "Roads": 1100,
       "Fire": 132,
       "Police": 218,
-      "Schools": 470
+      "Schools": 540
     }
   },
   {
     "State": "CA",
     "County": "Monterey",
     "Jurisdiction": "Salinas",
-    "Updated": 1320469200000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 11803,
-      "NonUtil": 7395,
+      "Total": 12423,
+      "NonUtil": 8015,
       "Roads": 3110,
       "Sewer": 4408,
       "Drain": 1404,
       "Parks": 2409,
+      "GenGov": 620,
       "Other": 472
     },
     "MultiFamily": {
@@ -2117,73 +2097,75 @@
     "State": "CA",
     "County": "Napa",
     "Jurisdiction": "St. Helena",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 50500,
-      "NonUtil": 27160,
-      "Roads": 8220,
-      "Water": 12920,
-      "Sewer": 10420,
-      "Drain": 40,
-      "Police": 2500,
-      "GenGov": 5460,
-      "Schools": 5940,
+      "Total": 45840,
+      "NonUtil": 38460,
+      "Roads": 4100,
+      "Water": 6440,
+      "Sewer": 940,
+      "Drain": 1540,
+      "Parks": 15100,
+      "Police": 2200,
+      "GenGov": 4120,
+      "Schools": 6400,
       "Other": 5000
     },
     "MultiFamily": {
-      "Total": 19250,
-      "NonUtil": 12290,
-      "Roads": 2820,
-      "Water": 2810,
-      "Sewer": 4150,
-      "Drain": 20,
-      "Police": 1250,
-      "GenGov": 2730,
-      "Schools": 2970,
+      "Total": 28240,
+      "NonUtil": 24930,
+      "Roads": 2490,
+      "Water": 2610,
+      "Sewer": 700,
+      "Drain": 730,
+      "Parks": 12850,
+      "Police": 1100,
+      "GenGov": 2060,
+      "Schools": 3200,
       "Other": 2500
     },
     "Retail": {
-      "Total": 64570,
-      "NonUtil": 45370,
-      "Roads": 36870,
-      "Water": 10690,
-      "Sewer": 8510,
-      "Drain": 20,
-      "Police": 1250,
-      "GenGov": 1680,
-      "Schools": 470,
-      "Other": 5080
+      "Total": 39970,
+      "NonUtil": 32650,
+      "Roads": 22030,
+      "Water": 6390,
+      "Sewer": 930,
+      "Drain": 1740,
+      "Police": 1100,
+      "GenGov": 2060,
+      "Schools": 510,
+      "Other": 5210
     },
     "Office": {
-      "Total": 27280,
-      "NonUtil": 17480,
-      "Roads": 9460,
-      "Water": 5390,
-      "Sewer": 4410,
-      "Drain": 20,
-      "Police": 1250,
-      "GenGov": 2270,
-      "Schools": 470,
-      "Other": 4010
+      "Total": 18940,
+      "NonUtil": 15170,
+      "Roads": 5650,
+      "Water": 3310,
+      "Sewer": 460,
+      "Drain": 1740,
+      "Police": 1100,
+      "GenGov": 2060,
+      "Schools": 510,
+      "Other": 4110
     },
     "Industrial": {
-      "Total": 23730,
-      "NonUtil": 10530,
-      "Roads": 5980,
-      "Water": 7350,
-      "Sewer": 5850,
-      "Drain": 20,
-      "Police": 1250,
-      "GenGov": 1580,
-      "Schools": 470,
-      "Other": 1230
+      "Total": 14490,
+      "NonUtil": 9460,
+      "Roads": 3590,
+      "Water": 4410,
+      "Sewer": 620,
+      "Drain": 1740,
+      "Police": 1100,
+      "GenGov": 1260,
+      "Schools": 510,
+      "Other": 1260
     }
   },
   {
     "State": "CA",
     "County": "Orange",
     "Jurisdiction": "Brea",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 26810,
       "NonUtil": 12876,
@@ -2231,7 +2213,7 @@
     "State": "CA",
     "County": "Placer",
     "Jurisdiction": "Rocklin",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 16116,
       "NonUtil": 16116,
@@ -2274,115 +2256,117 @@
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Citrus Heights",
-    "Updated": 1343538000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 17137,
-      "NonUtil": 9687,
-      "Roads": 2434,
+      "Total": 17296,
+      "NonUtil": 9846,
+      "Roads": 2593,
       "Sewer": 7450,
       "Drain": 1894,
       "Parks": 1079,
       "Schools": 4280
     },
     "MultiFamily": {
-      "Total": 6060,
-      "NonUtil": 4818,
-      "Roads": 2013,
+      "Total": 6171,
+      "NonUtil": 4929,
+      "Roads": 2124,
       "Sewer": 1242,
       "Parks": 665,
       "Schools": 2140
     },
     "Retail": {
-      "Total": 10637,
-      "NonUtil": 9445,
-      "Roads": 8155,
+      "Total": 8670,
+      "NonUtil": 7478,
+      "Roads": 6188,
       "Sewer": 1192,
       "Parks": 180,
       "Schools": 340,
       "Other": 770
     },
     "Office": {
-      "Total": 7712,
-      "NonUtil": 6520,
-      "Roads": 4840,
+      "Total": 7904,
+      "NonUtil": 6712,
+      "Roads": 5032,
       "Sewer": 1192,
       "Parks": 370,
       "Schools": 340,
       "Other": 970
     },
     "Industrial": {
-      "Total": 6672,
-      "NonUtil": 5480,
+      "Total": 6322,
+      "NonUtil": 5130,
       "Roads": 4440,
       "Sewer": 1192,
       "Parks": 90,
       "Schools": 340,
-      "Other": 610
+      "Other": 260
     }
   },
   {
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Elk Grove",
-    "Updated": 1343538000000,
+    "Updated": 1444712400000,
     "SingleFamily": {
-      "Total": 33021,
-      "NonUtil": 15752,
-      "Roads": 7661,
-      "Water": 6069,
+      "Total": 32821,
+      "NonUtil": 15432,
+      "Roads": 8033,
+      "Water": 6189,
       "Sewer": 11200,
       "Parks": 8,
-      "Library": 725,
-      "Fire": 1731,
-      "Police": 439,
-      "GenGov": 645,
-      "Other": 4543
+      "Library": 774,
+      "Fire": 1861,
+      "Police": 469,
+      "GenGov": 689,
+      "Other": 3598
     },
     "MultiFamily": {
-      "Total": 16133,
-      "NonUtil": 13075,
-      "Roads": 5415,
-      "Water": 566,
+      "Total": 19760,
+      "NonUtil": 13400,
+      "Roads": 5680,
+      "Water": 3868,
       "Sewer": 2492,
       "Parks": 3063,
-      "Library": 479,
-      "Fire": 1139,
-      "Police": 290,
-      "GenGov": 425,
-      "Other": 2264
+      "Library": 511,
+      "Fire": 1225,
+      "Police": 309,
+      "GenGov": 453,
+      "Other": 2159
     },
     "Retail": {
-      "Total": 16216,
-      "NonUtil": 12340,
-      "Roads": 9030,
+      "Total": 15563,
+      "NonUtil": 11688,
+      "Roads": 8080,
       "Water": 388,
       "Sewer": 3488,
+      "Drain": 248,
       "Parks": 840,
-      "Fire": 1500,
-      "Police": 80,
-      "GenGov": 120,
+      "Fire": 1570,
+      "Police": 90,
+      "GenGov": 90,
       "Other": 770
     },
     "Office": {
-      "Total": 14147,
-      "NonUtil": 11190,
-      "Roads": 7180,
+      "Total": 14825,
+      "NonUtil": 11868,
+      "Roads": 7530,
       "Water": 388,
       "Sewer": 2569,
+      "Drain": 248,
       "Parks": 1210,
-      "Fire": 1500,
-      "Police": 130,
+      "Fire": 1570,
+      "Police": 140,
       "GenGov": 200,
       "Other": 970
     },
     "Industrial": {
-      "Total": 10176,
-      "NonUtil": 6300,
-      "Roads": 4640,
+      "Total": 10356,
+      "NonUtil": 6480,
+      "Roads": 4870,
       "Water": 388,
       "Sewer": 3488,
       "Parks": 410,
-      "Fire": 560,
+      "Fire": 510,
       "Police": 30,
       "GenGov": 50,
       "Other": 610
@@ -2392,57 +2376,57 @@
     "State": "CA",
     "County": "Sacramento",
     "Jurisdiction": "Sacramento",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
-      "Total": 42492,
-      "NonUtil": 33660,
+      "Total": 36389,
+      "NonUtil": 29891,
       "Roads": 7013,
       "Water": 1382,
-      "Sewer": 7450,
-      "Drain": 3780,
+      "Sewer": 5116,
+      "Drain": 11,
       "Parks": 7393,
       "Schools": 5940,
       "Other": 9533
     },
     "MultiFamily": {
-      "Total": 23340,
-      "NonUtil": 17462,
+      "Total": 19767,
+      "NonUtil": 16413,
       "Roads": 5895,
       "Water": 291,
-      "Sewer": 5588,
-      "Drain": 1060,
+      "Sewer": 3063,
+      "Drain": 11,
       "Parks": 4359,
       "Schools": 2970,
       "Other": 3178
     },
     "Retail": {
-      "Total": 26430,
-      "NonUtil": 24957,
+      "Total": 23409,
+      "NonUtil": 22310,
       "Roads": 13621,
       "Water": 280,
-      "Sewer": 1192,
-      "Drain": 2840,
+      "Sewer": 819,
+      "Drain": 193,
       "Parks": 390,
       "Schools": 470,
       "Other": 7636
     },
     "Office": {
-      "Total": 21374,
-      "NonUtil": 19901,
+      "Total": 18353,
+      "NonUtil": 17254,
       "Roads": 10310,
       "Water": 280,
-      "Sewer": 1192,
-      "Drain": 2840,
+      "Sewer": 819,
+      "Drain": 193,
       "Parks": 530,
       "Schools": 470,
       "Other": 5752
     },
     "Industrial": {
-      "Total": 15504,
+      "Total": 15131,
       "NonUtil": 14032,
       "Roads": 4266,
       "Water": 280,
-      "Sewer": 1192,
+      "Sewer": 819,
       "Drain": 1890,
       "Parks": 160,
       "Schools": 470,
@@ -2453,62 +2437,62 @@
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Highland",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
-      "Total": 20598,
-      "NonUtil": 20598,
-      "Roads": 12540,
-      "Drain": 765,
-      "Parks": 3480,
-      "Library": 857,
-      "Fire": 746,
-      "Police": 210,
-      "GenGov": 2000
+      "Total": 20249,
+      "NonUtil": 20249,
+      "Roads": 11349,
+      "Drain": 725,
+      "Parks": 3900,
+      "Library": 961,
+      "Fire": 836,
+      "Police": 236,
+      "GenGov": 2242
     },
     "MultiFamily": {
       "Total": 15406,
       "NonUtil": 15406,
-      "Roads": 8372,
-      "Drain": 327,
-      "Parks": 3348,
-      "Library": 825,
-      "Fire": 242,
-      "Police": 332,
-      "GenGov": 1960
+      "Roads": 7577,
+      "Drain": 310,
+      "Parks": 3753,
+      "Library": 925,
+      "Fire": 272,
+      "Police": 373,
+      "GenGov": 2196
     },
     "Retail": {
-      "Total": 12471,
-      "NonUtil": 12471,
-      "Roads": 11779,
-      "Drain": 170,
-      "Fire": 182,
-      "Police": 121,
-      "GenGov": 219
+      "Total": 7754,
+      "NonUtil": 7754,
+      "Roads": 5970,
+      "Drain": 119,
+      "Fire": 1330,
+      "Police": 157,
+      "GenGov": 178
     },
     "Office": {
-      "Total": 12471,
-      "NonUtil": 12471,
-      "Roads": 11779,
-      "Drain": 170,
-      "Fire": 182,
-      "Police": 121,
-      "GenGov": 219
+      "Total": 11404,
+      "NonUtil": 11404,
+      "Roads": 10660,
+      "Drain": 160,
+      "Fire": 203,
+      "Police": 136,
+      "GenGov": 245
     },
     "Industrial": {
-      "Total": 8676,
-      "NonUtil": 8676,
-      "Roads": 8193,
-      "Drain": 203,
-      "Fire": 54,
+      "Total": 7918,
+      "NonUtil": 7918,
+      "Roads": 7415,
+      "Drain": 191,
+      "Fire": 60,
       "Police": 7,
-      "GenGov": 219
+      "GenGov": 245
     }
   },
   {
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Redlands",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
       "Total": 13880,
       "NonUtil": 13880,
@@ -2566,125 +2550,125 @@
     "State": "CA",
     "County": "San Bernardino",
     "Jurisdiction": "Rialto",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
-      "Total": 20145,
-      "NonUtil": 10785,
-      "Roads": 2829,
-      "Water": 5638,
-      "Sewer": 3722,
-      "Drain": 3135,
-      "Parks": 2932,
-      "Library": 127,
-      "Fire": 519,
-      "Police": 624,
-      "GenGov": 619
+      "Total": 30894,
+      "NonUtil": 18240,
+      "Roads": 6527,
+      "Water": 7626,
+      "Sewer": 5028,
+      "Drain": 3560,
+      "Parks": 3755,
+      "Library": 326,
+      "Fire": 953,
+      "Police": 1295,
+      "GenGov": 1824
     },
     "MultiFamily": {
-      "Total": 11470,
-      "NonUtil": 7410,
-      "Roads": 1958,
-      "Water": 872,
-      "Sewer": 3188,
-      "Drain": 864,
-      "Parks": 2327,
-      "Library": 112,
-      "Fire": 524,
-      "Police": 1031,
-      "GenGov": 594
+      "Total": 19419,
+      "NonUtil": 13943,
+      "Roads": 5483,
+      "Water": 1166,
+      "Sewer": 4310,
+      "Drain": 1208,
+      "Parks": 3106,
+      "Library": 307,
+      "Fire": 899,
+      "Police": 1221,
+      "GenGov": 1719
     },
     "Retail": {
-      "Total": 9525,
-      "NonUtil": 8221,
-      "Roads": 6500,
-      "Water": 564,
-      "Sewer": 740,
-      "Drain": 1105,
+      "Total": 15716,
+      "NonUtil": 13701,
+      "Roads": 11132,
+      "Water": 763,
+      "Sewer": 1252,
+      "Drain": 1809,
       "Parks": 140,
-      "Fire": 238,
-      "Police": 112,
-      "GenGov": 126
+      "Fire": 250,
+      "Police": 154,
+      "GenGov": 216
     },
     "Office": {
-      "Total": 7910,
-      "NonUtil": 5631,
-      "Roads": 3910,
-      "Water": 564,
-      "Sewer": 1715,
-      "Drain": 1105,
+      "Total": 13422,
+      "NonUtil": 10338,
+      "Roads": 7769,
+      "Water": 763,
+      "Sewer": 2321,
+      "Drain": 1809,
       "Parks": 140,
-      "Fire": 238,
-      "Police": 112,
-      "GenGov": 126
+      "Fire": 250,
+      "Police": 154,
+      "GenGov": 216
     },
     "Industrial": {
-      "Total": 4780,
-      "NonUtil": 3476,
-      "Roads": 2220,
-      "Water": 564,
-      "Sewer": 740,
-      "Drain": 1023,
+      "Total": 8856,
+      "NonUtil": 7843,
+      "Roads": 5729,
+      "Water": 763,
+      "Sewer": 250,
+      "Drain": 1809,
       "Parks": 120,
-      "Fire": 26,
-      "Police": 26,
-      "GenGov": 61
+      "Fire": 76,
+      "Police": 46,
+      "GenGov": 63
     }
   },
   {
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "Carlsbad",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
-      "Total": 38225,
-      "NonUtil": 27085,
-      "Roads": 3280,
+      "Total": 36142,
+      "NonUtil": 24968,
+      "Roads": 846,
       "Water": 8041,
-      "Sewer": 3099,
-      "Drain": 685,
+      "Sewer": 3133,
+      "Drain": 807,
       "Parks": 6208,
       "GenGov": 7000,
       "Schools": 6300,
-      "Other": 3612
+      "Other": 3807
     },
     "MultiFamily": {
-      "Total": 19073,
-      "NonUtil": 17212,
-      "Roads": 1968,
-      "Water": 1344,
-      "Sewer": 517,
-      "Drain": 416,
+      "Total": 17896,
+      "NonUtil": 15952,
+      "Roads": 634,
+      "Water": 1422,
+      "Sewer": 522,
+      "Drain": 490,
       "Parks": 5025,
       "GenGov": 3500,
       "Schools": 3150,
       "Other": 3154
     },
     "Retail": {
-      "Total": 11661,
+      "Total": 11666,
       "NonUtil": 10352,
       "Roads": 5668,
       "Water": 813,
-      "Sewer": 496,
+      "Sewer": 501,
       "Drain": 763,
       "GenGov": 3500,
       "Other": 420
     },
     "Office": {
-      "Total": 6973,
+      "Total": 6978,
       "NonUtil": 5663,
       "Roads": 1453,
       "Water": 813,
-      "Sewer": 496,
+      "Sewer": 501,
       "Drain": 458,
       "GenGov": 3500,
       "Other": 252
     },
     "Industrial": {
-      "Total": 6913,
+      "Total": 6918,
       "NonUtil": 5604,
       "Roads": 920,
       "Water": 813,
-      "Sewer": 496,
+      "Sewer": 501,
       "Drain": 763,
       "GenGov": 3500,
       "Other": 420
@@ -2694,12 +2678,12 @@
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "Escondido",
-    "Updated": 1343538000000,
+    "Updated": 1447394400000,
     "SingleFamily": {
-      "Total": 29382,
-      "NonUtil": 12866,
-      "Roads": 3015,
-      "Water": 9016,
+      "Total": 30001,
+      "NonUtil": 13011,
+      "Roads": 3160,
+      "Water": 9490,
       "Sewer": 7500,
       "Drain": 1071,
       "Parks": 4129,
@@ -2707,42 +2691,42 @@
       "Other": 118
     },
     "MultiFamily": {
-      "Total": 21914,
-      "NonUtil": 12123,
-      "Roads": 2675,
-      "Water": 4166,
-      "Sewer": 5625,
-      "Drain": 428,
-      "Parks": 4129,
-      "GenGov": 4533,
-      "Other": 358
+      "Total": 15038,
+      "NonUtil": 6071,
+      "Roads": 2820,
+      "Water": 1467,
+      "Sewer": 7500,
+      "Drain": 363,
+      "Parks": 1098,
+      "GenGov": 1582,
+      "Other": 208
     },
     "Retail": {
-      "Total": 8653,
-      "NonUtil": 6490,
-      "Roads": 3360,
-      "Water": 883,
+      "Total": 6809,
+      "NonUtil": 4600,
+      "Roads": 1470,
+      "Water": 929,
       "Sewer": 1280,
       "Drain": 700,
       "GenGov": 2130,
       "Other": 300
     },
     "Office": {
-      "Total": 6003,
+      "Total": 6049,
       "NonUtil": 3840,
       "Roads": 710,
-      "Water": 883,
+      "Water": 929,
       "Sewer": 1280,
       "Drain": 700,
       "GenGov": 2130,
       "Other": 300
     },
     "Industrial": {
-      "Total": 4463,
+      "Total": 4299,
       "NonUtil": 2950,
       "Roads": 340,
-      "Water": 883,
-      "Sewer": 630,
+      "Water": 929,
+      "Sewer": 420,
       "Drain": 700,
       "GenGov": 1610,
       "Other": 300
@@ -2752,52 +2736,63 @@
     "State": "CA",
     "County": "San Diego",
     "Jurisdiction": "San Diego",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 36103,
-      "NonUtil": 24606,
-      "Roads": 2474,
+      "Total": 43571,
+      "NonUtil": 32074,
+      "Roads": 2996,
       "Water": 7373,
       "Sewer": 4124,
+      "Parks": 3201,
+      "Library": 933,
+      "Fire": 121,
+      "GenGov": 2691,
       "Schools": 5260,
       "Other": 16872
     },
     "MultiFamily": {
-      "Total": 24328,
-      "NonUtil": 16501,
-      "Roads": 1979,
+      "Total": 31753,
+      "NonUtil": 23926,
+      "Roads": 2996,
       "Water": 3703,
       "Sewer": 4124,
+      "Parks": 3201,
+      "Library": 933,
+      "Fire": 121,
+      "GenGov": 2153,
       "Schools": 2630,
       "Other": 11892
     },
     "Retail": {
-      "Total": 16100,
-      "NonUtil": 14537,
-      "Roads": 13183,
+      "Total": 21972,
+      "NonUtil": 20409,
+      "Roads": 18378,
       "Water": 903,
       "Sewer": 660,
-      "Fire": 294,
+      "Fire": 121,
+      "GenGov": 850,
       "Schools": 420,
       "Other": 640
     },
     "Office": {
-      "Total": 6717,
-      "NonUtil": 5154,
-      "Roads": 3380,
+      "Total": 9286,
+      "NonUtil": 7723,
+      "Roads": 4712,
       "Water": 903,
       "Sewer": 660,
-      "Fire": 294,
+      "Fire": 121,
+      "GenGov": 1410,
       "Schools": 420,
       "Other": 1060
     },
     "Industrial": {
-      "Total": 5057,
-      "NonUtil": 3494,
-      "Roads": 2140,
+      "Total": 6527,
+      "NonUtil": 4964,
+      "Roads": 2983,
       "Water": 903,
       "Sewer": 660,
-      "Fire": 294,
+      "Fire": 121,
+      "GenGov": 800,
       "Schools": 420,
       "Other": 640
     }
@@ -2806,256 +2801,258 @@
     "State": "CA",
     "County": "San Joaquin",
     "Jurisdiction": "Lodi",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 28153,
-      "NonUtil": 20583,
-      "Roads": 4069,
-      "Water": 1430,
-      "Sewer": 6140,
-      "Drain": 5231,
-      "Parks": 7900,
-      "Fire": 550,
-      "Police": 562,
-      "GenGov": 2271
+      "Total": 6344,
+      "NonUtil": 4346,
+      "Roads": 289,
+      "Water": 846,
+      "Sewer": 1152,
+      "Drain": 1725,
+      "Parks": 1584,
+      "Fire": 157,
+      "Police": 307,
+      "GenGov": 251,
+      "Other": 33
     },
     "MultiFamily": {
-      "Total": 24853,
-      "NonUtil": 17049,
-      "Roads": 4137,
-      "Water": 1664,
-      "Sewer": 6140,
-      "Drain": 1744,
-      "Parks": 7373,
-      "Fire": 791,
-      "Police": 885,
-      "GenGov": 2120
+      "Total": 3041,
+      "NonUtil": 2654,
+      "Roads": 157,
+      "Water": 196,
+      "Sewer": 191,
+      "Drain": 862,
+      "Parks": 1111,
+      "Fire": 110,
+      "Police": 215,
+      "GenGov": 176,
+      "Other": 23
     },
     "Retail": {
-      "Total": 16091,
-      "NonUtil": 14549,
-      "Roads": 5182,
-      "Water": 560,
-      "Sewer": 982,
-      "Drain": 4259,
-      "Parks": 1548,
-      "Fire": 905,
-      "Police": 1418,
-      "GenGov": 1237
+      "Total": 10119,
+      "NonUtil": 9386,
+      "Roads": 1199,
+      "Water": 310,
+      "Sewer": 423,
+      "Drain": 6808,
+      "Parks": 406,
+      "Fire": 338,
+      "Police": 330,
+      "GenGov": 270,
+      "Other": 35
     },
     "Office": {
-      "Total": 12869,
-      "NonUtil": 11551,
-      "Roads": 4888,
-      "Water": 336,
-      "Sewer": 982,
-      "Drain": 2555,
-      "Parks": 1567,
-      "Fire": 497,
-      "Police": 768,
-      "GenGov": 1276
+      "Total": 7951,
+      "NonUtil": 7218,
+      "Roads": 872,
+      "Water": 310,
+      "Sewer": 423,
+      "Drain": 4085,
+      "Parks": 650,
+      "Fire": 540,
+      "Police": 582,
+      "GenGov": 433,
+      "Other": 56
     },
     "Industrial": {
-      "Total": 12772,
-      "NonUtil": 11562,
-      "Roads": 4982,
-      "Water": 228,
-      "Sewer": 982,
-      "Drain": 4259,
-      "Parks": 1112,
-      "Fire": 215,
-      "Police": 103,
-      "GenGov": 890
+      "Total": 8720,
+      "NonUtil": 7987,
+      "Roads": 443,
+      "Water": 310,
+      "Sewer": 423,
+      "Drain": 6808,
+      "Parks": 217,
+      "Fire": 180,
+      "Police": 176,
+      "GenGov": 144,
+      "Other": 19
     }
   },
   {
     "State": "CA",
     "County": "San Joaquin",
     "Jurisdiction": "Ripon",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 61183,
-      "NonUtil": 48209,
-      "Roads": 9530,
-      "Water": 9172,
-      "Sewer": 3802,
-      "Drain": 2430,
-      "Parks": 13056,
-      "Library": 434,
-      "Fire": 2710,
-      "Police": 498,
-      "GenGov": 4239,
-      "Schools": 6160,
-      "Other": 9152
+      "Total": 64894,
+      "NonUtil": 51139,
+      "Roads": 10006,
+      "Water": 9724,
+      "Sewer": 4031,
+      "Drain": 2576,
+      "Parks": 13842,
+      "Library": 460,
+      "Fire": 2817,
+      "Police": 528,
+      "GenGov": 4487,
+      "Schools": 6720,
+      "Other": 9703
     },
     "MultiFamily": {
-      "Total": 35867,
-      "NonUtil": 27376,
-      "Roads": 4956,
-      "Water": 6115,
-      "Sewer": 2376,
-      "Drain": 555,
-      "Parks": 8160,
-      "Library": 271,
-      "Fire": 1807,
-      "Police": 312,
-      "GenGov": 3063,
-      "Schools": 3080,
-      "Other": 5172
+      "Total": 38035,
+      "NonUtil": 29033,
+      "Roads": 5206,
+      "Water": 6483,
+      "Sewer": 2519,
+      "Drain": 588,
+      "Parks": 8651,
+      "Library": 287,
+      "Fire": 1878,
+      "Police": 331,
+      "GenGov": 3243,
+      "Schools": 3360,
+      "Other": 5489
     },
     "Retail": {
-      "Total": 28327,
-      "NonUtil": 20994,
-      "Roads": 13562,
-      "Water": 2800,
-      "Sewer": 4533,
-      "Drain": 2333,
-      "Parks": 1200,
-      "Fire": 1536,
+      "Total": 28865,
+      "NonUtil": 21065,
+      "Roads": 13270,
+      "Water": 3000,
+      "Sewer": 4800,
+      "Drain": 2467,
+      "Parks": 1267,
+      "Fire": 1585,
       "Police": 200,
-      "GenGov": 1277,
-      "Schools": 470,
-      "Other": 416
+      "GenGov": 1297,
+      "Schools": 540,
+      "Other": 441
     },
     "Office": {
-      "Total": 17708,
-      "NonUtil": 13228,
-      "Roads": 7572,
-      "Water": 1760,
-      "Sewer": 2720,
-      "Drain": 1400,
-      "Parks": 720,
-      "Fire": 1807,
+      "Total": 18612,
+      "NonUtil": 13932,
+      "Roads": 8003,
+      "Water": 1800,
+      "Sewer": 2880,
+      "Drain": 1480,
+      "Parks": 760,
+      "Fire": 1865,
       "Police": 120,
-      "GenGov": 890,
-      "Schools": 470,
-      "Other": 249
+      "GenGov": 900,
+      "Schools": 540,
+      "Other": 264
     },
     "Industrial": {
-      "Total": 22002,
-      "NonUtil": 12736,
-      "Roads": 6989,
-      "Water": 2933,
-      "Sewer": 6333,
-      "Drain": 2800,
+      "Total": 23200,
+      "NonUtil": 13467,
+      "Roads": 7366,
+      "Water": 3000,
+      "Sewer": 6733,
+      "Drain": 3000,
       "Parks": 467,
-      "Fire": 994,
+      "Fire": 1033,
       "Police": 67,
-      "GenGov": 533,
-      "Schools": 470,
-      "Other": 416
+      "GenGov": 553,
+      "Schools": 540,
+      "Other": 441
     }
   },
   {
     "State": "CA",
     "County": "San Luis Obispo",
     "Jurisdiction": "Paso Robles",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 50019,
-      "NonUtil": 25769,
-      "Roads": 7398,
-      "Water": 17750,
-      "Sewer": 6500,
-      "Drain": 2020,
-      "Parks": 4803,
-      "Library": 1154,
-      "Fire": 884,
-      "Police": 74,
-      "GenGov": 4176,
+      "Total": 58897,
+      "NonUtil": 25597,
+      "Roads": 12183,
+      "Water": 23500,
+      "Sewer": 9800,
+      "Parks": 2985,
+      "Library": 985,
+      "Fire": 1054,
+      "Police": 77,
+      "GenGov": 3053,
       "Schools": 5260
     },
     "MultiFamily": {
-      "Total": 27943,
-      "NonUtil": 19284,
-      "Roads": 5919,
-      "Water": 2759,
-      "Sewer": 5900,
-      "Drain": 995,
-      "Parks": 4208,
-      "Library": 1013,
-      "Fire": 774,
-      "Police": 87,
-      "GenGov": 3658,
+      "Total": 31647,
+      "NonUtil": 19194,
+      "Roads": 8396,
+      "Water": 3653,
+      "Sewer": 8800,
+      "Parks": 2985,
+      "Library": 985,
+      "Fire": 1054,
+      "Police": 91,
+      "GenGov": 3053,
       "Schools": 2630
     },
     "Retail": {
-      "Total": 12449,
-      "NonUtil": 10020,
-      "Roads": 7620,
-      "Water": 1775,
-      "Sewer": 654,
-      "Drain": 1380,
-      "Fire": 550,
-      "Police": 50,
-      "GenGov": 420
+      "Total": 15961,
+      "NonUtil": 12630,
+      "Roads": 11010,
+      "Water": 2350,
+      "Sewer": 981,
+      "Fire": 390,
+      "Police": 120,
+      "GenGov": 1110
     },
     "Office": {
-      "Total": 12449,
-      "NonUtil": 10020,
-      "Roads": 7620,
-      "Water": 1775,
-      "Sewer": 654,
-      "Drain": 1380,
-      "Fire": 550,
-      "Police": 50,
-      "GenGov": 420
+      "Total": 15961,
+      "NonUtil": 12630,
+      "Roads": 11010,
+      "Water": 2350,
+      "Sewer": 981,
+      "Fire": 390,
+      "Police": 120,
+      "GenGov": 1110
     },
     "Industrial": {
-      "Total": 7254,
-      "NonUtil": 4825,
-      "Roads": 3715,
-      "Water": 1775,
-      "Sewer": 654,
-      "Drain": 910,
-      "Fire": 50,
-      "Police": 20,
-      "GenGov": 130
+      "Total": 7271,
+      "NonUtil": 3940,
+      "Roads": 3090,
+      "Water": 2350,
+      "Sewer": 981,
+      "Fire": 210,
+      "Police": 30,
+      "GenGov": 610
     }
   },
   {
     "State": "CA",
     "County": "San Luis Obispo",
     "Jurisdiction": "San Luis Obispo",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 34682,
-      "NonUtil": 13457,
-      "Roads": 3457,
-      "Water": 17092,
-      "Sewer": 4133,
+      "Total": 41447,
+      "NonUtil": 26609,
+      "Roads": 3597,
+      "Water": 11023,
+      "Sewer": 3815,
+      "Parks": 13012,
       "Other": 10000
     },
     "MultiFamily": {
-      "Total": 25047,
-      "NonUtil": 8068,
-      "Roads": 3068,
-      "Water": 13673,
-      "Sewer": 3306,
+      "Total": 28153,
+      "NonUtil": 17767,
+      "Roads": 3192,
+      "Water": 7716,
+      "Sewer": 2670,
+      "Parks": 9575,
       "Other": 5000
     },
     "Retail": {
-      "Total": 20274,
-      "NonUtil": 17282,
-      "Roads": 7282,
-      "Water": 2393,
-      "Sewer": 599,
+      "Total": 19163,
+      "NonUtil": 17576,
+      "Roads": 7576,
+      "Water": 1179,
+      "Sewer": 408,
       "Other": 10000
     },
     "Office": {
-      "Total": 19925,
-      "NonUtil": 16933,
-      "Roads": 6933,
-      "Water": 2393,
-      "Sewer": 599,
+      "Total": 18800,
+      "NonUtil": 17213,
+      "Roads": 7213,
+      "Water": 1179,
+      "Sewer": 408,
       "Other": 10000
     },
     "Industrial": {
-      "Total": 14994,
-      "NonUtil": 12002,
-      "Roads": 2002,
-      "Water": 2393,
-      "Sewer": 599,
+      "Total": 13670,
+      "NonUtil": 12083,
+      "Roads": 2083,
+      "Water": 1179,
+      "Sewer": 408,
       "Other": 10000
     }
   },
@@ -3063,53 +3060,53 @@
     "State": "CA",
     "County": "Santa Barbara",
     "Jurisdiction": "Carpinteria",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 37086,
-      "NonUtil": 37086,
-      "Roads": 13066,
-      "Drain": 2333,
-      "Parks": 15433,
-      "GenGov": 1654,
+      "Total": 34515,
+      "NonUtil": 34515,
+      "Roads": 5890,
+      "Drain": 2397,
+      "Parks": 19929,
+      "GenGov": 1699,
       "Schools": 4100,
       "Other": 500
     },
     "MultiFamily": {
-      "Total": 24882,
-      "NonUtil": 24882,
-      "Roads": 8583,
-      "Drain": 829,
-      "Parks": 11670,
-      "GenGov": 1250,
+      "Total": 23626,
+      "NonUtil": 23626,
+      "Roads": 3869,
+      "Drain": 852,
+      "Parks": 15070,
+      "GenGov": 1285,
       "Schools": 2050,
       "Other": 500
     },
     "Retail": {
-      "Total": 41839,
-      "NonUtil": 41839,
-      "Roads": 37430,
-      "Drain": 1714,
-      "Parks": 2060,
-      "GenGov": 260,
+      "Total": 22006,
+      "NonUtil": 22006,
+      "Roads": 16860,
+      "Drain": 1761,
+      "Parks": 2740,
+      "GenGov": 270,
       "Schools": 330,
       "Other": 45
     },
     "Office": {
-      "Total": 41153,
-      "NonUtil": 41153,
-      "Roads": 37430,
-      "Drain": 1028,
-      "Parks": 2060,
-      "GenGov": 260,
+      "Total": 21301,
+      "NonUtil": 21301,
+      "Roads": 16860,
+      "Drain": 1056,
+      "Parks": 2740,
+      "GenGov": 270,
       "Schools": 330,
       "Other": 45
     },
     "Industrial": {
-      "Total": 21599,
-      "NonUtil": 21599,
-      "Roads": 17830,
-      "Drain": 1714,
-      "Parks": 1490,
+      "Total": 12346,
+      "NonUtil": 12346,
+      "Roads": 8030,
+      "Drain": 1761,
+      "Parks": 1990,
       "GenGov": 190,
       "Schools": 330,
       "Other": 45
@@ -3119,7 +3116,7 @@
     "State": "CA",
     "County": "Santa Barbara",
     "Jurisdiction": "Santa Maria",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
       "Total": 23436,
       "NonUtil": 18112,
@@ -3185,101 +3182,111 @@
     "State": "CA",
     "County": "Santa Clara",
     "Jurisdiction": "Gilroy",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 45934,
-      "NonUtil": 28167,
-      "Roads": 11809,
-      "Water": 5236,
-      "Sewer": 12531,
-      "Drain": 158,
-      "GenGov": 16200
+      "Total": 41930,
+      "NonUtil": 26950,
+      "Roads": 9973,
+      "Water": 4294,
+      "Sewer": 10686,
+      "Drain": 129,
+      "GenGov": 16848
     },
     "MultiFamily": {
-      "Total": 32191,
-      "NonUtil": 23292,
-      "Roads": 9572,
-      "Water": 2118,
-      "Sewer": 6781,
-      "Drain": 90,
-      "GenGov": 13630
+      "Total": 29852,
+      "NonUtil": 22333,
+      "Roads": 8084,
+      "Water": 1737,
+      "Sewer": 5782,
+      "Drain": 74,
+      "GenGov": 14175
     },
     "Retail": {
-      "Total": 27216,
-      "NonUtil": 22412,
-      "Roads": 19687,
-      "Water": 838,
-      "Sewer": 3966,
-      "Drain": 285,
-      "GenGov": 2440
+      "Total": 23503,
+      "NonUtil": 19434,
+      "Roads": 16662,
+      "Water": 687,
+      "Sewer": 3382,
+      "Drain": 234,
+      "GenGov": 2538
     },
     "Office": {
-      "Total": 27102,
-      "NonUtil": 22298,
-      "Roads": 19687,
-      "Water": 838,
-      "Sewer": 3966,
-      "Drain": 171,
-      "GenGov": 2440
+      "Total": 23409,
+      "NonUtil": 19340,
+      "Roads": 16662,
+      "Water": 687,
+      "Sewer": 3382,
+      "Drain": 140,
+      "GenGov": 2538
     },
     "Industrial": {
-      "Total": 11272,
-      "NonUtil": 6468,
-      "Roads": 5178,
-      "Water": 838,
-      "Sewer": 3966,
-      "Drain": 210,
-      "GenGov": 1080
+      "Total": 9738,
+      "NonUtil": 5669,
+      "Roads": 4373,
+      "Water": 687,
+      "Sewer": 3382,
+      "Drain": 173,
+      "GenGov": 1123
     }
   },
   {
     "State": "CA",
     "County": "Santa Clara",
     "Jurisdiction": "Palo Alto",
-    "Updated": 1343278800000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 28975,
-      "NonUtil": 16475,
-      "Roads": 3017,
+      "Total": 33699,
+      "NonUtil": 21199,
+      "Roads": 3473,
       "Water": 5000,
       "Sewer": 7500,
-      "Parks": 12556,
-      "Library": 902
+      "Parks": 14437,
+      "Library": 1038,
+      "Police": 996,
+      "GenGov": 1255
     },
     "MultiFamily": {
-      "Total": 12655,
-      "NonUtil": 10618,
-      "Roads": 1852,
+      "Total": 16052,
+      "NonUtil": 14014,
+      "Roads": 2132,
       "Water": 788,
       "Sewer": 1250,
-      "Parks": 8227,
-      "Library": 539
+      "Parks": 9461,
+      "Library": 620,
+      "Police": 797,
+      "GenGov": 1004
     },
     "Retail": {
-      "Total": 35013,
-      "NonUtil": 33813,
-      "Roads": 11142,
+      "Total": 38662,
+      "NonUtil": 37462,
+      "Roads": 12827,
       "Sewer": 1200,
-      "Parks": 4473,
-      "Library": 228,
+      "Parks": 5144,
+      "Library": 262,
+      "Police": 557,
+      "GenGov": 702,
       "Other": 17970
     },
     "Office": {
-      "Total": 28322,
-      "NonUtil": 27122,
-      "Roads": 4451,
+      "Total": 31380,
+      "NonUtil": 30180,
+      "Roads": 5124,
       "Sewer": 1200,
-      "Parks": 4473,
-      "Library": 228,
+      "Parks": 5144,
+      "Library": 262,
+      "Police": 743,
+      "GenGov": 937,
       "Other": 17970
     },
     "Industrial": {
-      "Total": 26768,
-      "NonUtil": 25568,
-      "Roads": 2897,
+      "Total": 28332,
+      "NonUtil": 27132,
+      "Roads": 3336,
       "Sewer": 1200,
-      "Parks": 4473,
-      "Library": 228,
+      "Parks": 5144,
+      "Library": 262,
+      "Police": 186,
+      "GenGov": 234,
       "Other": 17970
     }
   },
@@ -3287,17 +3294,17 @@
     "State": "CA",
     "County": "Santa Cruz",
     "Jurisdiction": "Santa Cruz Co",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 10440,
-      "NonUtil": 10440,
-      "Roads": 6000,
+      "Total": 7440,
+      "NonUtil": 7440,
+      "Roads": 3000,
       "Drain": 4440
     },
     "MultiFamily": {
-      "Total": 6420,
-      "NonUtil": 6420,
-      "Roads": 4200,
+      "Total": 4320,
+      "NonUtil": 4320,
+      "Roads": 2100,
       "Drain": 2220
     },
     "Retail": {
@@ -3323,179 +3330,180 @@
     "State": "CA",
     "County": "Santa Cruz",
     "Jurisdiction": "Scotts Valley",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 22267,
-      "NonUtil": 16130,
-      "Roads": 4855,
+      "Total": 23808,
+      "NonUtil": 17671,
+      "Roads": 5454,
       "Sewer": 6137,
-      "Drain": 330,
-      "Parks": 8933,
-      "Library": 748,
-      "Police": 882,
-      "GenGov": 382
+      "Drain": 350,
+      "Parks": 9685,
+      "Library": 811,
+      "Police": 957,
+      "GenGov": 414
     },
     "MultiFamily": {
-      "Total": 16453,
-      "NonUtil": 12013,
-      "Roads": 2881,
+      "Total": 14767,
+      "NonUtil": 10327,
+      "Roads": 3236,
       "Sewer": 4440,
-      "Drain": 165,
-      "Parks": 6955,
-      "Library": 748,
-      "Police": 882,
-      "GenGov": 382
+      "Drain": 175,
+      "Parks": 4841,
+      "Library": 704,
+      "Police": 957,
+      "GenGov": 414
     },
     "Retail": {
-      "Total": 14052,
-      "NonUtil": 14052,
-      "Roads": 9650,
+      "Total": 15526,
+      "NonUtil": 15526,
+      "Roads": 10840,
       "Sewer": 982,
-      "Drain": 165,
-      "Police": 3101,
-      "GenGov": 154
+      "Drain": 175,
+      "Police": 3362,
+      "GenGov": 167
     },
     "Office": {
-      "Total": 12812,
-      "NonUtil": 12812,
-      "Roads": 9650,
+      "Total": 14182,
+      "NonUtil": 14182,
+      "Roads": 10840,
       "Sewer": 982,
-      "Drain": 165,
-      "Police": 1861,
-      "GenGov": 154
+      "Drain": 175,
+      "Police": 2017,
+      "GenGov": 167
     },
     "Industrial": {
-      "Total": 10147,
-      "NonUtil": 10147,
-      "Roads": 5750,
+      "Total": 11141,
+      "NonUtil": 11141,
+      "Roads": 6460,
       "Sewer": 982,
-      "Drain": 165,
-      "Police": 3101,
-      "GenGov": 149
+      "Drain": 175,
+      "Police": 3362,
+      "GenGov": 161
     }
   },
   {
     "State": "CA",
     "County": "Shasta",
     "Jurisdiction": "Redding",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 25143,
-      "NonUtil": 11334,
-      "Roads": 5582,
-      "Water": 6889,
-      "Sewer": 6920,
-      "Drain": 891,
-      "Parks": 3996,
-      "Fire": 865
+      "Total": 31655,
+      "NonUtil": 18829,
+      "Roads": 5816,
+      "Water": 5700,
+      "Sewer": 7126,
+      "Drain": 907,
+      "Parks": 4067,
+      "Fire": 983,
+      "Schools": 7056
     },
     "MultiFamily": {
-      "Total": 10603,
-      "NonUtil": 7842,
-      "Roads": 3593,
-      "Water": 1607,
-      "Sewer": 1153,
-      "Drain": 438,
-      "Parks": 3115,
-      "Fire": 696
+      "Total": 9799,
+      "NonUtil": 7281,
+      "Roads": 2875,
+      "Water": 1330,
+      "Sewer": 1188,
+      "Drain": 445,
+      "Parks": 3171,
+      "Fire": 790
     },
     "Retail": {
-      "Total": 16037,
-      "NonUtil": 16037,
-      "Roads": 12669,
-      "Water": 1102,
-      "Sewer": 1107,
-      "Drain": 559,
-      "Fire": 600
+      "Total": 12784,
+      "NonUtil": 12784,
+      "Roads": 9517,
+      "Water": 912,
+      "Sewer": 1140,
+      "Drain": 568,
+      "Fire": 647
     },
     "Office": {
-      "Total": 13463,
-      "NonUtil": 13463,
-      "Roads": 9853,
-      "Water": 1102,
-      "Sewer": 1107,
-      "Drain": 513,
-      "Fire": 888
+      "Total": 10933,
+      "NonUtil": 10933,
+      "Roads": 7402,
+      "Water": 912,
+      "Sewer": 1140,
+      "Drain": 522,
+      "Fire": 957
     },
     "Industrial": {
-      "Total": 8131,
-      "NonUtil": 8131,
-      "Roads": 5068,
-      "Water": 1102,
-      "Sewer": 1107,
-      "Drain": 374,
-      "Fire": 480
+      "Total": 6756,
+      "NonUtil": 6756,
+      "Roads": 3806,
+      "Water": 912,
+      "Sewer": 1140,
+      "Drain": 380,
+      "Fire": 518
     }
   },
   {
     "State": "CA",
     "County": "Solano",
     "Jurisdiction": "Vacaville",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 46140,
-      "NonUtil": 29673,
-      "Roads": 8745,
-      "Water": 7643,
-      "Sewer": 8824,
-      "Drain": 2039,
-      "Parks": 4208,
-      "Fire": 305,
-      "Police": 682,
-      "GenGov": 677,
+      "Total": 47572,
+      "NonUtil": 30282,
+      "Roads": 9182,
+      "Water": 8025,
+      "Sewer": 9265,
+      "Drain": 2141,
+      "Parks": 4195,
+      "Fire": 320,
+      "Police": 716,
+      "GenGov": 711,
       "Schools": 4100,
       "Other": 8917
     },
     "MultiFamily": {
-      "Total": 31702,
-      "NonUtil": 21656,
-      "Roads": 5421,
-      "Water": 2987,
-      "Sewer": 7059,
-      "Drain": 1738,
-      "Parks": 2894,
-      "Fire": 105,
-      "Police": 595,
-      "GenGov": 418,
+      "Total": 32610,
+      "NonUtil": 22062,
+      "Roads": 5692,
+      "Water": 3136,
+      "Sewer": 7412,
+      "Drain": 1826,
+      "Parks": 2885,
+      "Fire": 110,
+      "Police": 625,
+      "GenGov": 439,
       "Schools": 2050,
       "Other": 8435
     },
     "Retail": {
-      "Total": 12772,
-      "NonUtil": 12772,
-      "Roads": 4728,
-      "Water": 1773,
-      "Sewer": 1760,
-      "Drain": 1502,
-      "Fire": 188,
-      "Police": 1270,
-      "GenGov": 379,
+      "Total": 13354,
+      "NonUtil": 13354,
+      "Roads": 4965,
+      "Water": 1862,
+      "Sewer": 1850,
+      "Drain": 1577,
+      "Fire": 197,
+      "Police": 1333,
+      "GenGov": 398,
       "Schools": 330,
       "Other": 841
     },
     "Office": {
-      "Total": 11309,
-      "NonUtil": 11309,
-      "Roads": 3590,
-      "Water": 1773,
-      "Sewer": 2240,
-      "Drain": 901,
-      "Fire": 113,
-      "Police": 671,
-      "GenGov": 292,
+      "Total": 11757,
+      "NonUtil": 11757,
+      "Roads": 3769,
+      "Water": 1862,
+      "Sewer": 2320,
+      "Drain": 946,
+      "Fire": 118,
+      "Police": 705,
+      "GenGov": 307,
       "Schools": 330,
       "Other": 1399
     },
     "Industrial": {
-      "Total": 16245,
-      "NonUtil": 16245,
-      "Roads": 2627,
-      "Water": 1773,
-      "Sewer": 8842,
-      "Drain": 1502,
-      "Fire": 188,
-      "Police": 190,
-      "GenGov": 204,
+      "Total": 8496,
+      "NonUtil": 8496,
+      "Roads": 2758,
+      "Water": 1862,
+      "Sewer": 770,
+      "Drain": 1577,
+      "Fire": 197,
+      "Police": 199,
+      "GenGov": 214,
       "Schools": 330,
       "Other": 588
     }
@@ -3504,126 +3512,121 @@
     "State": "CA",
     "County": "Sonoma",
     "Jurisdiction": "Windsor",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 48396,
-      "NonUtil": 27004,
-      "Roads": 10527,
-      "Water": 7161,
-      "Sewer": 14231,
-      "Drain": 3036,
-      "Parks": 8870,
-      "GenGov": 4571
+      "Total": 49045,
+      "NonUtil": 30093,
+      "Roads": 11713,
+      "Water": 7900,
+      "Sewer": 11052,
+      "Drain": 3433,
+      "Parks": 9868,
+      "GenGov": 5079
     },
     "MultiFamily": {
-      "Total": 29784,
-      "NonUtil": 18779,
-      "Roads": 6462,
-      "Water": 1113,
-      "Sewer": 9892,
-      "Drain": 3036,
-      "Parks": 6124,
-      "GenGov": 3157
+      "Total": 30793,
+      "NonUtil": 20944,
+      "Roads": 7189,
+      "Water": 1228,
+      "Sewer": 8621,
+      "Drain": 3433,
+      "Parks": 6814,
+      "GenGov": 3508
     },
     "Retail": {
-      "Total": 15140,
-      "NonUtil": 15140,
+      "Total": 15125,
+      "NonUtil": 15125,
       "Roads": 8790,
-      "Water": 716,
-      "Sewer": 2277,
-      "Drain": 2453,
-      "GenGov": 903
+      "Water": 790,
+      "Sewer": 1768,
+      "Drain": 2774,
+      "GenGov": 1003
     },
     "Office": {
-      "Total": 12676,
-      "NonUtil": 12676,
-      "Roads": 6706,
-      "Water": 716,
-      "Sewer": 2277,
-      "Drain": 1472,
-      "GenGov": 1505
+      "Total": 13357,
+      "NonUtil": 13357,
+      "Roads": 7461,
+      "Water": 790,
+      "Sewer": 1768,
+      "Drain": 1664,
+      "GenGov": 1674
     },
     "Industrial": {
-      "Total": 10431,
-      "NonUtil": 10431,
-      "Roads": 4339,
-      "Water": 716,
-      "Sewer": 2277,
-      "Drain": 2453,
-      "GenGov": 645
+      "Total": 10875,
+      "NonUtil": 10875,
+      "Roads": 4827,
+      "Water": 790,
+      "Sewer": 1768,
+      "Drain": 2774,
+      "GenGov": 716
     }
   },
   {
     "State": "CA",
     "County": "Yolo",
     "Jurisdiction": "Davis",
-    "Updated": 1343538000000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 23216,
-      "NonUtil": 23216,
+      "Total": 27498,
+      "NonUtil": 27498,
       "Roads": 8093,
       "Drain": 305,
       "Parks": 5877,
       "Police": 992,
       "GenGov": 2389,
-      "Schools": 5560
+      "Schools": 5940,
+      "Other": 3902
     },
     "MultiFamily": {
-      "Total": 14873,
-      "NonUtil": 14873,
+      "Total": 17933,
+      "NonUtil": 17933,
       "Roads": 4942,
       "Drain": 85,
       "Parks": 4486,
       "Police": 757,
       "GenGov": 1823,
-      "Schools": 2780
+      "Schools": 2970,
+      "Other": 2870
     },
     "Retail": {
-      "Total": 23559,
-      "NonUtil": 23559,
+      "Total": 24323,
+      "NonUtil": 24323,
       "Roads": 20239,
       "Drain": 118,
       "Parks": 856,
       "Police": 1078,
       "GenGov": 928,
-      "Schools": 340
+      "Schools": 470,
+      "Other": 634
     },
     "Office": {
-      "Total": 8512,
-      "NonUtil": 8512,
+      "Total": 9364,
+      "NonUtil": 9364,
       "Roads": 5192,
       "Drain": 118,
       "Parks": 856,
       "Police": 1078,
       "GenGov": 928,
-      "Schools": 340
+      "Schools": 470,
+      "Other": 722
     },
     "Industrial": {
-      "Total": 1682,
-      "NonUtil": 1682,
+      "Total": 2214,
+      "NonUtil": 2214,
       "Roads": 480,
       "Drain": 118,
       "Parks": 223,
       "Police": 280,
       "GenGov": 241,
-      "Schools": 340
+      "Schools": 470,
+      "Other": 402
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Adams Co",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1599,
       "NonUtil": 1599,
@@ -3654,7 +3657,7 @@
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Commerce City",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 6698,
       "NonUtil": 5723,
@@ -3698,77 +3701,77 @@
     "State": "CO",
     "County": "Boulder",
     "Jurisdiction": "Boulder",
-    "Updated": 1404450000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 37806,
-      "NonUtil": 16526,
-      "Roads": 2171,
+      "Total": 34789,
+      "NonUtil": 13509,
+      "Roads": 2227,
       "Water": 16807,
       "Sewer": 4473,
       "Drain": 8240,
-      "Parks": 4263,
-      "Library": 459,
-      "Fire": 209,
-      "Police": 295,
-      "GenGov": 429,
+      "Parks": 1145,
+      "Library": 474,
+      "Fire": 216,
+      "Police": 304,
+      "GenGov": 443,
       "Other": 460
     },
     "MultiFamily": {
-      "Total": 22357,
-      "NonUtil": 10577,
-      "Roads": 1609,
+      "Total": 19870,
+      "NonUtil": 8090,
+      "Roads": 1650,
       "Water": 9224,
       "Sewer": 2556,
       "Drain": 4120,
-      "Parks": 3364,
-      "Library": 378,
-      "Fire": 282,
-      "Police": 243,
-      "GenGov": 351,
+      "Parks": 796,
+      "Library": 390,
+      "Fire": 291,
+      "Police": 251,
+      "GenGov": 362,
       "Other": 230
     },
     "Retail": {
-      "Total": 11505,
-      "NonUtil": 8100,
+      "Total": 13295,
+      "NonUtil": 9890,
       "Roads": 2480,
       "Water": 2689,
       "Sewer": 716,
       "Drain": 4120,
-      "Fire": 380,
-      "Police": 480,
+      "Fire": 400,
+      "Police": 500,
       "GenGov": 140,
-      "Other": 500
+      "Other": 2250
     },
     "Office": {
-      "Total": 11445,
-      "NonUtil": 8040,
+      "Total": 13865,
+      "NonUtil": 10460,
       "Roads": 2480,
       "Water": 2689,
       "Sewer": 716,
       "Drain": 4120,
-      "Fire": 580,
-      "Police": 160,
-      "GenGov": 200,
-      "Other": 500
+      "Fire": 590,
+      "Police": 170,
+      "GenGov": 210,
+      "Other": 2890
     },
     "Industrial": {
-      "Total": 10745,
-      "NonUtil": 7340,
+      "Total": 12185,
+      "NonUtil": 8780,
       "Roads": 2480,
       "Water": 2689,
       "Sewer": 716,
       "Drain": 4120,
-      "Fire": 70,
-      "Police": 50,
+      "Fire": 80,
+      "Police": 60,
       "GenGov": 120,
-      "Other": 500
+      "Other": 1920
     }
   },
   {
     "State": "CO",
     "County": "Eagle",
     "Jurisdiction": "Eagle Co",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 6931,
       "NonUtil": 6931,
@@ -3804,7 +3807,7 @@
     "State": "CO",
     "County": "Eagle",
     "Jurisdiction": "Basalt",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 7967,
       "NonUtil": 2750,
@@ -3845,7 +3848,7 @@
     "State": "CO",
     "County": "El Paso",
     "Jurisdiction": "Colorado Springs",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 17148,
       "NonUtil": 5083,
@@ -3890,7 +3893,7 @@
     "State": "CO",
     "County": "Fremont",
     "Jurisdiction": "Canon City",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 304,
       "NonUtil": 304,
@@ -3921,38 +3924,38 @@
     "State": "CO",
     "County": "Jefferson",
     "Jurisdiction": "Jefferson Co",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 3276,
-      "NonUtil": 3276,
-      "Roads": 3276
+      "Total": 2731,
+      "NonUtil": 2731,
+      "Roads": 2731
     },
     "MultiFamily": {
-      "Total": 2725,
-      "NonUtil": 2725,
-      "Roads": 2725
+      "Total": 2272,
+      "NonUtil": 2272,
+      "Roads": 2272
     },
     "Retail": {
-      "Total": 7120,
-      "NonUtil": 7120,
-      "Roads": 7120
+      "Total": 5930,
+      "NonUtil": 5930,
+      "Roads": 5930
     },
     "Office": {
-      "Total": 4790,
-      "NonUtil": 4790,
-      "Roads": 4790
+      "Total": 3980,
+      "NonUtil": 3980,
+      "Roads": 3980
     },
     "Industrial": {
-      "Total": 2060,
-      "NonUtil": 2060,
-      "Roads": 2060
+      "Total": 1720,
+      "NonUtil": 1720,
+      "Roads": 1720
     }
   },
   {
     "State": "CO",
     "County": "La Plata",
     "Jurisdiction": "Durango",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 10516,
       "NonUtil": 3414,
@@ -3997,7 +4000,7 @@
     "State": "CO",
     "County": "Larimer",
     "Jurisdiction": "Larimer Co",
-    "Updated": 1404450000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5888,
       "NonUtil": 5888,
@@ -4159,7 +4162,7 @@
     "State": "CO",
     "County": "Mesa",
     "Jurisdiction": "Mesa Co",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2748,
       "NonUtil": 2748,
@@ -4194,7 +4197,7 @@
     "State": "CO",
     "County": "Pitkin",
     "Jurisdiction": "Pitkin Co",
-    "Updated": 1343538000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 21674,
       "NonUtil": 21674,
@@ -4237,53 +4240,53 @@
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Weld Co",
-    "Updated": 1404450000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 3361,
-      "NonUtil": 3361,
-      "Roads": 2313,
+      "Total": 3443,
+      "NonUtil": 3443,
+      "Roads": 2377,
       "Drain": 400,
-      "GenGov": 648
+      "GenGov": 666
     },
     "MultiFamily": {
-      "Total": 2196,
-      "NonUtil": 2196,
-      "Roads": 1515,
+      "Total": 2251,
+      "NonUtil": 2251,
+      "Roads": 1557,
       "Drain": 200,
-      "GenGov": 481
+      "GenGov": 494
     },
     "Retail": {
-      "Total": 4027,
-      "NonUtil": 4027,
-      "Roads": 3207,
+      "Total": 4133,
+      "NonUtil": 4133,
+      "Roads": 3296,
       "Drain": 200,
-      "GenGov": 620
+      "GenGov": 637
     },
     "Office": {
-      "Total": 2623,
-      "NonUtil": 2623,
-      "Roads": 2115,
+      "Total": 2691,
+      "NonUtil": 2691,
+      "Roads": 2174,
       "Drain": 200,
-      "GenGov": 308
+      "GenGov": 317
     },
     "Industrial": {
-      "Total": 2438,
-      "NonUtil": 2438,
-      "Roads": 2083,
+      "Total": 2500,
+      "NonUtil": 2500,
+      "Roads": 2141,
       "Drain": 200,
-      "GenGov": 155
+      "GenGov": 159
     }
   },
   {
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Windsor",
-    "Updated": 1404536400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 18768,
+      "Total": 20106,
       "NonUtil": 8343,
       "Roads": 2115,
-      "Water": 6725,
+      "Water": 8063,
       "Sewer": 3700,
       "Drain": 735,
       "Parks": 5493
@@ -4326,75 +4329,65 @@
     "State": "CO",
     "County": "Weld",
     "Jurisdiction": "Greeley",
-    "Updated": 1404450000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 22355,
-      "NonUtil": 6155,
-      "Roads": 2185,
-      "Water": 10600,
-      "Sewer": 5600,
-      "Drain": 341,
-      "Parks": 3221,
-      "Fire": 275,
-      "Police": 133
+      "Total": 23876,
+      "NonUtil": 7726,
+      "Roads": 3645,
+      "Water": 11000,
+      "Sewer": 5150,
+      "Drain": 342,
+      "Parks": 3098,
+      "Fire": 524,
+      "Police": 117
     },
     "MultiFamily": {
-      "Total": 6501,
-      "NonUtil": 4226,
-      "Roads": 1505,
-      "Water": 1648,
-      "Sewer": 627,
-      "Drain": 245,
-      "Parks": 2191,
-      "Fire": 192,
-      "Police": 93
+      "Total": 5618,
+      "NonUtil": 5404,
+      "Roads": 2353,
+      "Water": 160,
+      "Sewer": 54,
+      "Drain": 246,
+      "Parks": 2324,
+      "Fire": 393,
+      "Police": 88
     },
     "Retail": {
-      "Total": 10354,
-      "NonUtil": 8459,
-      "Roads": 7610,
-      "Water": 1237,
-      "Sewer": 658,
-      "Drain": 180,
-      "Fire": 499,
-      "Police": 170
+      "Total": 5971,
+      "NonUtil": 5675,
+      "Roads": 4825,
+      "Water": 71,
+      "Sewer": 225,
+      "Drain": 66,
+      "Fire": 641,
+      "Police": 143
     },
     "Office": {
-      "Total": 6347,
-      "NonUtil": 4452,
-      "Roads": 3560,
-      "Water": 1237,
-      "Sewer": 658,
-      "Drain": 180,
-      "Fire": 623,
-      "Police": 89
+      "Total": 4996,
+      "NonUtil": 4700,
+      "Roads": 4266,
+      "Water": 71,
+      "Sewer": 225,
+      "Drain": 66,
+      "Fire": 301,
+      "Police": 67
     },
     "Industrial": {
-      "Total": 4118,
-      "NonUtil": 2223,
-      "Roads": 1590,
-      "Water": 1237,
-      "Sewer": 658,
-      "Drain": 180,
-      "Fire": 403,
-      "Police": 50
+      "Total": 1984,
+      "NonUtil": 1688,
+      "Roads": 1476,
+      "Water": 71,
+      "Sewer": 225,
+      "Drain": 66,
+      "Fire": 119,
+      "Police": 27
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "DE",
     "County": "New Castle",
     "Jurisdiction": "New Castle Co",
-    "Updated": 1343538000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 9321,
       "NonUtil": 1157,
@@ -4441,16 +4434,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "FL",
     "County": "Alachua",
     "Jurisdiction": "Alachua Co",
@@ -4492,7 +4475,7 @@
     "State": "FL",
     "County": "Brevard",
     "Jurisdiction": "Brevard Co",
-    "Updated": 1443330000000,
+    "Updated": 1443848400000,
     "SingleFamily": {
       "Total": 4834,
       "NonUtil": 4834,
@@ -4500,7 +4483,7 @@
       "Fire": 93,
       "Schools": 4445,
       "Other": 232,
-      "RoadsNotes": "rd fees susp until end of 2015"
+      "RoadsNotes": "rd fees susp until 12/31/2016"
     },
     "MultiFamily": {
       "Total": 3096,
@@ -4814,53 +4797,14 @@
     "State": "FL",
     "County": "Citrus",
     "Jurisdiction": "Citrus Co",
-    "Updated": 1415599200000,
+    "Updated": 1443934800000,
     "SingleFamily": {
-      "Total": 5672,
-      "NonUtil": 5672,
-      "Roads": 1985,
-      "Parks": 566,
-      "Library": 238,
-      "Fire": 393,
-      "Police": 290,
-      "GenGov": 264,
-      "Schools": 1936
+      "TotalNotes": "all fees suspended 2/1/2015-1/13/2017"
     },
-    "MultiFamily": {
-      "Total": 4168,
-      "NonUtil": 4168,
-      "Roads": 1137,
-      "Parks": 425,
-      "Library": 179,
-      "Fire": 296,
-      "Police": 218,
-      "GenGov": 198,
-      "Schools": 1715
-    },
-    "Retail": {
-      "Total": 2882,
-      "NonUtil": 2882,
-      "Roads": 1787,
-      "Fire": 455,
-      "Police": 335,
-      "GenGov": 305
-    },
-    "Office": {
-      "Total": 2346,
-      "NonUtil": 2346,
-      "Roads": 1803,
-      "Fire": 226,
-      "Police": 166,
-      "GenGov": 151
-    },
-    "Industrial": {
-      "Total": 844,
-      "NonUtil": 844,
-      "Roads": 628,
-      "Fire": 90,
-      "Police": 66,
-      "GenGov": 60
-    }
+    "MultiFamily": {},
+    "Retail": {},
+    "Office": {},
+    "Industrial": {}
   },
   {
     "State": "FL",
@@ -4966,45 +4910,45 @@
     "State": "FL",
     "County": "Dade",
     "Jurisdiction": "Miami/Dade Co",
-    "Updated": 1373950800000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 11189,
-      "NonUtil": 11189,
-      "Roads": 4963,
-      "Parks": 2865,
-      "Fire": 396,
-      "Police": 517,
+      "Total": 13888,
+      "NonUtil": 13888,
+      "Roads": 7513,
+      "Parks": 2978,
+      "Fire": 412,
+      "Police": 537,
       "Schools": 2448
     },
     "MultiFamily": {
-      "Total": 7669,
-      "NonUtil": 7669,
-      "Roads": 3485,
-      "Parks": 1741,
-      "Fire": 396,
-      "Police": 517,
+      "Total": 9564,
+      "NonUtil": 9564,
+      "Roads": 5275,
+      "Parks": 1810,
+      "Fire": 412,
+      "Police": 537,
       "Schools": 1530
     },
     "Retail": {
-      "Total": 11309,
-      "NonUtil": 11309,
-      "Roads": 10526,
-      "Fire": 424,
-      "Police": 359
+      "Total": 16747,
+      "NonUtil": 16747,
+      "Roads": 15934,
+      "Fire": 440,
+      "Police": 373
     },
     "Office": {
-      "Total": 6554,
-      "NonUtil": 6554,
-      "Roads": 5880,
-      "Fire": 315,
-      "Police": 359
+      "Total": 9600,
+      "NonUtil": 9600,
+      "Roads": 8900,
+      "Fire": 327,
+      "Police": 373
     },
     "Industrial": {
-      "Total": 5293,
-      "NonUtil": 5293,
-      "Roads": 3651,
-      "Fire": 1283,
-      "Police": 359
+      "Total": 7234,
+      "NonUtil": 7234,
+      "Roads": 5527,
+      "Fire": 1334,
+      "Police": 373
     }
   },
   {
@@ -5013,9 +4957,9 @@
     "Jurisdiction": "Miami",
     "Updated": 1415599200000,
     "SingleFamily": {
-      "Total": 15510,
-      "NonUtil": 15510,
-      "Roads": 4963,
+      "Total": 18060,
+      "NonUtil": 18060,
+      "Roads": 7513,
       "Parks": 6818,
       "Fire": 704,
       "Police": 164,
@@ -5023,9 +4967,9 @@
       "Schools": 2448
     },
     "MultiFamily": {
-      "Total": 9717,
-      "NonUtil": 9717,
-      "Roads": 3485,
+      "Total": 11507,
+      "NonUtil": 11507,
+      "Roads": 5275,
       "Parks": 3959,
       "Fire": 409,
       "Police": 95,
@@ -5033,25 +4977,25 @@
       "Schools": 1530
     },
     "Retail": {
-      "Total": 11457,
-      "NonUtil": 11457,
-      "Roads": 10526,
+      "Total": 16865,
+      "NonUtil": 16865,
+      "Roads": 15934,
       "Fire": 227,
       "Police": 609,
       "GenGov": 95
     },
     "Office": {
-      "Total": 6562,
-      "NonUtil": 6562,
-      "Roads": 5880,
+      "Total": 9582,
+      "NonUtil": 9582,
+      "Roads": 8900,
       "Fire": 336,
       "Police": 206,
       "GenGov": 140
     },
     "Industrial": {
-      "Total": 4055,
-      "NonUtil": 4055,
-      "Roads": 3651,
+      "Total": 5931,
+      "NonUtil": 5931,
+      "Roads": 5527,
       "Fire": 210,
       "Police": 107,
       "GenGov": 87
@@ -5076,14 +5020,16 @@
     "Jurisdiction": "Flagler Co",
     "Updated": 1415599200000,
     "SingleFamily": {
-      "Total": 3600,
-      "NonUtil": 3600,
+      "Total": 3868,
+      "NonUtil": 3868,
+      "Parks": 268,
       "Schools": 3600,
-      "RoadsNotes": "road & park fees suspended for 2 years eff. 10/10/12, extended 1year to 10/10/15"
+      "RoadsNotes": "road fees indefinitely on 10/3/2015"
     },
     "MultiFamily": {
-      "Total": 931,
-      "NonUtil": 931,
+      "Total": 1199,
+      "NonUtil": 1199,
+      "Parks": 268,
       "Schools": 931
     },
     "Retail": {},
@@ -5196,7 +5142,7 @@
     "State": "FL",
     "County": "Hernando",
     "Jurisdiction": "Hernando Co",
-    "Updated": 1385100000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 1312,
       "NonUtil": 1312,
@@ -5206,7 +5152,7 @@
       "Police": 86,
       "GenGov": 466,
       "Other": 7,
-      "RoadsNotes": "rd fees susp. until 6/12/15",
+      "RoadsNotes": "rd/sch fees susp. until 3/1/16",
       "SchoolsNotes": "susp."
     },
     "MultiFamily": {
@@ -5810,9 +5756,9 @@
     "State": "FL",
     "County": "Marion",
     "Jurisdiction": "Marion Co",
-    "Updated": 1392184800000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "TotalNotes": "all fees suspended until 12/31/2014"
+      "TotalNotes": "all fees suspended until 1/1/2017"
     },
     "MultiFamily": {},
     "Retail": {},
@@ -5823,7 +5769,7 @@
     "State": "FL",
     "County": "Martin",
     "Jurisdiction": "Martin Co",
-    "Updated": 1385100000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 12886,
       "NonUtil": 12886,
@@ -5975,7 +5921,7 @@
     "State": "FL",
     "County": "Okaloosa",
     "Jurisdiction": "Destin",
-    "Updated": 1345266000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 2087,
       "NonUtil": 2087,
@@ -6017,41 +5963,41 @@
     "Jurisdiction": "Orange Co.",
     "Updated": 1385100000000,
     "SingleFamily": {
-      "Total": 11936,
-      "NonUtil": 11936,
-      "Roads": 3898,
+      "Total": 10962,
+      "NonUtil": 10962,
+      "Roads": 2924,
       "Parks": 972,
       "Fire": 270,
       "Police": 271,
       "Schools": 6525
     },
     "MultiFamily": {
-      "Total": 7663,
-      "NonUtil": 7663,
-      "Roads": 2524,
+      "Total": 7032,
+      "NonUtil": 7032,
+      "Roads": 1893,
       "Parks": 702,
       "Fire": 197,
       "Police": 319,
       "Schools": 3921
     },
     "Retail": {
-      "Total": 6268,
-      "NonUtil": 6268,
-      "Roads": 5477,
+      "Total": 4899,
+      "NonUtil": 4899,
+      "Roads": 4108,
       "Fire": 297,
       "Police": 494
     },
     "Office": {
-      "Total": 4276,
-      "NonUtil": 4276,
-      "Roads": 4050,
+      "Total": 3263,
+      "NonUtil": 3263,
+      "Roads": 3037,
       "Fire": 117,
       "Police": 109
     },
     "Industrial": {
-      "Total": 2331,
-      "NonUtil": 2331,
-      "Roads": 2163,
+      "Total": 1790,
+      "NonUtil": 1790,
+      "Roads": 1622,
       "Fire": 50,
       "Police": 118
     }
@@ -6115,7 +6061,7 @@
     "State": "FL",
     "County": "Orange",
     "Jurisdiction": "Orlando",
-    "Updated": 1320555600000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 11843,
       "NonUtil": 9306,
@@ -6206,36 +6152,39 @@
     "State": "FL",
     "County": "Osceola",
     "Jurisdiction": "Osceola Co",
-    "Updated": 1385100000000,
+    "Updated": 1444021200000,
     "SingleFamily": {
-      "Total": 9791,
-      "NonUtil": 9791,
+      "Total": 15861,
+      "NonUtil": 15861,
+      "Roads": 4585,
       "Parks": 924,
       "Fire": 165,
-      "Schools": 8702,
-      "RoadsNotes": "repealed 9/18/12"
+      "Schools": 10187
     },
     "MultiFamily": {
-      "Total": 10635,
-      "NonUtil": 10635,
-      "Roads": 4126,
+      "Total": 10135,
+      "NonUtil": 10135,
+      "Roads": 3203,
       "Parks": 679,
       "Fire": 165,
-      "Schools": 5665
+      "Schools": 6088
     },
     "Retail": {
-      "Total": 300,
-      "NonUtil": 300,
+      "Total": 12095,
+      "NonUtil": 12095,
+      "Roads": 11795,
       "Fire": 300
     },
     "Office": {
-      "Total": 90,
-      "NonUtil": 90,
+      "Total": 4713,
+      "NonUtil": 4713,
+      "Roads": 4623,
       "Fire": 90
     },
     "Industrial": {
-      "Total": 50,
-      "NonUtil": 50,
+      "Total": 2074,
+      "NonUtil": 2074,
+      "Roads": 2024,
       "Fire": 50
     }
   },
@@ -6243,7 +6192,7 @@
     "State": "FL",
     "County": "Palm Beach",
     "Jurisdiction": "Palm Beach Co",
-    "Updated": 1385100000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 9266,
       "NonUtil": 9266,
@@ -6290,7 +6239,7 @@
     "State": "FL",
     "County": "Palm Beach",
     "Jurisdiction": "Palm Beach Gardens",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 14543,
       "NonUtil": 10252,
@@ -6341,59 +6290,59 @@
     "State": "FL",
     "County": "Pasco",
     "Jurisdiction": "Pasco Co",
-    "Updated": 1385100000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 19146,
-      "NonUtil": 14855,
+      "Total": 17926,
+      "NonUtil": 13635,
       "Roads": 8570,
       "Water": 1561,
       "Sewer": 2730,
-      "Parks": 892,
-      "Library": 145,
-      "Fire": 420,
+      "Parks": 175,
+      "Library": 15,
+      "Fire": 47,
       "Schools": 4828
     },
     "MultiFamily": {
-      "Total": 10958,
-      "NonUtil": 8844,
+      "Total": 9994,
+      "NonUtil": 7880,
       "Roads": 5845,
       "Water": 769,
       "Sewer": 1345,
-      "Parks": 627,
-      "Library": 97,
-      "Fire": 420,
+      "Parks": 123,
+      "Library": 10,
+      "Fire": 47,
       "Schools": 1855
     },
     "Retail": {
-      "Total": 8244,
-      "NonUtil": 7600,
+      "Total": 7756,
+      "NonUtil": 7113,
       "Roads": 7051,
       "Water": 234,
       "Sewer": 410,
-      "Fire": 549
+      "Fire": 62
     },
     "Office": {
-      "Total": 2044,
-      "NonUtil": 1400,
+      "Total": 1556,
+      "NonUtil": 913,
       "Roads": 851,
       "Water": 234,
       "Sewer": 410,
-      "Fire": 549
+      "Fire": 62
     },
     "Industrial": {
-      "Total": 2193,
-      "NonUtil": 1549,
+      "Total": 1705,
+      "NonUtil": 1062,
       "Roads": 1000,
       "Water": 234,
       "Sewer": 410,
-      "Fire": 549
+      "Fire": 62
     }
   },
   {
     "State": "FL",
     "County": "Pinellas",
     "Jurisdiction": "Pinellas Co",
-    "Updated": 1385100000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 2418,
       "NonUtil": 2066,
@@ -6434,7 +6383,7 @@
       "Total": 4160,
       "NonUtil": 4160,
       "Schools": 4160,
-      "RoadsNotes": "all fees exc school susp 2 yrs until 7/31/2012, ext to 7/31/2015 and 12/31/15"
+      "RoadsNotes": "all fees exc school susp 2 yrs until 7/31/2012, ext to 7/31/2015"
     },
     "MultiFamily": {
       "Total": 1571,
@@ -6449,10 +6398,13 @@
     "State": "FL",
     "County": "Polk",
     "Jurisdiction": "Lakeland",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 4160,
-      "NonUtil": 4160,
+      "Total": 5301,
+      "NonUtil": 5301,
+      "Roads": 1077,
+      "Fire": 16,
+      "Police": 48,
       "Schools": 4160
     },
     "MultiFamily": {
@@ -6503,7 +6455,7 @@
     "State": "FL",
     "County": "Santa Rosa",
     "Jurisdiction": "Santa Rosa Co",
-    "Updated": 1385100000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "TotalNotes": "all fees suspended for 2 yrs eff. 1/1/2008 (extended through 2010, then 2011, then 2012, then 2013)"
     },
@@ -6516,102 +6468,102 @@
     "State": "FL",
     "County": "St Johns",
     "Jurisdiction": "St. Johns Co",
-    "Updated": 1385100000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 12392,
-      "NonUtil": 12392,
-      "Roads": 4509,
-      "Parks": 472,
-      "Fire": 690,
-      "Police": 84,
-      "GenGov": 565,
-      "Schools": 6072
+      "Total": 12740,
+      "NonUtil": 12740,
+      "Roads": 4636,
+      "Parks": 485,
+      "Fire": 710,
+      "Police": 86,
+      "GenGov": 581,
+      "Schools": 6242
     },
     "MultiFamily": {
-      "Total": 8677,
-      "NonUtil": 8677,
-      "Roads": 3646,
-      "Parks": 381,
-      "Fire": 558,
-      "Police": 67,
-      "GenGov": 457,
-      "Schools": 3568
+      "Total": 8921,
+      "NonUtil": 8921,
+      "Roads": 3748,
+      "Parks": 392,
+      "Fire": 574,
+      "Police": 69,
+      "GenGov": 470,
+      "Schools": 3668
     },
     "Retail": {
-      "Total": 5318,
-      "NonUtil": 5318,
-      "Roads": 3864,
-      "Fire": 125,
-      "Police": 171,
-      "GenGov": 1158
+      "Total": 5467,
+      "NonUtil": 5467,
+      "Roads": 3972,
+      "Fire": 129,
+      "Police": 176,
+      "GenGov": 1190
     },
     "Office": {
-      "Total": 2728,
-      "NonUtil": 2728,
-      "Roads": 2010,
-      "Fire": 172,
-      "Police": 70,
-      "GenGov": 476
+      "Total": 2804,
+      "NonUtil": 2804,
+      "Roads": 2066,
+      "Fire": 177,
+      "Police": 72,
+      "GenGov": 489
     },
     "Industrial": {
-      "Total": 1815,
-      "NonUtil": 1815,
-      "Roads": 1557,
+      "Total": 1866,
+      "NonUtil": 1866,
+      "Roads": 1601,
       "Fire": 18,
-      "Police": 30,
-      "GenGov": 210
+      "Police": 31,
+      "GenGov": 216
     }
   },
   {
     "State": "FL",
     "County": "St Lucie",
     "Jurisdiction": "St. Lucie Co",
-    "Updated": 1385100000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 13668,
-      "NonUtil": 13668,
-      "Roads": 4728,
-      "Parks": 1533,
-      "Library": 217,
-      "Fire": 557,
-      "Police": 206,
-      "GenGov": 336,
-      "Schools": 6091
+      "Total": 13886,
+      "NonUtil": 13886,
+      "Roads": 4804,
+      "Parks": 1558,
+      "Library": 220,
+      "Fire": 566,
+      "Police": 209,
+      "GenGov": 341,
+      "Schools": 6188
     },
     "MultiFamily": {
-      "Total": 8670,
-      "NonUtil": 8670,
-      "Roads": 3448,
-      "Parks": 1368,
-      "Library": 141,
-      "Fire": 113,
-      "Police": 184,
-      "GenGov": 301,
-      "Schools": 3115
+      "Total": 8809,
+      "NonUtil": 8809,
+      "Roads": 3503,
+      "Parks": 1390,
+      "Library": 143,
+      "Fire": 115,
+      "Police": 187,
+      "GenGov": 306,
+      "Schools": 3165
     },
     "Retail": {
-      "Total": 6610,
-      "NonUtil": 6610,
-      "Roads": 5238,
-      "Fire": 517,
-      "Police": 351,
-      "GenGov": 504
+      "Total": 6716,
+      "NonUtil": 6716,
+      "Roads": 5322,
+      "Fire": 525,
+      "Police": 357,
+      "GenGov": 512
     },
     "Office": {
-      "Total": 3655,
-      "NonUtil": 3655,
-      "Roads": 2712,
-      "Fire": 329,
-      "Police": 317,
-      "GenGov": 297
+      "Total": 3713,
+      "NonUtil": 3713,
+      "Roads": 2755,
+      "Fire": 334,
+      "Police": 322,
+      "GenGov": 302
     },
     "Industrial": {
-      "Total": 995,
-      "NonUtil": 995,
-      "Roads": 805,
-      "Fire": 74,
-      "Police": 48,
-      "GenGov": 68
+      "Total": 1011,
+      "NonUtil": 1011,
+      "Roads": 818,
+      "Fire": 75,
+      "Police": 49,
+      "GenGov": 69
     }
   },
   {
@@ -6867,7 +6819,7 @@
     "State": "FL",
     "County": "Sumter",
     "Jurisdiction": "Sumter Co",
-    "Updated": 1385100000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2997,
       "NonUtil": 2997,
@@ -6903,7 +6855,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Volusia Co",
-    "Updated": 1385100000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 7093,
       "NonUtil": 7093,
@@ -6940,7 +6892,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Daytona Beach",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 9707,
       "NonUtil": 7543,
@@ -6980,7 +6932,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Deland",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 6065,
       "NonUtil": 6065,
@@ -7022,7 +6974,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Deltona",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 13800,
       "NonUtil": 8995,
@@ -7071,7 +7023,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Ormond Beach",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 10721,
       "NonUtil": 6771,
@@ -7121,7 +7073,7 @@
     "State": "FL",
     "County": "Volusia",
     "Jurisdiction": "Port Orange",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 11467,
       "NonUtil": 8372,
@@ -7168,20 +7120,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Canton",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3293,
       "NonUtil": 3293,
@@ -7227,23 +7169,23 @@
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Cherokee Co",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 1952,
-      "NonUtil": 1952,
+      "Total": 1954,
+      "NonUtil": 1954,
       "Roads": 590,
       "Parks": 284,
       "Library": 281,
-      "Fire": 537,
+      "Fire": 539,
       "Police": 260
     },
     "MultiFamily": {
-      "Total": 1775,
-      "NonUtil": 1775,
+      "Total": 1777,
+      "NonUtil": 1777,
       "Roads": 413,
       "Parks": 284,
       "Library": 281,
-      "Fire": 537,
+      "Fire": 539,
       "Police": 260
     },
     "Retail": {
@@ -7303,7 +7245,7 @@
     "State": "GA",
     "County": "Forsyth",
     "Jurisdiction": "Forsyth Co",
-    "Updated": 1345266000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 1030,
       "NonUtil": 1030,
@@ -7338,7 +7280,7 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Alpharetta",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1940,
       "NonUtil": 1940,
@@ -7379,7 +7321,7 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Atlanta",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1544,
       "NonUtil": 1544,
@@ -7425,38 +7367,43 @@
     "State": "GA",
     "County": "Fulton",
     "Jurisdiction": "Roswell",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 1998,
-      "NonUtil": 1998,
-      "Roads": 162,
-      "Parks": 1303,
-      "Fire": 533
+      "Total": 2902,
+      "NonUtil": 2902,
+      "Roads": 1514,
+      "Parks": 501,
+      "Fire": 821,
+      "Other": 66
     },
     "MultiFamily": {
-      "Total": 1775,
-      "NonUtil": 1775,
-      "Roads": 110,
-      "Parks": 1303,
-      "Fire": 362
+      "Total": 1844,
+      "NonUtil": 1844,
+      "Roads": 964,
+      "Parks": 318,
+      "Fire": 521,
+      "Other": 41
     },
     "Retail": {
-      "Total": 736,
-      "NonUtil": 736,
-      "Roads": 426,
-      "Fire": 310
+      "Total": 3033,
+      "NonUtil": 3033,
+      "Roads": 2718,
+      "Fire": 260,
+      "Other": 55
     },
     "Office": {
-      "Total": 897,
-      "NonUtil": 897,
-      "Roads": 280,
-      "Fire": 617
+      "Total": 1526,
+      "NonUtil": 1526,
+      "Roads": 1176,
+      "Fire": 320,
+      "Other": 30
     },
     "Industrial": {
-      "Total": 606,
-      "NonUtil": 606,
-      "Roads": 177,
-      "Fire": 429
+      "Total": 1065,
+      "NonUtil": 1065,
+      "Roads": 865,
+      "Fire": 180,
+      "Other": 20
     }
   },
   {
@@ -7553,20 +7500,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "HI",
     "County": "Honolulu",
     "Jurisdiction": "Honolulu",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1836,
       "NonUtil": 1836,
@@ -7594,54 +7531,44 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "ID",
     "County": "Ada",
     "Jurisdiction": "Boise",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 5068,
-      "NonUtil": 5068,
-      "Roads": 3047,
+      "Total": 5092,
+      "NonUtil": 5092,
+      "Roads": 3071,
       "Parks": 1355,
       "Fire": 515,
       "Police": 151
     },
     "MultiFamily": {
-      "Total": 3735,
-      "NonUtil": 3735,
-      "Roads": 1870,
+      "Total": 3769,
+      "NonUtil": 3769,
+      "Roads": 1904,
       "Parks": 1199,
       "Fire": 515,
       "Police": 151
     },
     "Retail": {
-      "Total": 6960,
-      "NonUtil": 6960,
-      "Roads": 6690,
+      "Total": 7044,
+      "NonUtil": 7044,
+      "Roads": 6774,
       "Fire": 210,
       "Police": 60
     },
     "Office": {
-      "Total": 4765,
-      "NonUtil": 4765,
-      "Roads": 4495,
+      "Total": 4846,
+      "NonUtil": 4846,
+      "Roads": 4576,
       "Fire": 210,
       "Police": 60
     },
     "Industrial": {
-      "Total": 3196,
-      "NonUtil": 3196,
-      "Roads": 2926,
+      "Total": 3249,
+      "NonUtil": 3249,
+      "Roads": 2979,
       "Fire": 210,
       "Police": 60
     }
@@ -7650,70 +7577,55 @@
     "State": "ID",
     "County": "Kootenai",
     "Jurisdiction": "Post Falls",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 10600,
-      "NonUtil": 2471,
-      "Roads": 852,
-      "Water": 2212,
+      "Total": 11195,
+      "NonUtil": 2641,
+      "Roads": 921,
+      "Water": 2637,
       "Sewer": 5917,
-      "Parks": 1284,
-      "Police": 307,
-      "Other": 28
+      "Parks": 1388,
+      "Police": 332
     },
     "MultiFamily": {
-      "Total": 7206,
-      "NonUtil": 2200,
-      "Roads": 721,
-      "Water": 347,
+      "Total": 7428,
+      "NonUtil": 2348,
+      "Roads": 779,
+      "Water": 421,
       "Sewer": 4659,
-      "Parks": 1171,
-      "Police": 280,
-      "Other": 28
+      "Parks": 1266,
+      "Police": 303
     },
     "Retail": {
-      "Total": 3282,
-      "NonUtil": 2114,
-      "Roads": 1450,
-      "Water": 221,
+      "Total": 3446,
+      "NonUtil": 2260,
+      "Roads": 1550,
+      "Water": 239,
       "Sewer": 947,
-      "Police": 650,
-      "Other": 14
+      "Police": 710
     },
     "Office": {
-      "Total": 1942,
-      "NonUtil": 774,
-      "Roads": 540,
-      "Water": 221,
+      "Total": 2026,
+      "NonUtil": 840,
+      "Roads": 590,
+      "Water": 239,
       "Sewer": 947,
-      "Police": 220,
-      "Other": 14
+      "Police": 250
     },
     "Industrial": {
-      "Total": 1662,
-      "NonUtil": 494,
-      "Roads": 340,
-      "Water": 221,
+      "Total": 1716,
+      "NonUtil": 530,
+      "Roads": 370,
+      "Water": 239,
       "Sewer": 947,
-      "Police": 140,
-      "Other": 14
+      "Police": 160
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "IL",
     "County": "DeKalb",
     "Jurisdiction": "DeKalb (city)",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 4622,
       "NonUtil": 4622,
@@ -7734,7 +7646,7 @@
     "State": "IL",
     "County": "DuPage",
     "Jurisdiction": "DuPage County",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 624,
       "NonUtil": 624,
@@ -7765,7 +7677,7 @@
     "State": "IL",
     "County": "Kane",
     "Jurisdiction": "Kane County",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 1842,
       "NonUtil": 1842,
@@ -7793,20 +7705,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Fishers",
-    "Updated": 1345266000000,
+    "Updated": 1447740000000,
     "SingleFamily": {
       "Total": 5745,
       "NonUtil": 3345,
@@ -7844,20 +7746,20 @@
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Noblesville",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 4904,
-      "NonUtil": 2189,
+      "Total": 5068,
+      "NonUtil": 2353,
       "Roads": 1053,
       "Sewer": 2715,
-      "Parks": 1136
+      "Parks": 1300
     },
     "MultiFamily": {
-      "Total": 4420,
-      "NonUtil": 1705,
+      "Total": 4558,
+      "NonUtil": 1843,
       "Roads": 739,
       "Sewer": 2715,
-      "Parks": 966
+      "Parks": 1104
     },
     "Retail": {
       "Total": 5158,
@@ -7879,57 +7781,47 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Lenexa",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 4052,
-      "NonUtil": 4052,
-      "Roads": 2539,
-      "Drain": 977,
+      "Total": 4149,
+      "NonUtil": 4149,
+      "Roads": 2553,
+      "Drain": 1060,
       "Parks": 461,
       "Other": 75
     },
     "MultiFamily": {
-      "Total": 2285,
-      "NonUtil": 2285,
-      "Roads": 1038,
-      "Drain": 711,
+      "Total": 2355,
+      "NonUtil": 2355,
+      "Roads": 1048,
+      "Drain": 771,
       "Parks": 461,
       "Other": 75
     },
     "Retail": {
-      "Total": 4484,
-      "NonUtil": 4484,
-      "Roads": 3013,
-      "Drain": 1184,
+      "Total": 4644,
+      "NonUtil": 4644,
+      "Roads": 3073,
+      "Drain": 1285,
       "Parks": 121,
       "Other": 165
     },
     "Office": {
-      "Total": 2847,
-      "NonUtil": 2847,
-      "Roads": 1376,
-      "Drain": 1184,
+      "Total": 2966,
+      "NonUtil": 2966,
+      "Roads": 1395,
+      "Drain": 1285,
       "Parks": 121,
       "Other": 165
     },
     "Industrial": {
-      "Total": 2926,
-      "NonUtil": 2926,
+      "Total": 3026,
+      "NonUtil": 3026,
       "Roads": 1620,
-      "Drain": 1184,
+      "Drain": 1285,
       "Parks": 121
     }
   },
@@ -7937,7 +7829,7 @@
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Olathe",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 11292,
       "NonUtil": 2902,
@@ -7983,7 +7875,7 @@
     "State": "KS",
     "County": "Johnson",
     "Jurisdiction": "Overland Park",
-    "Updated": 1321164000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2341,
       "NonUtil": 2341,
@@ -8011,20 +7903,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "LA",
     "County": "E Baton Rouge",
     "Jurisdiction": "Baton Rouge",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 2910,
       "NonUtil": 760,
@@ -8060,7 +7942,7 @@
     "State": "LA",
     "County": "St Tammany",
     "Jurisdiction": "St Tammany Parish",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3077,
       "NonUtil": 3077,
@@ -8093,61 +7975,51 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MD",
     "County": "Anne Arundel",
     "Jurisdiction": "Anne Arundel Co",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 25195,
-      "NonUtil": 11295,
-      "Roads": 3894,
+      "Total": 26175,
+      "NonUtil": 12275,
+      "Roads": 4232,
       "Water": 6300,
       "Sewer": 7600,
-      "Police": 260,
-      "Schools": 7141
+      "Police": 282,
+      "Schools": 7761
     },
     "MultiFamily": {
-      "Total": 11935,
-      "NonUtil": 8692,
-      "Roads": 3041,
+      "Total": 12689,
+      "NonUtil": 9446,
+      "Roads": 3305,
       "Water": 1470,
       "Sewer": 1773,
-      "Police": 204,
-      "Schools": 5447
+      "Police": 222,
+      "Schools": 5919
     },
     "Retail": {
-      "Total": 10194,
-      "NonUtil": 7970,
-      "Roads": 7032,
+      "Total": 10885,
+      "NonUtil": 8661,
+      "Roads": 7642,
       "Water": 1008,
       "Sewer": 1216,
-      "Police": 938
+      "Police": 1019
     },
     "Office": {
-      "Total": 8399,
-      "NonUtil": 6175,
-      "Roads": 5846,
+      "Total": 8934,
+      "NonUtil": 6710,
+      "Roads": 6353,
       "Water": 1008,
       "Sewer": 1216,
-      "Police": 329
+      "Police": 357
     },
     "Industrial": {
-      "Total": 6552,
-      "NonUtil": 4328,
-      "Roads": 4174,
+      "Total": 6928,
+      "NonUtil": 4704,
+      "Roads": 4536,
       "Water": 1008,
       "Sewer": 1216,
-      "Police": 154
+      "Police": 168
     }
   },
   {
@@ -8201,18 +8073,16 @@
     "State": "MD",
     "County": "Carroll",
     "Jurisdiction": "Carroll Co",
-    "Updated": 1321164000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 6836,
-      "NonUtil": 6836,
-      "Parks": 533,
-      "Schools": 6303
+      "Total": 533,
+      "NonUtil": 533,
+      "Parks": 533
     },
     "MultiFamily": {
-      "Total": 2787,
-      "NonUtil": 2787,
-      "Parks": 530,
-      "Schools": 2257
+      "Total": 530,
+      "NonUtil": 530,
+      "Parks": 530
     },
     "Retail": {},
     "Office": {},
@@ -8222,79 +8092,79 @@
     "State": "MD",
     "County": "Charles",
     "Jurisdiction": "Charles Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 22760,
+      "Total": 25006,
       "NonUtil": 12097,
-      "Water": 3988,
-      "Sewer": 6675,
+      "Water": 4496,
+      "Sewer": 8413,
       "Schools": 12097
     },
     "MultiFamily": {
-      "Total": 10774,
+      "Total": 11181,
       "NonUtil": 8730,
-      "Water": 931,
-      "Sewer": 1113,
+      "Water": 1049,
+      "Sewer": 1402,
       "Schools": 8730
     },
     "Retail": {
-      "Total": 1706,
-      "Water": 638,
-      "Sewer": 1068
+      "Total": 2065,
+      "Water": 719,
+      "Sewer": 1346
     },
     "Office": {
-      "Total": 1706,
-      "Water": 638,
-      "Sewer": 1068
+      "Total": 2065,
+      "Water": 719,
+      "Sewer": 1346
     },
     "Industrial": {
-      "Total": 1706,
-      "Water": 638,
-      "Sewer": 1068
+      "Total": 2065,
+      "Water": 719,
+      "Sewer": 1346
     }
   },
   {
     "State": "MD",
     "County": "Frederick",
     "Jurisdiction": "Frederick Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 26885,
-      "NonUtil": 15185,
-      "Water": 4884,
-      "Sewer": 6816,
-      "Library": 759,
-      "Schools": 14426
+      "Total": 26545,
+      "NonUtil": 14208,
+      "Water": 5298,
+      "Sewer": 7039,
+      "Library": 730,
+      "Schools": 13478
     },
     "MultiFamily": {
-      "Total": 5575,
-      "NonUtil": 2845,
-      "Water": 1140,
-      "Sewer": 1590,
-      "Library": 477,
-      "Schools": 2368
+      "Total": 8840,
+      "NonUtil": 5961,
+      "Water": 1236,
+      "Sewer": 1642,
+      "Library": 366,
+      "Schools": 5595
     },
     "Retail": {
-      "Total": 1872,
-      "Water": 781,
-      "Sewer": 1091
+      "Total": 1208,
+      "Water": 504,
+      "Sewer": 704
     },
     "Office": {
-      "Total": 1872,
-      "Water": 781,
-      "Sewer": 1091
+      "Total": 1208,
+      "Water": 504,
+      "Sewer": 704
     },
     "Industrial": {
-      "Total": 1872,
-      "Water": 781,
-      "Sewer": 1091
+      "Total": 1208,
+      "Water": 504,
+      "Sewer": 704
     }
   },
   {
     "State": "MD",
     "County": "Harford",
     "Jurisdiction": "Harford Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 6000,
       "NonUtil": 6000,
@@ -8313,72 +8183,72 @@
     "State": "MD",
     "County": "Howard",
     "Jurisdiction": "Howard Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 2160,
-      "NonUtil": 2160,
-      "Roads": 2160
+      "Total": 2300,
+      "NonUtil": 2300,
+      "Roads": 2300
     },
     "MultiFamily": {
-      "Total": 1080,
-      "NonUtil": 1080,
-      "Roads": 1080
+      "Total": 1150,
+      "NonUtil": 1150,
+      "Roads": 1150
     },
     "Retail": {
-      "Total": 1080,
-      "NonUtil": 1080,
-      "Roads": 1080
+      "Total": 1150,
+      "NonUtil": 1150,
+      "Roads": 1150
     },
     "Office": {
-      "Total": 1080,
-      "NonUtil": 1080,
-      "Roads": 1080
+      "Total": 1150,
+      "NonUtil": 1150,
+      "Roads": 1150
     },
     "Industrial": {
-      "Total": 550,
-      "NonUtil": 550,
-      "Roads": 550
+      "Total": 590,
+      "NonUtil": 590,
+      "Roads": 590
     }
   },
   {
     "State": "MD",
     "County": "Montgomery",
     "Jurisdiction": "Montgomery Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 41383,
-      "NonUtil": 36293,
-      "Roads": 12425,
+      "Total": 45883,
+      "NonUtil": 40793,
+      "Roads": 13966,
       "Water": 2240,
       "Sewer": 2850,
-      "Schools": 23868
+      "Schools": 26827
     },
     "MultiFamily": {
-      "Total": 21300,
-      "NonUtil": 19264,
-      "Roads": 7906,
+      "Total": 23687,
+      "NonUtil": 21651,
+      "Roads": 8886,
       "Water": 896,
       "Sewer": 1140,
-      "Schools": 11358
+      "Schools": 12765
     },
     "Retail": {
-      "Total": 10962,
-      "NonUtil": 10150,
-      "Roads": 10150,
+      "Total": 1952,
+      "NonUtil": 1140,
+      "Roads": 1140,
       "Water": 352,
       "Sewer": 460
     },
     "Office": {
-      "Total": 12112,
-      "NonUtil": 11300,
-      "Roads": 11300,
+      "Total": 2087,
+      "NonUtil": 1275,
+      "Roads": 1275,
       "Water": 352,
       "Sewer": 460
     },
     "Industrial": {
-      "Total": 6462,
-      "NonUtil": 5650,
-      "Roads": 5650,
+      "Total": 7162,
+      "NonUtil": 6350,
+      "Roads": 6350,
       "Water": 352,
       "Sewer": 460
     }
@@ -8387,35 +8257,35 @@
     "State": "MD",
     "County": "Queen Anne's",
     "Jurisdiction": "Queen Anne's Co",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 8500,
-      "NonUtil": 8500,
-      "Parks": 760,
-      "Fire": 800,
-      "Schools": 6940
+      "Total": 9200,
+      "NonUtil": 9200,
+      "Parks": 820,
+      "Fire": 860,
+      "Schools": 7520
     },
     "MultiFamily": {
-      "Total": 4250,
-      "NonUtil": 4250,
-      "Parks": 380,
-      "Fire": 400,
-      "Schools": 3470
+      "Total": 4600,
+      "NonUtil": 4600,
+      "Parks": 410,
+      "Fire": 430,
+      "Schools": 3760
     },
     "Retail": {
-      "Total": 1050,
-      "NonUtil": 1050,
-      "Fire": 1050
+      "Total": 1140,
+      "NonUtil": 1140,
+      "Fire": 1140
     },
     "Office": {
-      "Total": 1580,
-      "NonUtil": 1580,
-      "Fire": 1580
+      "Total": 1710,
+      "NonUtil": 1710,
+      "Fire": 1710
     },
     "Industrial": {
-      "Total": 1008,
-      "NonUtil": 1008,
-      "Fire": 1008
+      "Total": 1170,
+      "NonUtil": 1170,
+      "Fire": 1170
     }
   },
   {
@@ -8442,20 +8312,10 @@
     "Industrial": {}
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MO",
     "County": "Clay/Jackson",
     "Jurisdiction": "Kansas City",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 711,
       "NonUtil": 711,
@@ -8486,7 +8346,7 @@
     "State": "MO",
     "County": "Jackson",
     "Jurisdiction": "Lee's Summit",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1041,
       "NonUtil": 1041,
@@ -8514,78 +8374,68 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MT",
     "County": "Gallatin",
     "Jurisdiction": "Bozeman",
-    "Updated": 1345266000000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 11803,
-      "NonUtil": 4516,
-      "Roads": 3642,
-      "Water": 3850,
-      "Sewer": 3437,
-      "Fire": 874
+      "Total": 15003,
+      "NonUtil": 4384,
+      "Roads": 4088,
+      "Water": 5627,
+      "Sewer": 4992,
+      "Fire": 296
     },
     "MultiFamily": {
-      "Total": 4459,
-      "NonUtil": 2988,
-      "Roads": 2254,
-      "Water": 898,
-      "Sewer": 573,
-      "Fire": 734
+      "Total": 3818,
+      "NonUtil": 2944,
+      "Roads": 2775,
+      "Water": 584,
+      "Sewer": 290,
+      "Fire": 169
     },
     "Retail": {
-      "Total": 7663,
-      "NonUtil": 6498,
-      "Roads": 6298,
-      "Water": 616,
-      "Sewer": 549,
-      "Fire": 200
+      "Total": 10674,
+      "NonUtil": 9896,
+      "Roads": 9523,
+      "Water": 455,
+      "Sewer": 323,
+      "Fire": 373
     },
     "Office": {
-      "Total": 3447,
-      "NonUtil": 2282,
-      "Roads": 2082,
-      "Water": 616,
-      "Sewer": 549,
-      "Fire": 200
+      "Total": 5273,
+      "NonUtil": 4495,
+      "Roads": 4122,
+      "Water": 455,
+      "Sewer": 323,
+      "Fire": 373
     },
     "Industrial": {
-      "Total": 2911,
-      "NonUtil": 1746,
-      "Roads": 1546,
-      "Water": 616,
-      "Sewer": 549,
-      "Fire": 200
+      "Total": 3410,
+      "NonUtil": 2632,
+      "Roads": 2605,
+      "Water": 455,
+      "Sewer": 323,
+      "Fire": 27
     }
   },
   {
     "State": "NC",
     "County": "Chatham",
     "Jurisdiction": "Chatham Co.",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 6948,
-      "NonUtil": 3448,
+      "Total": 7548,
+      "NonUtil": 4048,
       "Water": 3500,
       "Parks": 548,
-      "Schools": 2900
+      "Schools": 3500
     },
     "MultiFamily": {
-      "Total": 1417,
-      "NonUtil": 950,
+      "Total": 1567,
+      "NonUtil": 1100,
       "Water": 467,
-      "Schools": 950
+      "Schools": 1100
     },
     "Retail": {
       "Total": 300,
@@ -8604,7 +8454,7 @@
     "State": "NC",
     "County": "Durham",
     "Jurisdiction": "Durham",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 6054,
       "NonUtil": 3615,
@@ -8649,7 +8499,7 @@
     "State": "NC",
     "County": "Orange",
     "Jurisdiction": "Orange Co.",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 11017,
       "NonUtil": 5623,
@@ -8684,7 +8534,7 @@
     "State": "NC",
     "County": "Wake",
     "Jurisdiction": "Cary",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5681,
       "NonUtil": 1243,
@@ -8725,113 +8575,93 @@
     "State": "NC",
     "County": "Wake",
     "Jurisdiction": "Raleigh",
-    "Updated": 1345266000000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 5412,
-      "NonUtil": 2741,
-      "Roads": 1578,
+      "Total": 5634,
+      "NonUtil": 2963,
+      "Roads": 1706,
       "Water": 1679,
       "Sewer": 992,
-      "Parks": 1163
+      "Parks": 1257
     },
     "MultiFamily": {
-      "Total": 4280,
-      "NonUtil": 1900,
-      "Roads": 1054,
+      "Total": 4184,
+      "NonUtil": 1804,
+      "Roads": 1140,
       "Water": 1605,
       "Sewer": 775,
-      "Parks": 846
+      "Parks": 664
     },
     "Retail": {
-      "Total": 4160,
-      "NonUtil": 2561,
-      "Roads": 2561,
+      "Total": 4367,
+      "NonUtil": 2768,
+      "Roads": 2768,
       "Water": 854,
       "Sewer": 744
     },
     "Office": {
-      "Total": 3039,
-      "NonUtil": 1953,
-      "Roads": 1953,
+      "Total": 3197,
+      "NonUtil": 2111,
+      "Roads": 2111,
       "Water": 598,
       "Sewer": 488
     },
     "Industrial": {
-      "Total": 2972,
-      "NonUtil": 1234,
-      "Roads": 1234,
+      "Total": 3072,
+      "NonUtil": 1334,
+      "Roads": 1334,
       "Water": 913,
       "Sewer": 825
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NE",
     "County": "Lancaster",
     "Jurisdiction": "Lincoln",
-    "Updated": 1345266000000,
+    "Updated": -55358964564000,
     "SingleFamily": {
-      "Total": 4685,
-      "NonUtil": 2800,
-      "Roads": 2466,
-      "Water": 1261,
-      "Sewer": 624,
-      "Parks": 334
+      "Total": 4836,
+      "NonUtil": 2891,
+      "Roads": 2546,
+      "Water": 1301,
+      "Sewer": 644,
+      "Parks": 345
     },
     "MultiFamily": {
-      "Total": 1966,
-      "NonUtil": 1701,
-      "Roads": 1501,
-      "Water": 196,
-      "Sewer": 69,
-      "Parks": 200
+      "Total": 2030,
+      "NonUtil": 1756,
+      "Roads": 1550,
+      "Water": 202,
+      "Sewer": 72,
+      "Parks": 206
     },
     "Retail": {
-      "Total": 3461,
-      "NonUtil": 3260,
-      "Roads": 3260,
-      "Water": 134,
-      "Sewer": 67
+      "Total": 3578,
+      "NonUtil": 3370,
+      "Roads": 3370,
+      "Water": 139,
+      "Sewer": 69
     },
     "Office": {
-      "Total": 3821,
-      "NonUtil": 3620,
-      "Roads": 3620,
-      "Water": 134,
-      "Sewer": 67
+      "Total": 3938,
+      "NonUtil": 3730,
+      "Roads": 3730,
+      "Water": 139,
+      "Sewer": 69
     },
     "Industrial": {
-      "Total": 2421,
-      "NonUtil": 2220,
-      "Roads": 2220,
-      "Water": 134,
-      "Sewer": 67
+      "Total": 2498,
+      "NonUtil": 2290,
+      "Roads": 2290,
+      "Water": 139,
+      "Sewer": 69
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "NH",
     "County": "Hillsborough",
     "Jurisdiction": "Manchester",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 2923,
       "NonUtil": 2923,
@@ -8852,7 +8682,7 @@
     "State": "NH",
     "County": "Merrimack",
     "Jurisdiction": "Concord",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5022,
       "NonUtil": 5022,
@@ -8887,36 +8717,47 @@
     "State": "NH",
     "County": "Rockingham",
     "Jurisdiction": "Salem",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5532,
-      "NonUtil": 5532
+      "NonUtil": 5532,
+      "Parks": 1014,
+      "Fire": 498,
+      "Police": 202,
+      "Schools": 4250
     },
     "MultiFamily": {
       "Total": 2923,
-      "NonUtil": 2923
+      "NonUtil": 2923,
+      "Parks": 659,
+      "Fire": 641,
+      "Police": 204,
+      "Schools": 2223
     },
     "Retail": {
-      "Total": 570,
-      "NonUtil": 570,
-      "Police": 570
-    },
-    "Office": {
       "Total": 560,
       "NonUtil": 560,
-      "Police": 560
+      "Fire": 420,
+      "Police": 140
+    },
+    "Office": {
+      "Total": 540,
+      "NonUtil": 540,
+      "Fire": 370,
+      "Police": 170
     },
     "Industrial": {
-      "Total": 300,
-      "NonUtil": 300,
-      "Police": 300
+      "Total": 270,
+      "NonUtil": 270,
+      "Fire": 70,
+      "Police": 200
     }
   },
   {
     "State": "NH",
     "County": "Rockingham",
     "Jurisdiction": "Fremont",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 3761,
       "NonUtil": 3761,
@@ -8932,20 +8773,10 @@
     "Industrial": {}
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NM",
     "County": "Bernalillo",
     "Jurisdiction": "Albuquerque",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 11732,
       "NonUtil": 3893,
@@ -8998,7 +8829,7 @@
     "State": "NM",
     "County": "Bernalillo",
     "Jurisdiction": "Bernalillo Co",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 4162,
       "NonUtil": 4162,
@@ -9043,7 +8874,7 @@
     "State": "NM",
     "County": "Dona Ana",
     "Jurisdiction": "Las Cruces",
-    "Updated": 1370581200000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5959,
       "NonUtil": 2939,
@@ -9083,7 +8914,7 @@
     "State": "NM",
     "County": "Lincoln",
     "Jurisdiction": "Ruidoso",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5895,
       "Water": 3839,
@@ -9114,7 +8945,7 @@
     "State": "NM",
     "County": "Sandoval",
     "Jurisdiction": "Rio Rancho",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 14347,
       "NonUtil": 8785,
@@ -9172,7 +9003,7 @@
     "State": "NM",
     "County": "Santa Fe",
     "Jurisdiction": "Santa Fe",
-    "Updated": 1343451600000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2748,
       "Water": 2013,
@@ -9216,7 +9047,7 @@
     "State": "NM",
     "County": "Santa Fe",
     "Jurisdiction": "Santa Fe County",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 550,
       "NonUtil": 550,
@@ -9247,7 +9078,7 @@
     "State": "NM",
     "County": "Valencia",
     "Jurisdiction": "Los Lunas",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3227,
       "NonUtil": 850,
@@ -9279,20 +9110,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NV",
     "County": "Churchill",
     "Jurisdiction": "Churchill County",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 4200,
       "NonUtil": 4200,
@@ -9315,42 +9136,42 @@
     "State": "NV",
     "County": "Clark",
     "Jurisdiction": "Las Vegas",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 3861,
+      "Total": 3970,
       "NonUtil": 1841,
       "Roads": 995,
-      "Sewer": 2020,
+      "Sewer": 2129,
       "Parks": 720,
       "Other": 126
     },
     "MultiFamily": {
-      "Total": 2957,
+      "Total": 3044,
       "NonUtil": 1341,
       "Roads": 935,
-      "Sewer": 1616,
+      "Sewer": 1703,
       "Parks": 360,
       "Other": 46
     },
     "Retail": {
-      "Total": 1414,
+      "Total": 1105,
       "NonUtil": 1091,
       "Roads": 1007,
-      "Sewer": 323,
+      "Sewer": 14,
       "Other": 84
     },
     "Office": {
-      "Total": 1390,
+      "Total": 1081,
       "NonUtil": 1067,
       "Roads": 983,
-      "Sewer": 323,
+      "Sewer": 14,
       "Other": 84
     },
     "Industrial": {
-      "Total": 1319,
+      "Total": 1010,
       "NonUtil": 996,
       "Roads": 912,
-      "Sewer": 323,
+      "Sewer": 14,
       "Other": 84
     }
   },
@@ -9358,7 +9179,7 @@
     "State": "NV",
     "County": "Clark",
     "Jurisdiction": "Mesquite",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1237,
       "NonUtil": 1237,
@@ -9394,7 +9215,7 @@
     "State": "NV",
     "County": "Washoe",
     "Jurisdiction": "Reno",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 5177,
       "NonUtil": 5177,
@@ -9422,16 +9243,6 @@
       "NonUtil": 2534,
       "Roads": 2534
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "OH",
@@ -9506,20 +9317,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OK",
     "County": "Cleveland",
     "Jurisdiction": "Moore",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 1347,
       "NonUtil": 647,
@@ -9549,20 +9350,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OR",
     "County": "Clackamas",
     "Jurisdiction": "Clackamas Co.",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 20844,
       "NonUtil": 14039,
@@ -9606,7 +9397,7 @@
     "State": "OR",
     "County": "Clackamas",
     "Jurisdiction": "West Linn",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 32554,
       "NonUtil": 18839,
@@ -9659,7 +9450,7 @@
     "State": "OR",
     "County": "Deschutes",
     "Jurisdiction": "Bend",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 16986,
       "NonUtil": 9626,
@@ -9702,7 +9493,7 @@
     "State": "OR",
     "County": "Josephine",
     "Jurisdiction": "Grants Pass",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 8690,
       "NonUtil": 3516,
@@ -9746,7 +9537,7 @@
     "State": "OR",
     "County": "Lane",
     "Jurisdiction": "Eugene",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 8236,
       "NonUtil": 6107,
@@ -9792,7 +9583,7 @@
     "State": "OR",
     "County": "Lane",
     "Jurisdiction": "Springfield",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5744,
       "NonUtil": 2207,
@@ -9833,7 +9624,7 @@
     "State": "OR",
     "County": "Marion",
     "Jurisdiction": "Salem",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 13193,
       "NonUtil": 6193,
@@ -9881,7 +9672,7 @@
     "State": "OR",
     "County": "Marion",
     "Jurisdiction": "Silverton",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 19233,
       "NonUtil": 9606,
@@ -9925,7 +9716,7 @@
     "State": "OR",
     "County": "Multnomah",
     "Jurisdiction": "Portland",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 17460,
       "NonUtil": 11308,
@@ -9976,7 +9767,7 @@
     "State": "OR",
     "County": "Washington",
     "Jurisdiction": "Tigard",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 16284,
       "NonUtil": 11537,
@@ -10017,7 +9808,7 @@
     "State": "OR",
     "County": "Washington",
     "Jurisdiction": "Washington Co",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 11830,
       "NonUtil": 7165,
@@ -10055,20 +9846,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "PA",
     "County": "Montgomery",
     "Jurisdiction": "Towamencin Twp",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2220,
       "NonUtil": 2220,
@@ -10114,16 +9895,6 @@
       "Parks": 500,
       "Other": 300
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "SC",
@@ -10512,20 +10283,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "TX",
     "County": "Brazos",
     "Jurisdiction": "College Station",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3149,
       "NonUtil": 2021,
@@ -10560,7 +10321,7 @@
     "State": "TX",
     "County": "Collin",
     "Jurisdiction": "Allen",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2350,
       "NonUtil": 650,
@@ -10601,7 +10362,7 @@
     "State": "TX",
     "County": "Collin",
     "Jurisdiction": "McKinney",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5334,
       "NonUtil": 3500,
@@ -10642,7 +10403,7 @@
     "State": "TX",
     "County": "Denton",
     "Jurisdiction": "Denton",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5430,
       "Water": 3700,
@@ -10673,7 +10434,7 @@
     "State": "TX",
     "County": "Tarrant",
     "Jurisdiction": "Arlington",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2813,
       "NonUtil": 1953,
@@ -10716,7 +10477,7 @@
     "State": "TX",
     "County": "Tarrant",
     "Jurisdiction": "Colleyville",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 5321,
       "NonUtil": 2187,
@@ -10757,7 +10518,7 @@
     "State": "TX",
     "County": "Tarrant",
     "Jurisdiction": "Ft. Worth",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 3052,
       "Roads": 2000,
@@ -10793,7 +10554,7 @@
     "State": "TX",
     "County": "Williamson",
     "Jurisdiction": "Georgetown",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 2785,
       "Water": 1530,
@@ -10819,16 +10580,6 @@
       "Water": 355,
       "Sewer": 201
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "UT",
@@ -10993,43 +10744,45 @@
     "State": "UT",
     "County": "Salt Lake",
     "Jurisdiction": "Salt Lake City",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
-      "Total": 1992,
-      "NonUtil": 1992,
+      "Total": 3833,
+      "NonUtil": 3833,
+      "Roads": 424,
       "Drain": 374,
-      "Parks": 681,
-      "Fire": 485,
-      "Police": 452
+      "Parks": 2875,
+      "Fire": 119,
+      "Police": 41
     },
     "MultiFamily": {
-      "Total": 1743,
-      "NonUtil": 1743,
+      "Total": 3409,
+      "NonUtil": 3409,
+      "Roads": 249,
       "Drain": 125,
-      "Parks": 681,
-      "Fire": 485,
-      "Police": 452
+      "Parks": 2875,
+      "Fire": 119,
+      "Police": 41
     },
     "Retail": {
-      "Total": 8849,
-      "NonUtil": 8849,
-      "Roads": 8000,
+      "Total": 4129,
+      "NonUtil": 4129,
+      "Roads": 3280,
       "Drain": 229,
       "Fire": 320,
       "Police": 300
     },
     "Office": {
-      "Total": 4337,
-      "NonUtil": 4337,
-      "Roads": 3580,
+      "Total": 3087,
+      "NonUtil": 3087,
+      "Roads": 2330,
       "Drain": 137,
       "Fire": 320,
       "Police": 300
     },
     "Industrial": {
-      "Total": 2229,
-      "NonUtil": 2229,
-      "Roads": 1380,
+      "Total": 3109,
+      "NonUtil": 3109,
+      "Roads": 2260,
       "Drain": 229,
       "Fire": 320,
       "Police": 300
@@ -11240,7 +10993,7 @@
     "State": "UT",
     "County": "Utah",
     "Jurisdiction": "Payson",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 7415,
       "NonUtil": 3205,
@@ -11283,7 +11036,7 @@
     "State": "UT",
     "County": "Utah",
     "Jurisdiction": "Provo",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 6954,
       "NonUtil": 4964,
@@ -11326,16 +11079,6 @@
       "Sewer": 197,
       "Drain": 556
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "VA",
@@ -11410,20 +11153,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "VT",
     "County": "Chittenden",
     "Jurisdiction": "Burlington",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 4918,
       "NonUtil": 4918,
@@ -11473,129 +11206,126 @@
     "State": "VT",
     "County": "Chittenden",
     "Jurisdiction": "Williston",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 11857,
-      "NonUtil": 11857,
-      "Roads": 303,
-      "Parks": 840,
-      "Schools": 10714
+      "Total": 5873,
+      "NonUtil": 5873,
+      "Roads": 707,
+      "Parks": 1100,
+      "Schools": 4066
     },
     "MultiFamily": {
-      "Total": 4412,
-      "NonUtil": 4412,
-      "Roads": 186,
-      "Parks": 667,
-      "Schools": 3559
+      "Total": 2800,
+      "NonUtil": 2800,
+      "Roads": 546,
+      "Parks": 869,
+      "Schools": 1385
     },
     "Retail": {
-      "Total": 1125,
-      "NonUtil": 1125,
-      "Roads": 1125
+      "Total": 700,
+      "NonUtil": 700,
+      "Roads": 700
     },
     "Office": {
-      "Total": 447,
-      "NonUtil": 447,
-      "Roads": 447
+      "Total": 700,
+      "NonUtil": 700,
+      "Roads": 700
     },
     "Industrial": {
-      "Total": 294,
-      "NonUtil": 294,
-      "Roads": 294
+      "Total": 700,
+      "NonUtil": 700,
+      "Roads": 700
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "WA",
     "County": "Clark",
     "Jurisdiction": "Vancouver",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 11146,
-      "NonUtil": 8246,
-      "Roads": 1778,
-      "Water": 2900,
+      "Total": 13423,
+      "NonUtil": 8323,
+      "Roads": 1915,
+      "Water": 2360,
+      "Sewer": 2740,
       "Parks": 2084,
-      "Schools": 4384
+      "Schools": 4324
     },
     "MultiFamily": {
-      "Total": 5680,
-      "NonUtil": 4814,
-      "Roads": 1249,
-      "Water": 866,
+      "Total": 8480,
+      "NonUtil": 4910,
+      "Roads": 1345,
+      "Water": 1652,
+      "Sewer": 1918,
       "Parks": 1523,
       "Schools": 2042
     },
     "Retail": {
-      "Total": 8646,
-      "NonUtil": 7978,
-      "Roads": 7978,
-      "Water": 668
+      "Total": 9408,
+      "NonUtil": 8592,
+      "Roads": 8592,
+      "Water": 378,
+      "Sewer": 438
     },
     "Office": {
-      "Total": 2714,
-      "NonUtil": 2046,
-      "Roads": 2046,
-      "Water": 668
+      "Total": 3019,
+      "NonUtil": 2203,
+      "Roads": 2203,
+      "Water": 378,
+      "Sewer": 438
     },
     "Industrial": {
-      "Total": 1963,
-      "NonUtil": 1295,
-      "Roads": 1295,
-      "Water": 668
+      "Total": 2211,
+      "NonUtil": 1395,
+      "Roads": 1395,
+      "Water": 378,
+      "Sewer": 438
     }
   },
   {
     "State": "WA",
     "County": "Cowlitz",
     "Jurisdiction": "Woodland",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 12446,
-      "NonUtil": 5396,
-      "Water": 2800,
-      "Sewer": 4250,
+      "Total": 14395,
+      "NonUtil": 6234,
+      "Roads": 838,
+      "Water": 3241,
+      "Sewer": 4920,
       "Parks": 1116,
       "Fire": 1530,
       "Schools": 2750
     },
     "MultiFamily": {
-      "Total": 3432,
-      "NonUtil": 2907,
-      "Water": 280,
-      "Sewer": 245,
+      "Total": 4034,
+      "NonUtil": 3427,
+      "Roads": 520,
+      "Water": 324,
+      "Sewer": 283,
       "Parks": 831,
       "Fire": 1426,
       "Schools": 650
     },
     "Retail": {
-      "Total": 933,
+      "Total": 999,
       "NonUtil": 510,
-      "Water": 195,
-      "Sewer": 228,
+      "Water": 226,
+      "Sewer": 263,
       "Fire": 510
     },
     "Office": {
-      "Total": 933,
+      "Total": 999,
       "NonUtil": 510,
-      "Water": 195,
-      "Sewer": 228,
+      "Water": 226,
+      "Sewer": 263,
       "Fire": 510
     },
     "Industrial": {
-      "Total": 933,
+      "Total": 999,
       "NonUtil": 510,
-      "Water": 195,
-      "Sewer": 228,
+      "Water": 226,
+      "Sewer": 263,
       "Fire": 510
     }
   },
@@ -11603,18 +11333,18 @@
     "State": "WA",
     "County": "King",
     "Jurisdiction": "King Co",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 7103,
-      "NonUtil": 7103,
+      "Total": 6785,
+      "NonUtil": 6785,
       "Roads": 1228,
-      "Schools": 5875
+      "Schools": 5557
     },
     "MultiFamily": {
-      "Total": 2602,
-      "NonUtil": 2602,
+      "Total": 3650,
+      "NonUtil": 3650,
       "Roads": 737,
-      "Schools": 1865
+      "Schools": 2913
     },
     "Retail": {},
     "Office": {},
@@ -11624,233 +11354,237 @@
     "State": "WA",
     "County": "King",
     "Jurisdiction": "Bellevue",
-    "Updated": 1345352400000,
+    "Updated": 1447653600000,
     "SingleFamily": {
-      "Total": 1768,
-      "NonUtil": 1768,
-      "Roads": 1768
+      "Total": 4419,
+      "NonUtil": 4419,
+      "Roads": 4419
     },
     "MultiFamily": {
-      "Total": 907,
-      "NonUtil": 907,
-      "Roads": 907
+      "Total": 2266,
+      "NonUtil": 2266,
+      "Roads": 2266
     },
     "Retail": {
-      "Total": 2740,
-      "NonUtil": 2740,
-      "Roads": 2740
+      "Total": 4760,
+      "NonUtil": 4760,
+      "Roads": 4760
     },
     "Office": {
-      "Total": 3420,
-      "NonUtil": 3420,
-      "Roads": 3420
+      "Total": 8550,
+      "NonUtil": 8550,
+      "Roads": 8550
     },
     "Industrial": {
-      "Total": 2190,
-      "NonUtil": 2190,
-      "Roads": 2190
+      "Total": 6180,
+      "NonUtil": 6180,
+      "Roads": 6180
     }
   },
   {
     "State": "WA",
     "County": "King",
     "Jurisdiction": "Bothell",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 13077,
-      "NonUtil": 8352,
-      "Roads": 5181,
-      "Water": 3093,
-      "Sewer": 1632,
-      "Drain": 1826,
-      "Parks": 1345
+      "Total": 15686,
+      "NonUtil": 9281,
+      "Roads": 5481,
+      "Water": 4310,
+      "Sewer": 2095,
+      "Drain": 1900,
+      "Parks": 1900
     },
     "MultiFamily": {
-      "Total": 5624,
-      "NonUtil": 4658,
-      "Roads": 2983,
-      "Water": 694,
-      "Sewer": 272,
-      "Drain": 913,
-      "Parks": 762
+      "Total": 6411,
+      "NonUtil": 5056,
+      "Roads": 3156,
+      "Water": 1006,
+      "Sewer": 349,
+      "Drain": 950,
+      "Parks": 950
     },
     "Retail": {
-      "Total": 11587,
-      "NonUtil": 10803,
-      "Roads": 9890,
-      "Water": 523,
-      "Sewer": 261,
-      "Drain": 913
+      "Total": 12435,
+      "NonUtil": 11410,
+      "Roads": 10460,
+      "Water": 690,
+      "Sewer": 335,
+      "Drain": 950
     },
     "Office": {
-      "Total": 11717,
-      "NonUtil": 10933,
-      "Roads": 10020,
-      "Water": 523,
-      "Sewer": 261,
-      "Drain": 913
+      "Total": 12575,
+      "NonUtil": 11550,
+      "Roads": 10600,
+      "Water": 690,
+      "Sewer": 335,
+      "Drain": 950
     },
     "Industrial": {
-      "Total": 8127,
-      "NonUtil": 7343,
-      "Roads": 6430,
-      "Water": 523,
-      "Sewer": 261,
-      "Drain": 913
+      "Total": 8775,
+      "NonUtil": 7750,
+      "Roads": 6800,
+      "Water": 690,
+      "Sewer": 335,
+      "Drain": 950
     }
   },
   {
     "State": "WA",
     "County": "King",
     "Jurisdiction": "Issaquqh",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 13298,
-      "NonUtil": 13298,
-      "Roads": 1739,
-      "Parks": 6998,
-      "Fire": 688,
-      "Police": 171,
-      "GenGov": 134,
-      "Schools": 3568
+      "Total": 19959,
+      "NonUtil": 19959,
+      "Roads": 8669,
+      "Parks": 5660,
+      "Fire": 739,
+      "Police": 186,
+      "GenGov": 145,
+      "Schools": 4560
     },
     "MultiFamily": {
-      "Total": 6623,
-      "NonUtil": 6623,
-      "Roads": 1057,
-      "Parks": 4408,
-      "Fire": 944,
-      "Police": 142,
-      "GenGov": 72
+      "Total": 12940,
+      "NonUtil": 12940,
+      "Roads": 5361,
+      "Parks": 4874,
+      "Fire": 1014,
+      "Police": 154,
+      "GenGov": 79,
+      "Schools": 1458
     },
     "Retail": {
-      "Total": 5823,
-      "NonUtil": 5823,
-      "Roads": 4230,
-      "Fire": 708,
-      "Police": 840,
-      "GenGov": 45
+      "Total": 27821,
+      "NonUtil": 27821,
+      "Roads": 21160,
+      "Parks": 4940,
+      "Fire": 760,
+      "Police": 912,
+      "GenGov": 49
     },
     "Office": {
-      "Total": 2679,
-      "NonUtil": 2679,
-      "Roads": 2300,
-      "Fire": 221,
-      "Police": 113,
-      "GenGov": 45
+      "Total": 13250,
+      "NonUtil": 13250,
+      "Roads": 11590,
+      "Parks": 1250,
+      "Fire": 238,
+      "Police": 123,
+      "GenGov": 49
     },
     "Industrial": {
-      "Total": 1879,
-      "NonUtil": 1879,
-      "Roads": 1500,
-      "Fire": 221,
-      "Police": 113,
-      "GenGov": 45
+      "Total": 8460,
+      "NonUtil": 8460,
+      "Roads": 7560,
+      "Parks": 490,
+      "Fire": 238,
+      "Police": 123,
+      "GenGov": 49
     }
   },
   {
     "State": "WA",
     "County": "King",
     "Jurisdiction": "Kirkland",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 25340,
-      "NonUtil": 13151,
-      "Roads": 3825,
-      "Water": 9133,
-      "Sewer": 3056,
-      "Drain": 481,
-      "Parks": 3845,
-      "Schools": 5000
+      "Total": 30539,
+      "NonUtil": 18022,
+      "Roads": 3942,
+      "Water": 9411,
+      "Sewer": 3106,
+      "Drain": 508,
+      "Parks": 3949,
+      "Schools": 9623
     },
     "MultiFamily": {
-      "Total": 10415,
-      "NonUtil": 6328,
-      "Roads": 2242,
-      "Water": 2131,
-      "Sewer": 1956,
-      "Drain": 185,
-      "Parks": 2515,
-      "Schools": 1386
+      "Total": 10027,
+      "NonUtil": 5843,
+      "Roads": 2311,
+      "Water": 2196,
+      "Sewer": 1988,
+      "Drain": 195,
+      "Parks": 2583,
+      "Schools": 754
     },
     "Retail": {
-      "Total": 6615,
-      "NonUtil": 4665,
-      "Roads": 4480,
-      "Water": 1461,
-      "Sewer": 489,
-      "Drain": 185
+      "Total": 7013,
+      "NonUtil": 5011,
+      "Roads": 4620,
+      "Water": 1506,
+      "Sewer": 497,
+      "Drain": 391
     },
     "Office": {
-      "Total": 9535,
-      "NonUtil": 7585,
-      "Roads": 7400,
-      "Water": 1461,
-      "Sewer": 489,
-      "Drain": 185
+      "Total": 10023,
+      "NonUtil": 8021,
+      "Roads": 7630,
+      "Water": 1506,
+      "Sewer": 497,
+      "Drain": 391
     },
     "Industrial": {
-      "Total": 8035,
-      "NonUtil": 6085,
-      "Roads": 5900,
-      "Water": 1461,
-      "Sewer": 489,
-      "Drain": 185
+      "Total": 8473,
+      "NonUtil": 6471,
+      "Roads": 6080,
+      "Water": 1506,
+      "Sewer": 497,
+      "Drain": 391
     }
   },
   {
     "State": "WA",
     "County": "Kitsap",
     "Jurisdiction": "Kitsap Co",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 2428,
-      "NonUtil": 2428,
-      "Roads": 640,
-      "Parks": 604,
-      "Schools": 1184
+      "Total": 2566,
+      "NonUtil": 2566,
+      "Roads": 676,
+      "Parks": 639,
+      "Schools": 1251
     },
     "MultiFamily": {
-      "Total": 1397,
-      "NonUtil": 1397,
-      "Roads": 420,
-      "Parks": 294,
-      "Schools": 683
+      "Total": 1477,
+      "NonUtil": 1477,
+      "Roads": 444,
+      "Parks": 311,
+      "Schools": 722
     },
     "Retail": {
-      "Total": 910,
-      "NonUtil": 910,
-      "Roads": 910
+      "Total": 960,
+      "NonUtil": 960,
+      "Roads": 960
     },
     "Office": {
-      "Total": 430,
-      "NonUtil": 430,
-      "Roads": 430
+      "Total": 550,
+      "NonUtil": 550,
+      "Roads": 550
     },
     "Industrial": {
-      "Total": 220,
-      "NonUtil": 220,
-      "Roads": 220
+      "Total": 230,
+      "NonUtil": 230,
+      "Roads": 230
     }
   },
   {
     "State": "WA",
     "County": "Pierce",
     "Jurisdiction": "Pierce Co",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 5119,
-      "NonUtil": 5119,
+      "Total": 5352,
+      "NonUtil": 5352,
       "Roads": 1759,
-      "Parks": 355,
-      "Schools": 3005
+      "Parks": 385,
+      "Schools": 3208
     },
     "MultiFamily": {
-      "Total": 2811,
-      "NonUtil": 2811,
+      "Total": 2703,
+      "NonUtil": 2703,
       "Roads": 1046,
-      "Parks": 180,
-      "Schools": 1585
+      "Parks": 195,
+      "Schools": 1462
     },
     "Retail": {
       "Total": 2151,
@@ -11872,218 +11606,208 @@
     "State": "WA",
     "County": "Skagit",
     "Jurisdiction": "Anacortes",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 14535,
-      "NonUtil": 4045,
+      "Total": 16802,
+      "NonUtil": 4281,
       "Roads": 900,
-      "Water": 3062,
-      "Sewer": 7428,
-      "Drain": 2530,
+      "Water": 3693,
+      "Sewer": 8828,
+      "Drain": 2766,
       "Parks": 615
     },
     "MultiFamily": {
-      "Total": 6359,
-      "NonUtil": 2780,
+      "Total": 7345,
+      "NonUtil": 2898,
       "Roads": 900,
-      "Water": 2341,
-      "Sewer": 1238,
-      "Drain": 1265,
+      "Water": 2976,
+      "Sewer": 1471,
+      "Drain": 1383,
       "Parks": 615
     },
     "Retail": {
-      "Total": 2654,
-      "NonUtil": 1265,
+      "Total": 2996,
+      "NonUtil": 1383,
       "Water": 201,
-      "Sewer": 1188,
-      "Drain": 1265
+      "Sewer": 1412,
+      "Drain": 1383
     },
     "Office": {
-      "Total": 2654,
-      "NonUtil": 1265,
+      "Total": 2996,
+      "NonUtil": 1383,
       "Water": 201,
-      "Sewer": 1188,
-      "Drain": 1265
+      "Sewer": 1412,
+      "Drain": 1383
     },
     "Industrial": {
-      "Total": 2654,
-      "NonUtil": 1265,
+      "Total": 2996,
+      "NonUtil": 1383,
       "Water": 201,
-      "Sewer": 1188,
-      "Drain": 1265
+      "Sewer": 1412,
+      "Drain": 1383
     }
   },
   {
     "State": "WA",
     "County": "Skagit",
     "Jurisdiction": "Burlington",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 6289,
-      "NonUtil": 3159,
-      "Roads": 1835,
+      "Total": 7676,
+      "NonUtil": 4546,
+      "Roads": 2682,
       "Sewer": 3130,
-      "Drain": 549,
-      "Parks": 625,
-      "Fire": 150
+      "Drain": 955,
+      "Parks": 655,
+      "Fire": 254
     },
     "MultiFamily": {
-      "Total": 4783,
-      "NonUtil": 2280,
-      "Roads": 1126,
+      "Total": 5536,
+      "NonUtil": 3033,
+      "Roads": 1646,
       "Sewer": 2503,
-      "Drain": 275,
-      "Parks": 625,
+      "Drain": 478,
+      "Parks": 655,
       "Fire": 254
     },
     "Retail": {
-      "Total": 8071,
-      "NonUtil": 7777,
-      "Roads": 6776,
-      "Sewer": 294,
-      "Drain": 275,
-      "Parks": 500,
-      "Fire": 227
+      "Total": 11507,
+      "NonUtil": 11078,
+      "Roads": 9903,
+      "Sewer": 429,
+      "Drain": 478,
+      "Parks": 478,
+      "Fire": 219
     },
     "Office": {
-      "Total": 4002,
-      "NonUtil": 3708,
-      "Roads": 2707,
-      "Sewer": 294,
-      "Drain": 275,
+      "Total": 5582,
+      "NonUtil": 5153,
+      "Roads": 3956,
+      "Sewer": 429,
+      "Drain": 478,
       "Parks": 500,
-      "Fire": 227
+      "Fire": 219
     },
     "Industrial": {
-      "Total": 3057,
-      "NonUtil": 2764,
-      "Roads": 1762,
-      "Sewer": 294,
-      "Drain": 275,
+      "Total": 4201,
+      "NonUtil": 3772,
+      "Roads": 2575,
+      "Sewer": 429,
+      "Drain": 478,
       "Parks": 500,
-      "Fire": 227
+      "Fire": 219
     }
   },
   {
     "State": "WA",
     "County": "Snohomish",
     "Jurisdiction": "Snohomish Co",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 6245,
-      "NonUtil": 6245,
-      "Roads": 2369,
-      "Parks": 544,
-      "Schools": 3332
+      "Total": 6274,
+      "NonUtil": 6274,
+      "Roads": 2192,
+      "Parks": 762,
+      "Schools": 3320
     },
     "MultiFamily": {
-      "Total": 4214,
-      "NonUtil": 4214,
-      "Roads": 1663,
-      "Parks": 376,
-      "Schools": 2175
+      "Total": 4178,
+      "NonUtil": 4178,
+      "Roads": 1539,
+      "Parks": 526,
+      "Schools": 2113
     },
     "Retail": {
-      "Total": 9035,
-      "NonUtil": 9035,
-      "Roads": 9035
+      "Total": 9829,
+      "NonUtil": 9829,
+      "Roads": 9829
     },
     "Office": {
-      "Total": 2318,
-      "NonUtil": 2318,
-      "Roads": 2318
+      "Total": 2521,
+      "NonUtil": 2521,
+      "Roads": 2521
     },
     "Industrial": {
-      "Total": 1467,
-      "NonUtil": 1467,
-      "Roads": 1467
+      "Total": 1596,
+      "NonUtil": 1596,
+      "Roads": 1596
     }
   },
   {
     "State": "WA",
     "County": "Thurston",
     "Jurisdiction": "Olympia",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 11091,
-      "NonUtil": 11091,
-      "Roads": 3054,
-      "Parks": 5068,
-      "Schools": 2969
+      "Total": 13479,
+      "NonUtil": 13479,
+      "Roads": 3167,
+      "Parks": 5334,
+      "Schools": 4978
     },
     "MultiFamily": {
-      "Total": 5267,
-      "NonUtil": 5267,
-      "Roads": 1982,
-      "Parks": 3050,
-      "Schools": 235
+      "Total": 7359,
+      "NonUtil": 7359,
+      "Roads": 2055,
+      "Parks": 3628,
+      "Schools": 1676
     },
     "Retail": {
-      "Total": 4900,
-      "NonUtil": 4900,
-      "Roads": 4900
+      "Total": 5080,
+      "NonUtil": 5080,
+      "Roads": 5080
     },
     "Office": {
-      "Total": 6540,
-      "NonUtil": 6540,
-      "Roads": 6540
+      "Total": 6790,
+      "NonUtil": 6790,
+      "Roads": 6790
     },
     "Industrial": {
-      "Total": 3790,
-      "NonUtil": 3790,
-      "Roads": 3790
+      "Total": 3930,
+      "NonUtil": 3930,
+      "Roads": 3930
     }
   },
   {
     "State": "WA",
     "County": "Thurston",
     "Jurisdiction": "Tumwater",
-    "Updated": 1345352400000,
+    "Updated": 1447740000000,
     "SingleFamily": {
-      "Total": 14295,
-      "NonUtil": 9990,
-      "Roads": 2828,
-      "Sewer": 4305,
+      "Total": 11611,
+      "NonUtil": 11611,
+      "Roads": 3273,
       "Parks": 3727,
-      "Fire": 203,
-      "Schools": 3233
+      "Schools": 4611
     },
     "MultiFamily": {
-      "Total": 5503,
-      "NonUtil": 4785,
-      "Roads": 1836,
-      "Sewer": 718,
+      "Total": 5620,
+      "NonUtil": 5620,
+      "Roads": 2124,
       "Parks": 2413,
-      "Fire": 101,
-      "Schools": 435
+      "Schools": 1083
     },
     "Retail": {
-      "Total": 5666,
-      "NonUtil": 5011,
-      "Roads": 4910,
-      "Sewer": 655,
-      "Fire": 101
+      "Total": 5690,
+      "NonUtil": 5690,
+      "Roads": 5690
     },
     "Office": {
-      "Total": 6836,
-      "NonUtil": 6181,
-      "Roads": 6080,
-      "Sewer": 655,
-      "Fire": 101
+      "Total": 7040,
+      "NonUtil": 7040,
+      "Roads": 7040
     },
     "Industrial": {
-      "Total": 4756,
-      "NonUtil": 4101,
-      "Roads": 4000,
-      "Sewer": 655,
-      "Fire": 101
+      "Total": 4620,
+      "NonUtil": 4620,
+      "Roads": 4620
     }
   },
   {
     "State": "WA",
     "County": "Whatcom",
     "Jurisdiction": "Bellingham",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 20756,
       "NonUtil": 9271,
@@ -12130,20 +11854,10 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "WV",
     "County": "Jefferson",
     "Jurisdiction": "Jefferson Co",
-    "Updated": 1345352400000,
+    "Updated": 1440997200000,
     "SingleFamily": {
       "Total": 13070,
       "NonUtil": 13070,
@@ -12180,39 +11894,37 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "WI",
     "County": "Dane",
     "Jurisdiction": "Fitchburg",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
-      "Total": 4900,
+      "Total": 5973,
       "NonUtil": 4900,
+      "Water": 1073,
       "Parks": 4900
     },
     "MultiFamily": {
-      "Total": 4457,
+      "Total": 5530,
       "NonUtil": 4457,
+      "Water": 1073,
       "Parks": 4457
     },
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
+    "Retail": {
+      "Water": 1073
+    },
+    "Office": {
+      "Water": 1073
+    },
+    "Industrial": {
+      "Water": 1073
+    }
   },
   {
     "State": "WI",
     "County": "Jefferson",
     "Jurisdiction": "Oconomowoc",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 6120,
       "NonUtil": 1814,
@@ -12310,7 +12022,7 @@
     "State": "WI",
     "County": "St Croix",
     "Jurisdiction": "Hudson",
-    "Updated": 1345352400000,
+    "Updated": 1443589200000,
     "SingleFamily": {
       "Total": 2839,
       "NonUtil": 1297,
@@ -12348,15 +12060,5 @@
       "Sewer": 447,
       "Drain": 673
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   }
 ]

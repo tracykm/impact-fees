@@ -109,7 +109,7 @@
       }
     },
     {
-      "Updated": 1370062800000,
+      "Updated": 1433134800000,
       "SampleSize": 30,
       "SampleJurisdictions": [
         "Sedona",
@@ -144,74 +144,74 @@
         "Yuma"
       ],
       "SingleFamily": {
-        "Total": 10098.166666666666,
-        "NonUtil": 5249.333333333333,
-        "Fire": 598.9444444444445,
-        "Roads": 2648.32,
-        "GenGov": 662.4285714285714,
-        "Sewer": 3892.1,
-        "Library": 326.52941176470586,
-        "Parks": 1770.625,
-        "Drain": 513,
-        "Water": 4168.55,
-        "Police": 424.5652173913044,
-        "Other": 762
+        "Total": 10528.566666666668,
+        "NonUtil": 4673.37037037037,
+        "Fire": 529.625,
+        "Roads": 2536.8333333333335,
+        "GenGov": 531.4,
+        "Sewer": 4275.85,
+        "Library": 276.1,
+        "Parks": 1577.2608695652175,
+        "Drain": 473.5,
+        "Water": 4960,
+        "Police": 401.6842105263158,
+        "Other": 1091.5
       },
       "MultiFamily": {
-        "Total": 4874.2,
-        "NonUtil": 3880.5185185185187,
-        "Fire": 473.8888888888889,
-        "Roads": 1837.56,
-        "GenGov": 480.85714285714283,
-        "Sewer": 931.1,
-        "Library": 250.05882352941177,
-        "Parks": 1345.25,
-        "Drain": 221,
-        "Water": 1204.3,
-        "Police": 341.7391304347826,
-        "Other": 511
+        "Total": 4504.266666666666,
+        "NonUtil": 3403.4444444444443,
+        "Fire": 388.8125,
+        "Roads": 1755.2916666666667,
+        "GenGov": 332.8333333333333,
+        "Sewer": 1084.5,
+        "Library": 228.4,
+        "Parks": 1185.0434782608695,
+        "Drain": 206.5,
+        "Water": 1085.7142857142858,
+        "Police": 308.2631578947368,
+        "Other": 896.6
       },
       "Retail": {
-        "Total": 4917.206896551724,
-        "NonUtil": 5218.521739130435,
-        "Fire": 454.6470588235294,
-        "Roads": 4477.181818181818,
-        "GenGov": 469.57142857142856,
-        "Sewer": 513.7,
-        "Library": 29,
-        "Parks": 157.5,
-        "Drain": 238,
-        "Water": 584.5,
-        "Police": 448.3181818181818,
-        "Other": 406
+        "Total": 4351,
+        "NonUtil": 4022.695652173913,
+        "Fire": 386.46666666666664,
+        "Roads": 3684.0454545454545,
+        "GenGov": 274.8,
+        "Sewer": 535.3,
+        "Library": 84.75,
+        "Parks": 243.8,
+        "Drain": 155.5,
+        "Water": 610.4761904761905,
+        "Police": 506.1111111111111,
+        "Other": 559.25
       },
       "Office": {
-        "Total": 3042.7586206896553,
-        "NonUtil": 2847.1304347826085,
-        "Fire": 483.70588235294116,
-        "Roads": 2146.4545454545455,
-        "GenGov": 629.7142857142857,
-        "Sewer": 513.7,
-        "Library": 33,
-        "Parks": 240,
-        "Drain": 238,
-        "Water": 584.5,
-        "Police": 246.4090909090909,
-        "Other": 131
+        "Total": 3068.5862068965516,
+        "NonUtil": 2512.2608695652175,
+        "Fire": 451.6666666666667,
+        "Roads": 1960.090909090909,
+        "GenGov": 285.6,
+        "Sewer": 535.3,
+        "Library": 55.5,
+        "Parks": 697,
+        "Drain": 155.5,
+        "Water": 610.4761904761905,
+        "Police": 247.66666666666666,
+        "Other": 544.5
       },
       "Industrial": {
-        "Total": 2175.551724137931,
-        "NonUtil": 1817.695652173913,
-        "Fire": 351.4117647058824,
-        "Roads": 1234.5,
-        "GenGov": 424,
-        "Sewer": 513.7,
-        "Library": 26,
-        "Parks": 101,
-        "Drain": 238,
-        "Water": 584.5,
-        "Police": 185.6818181818182,
-        "Other": 81
+        "Total": 1932.7586206896551,
+        "NonUtil": 1409.1739130434783,
+        "Fire": 205,
+        "Roads": 1041.0454545454545,
+        "GenGov": 228.33333333333334,
+        "Sewer": 535.3,
+        "Library": 46.75,
+        "Parks": 122.33333333333333,
+        "Drain": 155.5,
+        "Water": 610.4761904761905,
+        "Police": 146.27777777777777,
+        "Other": 236
       }
     },
     {
@@ -1253,7 +1253,7 @@
       }
     },
     {
-      "Updated": 1370062800000,
+      "Updated": 1433134800000,
       "SampleSize": 4,
       "SampleJurisdictions": [
         "Bentonville",
@@ -1926,58 +1926,119 @@
     },
     {
       "Updated": 1433134800000,
-      "SampleSize": 1,
+      "SampleSize": 36,
       "SampleJurisdictions": [
-        "Scotts Valley"
+        "Davis",
+        "El Dorado Co",
+        "Lancaster",
+        "Sacramento",
+        "San Diego",
+        "Santa Cruz Co",
+        "Fremont",
+        "Livermore",
+        "San Leandro",
+        "Orinda",
+        "Clovis",
+        "Bakersfield",
+        "Long Beach",
+        "Salinas",
+        "St. Helena",
+        "Brea",
+        "Rocklin",
+        "Citrus Heights",
+        "Elk Grove",
+        "Highland",
+        "Redlands",
+        "Rialto",
+        "Carlsbad",
+        "Escondido",
+        "Lodi",
+        "Ripon",
+        "Paso Robles",
+        "San Luis Obispo",
+        "Carpinteria",
+        "Santa Maria",
+        "Gilroy",
+        "Palo Alto",
+        "Scotts Valley",
+        "Redding",
+        "Vacaville",
+        "Windsor"
       ],
       "SingleFamily": {
-        "Total": 23808,
-        "NonUtil": 17671,
-        "Roads": 5454,
-        "GenGov": 414,
-        "Sewer": 6137,
-        "Library": 811,
-        "Parks": 9685,
-        "Drain": 350,
-        "Police": 957
+        "Total": 31672.63888888889,
+        "NonUtil": 23547.88888888889,
+        "Fire": 953.375,
+        "Roads": 6412.972222222223,
+        "GenGov": 3106.5833333333335,
+        "Schools": 5629.764705882353,
+        "Sewer": 5836.8,
+        "Library": 770.9090909090909,
+        "Parks": 7785.242424242424,
+        "Drain": 1665.5217391304348,
+        "Water": 7328.55,
+        "Police": 760.8125,
+        "Other": 6414.722222222223
       },
       "MultiFamily": {
-        "Total": 14767,
-        "NonUtil": 10327,
-        "Roads": 3236,
-        "GenGov": 414,
-        "Sewer": 4440,
-        "Library": 704,
-        "Parks": 4841,
-        "Drain": 175,
-        "Police": 957
+        "Total": 19504.194444444445,
+        "NonUtil": 15623.111111111111,
+        "Fire": 656.875,
+        "Roads": 4207.472222222223,
+        "GenGov": 2284,
+        "Schools": 2745.9375,
+        "Sewer": 3685.84,
+        "Library": 610.5454545454545,
+        "Parks": 5793.121212121212,
+        "Drain": 981.6363636363636,
+        "Water": 2378.65,
+        "Police": 568.1875,
+        "Other": 4189.555555555556
       },
       "Retail": {
-        "Total": 15526,
-        "NonUtil": 15526,
-        "Roads": 10840,
-        "GenGov": 167,
-        "Sewer": 982,
-        "Drain": 175,
-        "Police": 3362
+        "Total": 15835.666666666666,
+        "NonUtil": 14527.75,
+        "Fire": 571.1875,
+        "Roads": 10323.388888888889,
+        "GenGov": 1117.608695652174,
+        "Schools": 460.7692307692308,
+        "Sewer": 1339.4166666666667,
+        "Library": 175.66666666666666,
+        "Parks": 1158.4166666666667,
+        "Drain": 1240.391304347826,
+        "Water": 1450.9444444444443,
+        "Police": 609.75,
+        "Other": 2743.0588235294117
       },
       "Office": {
-        "Total": 14182,
-        "NonUtil": 14182,
-        "Roads": 10840,
-        "GenGov": 167,
-        "Sewer": 982,
-        "Drain": 175,
-        "Police": 2017
+        "Total": 11725.805555555555,
+        "NonUtil": 10598.944444444445,
+        "Fire": 572.9375,
+        "Roads": 6500.277777777777,
+        "GenGov": 1319,
+        "Schools": 460.7692307692308,
+        "Sewer": 1265.6666666666667,
+        "Library": 189,
+        "Parks": 1265.1666666666667,
+        "Drain": 937.5652173913044,
+        "Water": 1213.1666666666667,
+        "Police": 527.375,
+        "Other": 2627
       },
       "Industrial": {
-        "Total": 11141,
-        "NonUtil": 11141,
-        "Roads": 6460,
-        "GenGov": 161,
-        "Sewer": 982,
-        "Drain": 175,
-        "Police": 3362
+        "Total": 8273.722222222223,
+        "NonUtil": 7027.416666666667,
+        "Fire": 321.1875,
+        "Roads": 3500.25,
+        "GenGov": 754.695652173913,
+        "Schools": 460.7692307692308,
+        "Sewer": 1284.4583333333333,
+        "Library": 155.66666666666666,
+        "Parks": 844.1666666666666,
+        "Drain": 1377.909090909091,
+        "Water": 1340.9444444444443,
+        "Police": 397.4375,
+        "Other": 2418.8823529411766
       }
     },
     {
@@ -2310,7 +2371,7 @@
         "Sewer": 1632.6666666666667,
         "Library": 169.33333333333334,
         "Parks": 1348.6666666666667,
-        "Drain": 894.3418972272727,
+        "Drain": 894.3418972332015,
         "Water": 1002.7368421052631,
         "Police": 478.2142857142857,
         "Other": 2022.7142857142858
@@ -3147,81 +3208,159 @@
       }
     },
     {
-      "Updated": 1401598800000,
-      "SampleSize": 6,
+      "Updated": 1433134800000,
+      "SampleSize": 15,
       "SampleJurisdictions": [
+        "Adams Co",
+        "Commerce City",
         "Boulder",
+        "Eagle Co",
+        "Basalt",
+        "Colorado Springs",
+        "Jefferson Co",
         "Larimer Co",
-        "Ft. Collins",
         "Weld Co",
         "Windsor",
-        "Greeley"
+        "Durango",
+        "Mesa Co",
+        "Pitkin Co",
+        "Greeley",
+        "Canon City"
       ],
       "SingleFamily": {
-        "Total": 17737.833333333332,
-        "NonUtil": 8585.333333333334,
-        "Fire": 289,
-        "Roads": 2553,
-        "GenGov": 510.6666666666667,
-        "Schools": 1518.5,
-        "Sewer": 4215.75,
-        "Library": 459,
-        "Parks": 3509.8,
-        "Drain": 2334,
-        "Water": 9513,
-        "Police": 206.66666666666666,
-        "Other": 460
+        "Total": 11094.533333333333,
+        "NonUtil": 6124.4,
+        "Fire": 899.25,
+        "Roads": 2682.3846153846152,
+        "GenGov": 554.5,
+        "Schools": 1070.6666666666667,
+        "Sewer": 3342.2,
+        "Library": 474,
+        "Parks": 3058.6666666666665,
+        "Drain": 2001.3333333333333,
+        "Water": 8263,
+        "Police": 210.5,
+        "Other": 1811.3333333333333
       },
       "MultiFamily": {
-        "Total": 9388.666666666666,
-        "NonUtil": 6106.666666666667,
-        "Fire": 269,
-        "Roads": 1779.1666666666667,
-        "GenGov": 409,
-        "Schools": 1196,
-        "Sewer": 1534.5,
-        "Library": 378,
-        "Parks": 2949,
-        "Drain": 1136.6,
-        "Water": 3388.5,
-        "Police": 167.66666666666666,
-        "Other": 230
+        "Total": 5844.6,
+        "NonUtil": 3879.0666666666666,
+        "Fire": 532,
+        "Roads": 1886.3846153846155,
+        "GenGov": 428,
+        "Schools": 592,
+        "Sewer": 1165.6,
+        "Library": 390,
+        "Parks": 1970,
+        "Drain": 966.1666666666666,
+        "Water": 3942.5,
+        "Police": 169.5,
+        "Other": 957
       },
       "Retail": {
-        "Total": 9275.333333333334,
-        "NonUtil": 7789.833333333333,
-        "Fire": 387.6666666666667,
-        "Roads": 6015,
-        "GenGov": 438.6666666666667,
-        "Sewer": 733.75,
-        "Drain": 1372,
-        "Water": 1494.5,
-        "Police": 270,
-        "Other": 500
+        "Total": 7592.933333333333,
+        "NonUtil": 6991.066666666667,
+        "Fire": 454.75,
+        "Roads": 4679.153846153846,
+        "GenGov": 388.5,
+        "Sewer": 408.8,
+        "Parks": 2680,
+        "Drain": 1158.8333333333333,
+        "Water": 1164,
+        "Police": 321.5,
+        "Other": 9495
       },
       "Office": {
-        "Total": 6286.333333333333,
-        "NonUtil": 4800.833333333333,
-        "Fire": 495.6666666666667,
-        "Roads": 3238.1666666666665,
-        "GenGov": 354.6666666666667,
-        "Sewer": 733.75,
-        "Drain": 1183.2,
-        "Water": 1494.5,
-        "Police": 136.33333333333334,
-        "Other": 500
+        "Total": 6951.4,
+        "NonUtil": 6326.533333333334,
+        "Fire": 417.25,
+        "Roads": 2991.5384615384614,
+        "GenGov": 263.5,
+        "Sewer": 408.8,
+        "Parks": 2428,
+        "Drain": 987.5,
+        "Water": 1221.5,
+        "Police": 118.5,
+        "Other": 14264.666666666666
       },
       "Industrial": {
-        "Total": 5052.166666666667,
-        "NonUtil": 3566.6666666666665,
-        "Fire": 181.33333333333334,
-        "Roads": 2188.1666666666665,
-        "GenGov": 136.66666666666666,
-        "Sewer": 733.75,
-        "Drain": 1335.2,
-        "Water": 1494.5,
-        "Police": 47,
-        "Other": 500
+        "Total": 3969.2,
+        "NonUtil": 3378.8,
+        "Fire": 244.25,
+        "Roads": 1859.6923076923076,
+        "GenGov": 139.5,
+        "Sewer": 408.8,
+        "Parks": 2680,
+        "Drain": 1128.1666666666667,
+        "Water": 1135.3333333333333,
+        "Police": 43.5,
+        "Other": 4344.666666666667
+      }
+    },
+    {
+      "Updated": 1401598800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Ft. Collins"
+      ],
+      "SingleFamily": {
+        "Total": 18249,
+        "NonUtil": 11239,
+        "Fire": 383,
+        "Roads": 3396,
+        "GenGov": 455,
+        "Schools": 1546,
+        "Sewer": 3090,
+        "Parks": 3313,
+        "Drain": 1954,
+        "Water": 3920,
+        "Police": 192
+      },
+      "MultiFamily": {
+        "Total": 11603,
+        "NonUtil": 7685,
+        "Fire": 333,
+        "Roads": 2360,
+        "GenGov": 395,
+        "Schools": 901,
+        "Sewer": 2470,
+        "Parks": 2878,
+        "Drain": 651,
+        "Water": 1448,
+        "Police": 167
+      },
+      "Retail": {
+        "Total": 15412,
+        "NonUtil": 13244,
+        "Fire": 284,
+        "Roads": 11048,
+        "GenGov": 556,
+        "Sewer": 1048,
+        "Drain": 1196,
+        "Water": 1120,
+        "Police": 160
+      },
+      "Office": {
+        "Total": 7917,
+        "NonUtil": 5749,
+        "Fire": 284,
+        "Roads": 4031,
+        "GenGov": 556,
+        "Sewer": 1048,
+        "Drain": 718,
+        "Water": 1120,
+        "Police": 160
+      },
+      "Industrial": {
+        "Total": 6072,
+        "NonUtil": 3904,
+        "Fire": 71,
+        "Roads": 2461,
+        "GenGov": 135,
+        "Sewer": 1048,
+        "Drain": 1196,
+        "Water": 1120,
+        "Police": 41
       }
     },
     {
@@ -3247,72 +3386,72 @@
         "Canon City"
       ],
       "SingleFamily": {
-        "Total": 11372.764705882353,
-        "NonUtil": 7084.411764705882,
-        "Fire": 712.5,
-        "Roads": 2557.133333333333,
-        "GenGov": 589.25,
+        "Total": 11352.29411764706,
+        "NonUtil": 7063.941176470588,
+        "Fire": 709.6666666666666,
+        "Roads": 2521.3333333333335,
+        "GenGov": 583.75,
         "Schools": 1313,
         "Sewer": 2870.6666666666665,
-        "Library": 830,
-        "Parks": 3646.4545454545455,
+        "Library": 733.3333333333334,
+        "Parks": 3619.090909090909,
         "Drain": 1516,
         "Water": 6803.5,
-        "Police": 378,
+        "Police": 375.25,
         "Other": 1893.6
       },
       "MultiFamily": {
-        "Total": 7057.705882352941,
-        "NonUtil": 4857.588235294118,
-        "Fire": 456,
-        "Roads": 1811.4666666666667,
-        "GenGov": 491.75,
+        "Total": 7044,
+        "NonUtil": 4843.882352941177,
+        "Fire": 453.8333333333333,
+        "Roads": 1786.7333333333333,
+        "GenGov": 487.75,
         "Schools": 736.7777777777778,
         "Sewer": 1623.5,
-        "Library": 743,
-        "Parks": 2561.909090909091,
+        "Library": 628.6666666666666,
+        "Parks": 2541.5454545454545,
         "Drain": 713.625,
         "Water": 3951.5714285714284,
-        "Police": 327.25,
+        "Police": 325,
         "Other": 1477.6
       },
       "Retail": {
-        "Total": 7338.470588235294,
-        "NonUtil": 6657.235294117647,
-        "Fire": 358.6666666666667,
-        "Roads": 4648.666666666667,
-        "GenGov": 350,
+        "Total": 7770.941176470588,
+        "NonUtil": 7089.705882352941,
+        "Fire": 355.6666666666667,
+        "Roads": 5142.266666666666,
+        "GenGov": 344.75,
         "Sewer": 643.6,
         "Parks": 2680,
         "Drain": 829.875,
         "Water": 1394,
-        "Police": 289.25,
+        "Police": 286,
         "Other": 8911.666666666666
       },
       "Office": {
-        "Total": 6556.764705882353,
-        "NonUtil": 5855.235294117647,
-        "Fire": 379.3333333333333,
-        "Roads": 2951.9333333333334,
-        "GenGov": 273.5,
+        "Total": 6517.823529411765,
+        "NonUtil": 5816.294117647059,
+        "Fire": 376.3333333333333,
+        "Roads": 2911.266666666667,
+        "GenGov": 268.25,
         "Sewer": 643.6,
         "Parks": 2428,
         "Drain": 694.25,
         "Water": 1451.5,
-        "Police": 269,
+        "Police": 265.75,
         "Other": 13468
       },
       "Industrial": {
-        "Total": 3808.235294117647,
-        "NonUtil": 3137.1176470588234,
-        "Fire": 272.1666666666667,
-        "Roads": 1812.6666666666667,
-        "GenGov": 100.5,
+        "Total": 3785.5882352941176,
+        "NonUtil": 3114.470588235294,
+        "Fire": 271.3333333333333,
+        "Roads": 1788,
+        "GenGov": 99,
         "Sewer": 643.6,
         "Parks": 2680,
         "Drain": 818.625,
         "Water": 1365.3333333333333,
-        "Police": 145.75,
+        "Police": 144.75,
         "Other": 3871.3333333333335
       }
     },
@@ -4154,6 +4293,57 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "New Castle Co"
+      ],
+      "SingleFamily": {
+        "Total": 9321,
+        "NonUtil": 1157,
+        "Fire": 517,
+        "GenGov": 112,
+        "Sewer": 8164,
+        "Library": 138,
+        "Parks": 328,
+        "Police": 62
+      },
+      "MultiFamily": {
+        "Total": 6025,
+        "NonUtil": 762,
+        "Fire": 322,
+        "GenGov": 77,
+        "Sewer": 5263,
+        "Library": 95,
+        "Parks": 225,
+        "Police": 43
+      },
+      "Retail": {
+        "Total": 1603,
+        "NonUtil": 297,
+        "Fire": 169,
+        "GenGov": 95,
+        "Sewer": 1306,
+        "Police": 33
+      },
+      "Office": {
+        "Total": 1759,
+        "NonUtil": 453,
+        "Fire": 297,
+        "GenGov": 142,
+        "Sewer": 1306,
+        "Police": 14
+      },
+      "Industrial": {
+        "Total": 1578,
+        "NonUtil": 272,
+        "Fire": 177,
+        "GenGov": 88,
+        "Sewer": 1306,
+        "Police": 7
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 1,
       "SampleJurisdictions": [
@@ -4731,86 +4921,110 @@
     },
     {
       "Updated": 1433134800000,
-      "SampleSize": 9,
+      "SampleSize": 29,
       "SampleJurisdictions": [
         "Collier Co",
+        "Miami/Dade Co",
+        "Hernando Co",
         "Indian River Co",
         "Lake Co",
         "Lee Co",
+        "Martin Co",
+        "Orlando",
+        "Osceola Co",
+        "Palm Beach Co",
+        "Palm Beach Gardens",
+        "Pasco Co",
+        "Pinellas Co",
         "Polk Co",
+        "Lakeland",
+        "St. Johns Co",
+        "St. Lucie Co",
         "Sarasota Co",
+        "Volusia Co",
         "Brevard Co",
+        "Sumter Co",
+        "Daytona Beach",
+        "Deland",
+        "Deltona",
+        "Ormond Beach",
+        "Port Orange",
         "Charlotte Co",
-        "Nassau Co"
+        "Nassau Co",
+        "Destin"
       ],
       "SingleFamily": {
-        "Total": 8903.333333333334,
-        "NonUtil": 7807.111111111111,
-        "Fire": 351.375,
-        "Roads": 3327.1428571428573,
-        "GenGov": 416.8,
-        "Schools": 4169.714285714285,
-        "Sewer": 2273,
-        "Library": 209.6,
-        "Parks": 1267,
-        "Water": 2660,
-        "Police": 295,
-        "Other": 500
+        "Total": 9515.068965517241,
+        "NonUtil": 8296.068965517241,
+        "Fire": 323.42857142857144,
+        "Roads": 3441.8333333333335,
+        "GenGov": 407.8181818181818,
+        "Schools": 5019.782608695652,
+        "Sewer": 2239,
+        "Library": 206.58333333333334,
+        "Parks": 1250.3181818181818,
+        "Drain": 69,
+        "Water": 1643.5,
+        "Police": 265.26666666666665,
+        "Other": 376.75
       },
       "MultiFamily": {
-        "Total": 5615,
-        "NonUtil": 4677.111111111111,
-        "Fire": 220.5,
-        "Roads": 2258.1428571428573,
-        "GenGov": 244.4,
-        "Schools": 2175.1428571428573,
-        "Sewer": 1968.5,
-        "Library": 133.8,
-        "Parks": 783.2857142857143,
-        "Water": 2252,
-        "Police": 176,
-        "Other": 347.6666666666667
+        "Total": 6922.517241379311,
+        "NonUtil": 6141.206896551724,
+        "Fire": 230.66666666666666,
+        "Roads": 2544.0833333333335,
+        "GenGov": 281.90909090909093,
+        "Schools": 3563.2608695652175,
+        "Sewer": 1655.875,
+        "Library": 151.5,
+        "Parks": 920.695652173913,
+        "Drain": 21,
+        "Water": 1176.375,
+        "Police": 204.93333333333334,
+        "Other": 262
       },
       "Retail": {
-        "Total": 5276.625,
-        "NonUtil": 5055.5,
-        "Fire": 488.375,
-        "Roads": 4352.714285714285,
-        "GenGov": 483.6,
-        "Sewer": 404,
-        "Water": 480,
-        "Police": 383.2,
-        "Other": 578
+        "Total": 6185,
+        "NonUtil": 5976.892857142857,
+        "Fire": 397.1578947368421,
+        "Roads": 5599.5,
+        "GenGov": 581.1666666666666,
+        "Sewer": 495,
+        "Drain": 76,
+        "Water": 337.42857142857144,
+        "Police": 361.73333333333335,
+        "Other": 436
       },
       "Office": {
-        "Total": 3620.875,
-        "NonUtil": 3399.875,
-        "Fire": 350.75,
-        "Roads": 3087.5714285714284,
-        "GenGov": 228.2,
-        "Sewer": 404,
-        "Water": 480,
-        "Police": 181.8,
-        "Other": 243.33333333333334
+        "Total": 3473.964285714286,
+        "NonUtil": 3265.8928571428573,
+        "Fire": 239,
+        "Roads": 3078.8846153846152,
+        "GenGov": 264.75,
+        "Sewer": 495,
+        "Drain": 62,
+        "Water": 337.42857142857144,
+        "Police": 176,
+        "Other": 183.75
       },
       "Industrial": {
-        "Total": 2071.125,
-        "NonUtil": 1850.125,
-        "Fire": 163.42857142857142,
-        "Roads": 1740.142857142857,
-        "GenGov": 144.5,
-        "Sewer": 404,
-        "Water": 480,
-        "Police": 109.5,
-        "Other": 153.33333333333334
+        "Total": 1961.2857142857142,
+        "NonUtil": 1753.2142857142858,
+        "Fire": 184.26315789473685,
+        "Roads": 1625.8846153846155,
+        "GenGov": 137.36363636363637,
+        "Sewer": 495,
+        "Drain": 69,
+        "Water": 337.42857142857144,
+        "Police": 90.92857142857143,
+        "Other": 115.75
       }
     },
     {
       "Updated": 1401598800000,
-      "SampleSize": 21,
+      "SampleSize": 20,
       "SampleJurisdictions": [
         "Broward Co",
-        "Citrus Co",
         "Clay Co",
         "Hillsborough Co",
         "Tampa",
@@ -4832,151 +5046,119 @@
         "Alachua Co"
       ],
       "SingleFamily": {
-        "Total": 8214.380952380952,
-        "NonUtil": 6615.571428571428,
-        "Fire": 249.8125,
-        "Roads": 3369.3846153846152,
-        "GenGov": 309,
-        "Schools": 3737.5555555555557,
+        "Total": 8482.4,
+        "NonUtil": 6803.65,
+        "Fire": 240.26666666666668,
+        "Roads": 3697.25,
+        "GenGov": 331.5,
+        "Schools": 3843.529411764706,
         "Sewer": 2827.5714285714284,
-        "Library": 189.28571428571428,
-        "Parks": 1222.3333333333333,
+        "Library": 181.16666666666666,
+        "Parks": 1202.4666666666667,
         "Water": 1722.75,
-        "Police": 333.85714285714283,
+        "Police": 341.1666666666667,
         "Other": 232
       },
       "MultiFamily": {
-        "Total": 4843,
-        "NonUtil": 4051.4761904761904,
-        "Fire": 192.125,
-        "Roads": 2208.6153846153848,
-        "GenGov": 220,
-        "Schools": 2029.9444444444443,
+        "Total": 4979.65,
+        "NonUtil": 4148.55,
+        "Fire": 185.2,
+        "Roads": 2447.0833333333335,
+        "GenGov": 231,
+        "Schools": 2048.470588235294,
         "Sewer": 1681,
-        "Library": 146.71428571428572,
-        "Parks": 835.0666666666667,
+        "Library": 141.33333333333334,
+        "Parks": 824.6,
         "Water": 933.7142857142857,
-        "Police": 258.7142857142857,
+        "Police": 265.5,
         "Other": 183
       },
       "Retail": {
-        "Total": 5270.277777777777,
-        "NonUtil": 4988.611111111111,
-        "Fire": 243.4375,
-        "Roads": 6295.846153846154,
-        "GenGov": 356,
+        "Total": 5728.882352941177,
+        "NonUtil": 5430.64705882353,
+        "Fire": 229.33333333333334,
+        "Roads": 7122.25,
+        "GenGov": 381.5,
         "Sewer": 515.5,
         "Water": 282.57142857142856,
-        "Police": 430.8333333333333,
+        "Police": 450,
         "Other": 100
       },
       "Office": {
-        "Total": 3003.5555555555557,
-        "NonUtil": 2688.5,
-        "Fire": 154.125,
-        "Roads": 3352,
-        "GenGov": 159.33333333333334,
+        "Total": 3219.8823529411766,
+        "NonUtil": 2886.294117647059,
+        "Fire": 149.33333333333334,
+        "Roads": 3732.75,
+        "GenGov": 163.5,
         "Sewer": 590.5,
         "Water": 304,
-        "Police": 289.3333333333333,
+        "Police": 314,
         "Other": 34
       },
       "Industrial": {
-        "Total": 2018.4444444444443,
-        "NonUtil": 1703.388888888889,
-        "Fire": 100.5,
-        "Roads": 2132.3846153846152,
-        "GenGov": 111.33333333333333,
+        "Total": 2197.8823529411766,
+        "NonUtil": 1864.2941176470588,
+        "Fire": 101.2,
+        "Roads": 2414.0833333333335,
+        "GenGov": 137,
         "Sewer": 590.5,
         "Water": 304,
-        "Police": 143.5,
+        "Police": 159,
         "Other": 34
       }
     },
     {
       "Updated": 1370062800000,
-      "SampleSize": 14,
+      "SampleSize": 2,
       "SampleJurisdictions": [
-        "Miami/Dade Co",
-        "Hernando Co",
-        "Indian River Co",
-        "Martin Co",
         "Orange Co.",
-        "Osceola Co",
-        "Palm Beach Co",
-        "Pasco Co",
-        "Pinellas Co",
-        "St. Johns Co",
-        "St. Lucie Co",
-        "Seminole Co",
-        "Volusia Co",
-        "Sumter Co"
+        "Seminole Co"
       ],
       "SingleFamily": {
-        "Total": 9218.07142857143,
-        "NonUtil": 8886.42857142857,
-        "Fire": 356.5833333333333,
-        "Roads": 3867.4166666666665,
-        "GenGov": 439.4,
-        "Schools": 4992.727272727273,
-        "Sewer": 2730,
-        "Library": 247.71428571428572,
-        "Parks": 1142.4545454545455,
-        "Water": 956.5,
-        "Police": 287.125,
-        "Other": 7
+        "Total": 8606.5,
+        "NonUtil": 8606.5,
+        "Fire": 221,
+        "Roads": 1974.5,
+        "Schools": 5762.5,
+        "Library": 54,
+        "Parks": 972,
+        "Police": 271
       },
       "MultiFamily": {
-        "Total": 6489,
-        "NonUtil": 6325.428571428572,
-        "Fire": 263.0833333333333,
-        "Roads": 2800.923076923077,
-        "GenGov": 344,
-        "Schools": 3206.090909090909,
-        "Sewer": 1345,
-        "Library": 186.71428571428572,
-        "Parks": 815.1818181818181,
-        "Water": 472.5,
-        "Police": 215.125,
-        "Other": 5
+        "Total": 5021.5,
+        "NonUtil": 5021.5,
+        "Fire": 184.5,
+        "Roads": 1289,
+        "Schools": 3010.5,
+        "Library": 54,
+        "Parks": 702,
+        "Police": 319
       },
       "Retail": {
-        "Total": 5167.214285714285,
-        "NonUtil": 5117.214285714285,
-        "Fire": 367.09090909090907,
-        "Roads": 5143.75,
-        "GenGov": 626.4,
-        "Sewer": 410,
-        "Water": 145,
-        "Police": 342,
-        "Other": 10
+        "Total": 3900,
+        "NonUtil": 3900,
+        "Fire": 228.5,
+        "Roads": 3424.5,
+        "Police": 494
       },
       "Office": {
-        "Total": 2868.5714285714284,
-        "NonUtil": 2818.5714285714284,
-        "Fire": 205.54545454545453,
-        "Roads": 2850.6666666666665,
-        "GenGov": 314,
-        "Sewer": 410,
-        "Water": 145,
-        "Police": 177,
-        "Other": 5
+        "Total": 2603.5,
+        "NonUtil": 2603.5,
+        "Fire": 94.5,
+        "Roads": 2454.5,
+        "Police": 109
       },
       "Industrial": {
-        "Total": 1671.4285714285713,
-        "NonUtil": 1621.4285714285713,
-        "Fire": 212.54545454545453,
-        "Roads": 1572.0833333333333,
-        "GenGov": 132.4,
-        "Sewer": 410,
-        "Water": 145,
-        "Police": 104,
-        "Other": 3
+        "Total": 1279,
+        "NonUtil": 1279,
+        "Fire": 28,
+        "Roads": 1192,
+        "Police": 118
       }
     },
     {
       "Updated": 1338526800000,
-      "SampleSize": 57,
+      "SampleSize": 58,
       "SampleJurisdictions": [
         "Broward Co",
         "Citrus Co",
@@ -4985,6 +5167,7 @@
         "Miami/Dade Co",
         "Hillsborough Co",
         "Tampa",
+        "Indian River Co",
         "Lake Co",
         "Lee Co",
         "Lee Co",
@@ -5037,69 +5220,69 @@
         "Alachua Co"
       ],
       "SingleFamily": {
-        "Total": 9002.543859649122,
-        "NonUtil": 7583.857142857143,
-        "Fire": 370.875,
-        "Roads": 3409.025,
+        "Total": 9026.879310344828,
+        "NonUtil": 7719.3448275862065,
+        "Fire": 368.609756097561,
+        "Roads": 3387.6666666666665,
         "GenGov": 401.46153846153845,
-        "Schools": 4688.978260869565,
+        "Schools": 4626.574468085107,
         "Sewer": 2592.375,
-        "Library": 212.35,
-        "Parks": 1425.8461538461538,
+        "Library": 225.23809523809524,
+        "Parks": 1398.5121951219512,
         "Drain": 69,
         "Water": 1670.4444444444443,
-        "Police": 282.36,
+        "Police": 280.9230769230769,
         "Other": 313.5
       },
       "MultiFamily": {
-        "Total": 5938.894736842105,
-        "NonUtil": 5191.666666666667,
-        "Fire": 266.375,
-        "Roads": 2411.048780487805,
+        "Total": 5940.793103448276,
+        "NonUtil": 5206.448275862069,
+        "Fire": 264.1707317073171,
+        "Roads": 2387.9302325581393,
         "GenGov": 311.75,
-        "Schools": 2901.6666666666665,
+        "Schools": 2849.4565217391305,
         "Sewer": 1696.9333333333334,
-        "Library": 166.4,
-        "Parks": 1039.575,
+        "Library": 172.04761904761904,
+        "Parks": 1016.547619047619,
         "Drain": 21,
         "Water": 1008.1176470588235,
-        "Police": 223.04166666666666,
+        "Police": 220.04,
         "Other": 227.125
       },
       "Retail": {
-        "Total": 5423.634615384615,
-        "NonUtil": 5170.0192307692305,
-        "Fire": 374.2682926829268,
-        "Roads": 5420.302325581395,
+        "Total": 5335.7962962962965,
+        "NonUtil": 5091.574074074074,
+        "Fire": 377.3333333333333,
+        "Roads": 5294.066666666667,
         "GenGov": 516.5714285714286,
         "Sewer": 575.0714285714286,
         "Drain": 76,
         "Water": 321.125,
-        "Police": 345.08,
+        "Police": 348.7692307692308,
         "Other": 561
       },
       "Office": {
-        "Total": 3186.1923076923076,
-        "NonUtil": 2921.019230769231,
-        "Fire": 258.4146341463415,
-        "Roads": 3012.1627906976746,
+        "Total": 3174.8518518518517,
+        "NonUtil": 2919.5,
+        "Fire": 258.1190476190476,
+        "Roads": 2996.0222222222224,
         "GenGov": 250.78571428571428,
         "Sewer": 607.2142857142857,
         "Drain": 62,
         "Water": 330.5,
-        "Police": 211.24,
+        "Police": 211.42307692307693,
         "Other": 365
       },
       "Industrial": {
-        "Total": 2131.269230769231,
-        "NonUtil": 1866.0961538461538,
-        "Fire": 202.0731707317073,
-        "Roads": 1877.953488372093,
+        "Total": 2115.722222222222,
+        "NonUtil": 1860.3703703703704,
+        "Fire": 200.11904761904762,
+        "Roads": 1865.5555555555557,
         "GenGov": 157.28571428571428,
         "Sewer": 607.2142857142857,
         "Drain": 69,
         "Water": 330.5,
-        "Police": 123.12,
+        "Police": 122.42307692307692,
         "Other": 331.25
       }
     },
@@ -5294,12 +5477,12 @@
         "Alachua Co"
       ],
       "SingleFamily": {
-        "Total": 10290.816666666668,
-        "NonUtil": 8973.75,
+        "Total": 10277.2,
+        "NonUtil": 8960.133333333333,
         "Fire": 342.7083333333333,
         "Roads": 3601.4347826086955,
         "GenGov": 415.7647058823529,
-        "Schools": 5201.547169811321,
+        "Schools": 5285.865384615385,
         "Sewer": 2596.5625,
         "Library": 222,
         "Parks": 1331.608695652174,
@@ -5309,12 +5492,12 @@
         "Other": 282.2
       },
       "MultiFamily": {
-        "Total": 6720.916666666667,
-        "NonUtil": 5958.733333333334,
+        "Total": 6713.983333333334,
+        "NonUtil": 5951.8,
         "Fire": 265.8085106382979,
         "Roads": 2508.108695652174,
         "GenGov": 312.6875,
-        "Schools": 3204.7115384615386,
+        "Schools": 3259.392156862745,
         "Sewer": 1637.5,
         "Library": 173.625,
         "Parks": 983.3260869565217,
@@ -6223,49 +6406,61 @@
     },
     {
       "Updated": 1433134800000,
-      "SampleSize": 1,
+      "SampleSize": 6,
       "SampleJurisdictions": [
-        "Atlanta"
+        "Canton",
+        "Roswell",
+        "Atlanta",
+        "Cherokee Co",
+        "Forsyth Co",
+        "Alpharetta"
       ],
       "SingleFamily": {
-        "Total": 1544,
-        "NonUtil": 1544,
-        "Fire": 114,
-        "Roads": 987,
-        "Parks": 410,
-        "Police": 33
+        "Total": 2110.5,
+        "NonUtil": 2110.5,
+        "Fire": 391.8333333333333,
+        "Roads": 1196.4,
+        "Library": 198.5,
+        "Parks": 580,
+        "Police": 129,
+        "Other": 66
       },
       "MultiFamily": {
-        "Total": 992,
-        "NonUtil": 992,
-        "Fire": 158,
-        "Roads": 470,
-        "Parks": 285,
-        "Police": 79
+        "Total": 1398,
+        "NonUtil": 1398,
+        "Fire": 274.8333333333333,
+        "Roads": 775.2,
+        "Library": 169.5,
+        "Parks": 358.8333333333333,
+        "Police": 110,
+        "Other": 41
       },
       "Retail": {
-        "Total": 1983,
-        "NonUtil": 1983,
-        "Fire": 163,
-        "Roads": 1189,
-        "Parks": 584,
-        "Police": 47
+        "Total": 2273,
+        "NonUtil": 2273,
+        "Fire": 230.16666666666666,
+        "Roads": 2234.8,
+        "Parks": 257,
+        "Police": 86,
+        "Other": 55
       },
       "Office": {
-        "Total": 1935,
-        "NonUtil": 1935,
-        "Fire": 67,
-        "Roads": 1608,
-        "Parks": 241,
-        "Police": 19
+        "Total": 1326.3333333333333,
+        "NonUtil": 1326.3333333333333,
+        "Fire": 248.33333333333334,
+        "Roads": 1123,
+        "Parks": 142.66666666666666,
+        "Police": 132,
+        "Other": 30
       },
       "Industrial": {
-        "Total": 1255,
-        "NonUtil": 1255,
-        "Fire": 47,
-        "Roads": 1025,
-        "Parks": 169,
-        "Police": 14
+        "Total": 795.8333333333334,
+        "NonUtil": 795.8333333333334,
+        "Fire": 195.66666666666666,
+        "Roads": 587.2,
+        "Parks": 118.66666666666667,
+        "Police": 96.66666666666667,
+        "Other": 20
       }
     },
     {
@@ -6926,6 +7121,38 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Honolulu"
+      ],
+      "SingleFamily": {
+        "Total": 1836,
+        "NonUtil": 1836,
+        "Roads": 1836
+      },
+      "MultiFamily": {
+        "Total": 1245,
+        "NonUtil": 1245,
+        "Roads": 1245
+      },
+      "Retail": {
+        "Total": 4053,
+        "NonUtil": 4053,
+        "Roads": 4053
+      },
+      "Office": {
+        "Total": 3403,
+        "NonUtil": 3403,
+        "Roads": 3403
+      },
+      "Industrial": {
+        "Total": 2019,
+        "NonUtil": 2019,
+        "Roads": 2019
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 1,
       "SampleJurisdictions": [
@@ -7172,6 +7399,61 @@
         "Sewer": 822,
         "Water": 338,
         "Police": 118
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 2,
+      "SampleJurisdictions": [
+        "Boise",
+        "Post Falls"
+      ],
+      "SingleFamily": {
+        "Total": 8143.5,
+        "NonUtil": 3866.5,
+        "Fire": 515,
+        "Roads": 1996,
+        "Sewer": 5917,
+        "Parks": 1371.5,
+        "Water": 2637,
+        "Police": 241.5
+      },
+      "MultiFamily": {
+        "Total": 5598.5,
+        "NonUtil": 3058.5,
+        "Fire": 515,
+        "Roads": 1341.5,
+        "Sewer": 4659,
+        "Parks": 1232.5,
+        "Water": 421,
+        "Police": 227
+      },
+      "Retail": {
+        "Total": 5245,
+        "NonUtil": 4652,
+        "Fire": 210,
+        "Roads": 4162,
+        "Sewer": 947,
+        "Water": 239,
+        "Police": 385
+      },
+      "Office": {
+        "Total": 3436,
+        "NonUtil": 2843,
+        "Fire": 210,
+        "Roads": 2583,
+        "Sewer": 947,
+        "Water": 239,
+        "Police": 155
+      },
+      "Industrial": {
+        "Total": 2482.5,
+        "NonUtil": 1889.5,
+        "Fire": 210,
+        "Roads": 1674.5,
+        "Sewer": 947,
+        "Water": 239,
+        "Police": 110
       }
     },
     {
@@ -7693,6 +7975,44 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 3,
+      "SampleJurisdictions": [
+        "DeKalb (city)",
+        "DuPage County",
+        "Kane County"
+      ],
+      "SingleFamily": {
+        "Total": 2362.6666666666665,
+        "NonUtil": 2362.6666666666665,
+        "Roads": 1233,
+        "Schools": 1187,
+        "Parks": 3435
+      },
+      "MultiFamily": {
+        "Total": 1267.6666666666667,
+        "NonUtil": 1267.6666666666667,
+        "Roads": 847.5,
+        "Schools": 201,
+        "Parks": 1907
+      },
+      "Retail": {
+        "Total": 2664.5,
+        "NonUtil": 2664.5,
+        "Roads": 2664.5
+      },
+      "Office": {
+        "Total": 2415.5,
+        "NonUtil": 2415.5,
+        "Roads": 2415.5
+      },
+      "Industrial": {
+        "Total": 1409,
+        "NonUtil": 1409,
+        "Roads": 1409
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 3,
       "SampleJurisdictions": [
@@ -8053,6 +8373,46 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 2,
+      "SampleJurisdictions": [
+        "Fishers",
+        "Noblesville"
+      ],
+      "SingleFamily": {
+        "Total": 5406.5,
+        "NonUtil": 2849,
+        "Roads": 1664,
+        "Sewer": 2557.5,
+        "Parks": 1185
+      },
+      "MultiFamily": {
+        "Total": 4413.5,
+        "NonUtil": 2216,
+        "Roads": 1155.5,
+        "Sewer": 2197.5,
+        "Parks": 1060.5
+      },
+      "Retail": {
+        "Total": 6923.5,
+        "NonUtil": 5922,
+        "Roads": 5922,
+        "Sewer": 1001
+      },
+      "Office": {
+        "Total": 2428,
+        "NonUtil": 1910.5,
+        "Roads": 1910.5,
+        "Sewer": 517
+      },
+      "Industrial": {
+        "Total": 1491.5,
+        "NonUtil": 1209.5,
+        "Roads": 1209.5,
+        "Sewer": 282
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 2,
       "SampleJurisdictions": [
@@ -8390,6 +8750,64 @@
         "Sewer": 654,
         "Parks": 95.5,
         "Drain": 1292,
+        "Water": 605
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 3,
+      "SampleJurisdictions": [
+        "Lenexa",
+        "Overland Park",
+        "Olathe"
+      ],
+      "SingleFamily": {
+        "Total": 5927.333333333333,
+        "NonUtil": 3130.6666666666665,
+        "Roads": 2425.3333333333335,
+        "Sewer": 4360,
+        "Parks": 490.5,
+        "Drain": 1060,
+        "Water": 4030,
+        "Other": 75
+      },
+      "MultiFamily": {
+        "Total": 3354.6666666666665,
+        "NonUtil": 1493,
+        "Roads": 884,
+        "Sewer": 2900,
+        "Parks": 490.5,
+        "Drain": 771,
+        "Water": 2685,
+        "Other": 75
+      },
+      "Retail": {
+        "Total": 3094.3333333333335,
+        "NonUtil": 2674.6666666666665,
+        "Roads": 2107.6666666666665,
+        "Sewer": 654,
+        "Parks": 125.5,
+        "Drain": 1285,
+        "Water": 605,
+        "Other": 165
+      },
+      "Office": {
+        "Total": 2101.6666666666665,
+        "NonUtil": 1682,
+        "Roads": 1115,
+        "Sewer": 654,
+        "Parks": 125.5,
+        "Drain": 1285,
+        "Water": 605,
+        "Other": 165
+      },
+      "Industrial": {
+        "Total": 2535,
+        "NonUtil": 2115.3333333333335,
+        "Roads": 1623.3333333333333,
+        "Sewer": 654,
+        "Parks": 95.5,
+        "Drain": 1285,
         "Water": 605
       }
     },
@@ -8864,6 +9282,49 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 2,
+      "SampleJurisdictions": [
+        "Baton Rouge",
+        "St Tammany Parish"
+      ],
+      "SingleFamily": {
+        "Total": 2993.5,
+        "NonUtil": 1918.5,
+        "Roads": 1114,
+        "Sewer": 2150,
+        "Drain": 1609
+      },
+      "MultiFamily": {
+        "Total": 1666,
+        "NonUtil": 1073.5,
+        "Roads": 781,
+        "Sewer": 1185,
+        "Drain": 585
+      },
+      "Retail": {
+        "Total": 2327.5,
+        "NonUtil": 2023.5,
+        "Roads": 1438.5,
+        "Sewer": 608,
+        "Drain": 1170
+      },
+      "Office": {
+        "Total": 2373,
+        "NonUtil": 2069,
+        "Roads": 1484,
+        "Sewer": 608,
+        "Drain": 1170
+      },
+      "Industrial": {
+        "Total": 1621.5,
+        "NonUtil": 1317.5,
+        "Roads": 878.5,
+        "Sewer": 608,
+        "Drain": 878
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 2,
       "SampleJurisdictions": [
@@ -9310,6 +9771,71 @@
         "Sewer": 847.6666666666666,
         "Water": 533,
         "Police": 183
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 8,
+      "SampleJurisdictions": [
+        "Carroll Co",
+        "Charles Co",
+        "Frederick Co",
+        "Howard Co",
+        "Montgomery Co",
+        "Queen Anne's Co",
+        "Anne Arundel Co",
+        "Harford Co"
+      ],
+      "SingleFamily": {
+        "Total": 17705.25,
+        "NonUtil": 12175.75,
+        "Fire": 860,
+        "Roads": 6832.666666666667,
+        "Schools": 12280.5,
+        "Sewer": 6475.5,
+        "Library": 730,
+        "Parks": 676.5,
+        "Water": 4583.5,
+        "Police": 282
+      },
+      "MultiFamily": {
+        "Total": 7984.625,
+        "NonUtil": 6658.5,
+        "Fire": 430,
+        "Roads": 4447,
+        "Schools": 6328.166666666667,
+        "Sewer": 1489.25,
+        "Library": 366,
+        "Parks": 470,
+        "Water": 1162.75,
+        "Police": 222
+      },
+      "Retail": {
+        "Total": 3066.6666666666665,
+        "NonUtil": 3022.75,
+        "Fire": 1140,
+        "Roads": 3310.6666666666665,
+        "Sewer": 931.5,
+        "Water": 645.75,
+        "Police": 1019
+      },
+      "Office": {
+        "Total": 2859,
+        "NonUtil": 2711.25,
+        "Fire": 1710,
+        "Roads": 2926,
+        "Sewer": 931.5,
+        "Water": 645.75,
+        "Police": 357
+      },
+      "Industrial": {
+        "Total": 3187.1666666666665,
+        "NonUtil": 3203.5,
+        "Fire": 1170,
+        "Roads": 3825.3333333333335,
+        "Sewer": 931.5,
+        "Water": 645.75,
+        "Police": 168
       }
     },
     {
@@ -9923,6 +10449,39 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 2,
+      "SampleJurisdictions": [
+        "Kansas City",
+        "Lee's Summit"
+      ],
+      "SingleFamily": {
+        "Total": 876,
+        "NonUtil": 876,
+        "Roads": 876
+      },
+      "MultiFamily": {
+        "Total": 537,
+        "NonUtil": 537,
+        "Roads": 537
+      },
+      "Retail": {
+        "Total": 1685.5,
+        "NonUtil": 1685.5,
+        "Roads": 1685.5
+      },
+      "Office": {
+        "Total": 948.5,
+        "NonUtil": 948.5,
+        "Roads": 948.5
+      },
+      "Industrial": {
+        "Total": 695,
+        "NonUtil": 695,
+        "Roads": 695
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 2,
       "SampleJurisdictions": [
@@ -10266,6 +10825,53 @@
         "Roads": 2949,
         "Sewer": 365,
         "Water": 516
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Bozeman"
+      ],
+      "SingleFamily": {
+        "Total": 15003,
+        "NonUtil": 4384,
+        "Fire": 296,
+        "Roads": 4088,
+        "Sewer": 4992,
+        "Water": 5627
+      },
+      "MultiFamily": {
+        "Total": 3818,
+        "NonUtil": 2944,
+        "Fire": 169,
+        "Roads": 2775,
+        "Sewer": 290,
+        "Water": 584
+      },
+      "Retail": {
+        "Total": 10674,
+        "NonUtil": 9896,
+        "Fire": 373,
+        "Roads": 9523,
+        "Sewer": 323,
+        "Water": 455
+      },
+      "Office": {
+        "Total": 5273,
+        "NonUtil": 4495,
+        "Fire": 373,
+        "Roads": 4122,
+        "Sewer": 323,
+        "Water": 455
+      },
+      "Industrial": {
+        "Total": 3410,
+        "NonUtil": 2632,
+        "Fire": 27,
+        "Roads": 2605,
+        "Sewer": 323,
+        "Water": 455
       }
     },
     {
@@ -11041,6 +11647,50 @@
         "Sewer": 40,
         "Water": 80
       }
+    },
+    {
+      "Updated": -55369418964000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Lincoln"
+      ],
+      "SingleFamily": {
+        "Total": 4836,
+        "NonUtil": 2891,
+        "Roads": 2546,
+        "Sewer": 644,
+        "Parks": 345,
+        "Water": 1301
+      },
+      "MultiFamily": {
+        "Total": 2030,
+        "NonUtil": 1756,
+        "Roads": 1550,
+        "Sewer": 72,
+        "Parks": 206,
+        "Water": 202
+      },
+      "Retail": {
+        "Total": 3578,
+        "NonUtil": 3370,
+        "Roads": 3370,
+        "Sewer": 69,
+        "Water": 139
+      },
+      "Office": {
+        "Total": 3938,
+        "NonUtil": 3730,
+        "Roads": 3730,
+        "Sewer": 69,
+        "Water": 139
+      },
+      "Industrial": {
+        "Total": 2498,
+        "NonUtil": 2290,
+        "Roads": 2290,
+        "Sewer": 69,
+        "Water": 139
+      }
     }
   ],
   "NV": [
@@ -11081,6 +11731,55 @@
         "Total": 741,
         "NonUtil": 741,
         "Roads": 741
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 4,
+      "SampleJurisdictions": [
+        "Reno",
+        "Las Vegas",
+        "Mesquite",
+        "Churchill County"
+      ],
+      "SingleFamily": {
+        "Total": 3646,
+        "NonUtil": 3113.75,
+        "Roads": 2145.75,
+        "Schools": 900,
+        "Sewer": 2129,
+        "Parks": 906.6666666666666,
+        "Other": 126
+      },
+      "MultiFamily": {
+        "Total": 3035.5,
+        "NonUtil": 2609.75,
+        "Roads": 1771.75,
+        "Schools": 900,
+        "Sewer": 1703,
+        "Parks": 786.6666666666666,
+        "Other": 46
+      },
+      "Retail": {
+        "Total": 3261.3333333333335,
+        "NonUtil": 3256.6666666666665,
+        "Roads": 3200.6666666666665,
+        "Sewer": 14,
+        "Other": 84
+      },
+      "Office": {
+        "Total": 2050,
+        "NonUtil": 2045.3333333333333,
+        "Roads": 1989.3333333333333,
+        "Sewer": 14,
+        "Other": 84
+      },
+      "Industrial": {
+        "Total": 1575,
+        "NonUtil": 1570.3333333333333,
+        "Roads": 1514.3333333333333,
+        "Sewer": 14,
+        "Other": 84
       }
     },
     {
@@ -11554,6 +12253,55 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 4,
+      "SampleJurisdictions": [
+        "Concord",
+        "Fremont",
+        "Manchester",
+        "Salem"
+      ],
+      "SingleFamily": {
+        "Total": 4309.5,
+        "NonUtil": 4309.5,
+        "Fire": 344,
+        "Roads": 2002,
+        "Schools": 3201,
+        "Parks": 987,
+        "Police": 202
+      },
+      "MultiFamily": {
+        "Total": 2396.75,
+        "NonUtil": 2396.75,
+        "Fire": 393.5,
+        "Roads": 1376,
+        "Schools": 1688,
+        "Parks": 636,
+        "Police": 204
+      },
+      "Retail": {
+        "Total": 2015,
+        "NonUtil": 2015,
+        "Fire": 420,
+        "Roads": 3470,
+        "Police": 140
+      },
+      "Office": {
+        "Total": 1080,
+        "NonUtil": 1080,
+        "Fire": 370,
+        "Roads": 1620,
+        "Police": 170
+      },
+      "Industrial": {
+        "Total": 650,
+        "NonUtil": 650,
+        "Fire": 70,
+        "Roads": 1030,
+        "Police": 200
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 4,
       "SampleJurisdictions": [
@@ -11988,44 +12736,74 @@
       }
     },
     {
-      "Updated": 1370062800000,
-      "SampleSize": 1,
+      "Updated": 1433134800000,
+      "SampleSize": 8,
       "SampleJurisdictions": [
-        "Las Cruces"
+        "Bernalillo Co",
+        "Las Cruces",
+        "Ruidoso",
+        "Rio Rancho",
+        "Santa Fe",
+        "Santa Fe County",
+        "Los Lunas",
+        "Albuquerque"
       ],
       "SingleFamily": {
-        "Total": 5959,
-        "NonUtil": 2939,
-        "Fire": 639,
-        "Sewer": 1165,
-        "Parks": 2300,
-        "Water": 1855
+        "Total": 6077.5,
+        "NonUtil": 3529.8333333333335,
+        "Fire": 470.25,
+        "Roads": 1943.6666666666667,
+        "Sewer": 1634.5,
+        "Parks": 1333.2,
+        "Drain": 2148,
+        "Water": 2939,
+        "Police": 207,
+        "Other": 74.5
       },
       "MultiFamily": {
-        "Total": 3118,
-        "NonUtil": 2766,
-        "Fire": 466,
-        "Sewer": 109,
-        "Parks": 2300,
-        "Water": 243
+        "Total": 2095.25,
+        "NonUtil": 2010,
+        "Fire": 303.5,
+        "Roads": 1188.6666666666667,
+        "Sewer": 307.8333333333333,
+        "Parks": 1060.6,
+        "Drain": 589.6666666666666,
+        "Water": 475.8333333333333,
+        "Police": 104,
+        "Other": 51.5
       },
       "Retail": {
-        "Total": 1031,
-        "Fire": 735,
-        "Sewer": 114,
-        "Water": 182
+        "Total": 2426,
+        "NonUtil": 3039.6,
+        "Fire": 467.8,
+        "Roads": 2790.25,
+        "Sewer": 233.66666666666666,
+        "Drain": 712,
+        "Water": 345.5,
+        "Police": 124.5,
+        "Other": 49
       },
       "Office": {
-        "Total": 660,
-        "Fire": 364,
-        "Sewer": 114,
-        "Water": 182
+        "Total": 1840.25,
+        "NonUtil": 2176.6,
+        "Fire": 258.4,
+        "Roads": 1996,
+        "Sewer": 233.66666666666666,
+        "Drain": 618,
+        "Water": 345.5,
+        "Police": 41,
+        "Other": 36
       },
       "Industrial": {
-        "Total": 481,
-        "Fire": 185,
-        "Sewer": 114,
-        "Water": 182
+        "Total": 1557.25,
+        "NonUtil": 1759.6,
+        "Fire": 208.4,
+        "Roads": 1428.75,
+        "Sewer": 233.66666666666666,
+        "Drain": 712,
+        "Water": 345.5,
+        "Police": 34,
+        "Other": 23
       }
     },
     {
@@ -12701,6 +13479,56 @@
         "Roads": 1136,
         "Sewer": 21133.666666666668,
         "Water": 8767
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 5,
+      "SampleJurisdictions": [
+        "Cary",
+        "Durham",
+        "Orange Co.",
+        "Chatham Co.",
+        "Raleigh"
+      ],
+      "SingleFamily": {
+        "Total": 7186.8,
+        "NonUtil": 3498.4,
+        "Roads": 1305.6666666666667,
+        "Schools": 3707.6666666666665,
+        "Sewer": 2093.25,
+        "Parks": 817.3333333333334,
+        "Water": 2013.8
+      },
+      "MultiFamily": {
+        "Total": 3710,
+        "NonUtil": 1473,
+        "Roads": 730,
+        "Schools": 1332.6666666666667,
+        "Sewer": 1581.5,
+        "Parks": 588.5,
+        "Water": 971.8
+      },
+      "Retail": {
+        "Total": 2420.8,
+        "NonUtil": 2519.6666666666665,
+        "Roads": 2519.6666666666665,
+        "Sewer": 589.5,
+        "Water": 437.2
+      },
+      "Office": {
+        "Total": 1936.4,
+        "NonUtil": 1883.3333333333333,
+        "Roads": 1883.3333333333333,
+        "Sewer": 525.5,
+        "Water": 386
+      },
+      "Industrial": {
+        "Total": 1571.6,
+        "NonUtil": 1058,
+        "Roads": 1058,
+        "Sewer": 609.75,
+        "Water": 449
       }
     },
     {
@@ -13632,6 +14460,40 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Moore"
+      ],
+      "SingleFamily": {
+        "Total": 1347,
+        "NonUtil": 647,
+        "Roads": 647,
+        "Sewer": 700
+      },
+      "MultiFamily": {
+        "Total": 1347,
+        "NonUtil": 647,
+        "Roads": 647,
+        "Sewer": 700
+      },
+      "Retail": {
+        "Total": 250,
+        "NonUtil": 250,
+        "Roads": 250
+      },
+      "Office": {
+        "Total": 250,
+        "NonUtil": 250,
+        "Roads": 250
+      },
+      "Industrial": {
+        "Total": 360,
+        "NonUtil": 360,
+        "Roads": 360
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 1,
       "SampleJurisdictions": [
@@ -13937,6 +14799,78 @@
         "Parks": 790,
         "Drain": 1044.5,
         "Water": 1195.857142857143
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 11,
+      "SampleJurisdictions": [
+        "West Linn",
+        "Eugene",
+        "Salem",
+        "Washington Co",
+        "Bend",
+        "Portland",
+        "Clackamas Co.",
+        "Grants Pass",
+        "Springfield",
+        "Silverton",
+        "Tigard"
+      ],
+      "SingleFamily": {
+        "Total": 15550.363636363636,
+        "NonUtil": 9103.90909090909,
+        "Roads": 3922.7272727272725,
+        "Schools": 2000,
+        "Sewer": 3972,
+        "Parks": 5292.444444444444,
+        "Drain": 856.625,
+        "Water": 3898.875,
+        "Other": 508
+      },
+      "MultiFamily": {
+        "Total": 9061.818181818182,
+        "NonUtil": 6447.272727272727,
+        "Roads": 2638.181818181818,
+        "Schools": 1000,
+        "Sewer": 1791.1,
+        "Parks": 4003,
+        "Drain": 651.5714285714286,
+        "Water": 1356.125,
+        "Other": 312
+      },
+      "Retail": {
+        "Total": 8723.181818181818,
+        "NonUtil": 8574.1,
+        "Roads": 8743.888888888889,
+        "Schools": 250,
+        "Sewer": 576.2,
+        "Parks": 346.6666666666667,
+        "Drain": 675.7142857142857,
+        "Water": 600.2857142857143,
+        "Other": 1276
+      },
+      "Office": {
+        "Total": 5668.454545454545,
+        "NonUtil": 4762.636363636364,
+        "Roads": 4454.6,
+        "Schools": 250,
+        "Sewer": 576.2,
+        "Parks": 734,
+        "Drain": 675.7142857142857,
+        "Water": 600.2857142857143,
+        "Other": 661
+      },
+      "Industrial": {
+        "Total": 4580.272727272727,
+        "NonUtil": 3719.7272727272725,
+        "Roads": 3411.3,
+        "Schools": 250,
+        "Sewer": 584.8888888888889,
+        "Parks": 387.6666666666667,
+        "Drain": 675.7142857142857,
+        "Water": 600.2857142857143,
+        "Other": 661
       }
     },
     {
@@ -14491,6 +15425,58 @@
         "NonUtil": 2154,
         "Roads": 2154,
         "Sewer": 95,
+        "Parks": 500,
+        "Drain": 161,
+        "Other": 300
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Towamencin Twp"
+      ],
+      "SingleFamily": {
+        "Total": 2220,
+        "NonUtil": 2220,
+        "Roads": 2220,
+        "Sewer": 1711,
+        "Parks": 1000,
+        "Drain": 1610,
+        "Other": 250
+      },
+      "MultiFamily": {
+        "Total": 1362,
+        "NonUtil": 1362,
+        "Roads": 1362,
+        "Sewer": 1425,
+        "Parks": 1000,
+        "Drain": 583,
+        "Other": 250
+      },
+      "Retail": {
+        "Total": 5109,
+        "NonUtil": 5109,
+        "Roads": 5109,
+        "Sewer": 342,
+        "Parks": 500,
+        "Drain": 161,
+        "Other": 300
+      },
+      "Office": {
+        "Total": 6549,
+        "NonUtil": 3274,
+        "Roads": 3274,
+        "Sewer": 571,
+        "Parks": 500,
+        "Drain": 161,
+        "Other": 300
+      },
+      "Industrial": {
+        "Total": 2154,
+        "NonUtil": 2154,
+        "Roads": 2154,
+        "Sewer": 171,
         "Parks": 500,
         "Drain": 161,
         "Other": 300
@@ -15729,8 +16715,8 @@
         "Nolensville"
       ],
       "SingleFamily": {
-        "Total": 5164.5,
-        "NonUtil": 4226.166666666667,
+        "Total": 5021.166666666667,
+        "NonUtil": 4082.8333333333335,
         "Fire": 212.5,
         "Roads": 1617.4,
         "Schools": 1400,
@@ -15738,11 +16724,11 @@
         "Parks": 636.5,
         "Water": 842.5,
         "Police": 282,
-        "Other": 2243.4
+        "Other": 2071.4
       },
       "MultiFamily": {
-        "Total": 3547.5,
-        "NonUtil": 2699.8333333333335,
+        "Total": 3505.8333333333335,
+        "NonUtil": 2658.1666666666665,
         "Fire": 148,
         "Roads": 1087.8,
         "Schools": 700,
@@ -15750,38 +16736,38 @@
         "Parks": 464,
         "Water": 767.5,
         "Police": 174,
-        "Other": 1406.8
+        "Other": 1356.8
       },
       "Retail": {
-        "Total": 3073,
-        "NonUtil": 2735.4,
+        "Total": 3161.2,
+        "NonUtil": 3294,
         "Fire": 541,
-        "Roads": 1521.8,
+        "Roads": 1692,
         "Sewer": 567,
         "Water": 277,
         "Police": 806,
-        "Other": 1526.6666666666667
+        "Other": 1390
       },
       "Office": {
-        "Total": 2841.2,
-        "NonUtil": 2503.6,
+        "Total": 2498.2,
+        "NonUtil": 2700.75,
         "Fire": 278.5,
-        "Roads": 1481.4,
+        "Roads": 1525.5,
         "Sewer": 567,
         "Water": 277,
         "Police": 374,
-        "Other": 1526.6666666666667
+        "Other": 1390
       },
       "Industrial": {
-        "Total": 1960.8333333333333,
-        "NonUtil": 1679.5,
+        "Total": 1749.5,
+        "NonUtil": 1761.8,
         "Fire": 157.5,
-        "Roads": 920.4,
+        "Roads": 936,
         "Schools": 400,
         "Sewer": 567,
         "Water": 277,
         "Police": 180,
-        "Other": 2090
+        "Other": 1885
       }
     },
     {
@@ -16194,6 +17180,57 @@
         "Roads": 1079.1666666666667,
         "Sewer": 329.5,
         "Water": 474.875
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 8,
+      "SampleJurisdictions": [
+        "College Station",
+        "McKinney",
+        "Denton",
+        "Arlington",
+        "Colleyville",
+        "Ft. Worth",
+        "Georgetown",
+        "Allen"
+      ],
+      "SingleFamily": {
+        "Total": 3779.25,
+        "NonUtil": 2062.2,
+        "Roads": 1801.4,
+        "Sewer": 657.125,
+        "Parks": 1652,
+        "Water": 1583.25
+      },
+      "MultiFamily": {
+        "Total": 1874.375,
+        "NonUtil": 1865.2,
+        "Roads": 1525,
+        "Sewer": 132.75,
+        "Parks": 1464.5,
+        "Water": 422.5
+      },
+      "Retail": {
+        "Total": 1750,
+        "NonUtil": 2133,
+        "Roads": 2101,
+        "Sewer": 126.25,
+        "Water": 310.75
+      },
+      "Office": {
+        "Total": 1445.375,
+        "NonUtil": 1513.25,
+        "Roads": 1613.6,
+        "Sewer": 126.25,
+        "Water": 310.75
+      },
+      "Industrial": {
+        "Total": 1116.125,
+        "NonUtil": 1054.75,
+        "Roads": 1086.8,
+        "Sewer": 126.25,
+        "Water": 310.75
       }
     },
     {
@@ -16696,6 +17733,67 @@
         "Water": 331.7142857142857,
         "Police": 60.166666666666664,
         "Other": 317
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 3,
+      "SampleJurisdictions": [
+        "Provo",
+        "Payson",
+        "Salt Lake City"
+      ],
+      "SingleFamily": {
+        "Total": 6067.333333333333,
+        "NonUtil": 4000.6666666666665,
+        "Fire": 119,
+        "Roads": 705,
+        "Sewer": 1910,
+        "Parks": 2921,
+        "Drain": 632,
+        "Water": 1190,
+        "Police": 223
+      },
+      "MultiFamily": {
+        "Total": 3529.3333333333335,
+        "NonUtil": 3271,
+        "Fire": 119,
+        "Roads": 453,
+        "Sewer": 223.5,
+        "Parks": 2553.6666666666665,
+        "Drain": 340.5,
+        "Water": 164,
+        "Police": 223
+      },
+      "Retail": {
+        "Total": 2665.3333333333335,
+        "NonUtil": 2435.3333333333335,
+        "Fire": 272.5,
+        "Roads": 2838,
+        "Sewer": 215,
+        "Drain": 392.5,
+        "Water": 130,
+        "Police": 300
+      },
+      "Office": {
+        "Total": 1724,
+        "NonUtil": 1494,
+        "Fire": 272.5,
+        "Roads": 1472,
+        "Sewer": 215,
+        "Drain": 346.5,
+        "Water": 130,
+        "Police": 300
+      },
+      "Industrial": {
+        "Total": 1656.3333333333333,
+        "NonUtil": 1426.3333333333333,
+        "Fire": 272.5,
+        "Roads": 1324.5,
+        "Sewer": 215,
+        "Drain": 392.5,
+        "Water": 130,
+        "Police": 300
       }
     },
     {
@@ -17400,6 +18498,58 @@
         "Roads": 481,
         "Parks": 422,
         "Police": 351
+      }
+    },
+    {
+      "Updated": 1433134800000,
+      "SampleSize": 2,
+      "SampleJurisdictions": [
+        "Burlington",
+        "Williston"
+      ],
+      "SingleFamily": {
+        "Total": 5395.5,
+        "NonUtil": 5395.5,
+        "Fire": 416,
+        "Roads": 535.5,
+        "Schools": 2933,
+        "Library": 862,
+        "Parks": 1246,
+        "Police": 84
+      },
+      "MultiFamily": {
+        "Total": 2629.5,
+        "NonUtil": 2629.5,
+        "Fire": 208,
+        "Roads": 364,
+        "Schools": 1142.5,
+        "Library": 431,
+        "Parks": 782.5,
+        "Police": 42
+      },
+      "Retail": {
+        "Total": 1148,
+        "NonUtil": 1148,
+        "Fire": 186,
+        "Roads": 694.5,
+        "Parks": 392,
+        "Police": 329
+      },
+      "Office": {
+        "Total": 1120.5,
+        "NonUtil": 1120.5,
+        "Fire": 186,
+        "Roads": 667,
+        "Parks": 392,
+        "Police": 329
+      },
+      "Industrial": {
+        "Total": 926.5,
+        "NonUtil": 926.5,
+        "Fire": 183,
+        "Roads": 473,
+        "Parks": 395,
+        "Police": 329
       }
     },
     {
@@ -18301,6 +19451,89 @@
       }
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 15,
+      "SampleJurisdictions": [
+        "King Co",
+        "Bothell",
+        "Kirkland",
+        "Kitsap Co",
+        "Pierce Co",
+        "Burlington",
+        "Snohomish Co",
+        "Tumwater",
+        "Vancouver",
+        "Woodland",
+        "Bellevue",
+        "Issaquqh",
+        "Anacortes",
+        "Olympia",
+        "Bellingham"
+      ],
+      "SingleFamily": {
+        "Total": 12648.133333333333,
+        "NonUtil": 8693.533333333333,
+        "Fire": 841,
+        "Roads": 2871.4666666666667,
+        "GenGov": 145,
+        "Schools": 4185.090909090909,
+        "Sewer": 4636.571428571428,
+        "Parks": 2433.3846153846152,
+        "Drain": 1361.4,
+        "Water": 4477.166666666667,
+        "Police": 186
+      },
+      "MultiFamily": {
+        "Total": 6017,
+        "NonUtil": 4778.333333333333,
+        "Fire": 898,
+        "Roads": 1775.6666666666667,
+        "GenGov": 79,
+        "Schools": 1457,
+        "Sewer": 1397.857142857143,
+        "Parks": 1740.6153846153845,
+        "Drain": 691.6,
+        "Water": 1465.8333333333333,
+        "Police": 154
+      },
+      "Retail": {
+        "Total": 7937.5,
+        "NonUtil": 7350.928571428572,
+        "Fire": 496.3333333333333,
+        "Roads": 7528.083333333333,
+        "GenGov": 49,
+        "Sewer": 656.5714285714286,
+        "Parks": 2709,
+        "Drain": 941.8,
+        "Water": 602.8333333333334,
+        "Police": 912
+      },
+      "Office": {
+        "Total": 5805.785714285715,
+        "NonUtil": 5219.214285714285,
+        "Fire": 322.3333333333333,
+        "Roads": 5506.166666666667,
+        "GenGov": 49,
+        "Sewer": 656.5714285714286,
+        "Parks": 875,
+        "Drain": 821.2,
+        "Water": 602.8333333333334,
+        "Police": 123
+      },
+      "Industrial": {
+        "Total": 4246.571428571428,
+        "NonUtil": 3660,
+        "Fire": 322.3333333333333,
+        "Roads": 3700.25,
+        "GenGov": 49,
+        "Sewer": 656.5714285714286,
+        "Parks": 495,
+        "Drain": 941.8,
+        "Water": 602.8333333333334,
+        "Police": 123
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 15,
       "SampleJurisdictions": [
@@ -19016,6 +20249,47 @@
       "Industrial": {}
     },
     {
+      "Updated": 1433134800000,
+      "SampleSize": 1,
+      "SampleJurisdictions": [
+        "Jefferson Co"
+      ],
+      "SingleFamily": {
+        "Total": 13070,
+        "NonUtil": 13070,
+        "Fire": 698,
+        "Schools": 11358,
+        "Parks": 752,
+        "Police": 262
+      },
+      "MultiFamily": {
+        "Total": 7594,
+        "NonUtil": 7594,
+        "Fire": 525,
+        "Schools": 6306,
+        "Parks": 566,
+        "Police": 197
+      },
+      "Retail": {
+        "Total": 1740,
+        "NonUtil": 1740,
+        "Fire": 1653,
+        "Police": 87
+      },
+      "Office": {
+        "Total": 577,
+        "NonUtil": 577,
+        "Fire": 548,
+        "Police": 29
+      },
+      "Industrial": {
+        "Total": 356,
+        "NonUtil": 356,
+        "Fire": 338,
+        "Police": 18
+      }
+    },
+    {
       "Updated": 1338526800000,
       "SampleSize": 1,
       "SampleJurisdictions": [
@@ -19356,25 +20630,66 @@
     },
     {
       "Updated": 1433134800000,
-      "SampleSize": 1,
+      "SampleSize": 3,
       "SampleJurisdictions": [
-        "Fitchburg"
+        "Fitchburg",
+        "Oconomowoc",
+        "Hudson"
       ],
       "SingleFamily": {
-        "Total": 5973,
-        "NonUtil": 4900,
-        "Parks": 4900,
-        "Water": 1073
+        "Total": 4977.333333333333,
+        "NonUtil": 2670.3333333333335,
+        "Fire": 218,
+        "Roads": 103,
+        "Sewer": 1897,
+        "Library": 512,
+        "Parks": 3105,
+        "Drain": 785,
+        "Water": 1042.3333333333333,
+        "Police": 183
       },
       "MultiFamily": {
-        "Total": 5530,
-        "NonUtil": 4457,
-        "Parks": 4457,
-        "Water": 1073
+        "Total": 3298.6666666666665,
+        "NonUtil": 2246.6666666666665,
+        "Fire": 133,
+        "Roads": 103,
+        "Sewer": 468.5,
+        "Library": 256,
+        "Parks": 2883.5,
+        "Drain": 366,
+        "Water": 739.6666666666666,
+        "Police": 115
       },
-      "Retail": {},
-      "Office": {},
-      "Industrial": {}
+      "Retail": {
+        "Total": 2028.5,
+        "NonUtil": 740.5,
+        "Fire": 225,
+        "Roads": 358,
+        "Sewer": 498,
+        "Drain": 673,
+        "Water": 884.3333333333334,
+        "Police": 225
+      },
+      "Office": {
+        "Total": 1516.5,
+        "NonUtil": 606,
+        "Fire": 225,
+        "Roads": 358,
+        "Sewer": 408.5,
+        "Drain": 404,
+        "Water": 692.3333333333334,
+        "Police": 225
+      },
+      "Industrial": {
+        "Total": 1813.5,
+        "NonUtil": 525.5,
+        "Fire": 102,
+        "Roads": 176,
+        "Sewer": 498,
+        "Drain": 673,
+        "Water": 884.3333333333334,
+        "Police": 100
+      }
     },
     {
       "Updated": 1338526800000,

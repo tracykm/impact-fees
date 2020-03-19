@@ -159,16 +159,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "AZ",
     "County": "Cochise",
     "Jurisdiction": "Sierra Vista",
@@ -1621,16 +1611,6 @@
       "Police": 296,
       "GenGov": 15
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "CA",
@@ -3732,16 +3712,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "CO",
     "County": "Adams",
     "Jurisdiction": "Adams Co",
@@ -4486,16 +4456,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "DE",
     "County": "New Castle",
     "Jurisdiction": "New Castle Co",
@@ -4544,16 +4504,6 @@
       "Police": 7,
       "GenGov": 88
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "FL",
@@ -4984,97 +4934,6 @@
       "Fire": 84,
       "Police": 58,
       "GenGov": 54
-    }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
-    "State": "State",
-    "County": "County",
-    "Jurisdiction": "Jurisdiction",
-    "UpdatedNotes": "Updated",
-    "SingleFamily": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "MultiFamily": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Retail": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Office": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Industrial": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
     }
   },
   {
@@ -7486,16 +7345,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "GA",
     "County": "Cherokee",
     "Jurisdiction": "Canton",
@@ -7873,16 +7722,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "HI",
     "County": "Honolulu",
     "Jurisdiction": "Honolulu",
@@ -7914,16 +7753,6 @@
       "NonUtil": 2019,
       "Roads": 2019
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "ID",
@@ -8017,16 +7846,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "IL",
     "County": "DeKalb",
     "Jurisdiction": "DeKalb (city)",
@@ -8110,16 +7929,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "IN",
     "County": "Hamilton",
     "Jurisdiction": "Fishers",
@@ -8193,16 +8002,6 @@
       "NonUtil": 1743,
       "Roads": 1743
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "KS",
@@ -8327,16 +8126,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "LA",
     "County": "E Baton Rouge",
     "Jurisdiction": "Baton Rouge",
@@ -8407,16 +8196,6 @@
       "Roads": 1030,
       "Drain": 540
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "MD",
@@ -8750,16 +8529,6 @@
     "Industrial": {}
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MO",
     "County": "Clay/Jackson",
     "Jurisdiction": "Kansas City",
@@ -8822,16 +8591,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "MT",
     "County": "Gallatin",
     "Jurisdiction": "Bozeman",
@@ -8875,97 +8634,6 @@
       "Water": 516,
       "Sewer": 365,
       "Fire": 31
-    }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
-    "State": "State",
-    "County": "County",
-    "Jurisdiction": "Jurisdiction",
-    "UpdatedNotes": "Updated",
-    "SingleFamily": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "MultiFamily": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Retail": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Office": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
-    },
-    "Industrial": {
-      "TotalNotes": "Total",
-      "NonUtilNotes": "Non-Util",
-      "RoadsNotes": "Roads",
-      "WaterNotes": "Water",
-      "SewerNotes": "Sewer",
-      "DrainNotes": "Drain",
-      "ParksNotes": "Parks",
-      "LibraryNotes": "Library",
-      "FireNotes": "Fire",
-      "PoliceNotes": "Police",
-      "GenGovNotes": "GenGov",
-      "SchoolsNotes": "Schools",
-      "OtherNotes": "Other"
     }
   },
   {
@@ -9142,16 +8810,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NE",
     "County": "Lancaster",
     "Jurisdiction": "Lincoln",
@@ -9193,16 +8851,6 @@
       "Water": 139,
       "Sewer": 69
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "NH",
@@ -9317,16 +8965,6 @@
       "NonUtil": 2438,
       "Schools": 2438
     },
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
     "Retail": {},
     "Office": {},
     "Industrial": {}
@@ -9663,16 +9301,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "NV",
     "County": "Churchill",
     "Jurisdiction": "Churchill County",
@@ -9797,16 +9425,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OH",
     "County": "Butler",
     "Jurisdiction": "Middletown",
@@ -9879,16 +9497,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "OK",
     "County": "Cleveland",
     "Jurisdiction": "Moore",
@@ -9920,16 +9528,6 @@
       "NonUtil": 360,
       "Roads": 360
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "OR",
@@ -10429,16 +10027,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "PA",
     "County": "Montgomery",
     "Jurisdiction": "Towamencin Twp",
@@ -10487,16 +10075,6 @@
       "Parks": 500,
       "Other": 300
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "SC",
@@ -10885,16 +10463,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "TX",
     "County": "Brazos",
     "Jurisdiction": "College Station",
@@ -11197,16 +10765,6 @@
       "Water": 1107,
       "Sewer": 498
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "UT",
@@ -11699,16 +11257,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "VA",
     "County": "Loudoun",
     "Jurisdiction": "Leesburg",
@@ -11779,16 +11327,6 @@
       "Water": 1104,
       "Sewer": 560
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "VT",
@@ -11874,16 +11412,6 @@
       "NonUtil": 700,
       "Roads": 700
     }
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
   },
   {
     "State": "WA",
@@ -12511,16 +12039,6 @@
     }
   },
   {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
     "State": "WV",
     "County": "Jefferson",
     "Jurisdiction": "Jefferson Co",
@@ -12541,16 +12059,6 @@
       "Police": 123,
       "Schools": 4015
     },
-    "Retail": {},
-    "Office": {},
-    "Industrial": {}
-  },
-  {
-    "State": "",
-    "County": "",
-    "Jurisdiction": "",
-    "SingleFamily": {},
-    "MultiFamily": {},
     "Retail": {},
     "Office": {},
     "Industrial": {}

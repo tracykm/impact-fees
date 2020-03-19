@@ -30,7 +30,7 @@ export const UtilPieChart = ({
     color: string;
     // @ts-ignore
   }[] = usedKeys.SingleFamily.filter(
-    d => d !== "Total" && !!UtilityDict[d] // filter out things like TotalNotes
+    d => d !== "Total" && d !== "NonUtil" && !!UtilityDict[d] // filter out things like TotalNotes
   ).map(name => ({
     name,
     value: DataEntries[yearIdx][propertyType][name],
