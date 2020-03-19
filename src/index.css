@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Open Sans", Sans-serif;
+  font-family: 'Open Sans', Sans-serif;
   /* font-weight: lighter; */
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -12,6 +12,10 @@ input {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.recharts-pie-label-text {
+  font-weight: bold;
 }

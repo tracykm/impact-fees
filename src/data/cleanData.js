@@ -40,7 +40,7 @@ function parseDate(obj, key) {
   }
 }
 
-function cleanData(data) {
+function cleanData(data, surveyName) {
   return data
     .map(d => {
       const newObj = {
@@ -51,7 +51,8 @@ function cleanData(data) {
           d.Jurisdiction !== 'Jurisdiction'
             ? d.Jurisdiction
             : undefined,
-        Updated: d.Updated,
+        // Updated: d.Updated,
+        Updated: Number(new Date('08/08/' + surveyName.slice(3))),
       }
       if (!newObj.State || !newObj.Jurisdiction) {
         return {}

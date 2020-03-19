@@ -1,21 +1,22 @@
-import React from "react";
-import { PieChart, Pie, Cell } from "recharts";
+import React from 'react'
+import { PieChart, Pie as AnyPie, Cell } from 'recharts'
+const Pie = AnyPie as any
 
 const renderCustomizedLabel = ({ tooltipPayload, percent }) => {
-  let percentStr = Math.round(percent * 100) + "% ";
+  let percentStr = Math.round(percent * 100) + '% '
   if (percent * 100 < 1) {
-    percentStr = Math.round(percent * 1000) / 10 + "% ";
+    percentStr = Math.round(percent * 1000) / 10 + '% '
   }
-  return percentStr + tooltipPayload[0].name;
-};
+  return percentStr + tooltipPayload[0].name
+}
 
 export const DonutChart = ({
-  data
+  data,
 }: {
-  data: Array<{ name: string; value: number; color: string }>;
+  data: Array<{ name: string; value: number; color: string }>
 }) => {
-  const width = 480;
-  const height = 400;
+  const width = 480
+  const height = 400
   return (
     <PieChart className="piechart" width={width} height={height}>
       <Pie
@@ -27,6 +28,7 @@ export const DonutChart = ({
         fill="#8884d8"
         paddingAngle={5}
         dataKey="value"
+        // @ts-ignore
         stroke={0}
         // @ts-ignore
         label={renderCustomizedLabel}
@@ -37,5 +39,5 @@ export const DonutChart = ({
         ))}
       </Pie>
     </PieChart>
-  );
-};
+  )
+}
