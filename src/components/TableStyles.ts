@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 // can't figure out how to get a class on the base "tr" or "td" to target properly
 const TableStyles = styled.div`
@@ -66,6 +66,6 @@ const TableStyles = styled.div`
       }
     }
   }
-`;
+`
 
-export default TableStyles;
+export default TableStyles

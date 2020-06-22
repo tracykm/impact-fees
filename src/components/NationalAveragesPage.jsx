@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 import { STATES } from '../types'
 import stateAverages from '../data/cleaned/stateAverages.json'
 
-const data = nationalAverages.filter(n => n.SampleSize > 50)
+const data = nationalAverages.filter((n) => n.SampleSize > 50)
 
 export const NationalAveragesPage = () => {
   const DataEntries = data
@@ -23,7 +23,7 @@ export const NationalAveragesPage = () => {
           </div>
         }
       />
-      {STATES.map(s => {
+      {STATES.map((s) => {
         const samples =
           stateAverages[s.short_name][0] &&
           stateAverages[s.short_name][0].SampleSize

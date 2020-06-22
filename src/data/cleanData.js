@@ -42,7 +42,7 @@ function parseDate(obj, key) {
 
 function cleanData(data, surveyName) {
   return data
-    .map(d => {
+    .map((d) => {
       const newObj = {
         State: (d.State || '').length === 2 ? d.State : undefined,
         County: d.County !== 'County' ? d.County : undefined,
@@ -101,18 +101,18 @@ function cleanData(data, surveyName) {
           'Schools',
           'Other',
         ]
-        columns.forEach(keyName => {
+        columns.forEach((keyName) => {
           // console.log(keyName, newObj[cat]);
           parseNum(newObj[cat], keyName)
         })
       })
       return newObj
     })
-    .filter(d => {
+    .filter((d) => {
       return (
         Object.values(d).length !== 0 &&
         // any of it's children have values
-        Object.values(d).find(d => d && Object.keys(d).length)
+        Object.values(d).find((d) => d && Object.keys(d).length)
       )
     })
   // .filter(d => {

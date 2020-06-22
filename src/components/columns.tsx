@@ -1,44 +1,44 @@
-import React from "react";
-import { DollarCell } from "./Cell";
-import { UtilityDict } from "../types";
-import { UsedKeys } from "../utils/getUsedKeys";
+import React from 'react'
+import { DollarCell } from './Cell'
+import { UtilityDict } from '../types'
+import { UsedKeys } from '../utils/getUsedKeys'
 
 const ColHeader = ({ name }: { name: string }) => {
-  const Icon = UtilityDict[name].Icon;
-  if (!Icon) return <div>{name}</div>;
+  const Icon = UtilityDict[name].Icon
+  if (!Icon) return <div>{name}</div>
   return (
     <>
       <Icon /> {name}
     </>
-  );
-};
+  )
+}
 
 export const DetailColumns = ({
   name,
-  path = "",
-  usedKeys
+  path = '',
+  usedKeys,
 }: {
-  name: string;
-  path?: string;
-  usedKeys?: string[];
+  name: string
+  path?: string
+  usedKeys?: string[]
 }) => {
-  const cols = Object.keys(UtilityDict).map(k => ({
+  const cols = Object.keys(UtilityDict).map((k) => ({
     Header: <ColHeader name={k} />,
     accessor: `${path}${name}.${k}`,
     Cell: DollarCell,
-    width: 100
-  }));
+    width: 100,
+  }))
 
   if (usedKeys) {
-    return cols.filter(c =>
-      usedKeys.includes(c.accessor.split(".").pop() as string)
-    );
+    return cols.filter((c) =>
+      usedKeys.includes(c.accessor.split('.').pop() as string),
+    )
   }
 
-  return cols;
-};
+  return cols
+}
 
-const allKeys = Object.keys(UtilityDict);
+const allKeys = Object.keys(UtilityDict)
 
 export const AllDetailColumns = ({
   usedKeys = {
@@ -46,50 +46,50 @@ export const AllDetailColumns = ({
     MultiFamily: allKeys,
     Retail: allKeys,
     Office: allKeys,
-    Industrial: allKeys
+    Industrial: allKeys,
   } as UsedKeys,
-  path = ""
+  path = '',
 }) => {
   return [
     {
-      Header: "Single Family",
+      Header: 'Single Family',
       columns: DetailColumns({
-        name: "SingleFamily",
+        name: 'SingleFamily',
         usedKeys: usedKeys.SingleFamily || [],
-        path
-      })
+        path,
+      }),
     },
     {
-      Header: "Multi Family",
+      Header: 'Multi Family',
       columns: DetailColumns({
-        name: "MultiFamily",
+        name: 'MultiFamily',
         usedKeys: usedKeys.MultiFamily || [],
-        path
-      })
+        path,
+      }),
     },
     {
-      Header: "Retail",
+      Header: 'Retail',
       columns: DetailColumns({
-        name: "Retail",
+        name: 'Retail',
         usedKeys: usedKeys.Retail || [],
-        path
-      })
+        path,
+      }),
     },
     {
-      Header: "Office",
+      Header: 'Office',
       columns: DetailColumns({
-        name: "Office",
+        name: 'Office',
         usedKeys: usedKeys.Office || [],
-        path
-      })
+        path,
+      }),
     },
     {
-      Header: "Industrial",
+      Header: 'Industrial',
       columns: DetailColumns({
-        name: "Industrial",
+        name: 'Industrial',
         usedKeys: usedKeys.Industrial || [],
-        path
-      })
-    }
-  ];
-};
+        path,
+      }),
+    },
+  ]
+}

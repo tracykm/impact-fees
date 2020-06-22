@@ -1,32 +1,32 @@
-import React, { useState } from "react";
+import React, { useState } from 'react'
 //@ts-ignore
 import {
   useTable,
   useSortBy,
   usePagination,
   useFilters,
-  useBlockLayout
-} from "react-table";
-import TableStyles from "./TableStyles";
-import { FaAngleUp, FaAngleDown } from "react-icons/fa";
+  useBlockLayout,
+} from 'react-table'
+import TableStyles from './TableStyles'
+import { FaAngleUp, FaAngleDown } from 'react-icons/fa'
 
 const SearchBar = ({ columns }) => {
-  const [columnFilter, setColumnFilter] = useState(2);
-  const currentCol = columns[0].columns[columnFilter];
+  const [columnFilter, setColumnFilter] = useState(2)
+  const currentCol = columns[0].columns[columnFilter]
   return (
     <div id="search-bar">
       <div
         className="input-group my-3"
-        style={{ width: "300px", margin: "auto" }}
+        style={{ width: '300px', margin: 'auto' }}
       >
         <select
           className="custom-select"
-          onChange={e => {
+          onChange={(e) => {
             columns[0].columns[Number(e.target.value)].setFilter(
-              currentCol.filterValue
-            );
-            currentCol.setFilter(undefined);
-            setColumnFilter(Number(e.target.value));
+              currentCol.filterValue,
+            )
+            currentCol.setFilter(undefined)
+            setColumnFilter(Number(e.target.value))
           }}
         >
           <option value="2">Jurisdiction</option>
@@ -35,15 +35,15 @@ const SearchBar = ({ columns }) => {
         </select>
         <input
           className="input-group-append form-control"
-          onChange={e => {
-            currentCol.setFilter(e.target.value);
+          onChange={(e) => {
+            currentCol.setFilter(e.target.value)
           }}
           placeholder="search..."
         />
       </div>
     </div>
-  );
-};
+  )
+}
 
 export function Table({ columns, data, hasPagination }) {
   const {
@@ -67,26 +67,26 @@ export function Table({ columns, data, hasPagination }) {
     {
       columns,
       data,
-      initialState: { pageSize: 50 }
+      initialState: { pageSize: 50 },
     },
     useBlockLayout,
     useFilters,
     useSortBy,
-    usePagination
-  );
+    usePagination,
+  )
 
   return (
     <TableStyles>
-      {hasPagination ? <SearchBar {...{ columns: args.columns }} /> : ""}
+      {hasPagination ? <SearchBar {...{ columns: args.columns }} /> : ''}
       <table {...getTableProps()}>
         <thead>
-          {headerGroups.map(headerGroup => (
+          {headerGroups.map((headerGroup) => (
             <tr {...headerGroup.getHeaderGroupProps()}>
-              {headerGroup.headers.map(column => (
+              {headerGroup.headers.map((column) => (
                 // Add the sorting props to control sorting. For this example
                 // we can add them into the header props
                 <th {...column.getHeaderProps(column.getSortByToggleProps())}>
-                  {column.render("Header")}
+                  {column.render('Header')}
                   {/* Add a sort direction indicator */}
                   <span>
                     {column.isSorted ? (
@@ -96,7 +96,7 @@ export function Table({ columns, data, hasPagination }) {
                         <FaAngleUp size={30} />
                       )
                     ) : (
-                      ""
+                      ''
                     )}
                   </span>
                 </th>
@@ -106,16 +106,14 @@ export function Table({ columns, data, hasPagination }) {
         </thead>
         <tbody {...getTableBodyProps()}>
           {page.map((row, i) => {
-            prepareRow(row);
+            prepareRow(row)
             return (
               <tr {...row.getRowProps()}>
-                {row.cells.map(cell => {
-                  return (
-                    <td {...cell.getCellProps()}>{cell.render("Cell")}</td>
-                  );
+                {row.cells.map((cell) => {
+                  return <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
                 })}
               </tr>
-            );
+            )
           })}
         </tbody>
       </table>
@@ -132,35 +130,35 @@ export function Table({ columns, data, hasPagination }) {
               onClick={() => gotoPage(0)}
               disabled={!canPreviousPage}
             >
-              {"<<"}
-            </button>{" "}
+              {'<<'}
+            </button>{' '}
             <button
               className="btn btn-outline-secondary"
               onClick={() => previousPage()}
               disabled={!canPreviousPage}
             >
-              {"<"}
-            </button>{" "}
+              {'<'}
+            </button>{' '}
             <button
               className="btn btn-outline-secondary"
               onClick={() => nextPage()}
               disabled={!canNextPage}
             >
-              {">"}
-            </button>{" "}
+              {'>'}
+            </button>{' '}
             <button
               className="btn btn-outline-secondary"
               onClick={() => gotoPage(pageCount - 1)}
               disabled={!canNextPage}
             >
-              {">>"}
-            </button>{" "}
+              {'>>'}
+            </button>{' '}
           </div>
           <span className="px-2">
-            Page{" "}
+            Page{' '}
             <strong>
               {pageIndex + 1} of {pageOptions.length}
-            </strong>{" "}
+            </strong>{' '}
           </span>
           <span className="px-2">| Go to page: </span>
           <span className="px-2">
@@ -168,21 +166,21 @@ export function Table({ columns, data, hasPagination }) {
               className="form-control"
               type="number"
               defaultValue={pageIndex + 1}
-              onChange={e => {
-                const page = e.target.value ? Number(e.target.value) - 1 : 0;
-                gotoPage(page);
+              onChange={(e) => {
+                const page = e.target.value ? Number(e.target.value) - 1 : 0
+                gotoPage(page)
               }}
-              style={{ width: "100px" }}
+              style={{ width: '100px' }}
             />
-          </span>{" "}
+          </span>{' '}
           <select
             className="selectpicker"
             value={pageSize}
-            onChange={e => {
-              setPageSize(Number(e.target.value));
+            onChange={(e) => {
+              setPageSize(Number(e.target.value))
             }}
           >
-            {[20, 50, 100].map(pageSize => (
+            {[20, 50, 100].map((pageSize) => (
               <option key={pageSize} value={pageSize}>
                 Show {pageSize}
               </option>
@@ -190,8 +188,8 @@ export function Table({ columns, data, hasPagination }) {
           </select>
         </div>
       ) : (
-        ""
+        ''
       )}
     </TableStyles>
-  );
+  )
 }
