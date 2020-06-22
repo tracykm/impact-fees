@@ -2,28 +2,28 @@ import {
   JurisdictionData,
   UtilityBreakDown,
   PropertyType,
-  UtilityType
-} from "../types";
+  UtilityType,
+} from '../types'
 
-export type UsedKeys = Partial<{ [k in PropertyType]: UtilityType[] }>;
-export function getUsedKeys(data: JurisdictionData["DataEntries"]) {
-  const usedKeys: UsedKeys = {};
-  data.forEach(pointInTime => {
+export type UsedKeys = Partial<{ [k in PropertyType]: UtilityType[] }>
+export function getUsedKeys(data: JurisdictionData['DataEntries']) {
+  const usedKeys: UsedKeys = {}
+  data.forEach((pointInTime) => {
     Object.keys(pointInTime).forEach((group: keyof typeof pointInTime) => {
-      const groupTime = pointInTime[group];
-      if (typeof groupTime === "object" && !Array.isArray(groupTime)) {
+      const groupTime = pointInTime[group]
+      if (typeof groupTime === 'object' && !Array.isArray(groupTime)) {
         Object.keys(groupTime).forEach((cat: keyof UtilityBreakDown) => {
-          const val = pointInTime[group][cat];
+          const val = pointInTime[group][cat]
           if (val) {
-            usedKeys[group] = usedKeys[group] || [];
+            usedKeys[group] = usedKeys[group] || []
 
             if (!usedKeys[group].includes(cat)) {
-              usedKeys[group].push(cat);
+              usedKeys[group].push(cat)
             }
           }
-        });
+        })
       }
-    });
-  });
-  return usedKeys;
+    })
+  })
+  return usedKeys
 }

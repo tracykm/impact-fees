@@ -33,10 +33,12 @@ export const DonutChart = ({
         // @ts-ignore
         label={renderCustomizedLabel}
       >
-        {// @ts-ignore
-        data.map((entry, index) => (
-          <Cell key={`cell-${index}`} fill={entry.color} />
-        ))}
+        {
+          // @ts-ignore
+          data.map((entry, index) => (
+            <Cell key={`cell-${index}`} fill={entry.color} />
+          ))
+        }
       </Pie>
     </PieChart>
   )

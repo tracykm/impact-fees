@@ -21,7 +21,7 @@ export const HistoryLineChart = ({ DataEntries, usedKeys }) => {
       }, {}),
   )
 
-  const data = DataEntries.map(d => ({
+  const data = DataEntries.map((d) => ({
     SingleFamily: d.SingleFamily[utility],
     MultiFamily: d.MultiFamily[utility],
     Retail: d.Retail[utility],
@@ -42,7 +42,7 @@ export const HistoryLineChart = ({ DataEntries, usedKeys }) => {
       >
         <XAxis
           //@ts-ignore
-          tickFormatter={val => {
+          tickFormatter={(val) => {
             return new Date(val).getFullYear()
           }}
           dataKey="Updated"
@@ -51,12 +51,12 @@ export const HistoryLineChart = ({ DataEntries, usedKeys }) => {
         />
         <YAxis tickFormatter={formatMoney} />
         <Tooltip
-          labelFormatter={val => {
+          labelFormatter={(val) => {
             return new Date(val).getFullYear()
           }}
           formatter={formatMoney}
         />
-        {TypesOfPlaces.map(propertyType => (
+        {TypesOfPlaces.map((propertyType) => (
           <Line
             type="monotone"
             key={propertyType}
@@ -69,7 +69,7 @@ export const HistoryLineChart = ({ DataEntries, usedKeys }) => {
         <ButtonsOrDropdown
           onChange={setUtility}
           value={utility}
-          options={opts.map(d => ({ name: d, value: d }))}
+          options={opts.map((d) => ({ name: d, value: d }))}
         />
       </div>
     </div>

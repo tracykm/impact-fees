@@ -1,5 +1,5 @@
-import React from "react";
-import styled from "styled-components";
+import React from 'react'
+import styled from 'styled-components'
 
 const Wrapper = styled.div`
   font-size: 18px;
@@ -22,7 +22,7 @@ const Wrapper = styled.div`
   }
   max-width: 1200px;
   margin: auto;
-`;
+`
 
 export const About = () => (
   <Wrapper>
@@ -206,4 +206,4 @@ export const About = () => (
       Wallace, J.D. candidates at Georgia State University College of Law.
     </p>
   </Wrapper>
-);
+)

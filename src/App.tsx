@@ -1,21 +1,22 @@
-import React from "react";
-import "./App.css";
-import { About } from "./components/About";
-import { AllStateAveragesPage } from "./components/AllStateAveragesPage";
-import { NationalAveragesPage } from "./components/NationalAveragesPage";
-import { OverallTable } from "./components/OverallTable";
-import { JurisdictionPage } from "./components/JurisdictionPage";
-import { StateAveragesPage } from "./components/StateAveragesPage";
+import React from 'react'
+import './App.css'
+import { About } from './components/About'
+import { AllStateAveragesPage } from './components/AllStateAveragesPage'
+import { NationalAveragesPage } from './components/NationalAveragesPage'
+import { OverallTable } from './components/OverallTable'
+import { JurisdictionPage } from './components/JurisdictionPage'
+import { StateAveragesPage } from './components/StateAveragesPage'
 import {
   HashRouter as Router,
   Route,
   Switch,
   Link,
   useParams,
-  useLocation
-} from "react-router-dom";
-import ScrollToTop from "./components/ScrollToTop";
-import styled from "styled-components";
+  useLocation,
+} from 'react-router-dom'
+import ScrollToTop from './components/ScrollToTop'
+import styled from 'styled-components'
+import 'array-flat-polyfill'
 
 const NavWrapper = styled.nav`
   width: 1200px;
@@ -26,10 +27,10 @@ const NavWrapper = styled.nav`
     text-align: center;
   }
   font-size: 18px;
-`;
+`
 
 const StateBreadcrumb = () => {
-  const { state } = useParams();
+  const { state } = useParams()
   return (
     <>
       /
@@ -37,11 +38,11 @@ const StateBreadcrumb = () => {
         {state}
       </Link>
     </>
-  );
-};
+  )
+}
 
 const JurisdictionBreadcrumb = () => {
-  const { state, name } = useParams();
+  const { state, name } = useParams()
   return (
     <>
       /
@@ -49,15 +50,15 @@ const JurisdictionBreadcrumb = () => {
         {name}
       </Link>
     </>
-  );
-};
+  )
+}
 
 const Breadcrumbs = () => (
   <div>
     <a className="pr-2 py-2" href="http://www.impactfees.com/">
       Home
     </a>
-    /{" "}
+    /{' '}
     <Link className="pr-2 py-2" to="/">
       National Survey
     </Link>
@@ -92,19 +93,19 @@ const Breadcrumbs = () => (
       </>
     </Route>
   </div>
-);
+)
 
 const Nav = () => {
-  const { pathname } = useLocation();
+  const { pathname } = useLocation()
   // ugly hack to make the nav bar stick on home where whole page scrolls
   // without changing for other pages
   return (
-    <NavWrapper className={pathname === "/" ? "home" : ""}>
+    <NavWrapper className={pathname === '/' ? 'home' : ''}>
       <Breadcrumbs />
       <div className="title"></div>
     </NavWrapper>
-  );
-};
+  )
+}
 
 const App: React.FC = () => {
   return (
@@ -134,7 +135,7 @@ const App: React.FC = () => {
         </Switch>
       </Router>
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App

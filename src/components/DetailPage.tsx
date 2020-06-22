@@ -1,15 +1,15 @@
-import React from "react";
-import styled from "styled-components";
-import { JurisdictionTable } from "./JurisdictionTable";
-import { HistoryLineChart } from "./HistoryLineChart";
-import { UtilPieChart } from "./UtilPieChart";
-import { getUsedKeys } from "../utils/getUsedKeys";
-import { JurisdictionData } from "../types";
+import React from 'react'
+import styled from 'styled-components'
+import { JurisdictionTable } from './JurisdictionTable'
+import { HistoryLineChart } from './HistoryLineChart'
+import { UtilPieChart } from './UtilPieChart'
+import { getUsedKeys } from '../utils/getUsedKeys'
+import { JurisdictionData } from '../types'
 const Wrapper = styled.div`
   margin: 1rem;
   width: 100%;
   overflow-x: auto;
-`;
+`
 
 const ChartsWrapper = styled.div`
   max-width: 1200px;
@@ -18,16 +18,16 @@ const ChartsWrapper = styled.div`
   > div {
     margin: 1em 0;
   }
-`;
+`
 
 export const DetailPage = ({
   data,
-  headerText
+  headerText,
 }: {
-  data: JurisdictionData;
-  headerText?: string | JSX.Element;
+  data: JurisdictionData
+  headerText?: string | JSX.Element
 }) => {
-  const usedKeys = getUsedKeys(data.DataEntries);
+  const usedKeys = getUsedKeys(data.DataEntries)
   return (
     <>
       <ChartsWrapper>
@@ -50,5 +50,5 @@ export const DetailPage = ({
         />
       </Wrapper>
     </>
-  );
-};
+  )
+}

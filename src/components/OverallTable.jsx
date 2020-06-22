@@ -1,11 +1,11 @@
-import React from "react";
-import { Table } from "./Table";
-import MapStates from "./MapStates";
-import { AllDetailColumns } from "./columns";
-import { DateCell } from "./Cell";
-import { Link } from "react-router-dom";
-import data from "../data/cleaned/nestedData.json";
-import styled from "styled-components";
+import React from 'react'
+import { Table } from './Table'
+import MapStates from './MapStates'
+import { AllDetailColumns } from './columns'
+import { DateCell } from './Cell'
+import { Link } from 'react-router-dom'
+import data from '../data/cleaned/nestedData.json'
+import styled from 'styled-components'
 
 // to make Jurisdiction sticky but not detail 3rd row
 const Wrapper = styled.div`
@@ -30,32 +30,32 @@ const Wrapper = styled.div`
   #search-bar {
     top: 100px;
   }
-`;
+`
 
-const dataJS = Object.values(data);
-const path = "DataEntries[0].";
+const dataJS = Object.values(data)
+const path = 'DataEntries[0].'
 export function OverallTable() {
   const columns = React.useMemo(
     () => [
       {
-        Header: "Basic Info",
+        Header: 'Basic Info',
         columns: [
           {
-            Header: "State",
-            accessor: "State",
+            Header: 'State',
+            accessor: 'State',
             width: 50,
             Cell: ({ cell }) => {
-              return <Link to={`state/${cell.value}`}>{cell.value}</Link>;
-            }
+              return <Link to={`state/${cell.value}`}>{cell.value}</Link>
+            },
           },
           {
-            Header: "County",
-            accessor: "County"
+            Header: 'County',
+            accessor: 'County',
           },
           {
-            Header: "Jurisdiction",
-            accessor: "Jurisdiction",
-            className: "jurisdiction",
+            Header: 'Jurisdiction',
+            accessor: 'Jurisdiction',
+            className: 'jurisdiction',
             Cell: ({ cell }) => {
               return (
                 <Link
@@ -66,22 +66,22 @@ export function OverallTable() {
                     {cell.row.original.County}, {cell.row.original.State}
                   </div>
                 </Link>
-              );
-            }
+              )
+            },
           },
           {
-            Header: "Date",
+            Header: 'Date',
             accessor: `${path}Updated`,
-            Cell: DateCell
-          }
-        ]
+            Cell: DateCell,
+          },
+        ],
       },
-      ...AllDetailColumns({ path })
+      ...AllDetailColumns({ path }),
     ],
-    []
-  );
+    [],
+  )
 
-  const data = React.useMemo(() => dataJS, []);
+  const data = React.useMemo(() => dataJS, [])
 
   return (
     <Wrapper>
@@ -101,12 +101,12 @@ export function OverallTable() {
         <Link className="btn btn-lg btn-outline-primary m-2" to="/about">
           About this Survey
         </Link>
-        <div style={{ width: 200, margin: "auto" }}>
+        <div style={{ width: 200, margin: 'auto' }}>
           <MapStates />
         </div>
       </div>
       <div className="spacer"></div>
       <Table columns={columns} data={data} hasPagination />
     </Wrapper>
-  );
+  )
 }
